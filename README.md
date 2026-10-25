@@ -29,6 +29,19 @@ X is not the corpus. Posts on X do not automatically enter this repository. Mate
 
 **Governing rule: ONLY NAKEBUSEN TRANSACTS.**
 
+## Public-facing copy contract
+
+Use this hierarchy when writing or reviewing public copy:
+
+1. **NAKEBUSEN Locs** leads the current customer-facing offer: loc care in **Eldoret Town / Karibu Mdosi**. Current published starting prices are Retouch & Styling from KES 700, Sisterlocs Retie from KES 1,500, and Artificial Locs Installation from KES 3,500. Confirm availability, scope and final price directly; an enquiry is not a booking. Braiding is not offered.
+2. **WARENA** describes inspectable, maintainable, local-first computing and systems engineering. Do not imply a deployment or service outcome without implementation evidence.
+3. **GENJE** describes Genge, AfroTech, livecoding, movement and choreohacking as creative practice; distinguish research, prototypes and released works.
+4. **IKAI** is reflexive-compute research / work in progress, not a released product or clinical, scoring, identification or surveillance system.
+5. **FELOH / Don Feloh** is the human author and public voice. Preserve attribution and provenance.
+
+Use Kiswahili and English deliberately for public accessibility; do not describe the homepage as Kiswahili-first until the language-toggle pull request is merged and verified. Keep metadata, profile copy, repository READMEs and the public page consistent. Historical locations and older service menus must not be presented as current availability without confirmation.
+
+
 ## Evidence and status discipline
 
 Use explicit status labels where applicable:
