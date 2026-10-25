@@ -1,0 +1,18 @@
+id,family,title,creator,url,status,accessed
+MB-ARCH-001,archival-method,Archival Description,Library of Congress,https://www.loc.gov/librarians/archival-description/,located-description-reviewed,2026-10-25
+MB-ARCH-002,archival-method,Archiving Oral History Manual of Best Practices,Oral History Association,https://oralhistory.org/archives-principles-and-best-practices-complete-manual/,located-description-reviewed,2026-10-25
+MB-ARCH-003,archival-method,Oral History Best Practices,Oral History Association,https://oralhistory.org/best-practices/,located-description-reviewed,2026-10-25
+MB-BIB-001,discovery,Black Studies research guide,UCL Library Services,https://library-guides.ucl.ac.uk/black-studies,located-description-reviewed,2026-10-25
+MB-BIB-002,discovery,African Journals Online,AJOL,https://www.ajol.info/,identified-not-inventoried,2026-10-25
+MB-BIB-003,discovery,Archives Special Collections Oral History African Studies,University of Cambridge Libraries,https://libguides.cam.ac.uk/africanstudies/archives-special-collections-oral-history,located-description-reviewed,2026-10-25
+MB-METH-001,method,Black Studies Find Primary Sources,Amherst College Libraries,https://libguides.amherst.edu/c.php?g=951607&p=6864354,located-description-reviewed,2026-10-25
+MB-METH-002,method,Black Studies Databases,UCL Library Services,https://library-guides.ucl.ac.uk/black-studies/databases,located-description-reviewed,2026-10-25
+MB-FEL-001,internal,Original ChatGPT conversations,FELOH project,,inventory-target,2026-10-25
+MB-FEL-002,internal,Sun Burn Black Musings original works,Don Feloh / Felix Lwova,,inventory-target,2026-10-25
+MB-FEL-003,internal,Author-supplied manuscripts and notes,Don Feloh / Felix Lwova,,inventory-target,2026-10-25
+MB-FEL-004,internal,Personal reflections and position statements,Don Feloh / Felix Lwova,,inventory-target,2026-10-25
+MB-FEL-005,internal,Research notes and bibliographies,FELOH project,,inventory-target,2026-10-25
+MB-FEL-006,internal,Photographs audio and video,various,,inventory-target,2026-10-25
+MB-FEL-007,internal,Published works and public statements,Don Feloh / NAKEBUSEN,,inventory-target,2026-10-25
+MB-FEL-008,internal,AI-assisted and editorial derivatives,FELOH project,,inventory-target,2026-10-25
+MB-FEL-009,internal,Repository history and decisions,donfelohke GitHub,,inventory-target,2026-10-25
