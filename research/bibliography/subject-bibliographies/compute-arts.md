@@ -111,19 +111,19 @@ A URL being reachable is not full-text review. Each entry records the review dep
 
 ### CA-013 — Kenya, Protection of Traditional Knowledge and Cultural Expressions Act, 2016, as amended
 - Type: Legislation; WIPO Lex legal text.
-- URL: https://www.wipo.int/wipolex/en/legislation/details/21462
-- Review status: Legal text/excerpts reviewed; current status and application require verification against authoritative current Kenyan sources.
+- URL: https://new.kenyalaw.org/akn/ke/act/2016/33/eng%402022-12-31/source.pdf
+- Review status: Kenya Law revised-edition PDF located and its revision metadata/excerpts reviewed; legal application still requires specialist review.
 - Annotation: Addresses community-held traditional knowledge/cultural expressions, prior informed consent, acknowledgement, customary protocols and derivative-work questions.
 - Use: Design permission and cultural-governance processes before recording, publishing, adapting, performing or commercialising relevant materials.
 - Limitation: Not legal advice. Scope, exceptions, amendments, regulations, jurisdiction and facts matter. Consult current Kenya Law and qualified Kenyan counsel before a legal conclusion.
 
 ### CA-014 — Kenya, Copyright Act, 2001 (Cap. 130), consolidated/revised text
 - Type: Legislation.
-- URL: https://www.aca.go.ke/legislations/26-copyright-act-2001-revised-2009
-- Review status: Agency landing page and revision note reviewed; later amendments not exhaustively checked.
+- URL: https://new.kenyalaw.org/akn/ke/act/2001/12/eng%402022-04-22/source.pdf
+- Review status: Kenya Law revised-edition PDF located; its metadata lists amendments through the Copyright (Amendment) Act, 2022. Specific provisions and later changes still require checking.
 - Annotation: Describes coverage of literary, musical and artistic works, audiovisual works, sound recordings, broadcasts and related matters.
 - Use: Starting point for documenting authorship, works, recordings and rights questions.
-- Limitation: Linked revision is revised through 2009; do not assume it includes every later change. Check current law and obtain legal advice for specific questions, including AI-assisted work.
+- Limitation: The linked Kenya Law version is marked revised to 22 April 2022; confirm whether later amendments or subsidiary legislation affect the question. Obtain legal advice for specific questions, including AI-assisted work.
 
 ## F. Research and archive method — discovery leads
 
