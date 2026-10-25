@@ -11,6 +11,10 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Decision provenance](decision-provenance.md) — evidence chain and change records.
 - [Succession and stewardship](succession.md) — continuity beyond a single contributor.
 
+## Research and automation
+
+- [GitHub AI and automation architecture](ai-automation-architecture.md) — observed repository baseline, AI operating levels, workflow security, domain boundaries, and staged recommendations. This is a research proposal, not proof that recommended controls are configured.
+
 ## Canonical frame
 
 **ONE CORPUS → MANY VIEWS → ONE PRACTICE.**
