@@ -185,13 +185,34 @@ The architecture is not considered operational until there is evidence that:
 - public assets and business claims have the required approval and provenance;
 - release and recovery procedures have been exercised and recorded.
 
-## 11. Evidence limitations
+## 11.1 Targeted workflow permission review (2026-10-25)
+
+A targeted read of the following workflow files was completed after the initial inventory:
+
+| Repository / workflow | Observed permissions and trigger | Finding |
+|---|---|---|
+| `donfelohke.github.io/.github/workflows/html-check.yml` | Explicit `contents: read`; runs on `push` to `main` and `pull_request` | Read-only repository permission is appropriate for static checks. |
+| `donfelohke.github.io/.github/workflows/pages.yml` | Explicit `contents: read`, `pages: write`, `id-token: write`; deploy workflow runs on pushes to `main` or manual dispatch; concurrency group `pages` | Deployment permissions are scoped to Pages publishing and OIDC. Keep this workflow separate from pull-request validation. |
+| `WARENA/.github/workflows/validate.yml` | Explicit `contents: read`; pull-request and `main` push triggers; checkout action pinned to full commit SHA | Read-only baseline check; checkout is pinned to a commit. |
+| `Genje/.github/workflows/validate.yml` | Explicit `contents: read`; pull-request and `main` push triggers; checkout action pinned to full commit SHA | Read-only baseline check; checkout is pinned to a commit. |
+| `Ikai/.github/workflows/validate.yml` | Explicit `contents: read`; pull-request and `main` push triggers; checkout action pinned to full commit SHA | Read-only baseline check; checkout is pinned to a commit. |
+| `NAKEBUSEN/.github/workflows/validate.yml` | Explicit `contents: read`; pull-request and `main` push triggers; checkout action pinned to full commit SHA | Read-only baseline check; checkout is pinned to a commit. |
+
+**Follow-up findings and limits:**
+
+- The two website workflows use version tags for third-party actions (`actions/checkout@v4`, `actions/configure-pages@v5`, `actions/upload-pages-artifact@v3`, `actions/deploy-pages@v4`) rather than full commit-SHA pins. This is a hardening opportunity; verify trusted upstream SHAs and update in a separate reviewed change rather than guessing hashes.
+- The four documentation-validation workflows inspected use a full commit-SHA pin for `actions/checkout`.
+- A targeted search did not find `pull_request_target` in those five repositories' indexed workflow files. This is not a complete proof that no such trigger exists in any workflow or branch.
+- This inspection did **not** retrieve repository rulesets, branch protection, default workflow-token settings, secret access, app-installation permissions or environment protection rules. Those remain unknown.
+- The review is limited to the named files and the inspected branch state; do not generalise these findings to the other three repositories or to all workflows.
+
+## 12. Evidence limitations
 
 This research observed repository metadata, selected file trees, workflow definitions, recent Actions runs and the open corpus custom-skills PR through the connected GitHub integration. It did not fully inspect every file, all workflow logs, app installation permissions, branch protection for every repository, secrets settings, dependency alerts, browser rendering, or recovery procedures.
 
 Treat these as **UNKNOWN until independently verified**. Re-run the inventory before applying settings or granting new access. Do not infer that an empty workflow-run list means Actions is disabled, or that a successful documentation check proves application correctness.
 
-## 12. Reference documentation
+## 13. Reference documentation
 
 - [GitHub Actions workflow permissions](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions#permissions)
 - [Secure use of GitHub Actions](https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions)
