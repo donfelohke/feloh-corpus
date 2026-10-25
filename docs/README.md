@@ -10,6 +10,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Glossary](glossary.md) — stable meanings for core terms.
 - [Decision provenance](decision-provenance.md) — evidence chain and change records.
 - [Succession and stewardship](succession.md) — continuity beyond a single contributor.
+- [Public presence register](public-presence.md) — verified X, Facebook, Instagram, TikTok, site, WhatsApp links (re-verify before official use).
 
 ## Research and automation
 
