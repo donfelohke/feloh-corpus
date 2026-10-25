@@ -18,6 +18,15 @@ This repository is the documentary home for the FELOH ecosystem and its related 
 
 The canonical corpus is the source of record. Websites, portals, specifications, research notes, governance pages, workflows, and showcases are projections or views of that corpus; they must not silently become competing sources of truth.
 
+## Evidence and editorial policy
+
+Research and public documentation follow a strict evidence-first standard:
+
+- **[EVIDENCE-AND-EDITORIAL-STANDARDS.md](./EVIDENCE-AND-EDITORIAL-STANDARDS.md)** — mandatory claim labels (VERIFIED, CORROBORATED, DISPUTED, UNVERIFIED, INTERPRETATION, OPINION, TESTIMONY, PROPOSAL), presentation patterns, and non-negotiable research rules.
+- **[EVIDENCE-AND-PROVENANCE-METHOD.md](./EVIDENCE-AND-PROVENANCE-METHOD.md)** — archive record types and minimum provenance fields.
+
+**Principle:** evidence is cited; interpretation is explained; opinion is attributed; uncertainty is visible. No claim receives stronger status than its supporting evidence warrants.
+
 ## Decision principles
 
 1. Preserve provenance: record where a claim came from and who authored or changed it when known.
@@ -37,10 +46,11 @@ The canonical corpus is the source of record. Websites, portals, specifications,
 - Prefer small, reviewable changes over opaque bulk rewrites.
 - Keep generated views traceable to their source documents.
 - Never commit credentials, private customer information, or secrets.
+- Apply evidence labels when introducing factual claims in research or public copy.
 
 ## Review and authority
 
-A contributor may propose changes; a proposal is not canonical until accepted through the repository's review process. Where authority or ownership is unclear, mark the matter **UNKNOWN** and open a decision record instead of guessing.
+A contributor may propose changes; a proposal is not canonical until accepted through the repository's review process. Where authority or ownership is unclear, mark the matter **UNKNOWN** or **UNVERIFIED** and open a decision record instead of guessing.
 
 This baseline does not claim that branch protection, required reviews, signing, CI enforcement, or a formal council has been configured. Those controls must be independently configured and verified before being described as active.
 
