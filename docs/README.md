@@ -14,6 +14,9 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 
 ## Research and automation
 
+- [Source-first research protocol](source-first-research-protocol.md) — source capture, claim ledger, counterevidence, reproducible research, AI controls and Git review.
+- [Research record template](templates/research-record.md) — reusable end-to-end research report structure.
+- [Claim ledger template](templates/claim-ledger-template.md) — reusable source-linked claim register.
 - [GitHub AI and automation architecture](ai-automation-architecture.md) — observed repository baseline, AI operating levels, workflow security, domain boundaries, and staged recommendations. This is a research proposal, not proof that recommended controls are configured.
 
 ## Canonical frame
