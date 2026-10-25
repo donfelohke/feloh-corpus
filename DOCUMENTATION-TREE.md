@@ -51,6 +51,7 @@ feloh-corpus/                          # CANON HOME
 ├── EVIDENCE-AND-EDITORIAL-STANDARDS.md # LIVE
 ├── docs/
 │   ├── README.md                      # LIVE
+│   ├── institutional-documentation-framework.md # PROPOSED · review required
 │   ├── glossary.md                    # LIVE
 │   ├── public-presence.md             # LIVE
 │   ├── decision-provenance.md         # LIVE
@@ -101,6 +102,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 |---|--------|--------------|
 | 01–27 | Full programme inventory | **docs/MASTER-TOPIC-REGISTER.md** |
 | — | Documentation tree | **This file** |
+| — | Institutional documentation standard | **docs/institutional-documentation-framework.md** (PROPOSED) |
 | — | Bibliography / claims | **research/** |
 | — | Website | donfelohke.github.io docs + index.html |
 | — | Brand | BRAND-CONSTITUTION · glossary |
