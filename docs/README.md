@@ -5,6 +5,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 ## Core governance
 
 - [Repository governance](../GOVERNANCE.md) — principles, decision authority, and change process.
+- [Institutional documentation framework](institutional-documentation-framework.md) — proposed record classes, source-of-truth rules, evidence discipline, lifecycle, privacy, and assurance checklist.
 - [Contributing](../CONTRIBUTING.md) — standards for proposals and pull requests.
 - [Security policy](../SECURITY.md) — safe reporting and current assurance limits.
 - [Glossary](glossary.md) — stable meanings for core terms.
