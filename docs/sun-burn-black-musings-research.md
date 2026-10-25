@@ -87,3 +87,57 @@ Do not move private material into a public repository without explicit publicati
 - Public/private status is explicit before publication.
 - Relative links and metadata are validated.
 - Any imported work has a traceable source reference.
+
+
+## Follow-up source inventory: conversations and ChatGPT Library
+
+Research pass: 2026-10-25. This follow-up expands the initial GitHub-only audit. It does not claim access to every historical conversation outside the available retrieval results.
+
+### Conversation evidence
+
+- The accessible conversation context confirms the user supplied the title **“Sun Burn : Black Musings”** on 2026-10-25. The em-dash form used in this repository is a normalized title variant, not a verified original punctuation choice.
+- The available prior-conversation retrieval returned no original poem, essay, fragment, manuscript text, or source location for this collection.
+- Earlier assistant statements that no work had been found are search summaries, not primary creative sources. They must not be catalogued as authored works.
+- The example identifier `SB-EXAMPLE-001` and “Untitled fragment” previously used in schema discussion are illustrative placeholders only and are not collection items.
+
+### ChatGPT Library evidence
+
+A recursive Library metadata listing was completed across all returned pages. A semantic search for the title, variants, and related creative-writing terms returned no matching source work. Exact in-file searches for `Sun Burn` and `Black Musings` returned no matches in these inspected documents:
+
+- `FELOH-1DOC-CANONICAL-MASTER-REV008.md` (3,245 lines);
+- `FELOH-1DOC-CANONICAL-MASTER-REV007.md` (1,956 lines);
+- `FELOH-1DOC-CANONICAL-MASTER-REV007.html`;
+- `FELOH-MASTER-CONSOLIDATION-UPDATE-2026-10-18.md`;
+- `FELOH_Sovereign_Corpus_Brand_Communication_Codex.html`;
+- `FELOH_Sovereign_System_Master_Corpus_2026-10-14.html`;
+- `crown_code_club_feloh_master_plan.html`;
+- `F3L0H_HisGenjeness_Extended_Master_Corpus.html`.
+
+The Library contains relevant broader corpus documents and consolidation records. These documents describe a general authorial practice, but they do not identify or reproduce the named collection:
+
+- `FELOH-1DOC-CANONICAL-MASTER-REV008.md`, section 52, “FELOH, GENGETIC PRACTICE, GENGE AND CHOREOHACKING”, states that FELOH is an authorial practice spanning culture, writing, research, live coding, movement, systems and records. It also requires attribution, tool/version information, authorised artefact references, dates/context, licences and reuse permissions for performance records; capture is not a default.
+- `FELOH-MASTER-CONSOLIDATION-UPDATE-2026-10-18.md` says to preserve source provenance, revision history, original authorial wording, evidence links and unresolved disagreements. It lists cultural/creative works as a material class and explicitly warns that the source inventory and consolidation are not proof that every historical text has been integrated.
+- `crown_code_club_feloh_master_plan.html` frames creative practice around authorship, context, permissions, attribution and preservation of superseded decisions. It is a strategy document, not evidence of a *Sun Burn* manuscript.
+
+### Inventory result
+
+| Source surface | Search performed | Result |
+|---|---|---|
+| Accessible prior-conversation retrieval | Exact collection title and contextual references | Title confirmed; no original work text surfaced |
+| Current conversation attachments | File listing | No files attached |
+| ChatGPT Library | Recursive metadata listing, title/semantic search, targeted exact-text search in named corpus documents | No verified original work surfaced |
+| FELOH corpus repository | Prior title/content searches plus existing PR branch | Scaffold and research record exist; no original work imported |
+
+### Coverage limitations
+
+A Library listing is metadata navigation, not a guarantee that every byte of every file has been semantically searched. The exact-text checks covered the named documents above, not every Library artifact. No source archive, audio recording, external drive, private repository, messaging export, or other external storage has been searched unless explicitly listed here. Search results with no match do not prove universal absence.
+
+### Current conclusion
+
+**The only primary-source fact presently established for this collection is the user's title statement, “Sun Burn : Black Musings”, dated 2026-10-25 in the accessible conversation context. No original creative text has yet been located.**
+
+Do not create a work record for the title as if it were a manuscript. Do not import the surrounding FELOH philosophy or assistant-written summaries as the author's collection. Keep the collection as an empty, explicitly unverified intake scaffold until an original source is located or the author supplies one.
+
+### Next controlled action
+
+Search additional accessible Library documents only where their content is relevant, then ask the author to identify or supply a source location if no original text is found. Any supplied source should be preserved byte-for-byte where possible, assigned a source ID, hashed or versioned, and reviewed for privacy and publication status before any public release.
