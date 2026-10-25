@@ -19,14 +19,14 @@ The connected GitHub repository listing returned these eight public repositories
 
 | Repository | Responsibility | Observed automation baseline |
 |---|---|---|
-| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canonical definitions, governance, evidence, decisions and shared research | No workflow runs returned by the Actions runs endpoint during this inspection; a custom-skills PR is open |
-| [WARENA](https://github.com/donfelohke/WARENA) | Systems, reproducibility, infrastructure and recovery | `validate.yml`; latest inspected run succeeded |
-| [Genje](https://github.com/donfelohke/Genje) | Creative technology, performance and embodied practice | `validate.yml`; latest inspected run succeeded |
-| [Ikai](https://github.com/donfelohke/Ikai) | Reflective-compute research and privacy boundaries | `validate.yml`; latest inspected run succeeded |
-| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Beauty craft, approved public information and business operations | `validate.yml`; latest inspected run succeeded |
-| [donfelohke.github.io](https://github.com/donfelohke/donfelohke.github.io) | Public website | `html-check.yml` and `pages.yml`; latest inspected HTML check and Pages deployment succeeded |
-| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets, provenance, rights and approvals | No workflow runs returned by the Actions runs endpoint during this inspection; manifest exists |
-| [donfelohke](https://github.com/donfelohke/donfelohke) | GitHub profile presentation | No workflow runs returned by the Actions runs endpoint during this inspection |
+| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canonical definitions, governance, evidence, decisions and shared research | No workflow runs returned; the repository contains the proposed custom-skill pack; PR [#5](https://github.com/donfelohke/feloh-corpus/pull/5) is open for the Sun Burn archive scaffold |
+| [WARENA](https://github.com/donfelohke/WARENA) | Systems, reproducibility, infrastructure and recovery | `validate.yml`; latest inspected main-branch run succeeded |
+| [Genje](https://github.com/donfelohke/Genje) | Creative technology, performance and embodied practice | `validate.yml`; latest inspected main-branch run succeeded |
+| [Ikai](https://github.com/donfelohke/Ikai) | Reflective-compute research and privacy boundaries | `validate.yml`; latest inspected main-branch run succeeded |
+| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Beauty craft, approved public information and business operations | `validate.yml`; latest inspected main-branch run succeeded |
+| [donfelohke.github.io](https://github.com/donfelohke/donfelohke.github.io) | Public website | `html-check.yml` and `pages.yml`; current main HTML check failed at `1c14320` while Pages deployment succeeded; PR [#23](https://github.com/donfelohke/donfelohke.github.io/pull/23) proposes recovery and action pinning |
+| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets, provenance, rights and approvals | Main has no workflow runs; PR [#4](https://github.com/donfelohke/Gallery/pull/4) adds agent guidance and governance CI, and its first PR check passed |
+| [donfelohke](https://github.com/donfelohke/donfelohke) | GitHub profile presentation | No workflow runs returned; recursive tree contains only `README.md` and no repository-local workflow or `AGENTS.md` |
 
 Run results are point-in-time observations, not full historical or security audits. An empty Actions run listing does not establish that Actions is disabled. Repository contents and settings must be rechecked before implementation.
 
@@ -127,7 +127,7 @@ A check must validate real requirements, not merely search for a phrase. Missing
 
 ## 8. Custom skills and AI agents
 
-The corpus currently has an open pull request, [#3 — Add conversation-derived FELOH custom skill pack](https://github.com/donfelohke/feloh-corpus/pull/3). Review that proposal as the domain-specific instruction layer; this document describes the wider operating architecture and does not duplicate the skills.
+The corpus tree currently contains the conversation-derived skill pack under `skills/`, including the Sovereign Repository Steward and domain-specific skills. Its README marks the pack PROPOSED and asks for review before adoption. The existence of these files does not install them into GitHub Copilot, ChatGPT, or another agent; this document describes the wider operating architecture and does not duplicate the skills.
 
 Recommended skill contract:
 
@@ -222,3 +222,17 @@ Treat these as **UNKNOWN until independently verified**. Re-run the inventory be
 
 ---
 **Conclusion:** build a reviewable proposal pipeline before granting autonomous write authority. AI should increase research speed and reduce repetitive maintenance while preserving human authorship, least privilege, evidence quality and domain boundaries.
+
+
+## 10. Follow-up evidence from the 2026-10-25 audit
+
+This section records the results of the later read-only audit and must be refreshed when repository state changes.
+
+- **Website main:** commit `1c143206d4d27ab9719ffb561bb9e6fbb69b775c` had a failed `Static HTML checks` run because `tests/test_site.py` expected an Open Graph description that was absent. Inspection also found that the current one-page `index.html` lacked the theme control and organization structured data asserted by the test suite. The Pages deployment workflow separately succeeded; this is not evidence that validation passed.
+- **Website PR recovery:** PR [#23](https://github.com/donfelohke/donfelohke.github.io/pull/23) restores the text-only theme control and required metadata/structured data, updates the theme behavior test, reserves space for the fixed control, and pins workflow actions. The static checks passed on an intermediate commit; the final PR head must be checked again after its latest edits. Live browser and viewport verification remain outstanding.
+- **Legacy Website PRs:** PRs #20–#22 were authored against the previous page at `f87c5bd`, whereas current main is `1c14320`. Their diffs concern the earlier multi-section layout and must not be merged unchanged without reconciliation. PR #19 also refers to the superseded theme PR #17 and needs revision before it is treated as current guidance. PRs #16 and #19 are based on an older main ancestor.
+- **Gallery rights:** the repository contains a GPL-3.0 `LICENSE`, but the current README still says a repository-level code licence might be added later. PR [#2](https://github.com/donfelohke/Gallery/pull/2) corrects this wording and distinguishes repository code licensing from rights in individual curated assets. The manifest states that no assets have been inventoried or approved.
+- **Gallery automation:** PR [#4](https://github.com/donfelohke/Gallery/pull/4) adds `AGENTS.md` and a read-only governance-baseline workflow. Its initial pull-request workflow check passed; the workflow is not yet on main.
+- **Workflow security:** WARENA, Genje, Ikai and NAKEBUSEN have documentation-baseline workflows with `contents: read` and `actions/checkout` pinned to a full commit SHA. The Website workflows used version tags at the time of inspection; PR #23 proposes pinning the relevant actions. Gallery has no workflow on main until PR #4 is reviewed.
+- **Settings limitation:** attempts to read branch-protection endpoints returned HTTP 403 `Resource not accessible by integration` for all eight repositories. Branch protection, required reviews, and ruleset enforcement are therefore UNKNOWN from this audit; do not infer that protections are absent or enabled.
+- **Browser limitation:** source and CI checks were inspected, but no successful live browser session or viewport screenshots were available. Responsive layout, real keyboard interaction, live WhatsApp handoff, and deployed theme behavior remain NOT VERIFIED.
