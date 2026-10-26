@@ -9,7 +9,7 @@
 
 Define a safe, reviewable path from AI-assisted research to changes in the FELOH GitHub ecosystem. The architecture must preserve human authorship, repository boundaries, evidence provenance, least privilege, privacy, and the distinction between documented intent and verified execution.
 
-**Governing principles:** ONE CORPUS → MANY VIEWS → ONE PRACTICE. ONLY NAKEBUSEN TRANSACTS.
+**Governing principles:** ONE CORPUS → MANY VIEWS → ONE PRACTICE. NAKEBUSEN handles customer-facing service enquiries and confirmations through the relevant LOCS or DIGITAL pathway.
 
 This document is a research record and recommendation. It does not itself install an application, grant permissions, enable a GitHub feature, or prove that any automation is active.
 
@@ -92,7 +92,7 @@ AI may draft configurations, scripts, runbooks and reproducibility plans. Test i
 
 ### NAKEBUSEN
 
-AI may help maintain approved service descriptions, publication checklists and non-sensitive operating documentation. Require explicit approval before changing prices, service availability, contact details, customer-facing guarantees or commercial policy. Never store customer transaction records in this public repository. The governing boundary remains **ONLY NAKEBUSEN TRANSACTS**.
+AI may help maintain approved service descriptions, publication checklists and non-sensitive operating documentation. Require explicit approval before changing prices, service availability, contact details, customer-facing guarantees or commercial policy. Never store customer transaction records in this public repository. The governing boundary remains **NAKEBUSEN handles customer-facing service enquiries and confirmations through the relevant LOCS or DIGITAL pathway**.
 
 ### IKAI
 
