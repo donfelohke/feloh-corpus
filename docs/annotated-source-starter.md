@@ -78,7 +78,7 @@
 
 ## Kenya: data protection and economic context
 
-### SRC-0018 — Kenya Data Protection Act, 2019 (dated consolidated source)
+### Existing source SRC-0001 — Kenya Data Protection Act, 2019 (dated consolidated source)
 
 - **URL:** https://new.kenyalaw.org/akn/ke/act/2019/24/eng%402022-12-31/source
 - **Source type:** Primary legal text.
@@ -86,7 +86,7 @@
 - **Limitations:** The linked consolidated version is dated 2022-12-31. Check current amendments, related regulations, regulator guidance, and the specific legal context before drawing a compliance conclusion.
 - **Screening status:** Registered; applicable provisions and currentness review pending.
 
-### SRC-0019 — Office of the Data Protection Commissioner: Data Protection Laws in Kenya
+### Existing source SRC-0002 — Office of the Data Protection Commissioner: Data Protection Laws in Kenya
 
 - **URL:** https://www.odpc.go.ke/data-protection-laws-kenya/
 - **Source type:** Official regulator legal-material index.
@@ -105,7 +105,7 @@
 
 ## Movement and embodied creative practice
 
-### SRC-0021 — Laban/Bartenieff Institute of Movement Studies: Research
+### Existing source SRC-0004 — Laban/Bartenieff Institute of Movement Studies: Research
 
 - **URL:** https://labaninstitute.org/research/
 - **Source type:** Institutional research/resource index.
