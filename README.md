@@ -33,9 +33,7 @@ This repository is the **source of record** for shared terminology, architecture
 | **IKAI** | Reflective-compute research · not a product |
 | **GENJE ZA WARENA** | Cultural identity / motivating idea · not a shop |
 
-```text
-FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
-```
+The canonical relationship model is maintained in [the architecture document](docs/canonical-architecture-2026-10-26.md).
 
 **An enquiry is not a booking.** No shaving or braiding on the public catalogue.
 
