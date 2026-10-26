@@ -9,6 +9,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Source register and research intake](source-register.md) — source metadata, claim/source matrix, research quality checks, and domain-specific notes.
 - [Seed source catalogue](seed-source-catalogue.md) — first batch of official legal/privacy and movement-studies resources plus project repositories; initial screening only.
 - [Annotated source starter](annotated-source-starter.md) — first cross-domain reading queue covering computer-science learning, GNU/Linux reproducibility, security, accessibility, Kenya data protection/economic context, and movement studies. Landing-page screening only; substantive review pending.
+- [Cross-domain learning paths](learning-paths.md) — staged study-to-practice routes for computer science, GNU/Linux/Guix, secure web delivery, evidence-first research, Kenya market research, NAKEBUSEN services, IKAI, and GENJE.
 - [Knowledge-entry template](../templates/knowledge-entry.md) — reusable record structure.
 
 ## Core governance
