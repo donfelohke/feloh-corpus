@@ -1,102 +1,79 @@
 # FELOH Sovereign Corpus
 
-**Author:** Feloh Warena 🇰🇪 · [@donfelohke](https://x.com/donfelohke) · [GitHub](https://github.com/donfelohke)  
-**Public identity:** #LibreSource · E-Genge & Laban · #NotYetUhuru · NAKEBUSEN · WARENA · GRACE·GRIT·GLORY  
-**Public umbrella:** **NAKEBUSEN · LOCS & DIGITAL** — **Powered by WARENA**  
+**Author:** Feloh Warena 🇰🇪 · [@donfelohke](https://github.com/donfelohke)  
+**Public umbrella:** **NAKEBUSEN · Locs & Digital** — powered by **WARENA**  
 **Site:** [donfelohke.github.io](https://donfelohke.github.io)
 
-**Canonical principle:** ONE CORPUS → MANY VIEWS → ONE PRACTICE.
+**Principle:** ONE CORPUS → MANY VIEWS → ONE PRACTICE.
 
-The FELOH corpus is the source of record for shared terminology, architecture, governance, decisions, provenance, evidence standards, and cross-domain research indexes. Specialist repositories hold domain-specific implementations and working material. Public websites are audience-facing views, not the complete knowledge base.
+This repository is the **source of record** for shared terminology, architecture, governance, provenance, evidence standards and cross-domain indexes. Specialist repos hold domain work. The website is an audience view, not the full knowledge base.
+
+---
 
 ## Start here
 
-- [Cross-domain knowledge-base architecture](docs/knowledge-base-architecture.md) — layers, required records, evidence rules, workflow, and implementation order.
-- [Cross-domain domain map](docs/domain-map.md) — where knowledge belongs across NAKEBUSEN LOCS, NAKEBUSEN DIGITAL, WARENA, IKAI, GENJE/FELOH, Gallery, and public presentation.
-- [Source register and research intake](docs/source-register.md) — source metadata, claim/source matrix, research workflow, and quality checks.
-- [Knowledge-entry template](templates/knowledge-entry.md) — reusable structure for substantive notes and research records.
-- [Documentation index](docs/README.md) — canonical policies, glossary, provenance, stewardship, and research architecture.
+- [Canonical architecture 2026-10-26](docs/canonical-architecture-2026-10-26.md)  
+- [Evidence and editorial standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md)  
+- [Knowledge-base architecture](docs/knowledge-base-architecture.md)  
+- [Domain map](docs/domain-map.md)  
+- [Source register](docs/source-register.md)  
+- [Documentation tree](DOCUMENTATION-TREE.md)
 
-## Public voice vs corpus
-
-| Layer | Where | Role |
-|---|---|---|
-| Public voice | [X @donfelohke](https://x.com/donfelohke) | Live speech, culture, Genge energy, and day-to-day presence |
-| Authored presence | [GitHub profile](https://github.com/donfelohke) | Identity index and repository map |
-| Canon | **This repository** | Shared definitions, evidence standards, governance, and decision provenance |
-| Public view | [Website](https://donfelohke.github.io) | Approved service information, portfolio presentation, and enquiry routes |
-
-Social posts do not automatically become corpus records. Material enters the corpus when deliberately recorded, reviewed, attributed, and labelled with status. Public voice, commercial offers, personal testimony, and research findings must remain distinguishable.
+---
 
 ## Canonical relationships
 
-- **FELOH generates:** human authorship, direction, and expression.
-- **NAKEBUSEN grounds:** beauty craft, care, livelihood, and the public-facing service relationship.
-- **WARENA enables:** maintainable computing systems, infrastructure, and technical capability.
-- **IKAI reflects:** reflective-compute research; its maturity must be stated accurately.
-- **GENJE embodies:** Genge, live coding, movement, performance, and choreohacking.
+| Name | Role |
+|------|------|
+| **FELOH** | Human author and integrated practice |
+| **NAKEBUSEN** | Parent enterprise · **only commercial interface** |
+| **NAKEBUSEN LOCS** | Beauty craft · Eldoret campaign prices from KES 700 / 1,500 / 3,500 |
+| **NAKEBUSEN DIGITAL** | Technology services · technical identity **WARENA** |
+| **WARENA** | Systems · infrastructure · enablement |
+| **IKAI** | Reflective-compute research · not a product |
+| **GENJE ZA WARENA** | Cultural identity / motivating idea · not a shop |
 
-NAKEBUSEN has two public practices: **LOCS** and **DIGITAL**. WARENA powers the digital practice; it is the systems and enablement domain rather than a separate consumer checkout brand. Commercial offers, enquiries, availability, and service confirmations should be presented through the relevant NAKEBUSEN pathway.
+```text
+FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+```
 
-## Evidence and status discipline
+**An enquiry is not a booking.** No shaving or braiding on the public catalogue.
 
-Editorial labels: VERIFIED, CORROBORATED, DISPUTED, UNVERIFIED, INTERPRETATION, OPINION, TESTIMONY, and PROPOSAL.
+---
 
-Maturity labels: LIVE, PROTOTYPE, RESEARCH, CONCEPT, HISTORICAL, SUPERSEDED, and UNKNOWN.
+## Public voice vs corpus
 
-A claim is not an implementation. A specification is not proof of execution. A commit proves that content was committed; it does not by itself prove that the described behaviour works. Use the evidence chain where relevant:
+| Layer | Where |
+|-------|--------|
+| Live speech | [X @donfelohke](https://x.com/donfelohke) |
+| Identity index | [GitHub profile](https://github.com/donfelohke) |
+| Canon | **This repository** |
+| Approved services view | [Website](https://donfelohke.github.io) |
 
-**CLAIM → DOCUMENT → IMPLEMENTATION → OBSERVATION → RECORD → ATTESTATION → SEQ-07**
+Social posts do not auto-enter the corpus. Record, review, attribute, label.
+
+---
+
+## Evidence discipline
+
+Labels: **VERIFIED** · **CORROBORATED** · **DISPUTED** · **UNVERIFIED** · **INTERPRETATION** · **OPINION** · **TESTIMONY** · **PROPOSAL**  
+Maturity: **LIVE** · **PROTOTYPE** · **RESEARCH** · **CONCEPT** · **HISTORICAL** · **SUPERSEDED** · **UNKNOWN**
+
+A commit is not a deployment. An upstream version is not a host. Mark **UNKNOWN** when host evidence is missing.
+
+---
 
 ## Repository map
 
 | Repository | Responsibility |
 |---|---|
-| [Public site](https://github.com/donfelohke/donfelohke.github.io) | Public portfolio and approved views |
-| **This corpus** | Canonical governance, terminology, architecture, evidence standards, and decision provenance |
-| [WARENA](https://github.com/donfelohke/WARENA) | Computing systems, reproducibility, networking, and recovery |
-| [GENJE](https://github.com/donfelohke/Genje) | Creative technology, live coding, performance, and embodied practice |
-| [IKAI](https://github.com/donfelohke/Ikai) | Reflective-compute research, privacy boundaries, and prototypes |
-| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Beauty craft, approved services, and business operations |
-| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets, provenance, rights, and approvals |
-| [Profile](https://github.com/donfelohke/donfelohke) | Public identity and repository navigation |
+| [donfelohke.github.io](https://github.com/donfelohke/donfelohke.github.io) | Public site |
+| **feloh-corpus** | Canon · governance · evidence |
+| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Enterprise documentation |
+| [WARENA](https://github.com/donfelohke/WARENA) | Systems · stack register |
+| [Genje](https://github.com/donfelohke/Genje) | Creative practice |
+| [Ikai](https://github.com/donfelohke/Ikai) | Reflective research |
+| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
+| [donfelohke](https://github.com/donfelohke/donfelohke) | Profile README |
 
-Repository existence does not imply that every proposed system is implemented or operational. Verify repository contents, open pull requests, workflows, settings, and observed behaviour before recording completion.
-
-## Stewardship
-
-The corpus supports contributor onboarding, succession, and distributed stewardship rather than permanent founder control. Use focused branches and pull requests for substantive changes. Preserve human authorship, provenance, privacy, and reversible review where practical.
-
-Never commit credentials, secrets, private customer records, payment references, or sensitive personal information. IKAI must not be represented as a face-identification, diagnosis, scoring, covert-surveillance, or hidden-profiling system.
-
-## Current maturity
-
-**Status: RESEARCH / DOCUMENTATION BASELINE.** This README does not assert that all repositories, security controls, research protocols, services, or successor assignments are fully configured. Verify independently and record evidence before marking them active.
-
-## Licensing
-
-The repository currently contains a GPL-3.0 licence file. Review whether that licence is appropriate for each type of material added here, especially documentation and non-software assets, before adding works with different intended reuse terms.
-
----
-
-## Canonical architecture update — 2026-10-26
-
-The current shared architecture is documented in [Canonical Architecture and Decision Register](docs/canonical-architecture-2026-10-26.md). It supersedes older descriptions where they conflict with the current decisions recorded there.
-
-Key rules: **NAKEBUSEN is the parent enterprise and the only commercial/transaction interface.** Its two principal divisions are **NAKEBUSEN LOCS** and **NAKEBUSEN DIGITAL**. WARENA is the technical identity of NAKEBUSEN DIGITAL; WARENA Systems describes systems engineering and infrastructure. **IKAI Mirror** is reflective-computing research, not a beauty-scoring or identity-recognition product. **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** is the current NIA naming, representing cultural identity and motivating idea, not a commercial division.
-
-Current Eldoret campaign prices recorded in the canon: Retouch & Styling **KES 700**; Artificial Locs Installation **KES 3,500**. No shaving or braiding. Treat linguistic meanings of Genje, Za, Warena and Genjeness as research questions unless independently supported; separate documented usage from intended brand meaning. Maintain explicit implementation status and evidence for all technical claims.
-
----
-
-## Cross-repository documentation contract
-
-This repository is the **Canonical corpus** domain in the FELOH ecosystem. Keep its README specific to this repository's actual contents; use the [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) for shared terminology, architecture decisions, evidence standards and cross-domain governance.
-
-- **Be precise about status.** Distinguish implemented and tested work from proposals, research, concepts and historical material. A plan, specification, directory or commit is not proof of a deployed or independently verified capability.
-- **Link to the source of truth.** Prefer links to maintained documentation over duplicated long-form policy. When shared terminology or architecture changes, update the corpus first or alongside the affected domain documentation.
-- **Protect people and rights.** Do not commit credentials, private customer records, confidential operational details, unlicensed creative assets or material lacking required consent. Record provenance and permissions for published assets and research material.
-- **Keep responsibilities clear.** FELOH is the human author and integrated practice; NAKEBUSEN is the sole customer-facing transacting enterprise; WARENA enables systems and infrastructure; IKAI remains reflective-compute research unless release evidence establishes otherwise; GENJE embodies creative and movement practice. Gallery holds curated assets, while the public website presents approved information.
-- **Make changes reviewable.** Prefer focused branches and pull requests, document meaningful decisions, and report checks actually run. Do not claim tests, deployment, approval or release unless there is evidence.
-
-Canonical relationship: **FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.**
+**Current maturity:** RESEARCH / DOCUMENTATION BASELINE. Verify independently before treating any capability as operational.
