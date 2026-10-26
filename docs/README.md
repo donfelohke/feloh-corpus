@@ -10,6 +10,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Seed source catalogue](seed-source-catalogue.md) — first batch of official legal/privacy and movement-studies resources plus project repositories; initial screening only.
 - [Annotated source starter](annotated-source-starter.md) — first cross-domain reading queue covering computer-science learning, GNU/Linux reproducibility, security, accessibility, Kenya data protection/economic context, and movement studies. Landing-page screening only; substantive review pending.
 - [Cross-domain learning paths](learning-paths.md) — staged study-to-practice routes for computer science, GNU/Linux/Guix, secure web delivery, evidence-first research, Kenya market research, NAKEBUSEN services, IKAI, and GENJE.
+- [Initial claim register](claim-register.md) — a small set of source-page facts with explicit scope limits and next verification steps; not a full literature review.
 - [Knowledge-entry template](../templates/knowledge-entry.md) — reusable record structure.
 
 ## Core governance
