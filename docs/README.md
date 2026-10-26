@@ -2,6 +2,13 @@
 
 This index is a navigational view of the FELOH Sovereign Corpus. It is not a second canonical source.
 
+## Knowledge base
+
+- [Cross-domain knowledge-base architecture](knowledge-base-architecture.md) — information layers, domain scope, record requirements, evidence rules, workflow, and implementation order.
+- [Cross-domain domain map](domain-map.md) — source-of-record routing across NAKEBUSEN LOCS, NAKEBUSEN DIGITAL, WARENA, IKAI, GENJE/FELOH, Gallery, and public presentation.
+- [Source register and research intake](source-register.md) — source metadata, claim/source matrix, research quality checks, and domain-specific notes.
+- [Knowledge-entry template](../templates/knowledge-entry.md) — reusable record structure.
+
 ## Core governance
 
 - [Repository governance](../GOVERNANCE.md) — principles, decision authority, and change process.
@@ -10,10 +17,12 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Glossary](glossary.md) — stable meanings for core terms.
 - [Decision provenance](decision-provenance.md) — evidence chain and change records.
 - [Succession and stewardship](succession.md) — continuity beyond a single contributor.
-- [Public presence register](public-presence.md) — verified X, Facebook, Instagram, TikTok, site, WhatsApp links (re-verify before official use).
+- [Public presence register](public-presence.md) — public channels; re-verify before official use.
 
 ## Research and automation
 
+- [Evidence and Editorial Standards](../EVIDENCE-AND-EDITORIAL-STANDARDS.md) — claim labels, presentation patterns, and research rules.
+- [Evidence and Provenance Method](../EVIDENCE-AND-PROVENANCE-METHOD.md) — archive record types and minimum provenance fields.
 - [GitHub AI and automation architecture](ai-automation-architecture.md) — observed repository baseline, AI operating levels, workflow security, domain boundaries, and staged recommendations. This is a research proposal, not proof that recommended controls are configured.
 
 ## Canonical frame
@@ -26,12 +35,12 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - WARENA enables.
 - GENJE embodies.
 
-The corpus should identify which material is canonical and which material is a view, experiment, implementation, historical record, or unresolved proposal.
+NAKEBUSEN presents LOCS and DIGITAL as its public service practices. WARENA powers the digital practice and maintains the systems/technical knowledge. IKAI and GENJE remain research and creative-practice domains rather than implied checkout or consumer brands.
 
 ## Status vocabulary
 
-Use the status labels defined in [Decision provenance](decision-provenance.md). In particular, **ATTESTATION SPECIFIED ≠ EXECUTED**. A documented intention is not proof that a system is running.
+Use the status labels defined in [Decision provenance](decision-provenance.md) and the claim labels in [Evidence and Editorial Standards](../EVIDENCE-AND-EDITORIAL-STANDARDS.md). **ATTESTATION SPECIFIED ≠ EXECUTED.** A documented intention is not proof that a system is running.
 
 ## Maintenance
 
-When adding a document, link it here if it is intended for ongoing use. Keep links relative so the repository remains usable when cloned or read offline.
+When adding a document, link it here if it is intended for ongoing use. Keep links relative so the repository remains usable when cloned or read offline. If a shared definition changes, update the canonical record first and then review dependent views.
