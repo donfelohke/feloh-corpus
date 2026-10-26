@@ -1,8 +1,8 @@
 # Seed Source Catalogue — First Research Pass
 
-**Review status: INITIAL SCREENING / NOT FULLY ANNOTATED.**  
+**Review status: PARTIALLY SCREENED / NOT FULLY ANNOTATED.**  
 **Access date for web sources:** 2026-10-26.  
-This is a starter catalogue, not a claim that every source has been read in full or that the research questions below are answered. Before citing a source for a substantive conclusion, inspect the relevant full text, record exact sections, and assess scope and limitations.
+The ODPC regulatory index and LIMS research/education pages were inspected at page level. Direct retrieval of the Kenya Law consolidated Act was blocked in this pass; the ODPC handbook and project-repository entries remain queued. This is not a claim that every source has been read in full. Before using a source for a substantive conclusion, inspect the relevant text, record exact sections, and assess scope and limitations.
 
 ## A. Privacy, data protection, and service operations
 
@@ -14,7 +14,7 @@ This is a starter catalogue, not a claim that every source has been read in full
 - **Domains:** NAKEBUSEN DIGITAL, WARENA, IKAI, business operations.
 - **Potential use:** Establish the statutory baseline for personal-data handling, controller/processor obligations, and data-subject rights.
 - **Limitations:** This is a dated consolidated view. Check amendments, regulations, and current official guidance before relying on it for a compliance decision.
-- **Review status:** QUEUED — exact relevant provisions not yet extracted into claim records.
+- **Review status:** IDENTIFIED — direct retrieval was blocked in this pass; section-level extraction pending.
 
 ### SRC-0002 — Office of the Data Protection Commissioner: Data Protection Laws in Kenya
 
@@ -24,7 +24,7 @@ This is a starter catalogue, not a claim that every source has been read in full
 - **Domains:** NAKEBUSEN DIGITAL, WARENA, IKAI, business operations.
 - **Potential use:** Locate the Data Protection Act and related regulations; identify the regulator's published legal materials.
 - **Limitations:** An index page is a navigation aid, not a substitute for reading the underlying law and regulations.
-- **Review status:** QUEUED — linked legal instruments need individual source records.
+- **Review status:** SCREENED — official regulatory index inspected; underlying legal instruments need individual review.
 
 ### SRC-0003 — ODPC Personal Data Protection Handbook
 
@@ -46,7 +46,7 @@ This is a starter catalogue, not a claim that every source has been read in full
 - **Domains:** GENJE, FELOH, IKAI.
 - **Potential use:** Locate the Journal of Laban Bartenieff Movement Studies, research partnerships, archives, bibliographies, and movement-study resources.
 - **Limitations:** The institute's overview is not evidence for every claim made in a particular study. Follow the links to specific publications and evaluate their methods.
-- **Review status:** QUEUED — identify relevant individual publications before making research claims.
+- **Review status:** SCREENED — official research page inspected; individual publications not yet reviewed.
 
 ### SRC-0005 — Laban/Bartenieff Institute of Movement Studies: Education
 
@@ -56,7 +56,7 @@ This is a starter catalogue, not a claim that every source has been read in full
 - **Domains:** GENJE, FELOH, IKAI.
 - **Potential use:** Establish the institute's own descriptions of Laban Movement Analysis and Bartenieff Fundamentals, and locate learning resources.
 - **Limitations:** Institutional descriptions are useful for terminology and programme details; they do not independently validate every application or interpretation.
-- **Review status:** QUEUED — exact definitions and relevant publications need review.
+- **Review status:** SCREENED — official education page inspected; independent literature review pending.
 
 ## C. Project documentation as primary records of declared intent
 
