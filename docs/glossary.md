@@ -5,9 +5,11 @@ This glossary records working meanings for terms used across the corpus. A defin
 | Term | Working meaning | Boundary or note |
 |---|---|---|
 | FELOH | Human-authored generative and expressive practice within the wider ecosystem. | FELOH generates. |
-| NAKEBUSEN | Beauty, loc care, craft, grounding, and the ecosystem's declared transaction boundary. | NAKEBUSEN grounds. ONLY NAKEBUSEN TRANSACTS. |
+| NAKEBUSEN | Public-facing home for beauty craft, loc care, livelihood, and the LOCS and DIGITAL service practices. | NAKEBUSEN grounds; use the relevant service path for customer-facing enquiries and confirmations. |
+| NAKEBUSEN LOCS | Beauty and loc-care practice focused on craft, care, identity, confidence, and service quality. | Current services, prices, location, and availability require approval and re-verification. |
+| NAKEBUSEN DIGITAL | Public-facing technology services and digital practice. | Powered by WARENA; scope and delivery claims require evidence. |
 | WARENA | Systems, infrastructure, reproducibility, and technical enablement. | WARENA enables; conceptual plans require implementation evidence. |
-| IKAI | Reflexive or mirror-compute research and practice. | Mirror, not judge; no scoring, face-ID, diagnosis, or cloud profile in the stated constraints. |
+| IKAI | Reflective or mirror-compute research and practice. | Mirror, not judge; no scoring, face-ID, diagnosis, or cloud profile in the stated constraints. |
 | GENJE | Embodied culture, Genge, livecoding, performance, and choreohacking. | GENJE embodies. |
 | DonFeloh / FELOH | Human author identity and creative/technical authorship as described by the corpus. | Do not let automation erase or impersonate human authorship. |
 | 1DOC | The single canonical corpus/artifact from which other documentary views are derived. | Views should remain traceable to the source of record. |

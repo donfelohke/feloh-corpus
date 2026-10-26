@@ -14,7 +14,7 @@ This repository is the documentary home for the FELOH ecosystem and its related 
 - **WARENA enables.**
 - **GENJE embodies.**
 
-**ONLY NAKEBUSEN TRANSACTS.** This is a boundary for the ecosystem's conceptual and operational architecture, not a claim that any transaction system is already implemented here.
+NAKEBUSEN presents LOCS and DIGITAL as its public service practices. Customer-facing offers, enquiries, availability, and service confirmations should use the relevant NAKEBUSEN pathway. WARENA documents and enables technical systems; it is not presented as a separate consumer checkout brand. This describes the intended architecture, not a claim that any transaction or booking system is implemented.
 
 The canonical corpus is the source of record. Websites, portals, specifications, research notes, governance pages, workflows, and showcases are projections or views of that corpus; they must not silently become competing sources of truth.
 
@@ -22,8 +22,8 @@ The canonical corpus is the source of record. Websites, portals, specifications,
 
 Research and public documentation follow a strict evidence-first standard:
 
-- **[EVIDENCE-AND-EDITORIAL-STANDARDS.md](./EVIDENCE-AND-EDITORIAL-STANDARDS.md)** — mandatory claim labels (VERIFIED, CORROBORATED, DISPUTED, UNVERIFIED, INTERPRETATION, OPINION, TESTIMONY, PROPOSAL), presentation patterns, and non-negotiable research rules.
-- **[EVIDENCE-AND-PROVENANCE-METHOD.md](./EVIDENCE-AND-PROVENANCE-METHOD.md)** — archive record types and minimum provenance fields.
+- [Evidence and Editorial Standards](./EVIDENCE-AND-EDITORIAL-STANDARDS.md) — mandatory claim labels (VERIFIED, CORROBORATED, DISPUTED, UNVERIFIED, INTERPRETATION, OPINION, TESTIMONY, PROPOSAL), presentation patterns, and non-negotiable research rules.
+- [Evidence and Provenance Method](./EVIDENCE-AND-PROVENANCE-METHOD.md) — archive record types and minimum provenance fields.
 
 **Principle:** evidence is cited; interpretation is explained; opinion is attributed; uncertainty is visible. No claim receives stronger status than its supporting evidence warrants.
 
@@ -50,13 +50,13 @@ Research and public documentation follow a strict evidence-first standard:
 
 ## Review and authority
 
-A contributor may propose changes; a proposal is not canonical until accepted through the repository's review process. Where authority or ownership is unclear, mark the matter **UNKNOWN** or **UNVERIFIED** and open a decision record instead of guessing.
+A contributor may propose changes; a proposal is not canonical until accepted through the repository's review process. Where authority or ownership is unclear, mark the matter UNKNOWN or UNVERIFIED and open a decision record instead of guessing.
 
 This baseline does not claim that branch protection, required reviews, signing, CI enforcement, or a formal council has been configured. Those controls must be independently configured and verified before being described as active.
 
 ## Revision status
 
-- Status: **LIVE — documentation baseline**
+- Status: LIVE — documentation baseline
 - Scope: repository governance rules and declared design constraints
 - Not asserted: implementation of every project described by the corpus
 - Review: revise when the governance process itself changes

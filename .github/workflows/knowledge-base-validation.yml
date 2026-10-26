@@ -1,0 +1,32 @@
+name: Knowledge base documentation validation
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  knowledge-base:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Validate knowledge-base files and public wording
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in README.md GOVERNANCE.md docs/README.md docs/knowledge-base-architecture.md docs/domain-map.md docs/source-register.md docs/seed-source-catalogue.md templates/knowledge-entry.md; do
+            test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
+          done
+          grep -q "SRC-0001" docs/seed-source-catalogue.md
+          grep -q "SRC-0010" docs/seed-source-catalogue.md
+          grep -qi "ONE CORPUS" README.md
+          if grep -qi "ONLY NAKEBUSEN TRANSACTS" README.md GOVERNANCE.md; then
+            echo "Use the approved customer-facing pathway wording."
+            exit 1
+          fi
+          echo "Knowledge-base documentation baseline is present."
