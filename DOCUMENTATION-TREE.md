@@ -82,14 +82,14 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 |-------------|-------------------|--------|
 | Brand pillars GRACE·GRIT·GLORY | `BRAND-CONSTITUTION.md` | LIVE |
 | ONLY NAKEBUSEN TRANSACTS | Brand constitution + public copy | LIVE |
-| Loc prices 700 / 1500 / 3500 | NAKEBUSEN service catalogue + site SERVICE-CATALOG | LIVE · confirm before change |
+| Loc prices 700 / 1500 / 3500 | NAKEBUSEN service catalogue + site SERVICE-CATALOG | RECONCILIATION NEEDED — site lists the prices; NAKEBUSEN catalogue still flags owner confirmation |
 | Location phrase Eldoret Town / Karibu Mdosi | Website + service catalogue | LIVE |
 | Programme topics | `docs/MASTER-TOPIC-REGISTER.md` | LIVE |
 | Evidence labels | `EVIDENCE-AND-EDITORIAL-STANDARDS.md` | LIVE |
 | Public handles / sameAs | `docs/public-presence.md` | LIVE |
 | Website design (no graphics) | site WEB-DESIGN-STANDARDS | LIVE |
-| Kiswahili-first policy | PR #27 (when merged) | PARTIAL |
-| Gallery asset approval | Gallery manifest | PLANNED inventory |
+| Public language policy (English default; Kiswahili toggle) | Website WEBCOPY + PR #33 | PARTIAL — PR #27 is closed/superseded; PR #33 remains open |
+| Gallery asset approval | Gallery/ASSET-MANIFEST.md + ASSET-APPROVAL-WORKFLOW.md | INITIAL INVENTORY DOCUMENTED; no assets inventoried or approved |
 | WARENA stack / RDE | WARENA docs | PARTIAL |
 | IKAI maturity | Always WIP / research | LIVE rule |
 
@@ -126,9 +126,9 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | Master Topic Register | **LIVE** |
 | Evidence editorial standards | **LIVE** |
 | Research bibliography v0.1 | **LIVE** scaffold |
-| Website audience hierarchy (EN) | LIVE on Pages |
-| Kiswahili default + toggle | Open PR #27 · editorial pending |
-| Gallery approved assets | Inventory empty |
+| Website audience hierarchy (EN) | Pages workflow succeeded for main commit `e0fc5f6631bb`; live browser rendering not independently checked in this audit |
+| English default + Kiswahili toggle | PR #33 open; PR #37 is stacked on #33; PR #37 automated checks passed, but browser verification remains pending |
+| Gallery approved assets | No assets inventoried or approved in `Gallery/ASSET-MANIFEST.md` |
 | Cultural research index (deep) | PLANNED beyond register |
 
 **Governing rule:** one source of truth per fact · clear links · preserved originals · reviewable changes · no implementation claim without evidence.
