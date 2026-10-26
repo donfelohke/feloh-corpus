@@ -86,3 +86,17 @@ The current shared architecture is documented in [Canonical Architecture and Dec
 Key rules: **NAKEBUSEN is the parent enterprise and the only commercial/transaction interface.** Its two principal divisions are **NAKEBUSEN LOCS** and **NAKEBUSEN DIGITAL**. WARENA is the technical identity of NAKEBUSEN DIGITAL; WARENA Systems describes systems engineering and infrastructure. **IKAI Mirror** is reflective-computing research, not a beauty-scoring or identity-recognition product. **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** is the current NIA naming, representing cultural identity and motivating idea, not a commercial division.
 
 Current Eldoret campaign prices recorded in the canon: Retouch & Styling **KES 700**; Artificial Locs Installation **KES 3,500**. No shaving or braiding. Treat linguistic meanings of Genje, Za, Warena and Genjeness as research questions unless independently supported; separate documented usage from intended brand meaning. Maintain explicit implementation status and evidence for all technical claims.
+
+---
+
+## Cross-repository documentation contract
+
+This repository is the **Canonical corpus** domain in the FELOH ecosystem. Keep its README specific to this repository's actual contents; use the [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) for shared terminology, architecture decisions, evidence standards and cross-domain governance.
+
+- **Be precise about status.** Distinguish implemented and tested work from proposals, research, concepts and historical material. A plan, specification, directory or commit is not proof of a deployed or independently verified capability.
+- **Link to the source of truth.** Prefer links to maintained documentation over duplicated long-form policy. When shared terminology or architecture changes, update the corpus first or alongside the affected domain documentation.
+- **Protect people and rights.** Do not commit credentials, private customer records, confidential operational details, unlicensed creative assets or material lacking required consent. Record provenance and permissions for published assets and research material.
+- **Keep responsibilities clear.** FELOH is the human author and integrated practice; NAKEBUSEN is the sole customer-facing transacting enterprise; WARENA enables systems and infrastructure; IKAI remains reflective-compute research unless release evidence establishes otherwise; GENJE embodies creative and movement practice. Gallery holds curated assets, while the public website presents approved information.
+- **Make changes reviewable.** Prefer focused branches and pull requests, document meaningful decisions, and report checks actually run. Do not claim tests, deployment, approval or release unless there is evidence.
+
+Canonical relationship: **FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.**
