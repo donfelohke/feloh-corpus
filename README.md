@@ -15,6 +15,7 @@ The FELOH corpus is the source of record for shared terminology, architecture, g
 - [Cross-domain domain map](docs/domain-map.md) — where knowledge belongs across NAKEBUSEN LOCS, NAKEBUSEN DIGITAL, WARENA, IKAI, GENJE/FELOH, Gallery, and public presentation.
 - [Source register and research intake](docs/source-register.md) — source metadata, claim/source matrix, research workflow, and quality checks.
 - [Annotated source starter](docs/annotated-source-starter.md) — first cross-domain reading queue with source purpose, limitations, and next verification steps.
+- [Initial claim register](docs/claim-register.md) — source-page facts, editorial labels, scope limits, and verification tasks.
 - [Annotated source starter](docs/annotated-source-starter.md) — first cross-domain reading queue with source purpose, limits, and next verification steps.
 - [Knowledge-entry template](templates/knowledge-entry.md) — reusable structure for substantive notes and research records.
 - [Documentation index](docs/README.md) — canonical policies, glossary, provenance, stewardship, and research architecture.
