@@ -7,7 +7,10 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Cross-domain knowledge-base architecture](knowledge-base-architecture.md) — information layers, domain scope, record requirements, evidence rules, workflow, and implementation order.
 - [Cross-domain domain map](domain-map.md) — source-of-record routing across NAKEBUSEN LOCS, NAKEBUSEN DIGITAL, WARENA, IKAI, GENJE/FELOH, Gallery, and public presentation.
 - [Source register and research intake](source-register.md) — source metadata, claim/source matrix, research quality checks, and domain-specific notes.
-- [Seed source catalogue](seed-source-catalogue.md) — first batch of official legal/privacy and movement-studies resources plus project repositories; initial screening only, not a fully annotated bibliography.
+- [Seed source catalogue](seed-source-catalogue.md) — first batch of official legal/privacy and movement-studies resources plus project repositories; initial screening only.
+- [Annotated source starter](annotated-source-starter.md) — cross-domain reading queue for computer science, GNU/Linux reproducibility, security, accessibility, Kenya data protection/economic context, and movement studies; substantive review pending.
+- [Initial claim register](claim-register.md) — source-page facts with editorial labels, scope limits, and next verification steps.
+- [Cross-domain learning paths](learning-paths.md) — staged study-to-practice routes for CS, systems, secure web delivery, research, market analysis, NAKEBUSEN, IKAI, and GENJE.
 - [Knowledge-entry template](../templates/knowledge-entry.md) — reusable record structure.
 
 ## Core governance
