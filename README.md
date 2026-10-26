@@ -76,3 +76,13 @@ Never commit credentials, secrets, private customer records, payment references,
 ## Licensing
 
 The repository currently contains a GPL-3.0 licence file. Review whether that licence is appropriate for each type of material added here, especially documentation and non-software assets, before adding works with different intended reuse terms.
+
+---
+
+## Canonical architecture update — 2026-10-26
+
+The current shared architecture is documented in [Canonical Architecture and Decision Register](docs/canonical-architecture-2026-10-26.md). It supersedes older descriptions where they conflict with the current decisions recorded there.
+
+Key rules: **NAKEBUSEN is the parent enterprise and the only commercial/transaction interface.** Its two principal divisions are **NAKEBUSEN LOCS** and **NAKEBUSEN DIGITAL**. WARENA is the technical identity of NAKEBUSEN DIGITAL; WARENA Systems describes systems engineering and infrastructure. **IKAI Mirror** is reflective-computing research, not a beauty-scoring or identity-recognition product. **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** is the current NIA naming, representing cultural identity and motivating idea, not a commercial division.
+
+Current Eldoret campaign prices recorded in the canon: Retouch & Styling **KES 700**; Artificial Locs Installation **KES 3,500**. No shaving or braiding. Treat linguistic meanings of Genje, Za, Warena and Genjeness as research questions unless independently supported; separate documented usage from intended brand meaning. Maintain explicit implementation status and evidence for all technical claims.
