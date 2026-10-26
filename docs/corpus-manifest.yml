@@ -1,0 +1,100 @@
+schema_version: 1
+manifest_id: FELOH-MANIFEST-001
+title: "FELOH Sovereign Corpus Manifest"
+status: PROPOSED
+authority: "Subject to review and approval through pull request"
+principle: "ONE CORPUS -> MANY VIEWS -> ONE PRACTICE"
+repository:
+  name: "donfelohke/feloh-corpus"
+  default_branch: "main"
+  role: "Canonical governance, shared terminology, architecture, and decision provenance"
+  inventory_status: "PARTIAL: README inspected; full tree and workflows not yet audited"
+canonical_rules:
+  - "Do not replace a canonical document without inspecting its current content and authority."
+  - "A claim is not an implementation."
+  - "A specification is not proof of execution."
+  - "A commit alone does not prove described behaviour works."
+  - "Preserve originals, provenance, and historical decisions."
+  - "Only publish approved material with rights and privacy reviewed."
+  - "ONLY NAKEBUSEN TRANSACTS."
+repositories:
+  - id: REPO-CORPUS
+    name: "donfelohke/feloh-corpus"
+    role: "Shared canon and decision provenance"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search and README inspection"
+  - id: REPO-SITE
+    name: "donfelohke/donfelohke.github.io"
+    role: "Public website and approved public views"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search; detailed content audit pending"
+  - id: REPO-WARENA
+    name: "donfelohke/WARENA"
+    role: "Computing systems, reproducibility, networking, and recovery"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search and README inspection"
+  - id: REPO-NAKEBUSEN
+    name: "donfelohke/NAKEBUSEN"
+    role: "Beauty craft, approved public information, and business operations"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search and README inspection"
+  - id: REPO-GENJE
+    name: "donfelohke/Genje"
+    role: "Creative technology, livecoding, performance, and embodied practice"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search"
+  - id: REPO-IKAI
+    name: "donfelohke/Ikai"
+    role: "Reflexive-compute research and privacy boundaries"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search"
+  - id: REPO-GALLERY
+    name: "donfelohke/Gallery"
+    role: "Curated assets and rights records"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search"
+topic_registers:
+  status: "NOT_YET_INVENTORIED"
+  notes: "Previously referenced topic registers must be located and checked before IDs, counts, or coverage are declared authoritative."
+evidence_policy:
+  evidence_statuses:
+    - VERIFIED
+    - INTERPRETATION
+    - OPINION
+    - UNVERIFIED
+    - DISPUTED
+    - UNKNOWN
+  lifecycle_statuses:
+    - LIVE
+    - PROTOTYPE
+    - RESEARCH
+    - CONCEPT
+    - HISTORICAL
+    - SUPERSEDED
+    - UNKNOWN
+  rule: "Evidence status and lifecycle status are separate dimensions."
+upgrade_stages:
+  - id: A
+    name: "Repository and file inventory"
+    status: "IN_PROGRESS"
+  - id: B
+    name: "Metadata and source/claim schema"
+    status: "PROPOSED"
+  - id: C
+    name: "Automated documentation validation"
+    status: "PROPOSED"
+  - id: D
+    name: "Static topic index and local search"
+    status: "PROPOSED"
+  - id: E
+    name: "Public/private publication boundary and bilingual UX"
+    status: "PROPOSED"
+  - id: F
+    name: "Release manifest, checksums, export, and restoration test"
+    status: "PROPOSED"
+open_questions:
+  - "Audit existing repository tree, workflows, and branch protections before selecting a build tool."
+  - "Locate and reconcile existing canonical documents and topic registers."
+  - "Determine whether restricted research requires a separate private repository."
+  - "Confirm licensing and attribution rules for each content class."
+  - "Choose a static-site and search implementation only after inspecting existing Pages configuration."
