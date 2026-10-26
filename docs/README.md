@@ -14,6 +14,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 
 ## Research and automation
 
+- [Annotated master resource register](annotated-master-resource-register.md) — starter bibliography with source classes, research value, evidence/rights checks, status labels and unresolved gaps. This is not yet the recovered 29-URL inventory or a completed source audit.
 - [GitHub AI and automation architecture](ai-automation-architecture.md) — observed repository baseline, AI operating levels, workflow security, domain boundaries, and staged recommendations. This is a research proposal, not proof that recommended controls are configured.
 
 ## Canonical frame
