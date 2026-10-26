@@ -75,7 +75,7 @@ GRACE · GRIT · GLORY.
 - **#HisGenjeness** — human creative identity (author, craftsperson, engineer, artist)  
 - **GENJE** embodies · **IKAI** reflects (research/creative layers; not checkout brands)
 
-**ONLY NAKEBUSEN TRANSACTS.**
+Customer-facing offers, enquiries, and service confirmations should use the relevant NAKEBUSEN LOCS or DIGITAL pathway.
 
 ## 4. Constitutional relationship
 
