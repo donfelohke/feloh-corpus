@@ -19,11 +19,13 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          for file in README.md GOVERNANCE.md docs/README.md docs/knowledge-base-architecture.md docs/domain-map.md docs/source-register.md docs/seed-source-catalogue.md templates/knowledge-entry.md; do
+          for file in README.md GOVERNANCE.md docs/README.md docs/knowledge-base-architecture.md docs/domain-map.md docs/source-register.md docs/seed-source-catalogue.md docs/research-briefs/kenya-data-protection-entry-point.md docs/research-briefs/laban-bartenieff-resource-map.md templates/knowledge-entry.md; do
             test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
           done
           grep -q "SRC-0001" docs/seed-source-catalogue.md
           grep -q "SRC-0010" docs/seed-source-catalogue.md
+          grep -q "ODPC" docs/research-briefs/kenya-data-protection-entry-point.md
+          grep -q "LIMS" docs/research-briefs/laban-bartenieff-resource-map.md
           grep -qi "ONE CORPUS" README.md
           if grep -qi "ONLY NAKEBUSEN TRANSACTS" README.md GOVERNANCE.md; then
             echo "Use the approved customer-facing pathway wording."
