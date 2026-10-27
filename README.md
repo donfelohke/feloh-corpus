@@ -75,3 +75,8 @@ A commit is not a deployment. An upstream version is not a host. Mark **UNKNOWN*
 | [donfelohke](https://github.com/donfelohke/donfelohke) | Profile README |
 
 **Current maturity:** RESEARCH / DOCUMENTATION BASELINE. Verify independently before treating any capability as operational.
+
+
+## Portfolio alignment — 2026-10
+
+Canonical brand boundary: **FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.** NAKEBUSEN is the only commercial transaction interface; conceptual coherence is not implementation evidence. Keep this corpus authoritative for shared terminology, governance, provenance and evidence standards, and let specialist repositories own their implementation details.
