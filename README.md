@@ -6,7 +6,9 @@
 
 **Principle:** ONE CORPUS → MANY VIEWS → ONE PRACTICE.
 
-This repository is the **source of record** for shared terminology, architecture, governance, provenance, evidence standards and cross-domain indexes. Specialist repos hold domain work. The website is an audience view, not the full knowledge base.
+Source of record for shared terminology, architecture, governance, provenance, evidence standards and cross-domain indexes. Specialist repos hold domain work. The website is an audience view, not the full knowledge base.
+
+**Last README alignment:** 27 October 2026.
 
 ---
 
@@ -27,49 +29,34 @@ This repository is the **source of record** for shared terminology, architecture
 |------|------|
 | **FELOH** | Human author and integrated practice |
 | **NAKEBUSEN** | Parent enterprise · **only commercial interface** |
-| **NAKEBUSEN LOCS** | Beauty craft · Eldoret campaign prices from KES 700 / 1,500 / 3,500 |
-| **NAKEBUSEN DIGITAL** | Technology services · technical identity **WARENA** |
+| **NAKEBUSEN LOCS** | Beauty craft · Eldoret · from **KES 700 / 1,500 / 3,500** |
+| **NAKEBUSEN DIGITAL** | Technology services · identity **WARENA** |
 | **WARENA** | Systems · infrastructure · enablement |
-| **IKAI** | Reflective-compute research · not a product |
-| **GENJE ZA WARENA** | Cultural identity / motivating idea · not a shop |
-
-The canonical relationship model is maintained in [the architecture document](docs/canonical-architecture-2026-10-26.md).
+| **IKAI** | Reflective-compute research · **not a product** |
+| **GENJE ZA WARENA** | Cultural identity · not a shop |
 
 **An enquiry is not a booking.** No shaving or braiding on the public catalogue.
 
 ---
 
-## Public voice vs corpus
-
-| Layer | Where |
-|-------|--------|
-| Live speech | [X @donfelohke](https://x.com/donfelohke) |
-| Identity index | [GitHub profile](https://github.com/donfelohke) |
-| Canon | **This repository** |
-| Approved services view | [Website](https://donfelohke.github.io) |
-
-Social posts do not auto-enter the corpus. Record, review, attribute, label.
-
 ## Public-facing copy contract
 
-Use this hierarchy when writing or reviewing public copy:
+1. **NAKEBUSEN Locs** — Eldoret Town / Karibu Mdosi; prices 700 / 1,500 / 3,500 starting.  
+2. **WARENA** — local-first systems; no deployment claims without host evidence.  
+3. **GENJE** — creative practice, not checkout.  
+4. **IKAI** — research / WIP; no scoring, face-ID, diagnosis or covert profiling.  
+5. **FELOH / Don Feloh** — human author; preserve attribution.  
 
-1. **NAKEBUSEN Locs** leads the current customer-facing offer: loc care in **Eldoret Town / Karibu Mdosi**. Current published starting prices are Retouch & Styling from KES 700, Sisterlocs Retie from KES 1,500, and Artificial Locs Installation from KES 3,500. Confirm availability, scope and final price directly; an enquiry is not a booking. Braiding is not offered.
-2. **WARENA** describes inspectable, maintainable, local-first computing and systems engineering. Do not imply a deployment or service outcome without implementation evidence.
-3. **GENJE** describes Genge, AfroTech, livecoding, movement and choreohacking as creative practice; distinguish research, prototypes and released works.
-4. **IKAI** is reflective-compute research / work in progress, not a released product or a clinical, scoring, identification or surveillance system.
-5. **FELOH / Don Feloh** is the human author and public voice. Preserve attribution and provenance.
-
-Use English and Kiswahili deliberately for public accessibility. Do not describe the homepage as Kiswahili-first until the language-toggle changes are merged and verified. Keep metadata, profile copy, repository READMEs and the public page consistent. Historical locations and older service menus must not be presented as current availability without confirmation.
+**English is the website default**; Kiswahili via toggle.
 
 ---
 
 ## Evidence discipline
 
-Labels: **VERIFIED** · **CORROBORATED** · **DISPUTED** · **UNVERIFIED** · **INTERPRETATION** · **OPINION** · **TESTIMONY** · **PROPOSAL**  
+**VERIFIED** · **CORROBORATED** · **DISPUTED** · **UNVERIFIED** · **INTERPRETATION** · **OPINION** · **TESTIMONY** · **PROPOSAL**  
 Maturity: **LIVE** · **PROTOTYPE** · **RESEARCH** · **CONCEPT** · **HISTORICAL** · **SUPERSEDED** · **UNKNOWN**
 
-A commit is not a deployment. An upstream version is not a host. Mark **UNKNOWN** when host evidence is missing.
+A commit is not a deployment. Mark **UNKNOWN** when host evidence is missing.
 
 ---
 
@@ -86,9 +73,6 @@ A commit is not a deployment. An upstream version is not a host. Mark **UNKNOWN*
 | [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
 | [donfelohke](https://github.com/donfelohke/donfelohke) | Profile README |
 
-**Current maturity:** RESEARCH / DOCUMENTATION BASELINE. Verify independently before treating any capability as operational.
+**Canon:** FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies. The human remains the author.
 
-
-## Portfolio alignment — 2026-10
-
-Canonical brand boundary: **FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.** NAKEBUSEN is the only commercial transaction interface; conceptual coherence is not implementation evidence. Keep this corpus authoritative for shared terminology, governance, provenance and evidence standards, and let specialist repositories own their implementation details.
+**Current maturity:** RESEARCH / DOCUMENTATION BASELINE.
