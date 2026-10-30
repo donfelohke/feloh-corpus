@@ -134,14 +134,3 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 **Governing rule:** one source of truth per fact · clear links · preserved originals · reviewable changes · no implementation claim without evidence.
 
 
----
-
-## 7. Twelve-domain research programme — 30 October 2026
-
-| Deliverable | Canonical location | Status |
-|---|---|---|
-| Twelve-domain research map, priority queue and source-discovery starters | `research/PROGRAMME-12-DOMAINS-2026-10-30.md` | RESEARCH / SOURCE-DISCOVERY BASELINE |
-| Research navigation | `research/README.md` and `docs/README.md` | Updated on cross-domain research branch |
-| Master topic crosswalk | `docs/MASTER-TOPIC-REGISTER.md` | Updated on cross-domain research branch |
-
-The programme reconciles existing specialist work rather than asserting that all twelve domains are complete. Review the linked open PRs, source identifiers, claim identifiers and CI evidence before merging.
