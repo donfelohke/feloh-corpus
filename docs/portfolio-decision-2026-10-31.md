@@ -65,4 +65,4 @@ Do not publish an image without provenance, rights/permission review and any req
 
 ## 7. Review note
 
-This decision record captures the 2026-10-31 direction. Update the canonical architecture and brand constitution through a focused review so that the older 2026-10-26 and earlier wording is reconciled without losing historical provenance.
+This decision record captures the 2026-10-31 direction. The [Brand Constitution](../BRAND-CONSTITUTION.md) has been aligned with the current NAKEBUSEN proposition. The 2026-10-26 canonical architecture is retained as a historical baseline and points here for current decisions. A fully consolidated architecture can be published as a new dated version without erasing the historical record.
