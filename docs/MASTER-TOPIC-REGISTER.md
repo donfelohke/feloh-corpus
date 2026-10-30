@@ -1,9 +1,10 @@
 # Master Topic Register — FELOH Research & Documentation
 
-**Consolidated register · 25 October 2026**  
+**Consolidated register · 25 October 2026; portfolio reconciliation · 31 October 2026**  
 **Status:** LIVE index · not a claim that every topic is researched or every repo is updated  
 **Evidence rule:** [EVIDENCE-AND-EDITORIAL-STANDARDS.md](../EVIDENCE-AND-EDITORIAL-STANDARDS.md)  
 **Tree:** [DOCUMENTATION-TREE.md](../DOCUMENTATION-TREE.md)  
+**Portfolio decision:** [2026-10-31](portfolio-decision-2026-10-31.md)  
 **Bibliography:** [research/bibliography/](../research/bibliography/)
 
 This is the integrated topic inventory for the FELOH research programme and related projects: Black knowledge documentation, GitHub repositories, AI research, NAKEBUSEN, WARENA, IKAI, GENJE, the FELOH Corpus, and market research.
@@ -15,7 +16,7 @@ This is the integrated topic inventory for the FELOH research programme and rela
 ## 1. Master index
 
 | Code | Domain | Focus |
-|------|--------|--------|
+|---|---|---|
 | **A** | Black Knowledge Archive | History, memory, people, ideas, culture, evidence, preservation |
 | **B** | Research, sources and evidence | Bibliographies, methods, provenance, verification |
 | **C** | GitHub and AI-assisted publishing | Repo audits, automation, documentation, website delivery |
@@ -25,7 +26,24 @@ This is the integrated topic inventory for the FELOH research programme and rela
 
 ---
 
-## 2. Complete topic inventory
+## 2. Core portfolio canon
+
+| Identity | Current role | Boundary |
+|---|---|---|
+| **NAKEBUSEN** | Parent enterprise; only commercial interface | Current proposition: **Beautiful Roots. Sovereign Systems.** |
+| **LOCS · CROWN** | Beauty craft and loc-care customer path | Service scope, prices and availability require approval |
+| **DIGITAL · WARENA** | Practical technology customer path | Powered by WARENA systems engineering |
+| **WARENA** | Reproducibility, infrastructure and systems engineering | Do not claim a deployment without host evidence |
+| **GENJE** | Genge-rooted creative practice, AfroTech, livecoding, movement and choreohacking | Cultural/creative identity, not a separate checkout |
+| **GENJE ZA WARENA** | Adopted creative identity — **The Fire of the Formidable** | Authored interpretation, not verified universal etymology |
+| **IKAI** | Reflective-compute research | Research / WIP; not a released product |
+| **FELOH / Don Feloh** | Human authorship and creative/technical practice | Preserve attribution and provenance |
+| **FELOH Corpus** | Shared canon, evidence and governance | Source of record for shared terms and cross-domain policy |
+| **Gallery** | Asset provenance, rights and approval | Repository presence is not publication clearance |
+
+---
+
+## 3. Complete topic inventory
 
 ### 01 — Black history, identity and collective memory
 
@@ -77,17 +95,17 @@ AI-assisted discovery and synthesis; repository audits; research workflows; lite
 
 ### 13 — GitHub, repositories and project governance
 
-Audit of related repositories; inventory, purpose, ownership and dependencies; README and contributor guidance; branch strategy, PRs and review order; reconciliation of overlapping website PRs; CI and deployment status; issues, milestones and releases; governance and distributed stewardship; onboarding and succession; commit history, tags and changelogs; GitHub Pages publishing; documentation and code review; testing, accessibility and link checks; asset inventories, licences and provenance; security, secrets and supply-chain risk; reviewable changes and verifiable completion evidence.
+Audit of related repositories; inventory, purpose, ownership and dependencies; README and contributor guidance; branch strategy, PRs, review order and change records; CI and deployment status; issues, milestones and releases; governance and distributed stewardship; onboarding and succession; commit history, tags and changelogs; GitHub Pages publishing; documentation and code review; testing, accessibility and link checks; asset inventories, licences and provenance; security, secrets and supply-chain risk; reviewable changes and verifiable completion evidence.
 
 ### 14 — Website design, development and QA
 
-NAKEBUSEN site architecture and hierarchy; hero, beauty, technology and connect; journeys, navigation and CTAs; mobile-first responsive design; 320–760px and desktop verification; typography, spacing, contrast; top-right dark-mode toggle; accessibility and semantic HTML; contact and booking flows; canonical URL, Open Graph, text-only policy; SEO; performance and dependency reduction; offline-capable static HTML; Gallery linked not embedded; browser errors and release verification; web copy and language toggle; mock-up vs implementation vs live deployment evidence.
+NAKEBUSEN site architecture and hierarchy; hero, beauty, technology and connect; journeys, navigation and CTAs; mobile-first responsive design; typography, spacing, contrast; accessibility and semantic HTML; contact and booking flows; canonical URL, Open Graph, text-only policy; SEO; performance and dependency reduction; offline-capable static HTML; Gallery linked not embedded; browser errors and release verification; web copy and language toggle; mock-up vs implementation vs live deployment evidence. Website repository changes are outside the 2026-10-31 documentation update scope.
 
 ### 15 — NAKEBUSEN brand, beauty and loc-care business
 
 Name, meaning and cultural context; Lodwar to Eldoret development; positioning and customer promise; loc care, retouch, styling; Sisterlocs reties; artificial loc installation; service definitions, prices and booking; customer experience and trust; salon operations; natural loc craft; communication, photography and consent; marketing and referrals; quality and capacity; pricing, margins and sustainability; beauty vs training/products; distinction between NAKEBUSEN beauty and NAKEBUSEN Digital.
 
-**Canonical starting prices (confirm before change):** Retouch & Styling from KES 700 · Sisterlocs Retie from KES 1,500 · Artificial Locs Install from KES 3,500. **ONLY NAKEBUSEN TRANSACTS.**
+**Eldoret campaign starting-price baseline:** Retouch & Styling from **KES 700+** · Sisterlocs Retie from **KES 1,500+** · Artificial Locs Installation from **KES 3,500+**. Final cost depends on scope; verify before reuse. **ONLY NAKEBUSEN TRANSACTS.**
 
 ### 16 — Market research, TAM, SAM and SOM
 
@@ -97,7 +115,7 @@ TAM, SAM, SOM; Eldoret / Uasin Gishu beachhead; Kenya-wide and regional expansio
 
 ### 17 — WARENA brand and business model
 
-WARENA as systems practice; NAKEBUSEN Digital relationship; technology services and engineering; Freedom Is a System; local-first and libre-first; sovereign systems offline-capable; Linux administration; infrastructure audits and support contracts; client profiles; productised services and recurring revenue; pricing and capacity; technical docs and catalogues; continuity and recovery; differentiation; long-term development and stewardship.
+WARENA as systems practice; NAKEBUSEN DIGITAL relationship; technology services and engineering; Freedom Is a System; local-first and libre-first; sovereign systems offline-capable; Linux administration; infrastructure audits and support contracts; client profiles; productised services and recurring revenue; pricing and capacity; technical docs and catalogues; continuity and recovery; differentiation; long-term development and stewardship.
 
 ### 18 — GNU/Linux, free software and sovereign infrastructure
 
@@ -113,7 +131,7 @@ Label **PROPOSAL** or **RESEARCH** until deployed evidence exists.
 
 IKAI Reflective Compute; observation, reflection and digital memory; human-centred interaction; Laban / Bartenieff explorations; movement and expressive interaction; local-first storage and private processing; local data models; Guile / Tidal / SuperCollider explorations; transparent behaviour; **mirror, not judge**; privacy, consent and agency; **no facial ID, diagnosis or behavioural scoring**; hardware feasibility; prototypes vs released products; validation and accessibility.
 
-**Maturity:** research / WIP unless IMPLEMENTATION evidence is recorded.
+**Maturity:** RESEARCH / WIP unless implementation evidence is recorded.
 
 ### 21 — GENJE, GENJE-NESS, Genge and embodied expression
 
@@ -123,7 +141,7 @@ GENJE / GENJE-NESS architecture; Genge and Kenyan music culture; livecoding and 
 
 FELOH, WARENA, NAKEBUSEN identity; monogram / emblem candidates (research, not validated uniqueness); IKAI reflection concept; monochrome-first development; semiotics and recognition; applications (flag, icon, engraving); palette (ink, ivory, ochre gold, terracotta, dark forest); Kenyan/East African colour context; typography and hierarchy; photography and consent; asset inventories and provenance; consistency across surfaces; legibility; controlled validation vs preference alone.
 
-Gallery holds approved assets; website remains text-first.
+Gallery holds approved assets only after review; website remains text-first.
 
 ### 23 — Education, knowledge infrastructure and open learning
 
@@ -144,39 +162,20 @@ Human authorship and attribution; IP and licensing; copyright and reuse; privacy
 ### 27 — Integrated FELOH project architecture
 
 | Identity | Role |
-|----------|------|
+|---|---|
 | **FELOH** | Authorship, research, generation, expression |
-| **NAKEBUSEN** | Grace, roots, beauty, craft, human encounters; **only transacting brand** |
+| **NAKEBUSEN** | Parent enterprise; beauty and digital services; only commercial interface |
 | **WARENA** | Infrastructure, reproducibility, capability, enablement |
 | **IKAI** | Reflection, observation, memory; research maturity |
 | **GENJE** | Rhythm, movement, code, embodiment |
-| **FELOH Corpus** | Writing, research, creative works |
+| **FELOH Corpus** | Writing, research, creative works and shared canon |
 | **Sun Burn — Black Musings** | Black thought and authored reflections |
-| **Gallery** | Visual archive, provenance, presentation |
+| **Gallery** | Visual archive, provenance, rights and approval |
 | **Research / business sites** | Sources, docs, customer journeys |
 
 Shared: GitHub, CI, standards for evidence, attribution, rights, versioning, stewardship.
 
 **Sequence:** FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.
-
----
-
-## 3. Cross-cutting topics
-
-| Area | Topics |
-|------|--------|
-| Evidence | Primary sources, corroboration, quality, conflict, uncertainty |
-| Research | Literature, comparative analysis, fieldwork, surveys, interviews |
-| Data | Collection, cleaning, metadata, provenance, analysis, reproducibility |
-| Publishing | Web/technical/research copy, translation, citations |
-| Design | IA, accessibility, usability, identity, consistency |
-| Technology | Linux, FOSS, automation, local-first, infrastructure |
-| Business | TAM/SAM/SOM, competitors, pricing, demand, costs |
-| Preservation | Archives, backups, originals, versions, durable formats |
-| Governance | Rights, consent, security, attribution, succession |
-| QA | CI, responsive layouts, links, a11y, deployment verification |
-| AI | Assistance, automation, human review, hallucination controls |
-| Evaluation | Outcomes, indicators, limitations, open questions |
 
 ---
 
@@ -191,10 +190,10 @@ A source’s existence online is not proof. Record what it supports, who produce
 ## 5. Current priority workstreams
 
 | Order | Workstream | Focus |
-|-------|------------|--------|
+|---|---|---|
 | **01** | Research foundations | Taxonomy, documentation tree, evidence standards, annotated bibliography |
 | **02** | Black Knowledge Archive & Corpus | Source inventory, preserve originals, Sun Burn without unverified import |
-| **03** | GitHub and AI research | Repo/PR audit, CI/Pages evidence, reviewable changes |
+| **03** | GitHub and AI research | Repo audits, CI/Pages evidence, reviewable changes |
 | **04** | NAKEBUSEN website & business | Service copy/prices, segments, booking journeys, evidence-based market estimates |
 | **05** | WARENA, IKAI, GENJE | Architecture docs, buyers/use cases, implementation vs proposal |
 
