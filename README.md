@@ -12,6 +12,7 @@ This repository is the **source of record** for shared terminology, architecture
 
 ## Start here
 
+- [Portfolio decision and GENJE ZA WARENA launch direction (2026-10-31)](docs/portfolio-decision-2026-10-31.md)  
 - [Canonical architecture (2026-10-26)](docs/canonical-architecture-2026-10-26.md)  
 - [Evidence and editorial standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md)  
 - [Knowledge-base architecture](docs/knowledge-base-architecture.md)  
@@ -91,6 +92,8 @@ A commit is not a deployment. An upstream version is not a host. Mark **UNKNOWN*
 ---
 
 ## Portfolio alignment — 2026-10
+
+Current umbrella proposition: **NAKEBUSEN — Beautiful Roots. Sovereign Systems.** Supporting proposition: *Craft, technology and culture rooted in African ingenuity.* The current decision record and GENJE ZA WARENA launch brief are documented in [portfolio decision 2026-10-31](docs/portfolio-decision-2026-10-31.md).
 
 Canonical brand boundary: **FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.**  
 NAKEBUSEN is the only commercial transaction interface; conceptual coherence is not implementation evidence. Keep this corpus authoritative for shared terminology, governance, provenance and evidence standards, and allow specialist repositories to own their implementation details.
