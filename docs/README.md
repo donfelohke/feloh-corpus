@@ -29,6 +29,10 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Evidence and Provenance Method](../EVIDENCE-AND-PROVENANCE-METHOD.md) — archive record types and minimum provenance fields.
 - [GitHub AI and automation architecture](ai-automation-architecture.md) — observed repository baseline, AI operating levels, workflow security, domain boundaries, and staged recommendations. This is a research proposal, not proof that recommended controls are configured.
 
+## Current portfolio decision
+
+- [Portfolio decision and GENJE ZA WARENA launch direction (2026-10-31)](portfolio-decision-2026-10-31.md) — current NAKEBUSEN proposition, project boundaries, founder authorship and launch-campaign image hierarchy.
+
 ## Canonical frame
 
 **ONE CORPUS → MANY VIEWS → ONE PRACTICE.**
