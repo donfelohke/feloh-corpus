@@ -13,7 +13,8 @@ This repository is the **source of record** for shared terminology, architecture
 ## Start here
 
 - [Portfolio decision and GENJE ZA WARENA launch direction (2026-10-31)](docs/portfolio-decision-2026-10-31.md)  
-- [Canonical architecture (2026-10-26)](docs/canonical-architecture-2026-10-26.md)  
+- [Current portfolio decision (2026-10-31)](docs/portfolio-decision-2026-10-31.md)  
+- [Historical canonical architecture baseline (2026-10-26)](docs/canonical-architecture-2026-10-26.md)  
 - [Evidence and editorial standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md)  
 - [Knowledge-base architecture](docs/knowledge-base-architecture.md)  
 - [Domain map](docs/domain-map.md)  
@@ -34,7 +35,7 @@ This repository is the **source of record** for shared terminology, architecture
 | **IKAI** | Reflective-compute research · not a product |
 | **GENJE ZA WARENA** | Cultural identity / motivating idea · not a shop |
 
-The canonical relationship model is maintained in the [architecture document](docs/canonical-architecture-2026-10-26.md).
+The current portfolio relationship model is maintained in the [2026-10-31 decision record](docs/portfolio-decision-2026-10-31.md). The 2026-10-26 architecture is retained as a historical baseline.
 
 **An enquiry is not a booking.** No shaving or braiding appears on the public catalogue.
 
@@ -55,7 +56,7 @@ Social posts do not automatically enter the corpus. Material must be recorded, r
 
 Apply the following hierarchy when writing or reviewing public copy:
 
-1. **NAKEBUSEN Locs** leads the current customer-facing offer: loc care in **Eldoret Town / Karibu Mdosi**. Published starting prices are Retouch & Styling from KES 700, Sisterlocs Retie from KES 1,500, and Artificial Locs Installation from KES 3,500. Confirm availability, scope and final price directly; an enquiry is not a booking. Braiding is not offered.
+1. **NAKEBUSEN Locs** leads the current customer-facing offer: loc care in **Eldoret Town / Karibu Mdosi**. Published Eldoret campaign starting prices are Retouch & Styling from KES 700+, Sisterlocs Retie from KES 1,500+, and Artificial Locs Installation from KES 3,500+. Confirm availability, scope and final price directly; an enquiry is not a booking. Braiding is not offered.
 2. **WARENA** describes inspectable, maintainable, local-first computing and systems engineering. Do not imply a deployment or service outcome without implementation evidence.
 3. **GENJE** describes Genge, AfroTech, livecoding, movement and choreohacking as creative practice; distinguish research, prototypes and released works.
 4. **IKAI** is reflective-compute research / work in progress, not a released product or a clinical, scoring, identification or surveillance system.
