@@ -6,6 +6,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 
 - [Cross-domain knowledge-base architecture](knowledge-base-architecture.md) — information layers, domain scope, record requirements, evidence rules, workflow, and implementation order.
 - [Cross-domain domain map](domain-map.md) — source-of-record routing across NAKEBUSEN LOCS, NAKEBUSEN DIGITAL, WARENA, IKAI, GENJE/FELOH, Gallery, and public presentation.
+- [FELOH twelve-domain research programme](../research/PROGRAMME-12-DOMAINS-2026-10-30.md) — integrated domain map, priority work packages, source-discovery starters, existing PR reconciliation and verification gates.
 - [Source register and research intake](source-register.md) — source metadata, claim/source matrix, research quality checks, and domain-specific notes.
 - [Seed source catalogue](seed-source-catalogue.md) — first batch of official legal/privacy and movement-studies resources plus project repositories; initial screening only.
 - [Annotated source starter](annotated-source-starter.md) — first cross-domain reading queue covering computer-science learning, GNU/Linux reproducibility, security, accessibility, Kenya data protection/economic context, and movement studies. Landing-page screening only; substantive review pending.
