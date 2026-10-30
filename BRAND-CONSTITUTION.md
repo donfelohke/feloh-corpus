@@ -39,6 +39,15 @@ Public creative signature: **#HisGenjeness** · **@donfelohke** · Felix Lwova.
 
 ## 3. Public-facing enterprise: NAKEBUSEN · LOCS & DIGITAL
 
+### Current NAKEBUSEN proposition — 2026-10-31
+
+**Beautiful Roots. Sovereign Systems.**  
+*Craft, technology and culture rooted in African ingenuity.*
+
+This is the current customer-facing parent proposition. It complements rather than replaces the three-pillar signature **GRACE · GRIT · GLORY** and its heritage statement. The two customer-facing paths are **LOCS · CROWN** and **DIGITAL · WARENA**.
+
+**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** is the adopted creative interpretation and cultural identity, not a separate commercial division or verified universal etymology. WARENA remains the distinct systems-engineering identity powering NAKEBUSEN DIGITAL.
+
 **One identity. Two practices. One human author.**
 
 NAKEBUSEN is the public-facing home for both commercial practices. WARENA powers the digital practice. #HisGenjeness expresses the human creative identity behind the work.
@@ -113,7 +122,7 @@ Do not treat analogies between GRACE / GRIT / GLORY and a historical programme, 
 1. Keep the order **NAKEBUSEN · WARENA · DON FELOH** unless a documented, context-specific design decision requires otherwise.
 2. Keep the mapping **GRACE—NAKEBUSEN; GRIT—WARENA; GLORY—DON FELOH / #HisGenjeness** stable across official materials.
 3. Present **LOCS** and **DIGITAL** as two practices under **NAKEBUSEN**, not as separate transacting brands.
-4. Treat **HERITAGE · BLACK EXCELLENCE · SOVEREIGN FUTURES** as the primary umbrella statement, with audience-specific alternatives in Section 5.
+4. Treat **HERITAGE · BLACK EXCELLENCE · SOVEREIGN FUTURES** as the primary three-pillar signature statement, with audience-specific alternatives in Section 5. The current NAKEBUSEN customer-facing proposition is **Beautiful Roots. Sovereign Systems.**; the two statements serve distinct roles.
 5. Do not imply that WARENA, IKAI, a device, a model, or a software specification is operational without implementation evidence.
 6. Do not imply that DON FELOH's authorship removes the need for distributed stewardship, succession, attribution, or review.
 7. Preserve human dignity, privacy, provenance, and clear distinctions between concept, research, prototype, and live service.
