@@ -5,13 +5,16 @@ This glossary records working meanings for terms used across the corpus. A defin
 | Term | Working meaning | Boundary or note |
 |---|---|---|
 | FELOH | Human-authored generative and expressive practice within the wider ecosystem. | FELOH generates. |
-| NAKEBUSEN | Public-facing home for beauty craft, loc care, livelihood, and the LOCS and DIGITAL service practices. | NAKEBUSEN grounds; use the relevant service path for customer-facing enquiries and confirmations. |
-| NAKEBUSEN LOCS | Beauty and loc-care practice focused on craft, care, identity, confidence, and service quality. | Current services, prices, location, and availability require approval and re-verification. |
-| NAKEBUSEN DIGITAL | Public-facing technology services and digital practice. | Powered by WARENA; scope and delivery claims require evidence. |
-| WARENA | Systems, infrastructure, reproducibility, and technical enablement. | WARENA enables; conceptual plans require implementation evidence. |
-| IKAI | Reflective or mirror-compute research and practice. | Mirror, not judge; no scoring, face-ID, diagnosis, or cloud profile in the stated constraints. |
-| GENJE | Embodied culture, Genge, livecoding, performance, and choreohacking. | GENJE embodies. |
-| DonFeloh / FELOH | Human author identity and creative/technical authorship as described by the corpus. | Do not let automation erase or impersonate human authorship. |
+| NAKEBUSEN | Parent enterprise and only commercial interface, bringing beauty craft and practical digital services under one public identity. | Current proposition: **Beautiful Roots. Sovereign Systems.** |
+| LOCS · CROWN | NAKEBUSEN customer-facing path for loc care, styling and beauty craft. | Service scope, prices, location and availability require current approval. |
+| DIGITAL · WARENA | NAKEBUSEN customer-facing path for practical technology and systems services. | WARENA is the systems-engineering identity powering this practice. |
+| WARENA | Systems engineering, infrastructure, reproducibility and technical enablement. | WARENA enables; conceptual plans require implementation evidence. |
+| IKAI | Reflective-compute research and practice. | Mirror, not judge; research, not a released product. |
+| GENJE | Cultural and creative practice spanning Genge, livecoding, performance, movement and choreohacking. | GENJE embodies. |
+| GENJE ZA WARENA | Adopted creative identity and campaign phrase: **The Fire of the Formidable**. | Authored creative interpretation, not a verified universal translation or etymological claim; not a separate commercial division. |
+| Don Feloh / Felix Lwova / #HisGenjeness | Human founder, author and creative/technical practitioner identity. | Preserve human authorship and attribution. |
+| FELOH Corpus | Shared source of record for terminology, governance, evidence standards, provenance and cross-domain indexes. | Specialist repositories own their domain-specific material. |
+| Gallery | Curated asset repository and rights/provenance register. | An asset is not approved merely because it exists in a repository or library. |
 | 1DOC | The single canonical corpus/artifact from which other documentary views are derived. | Views should remain traceable to the source of record. |
 | Corpus view | A projection of canonical material for a particular audience or task. | A view is not automatically an independent source of truth. |
 | Provenance | A traceable account of the origin, rationale, evidence, and history of a claim or change. | Unknown provenance must be marked unknown, not fabricated. |
