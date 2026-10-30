@@ -28,7 +28,7 @@ This repository is the **source of record** for shared terminology, architecture
 |------|------|
 | **FELOH** | Human author and integrated practice |
 | **NAKEBUSEN** | Parent enterprise · **only commercial interface** |
-| **NAKEBUSEN LOCS** | Beauty craft · Eldoret campaign prices from KES 700 / 1,500 / 3,500 |
+| **NAKEBUSEN LOCS** | Beauty craft · Eldoret campaign starting prices KES 700+ / 1,500+ / 3,500+ |
 | **NAKEBUSEN DIGITAL** | Technology services · technical identity **WARENA** |
 | **WARENA** | Systems · infrastructure · enablement |
 | **IKAI** | Reflective-compute research · not a product |
