@@ -1,6 +1,8 @@
 # Canonical Architecture and Decision Register
 **Updated:** 2026-10-26  
-**Status:** Canonical working record; evidence and implementation states must be verified independently.
+**Status:** Historical baseline retained for provenance; evidence and implementation states must be verified independently.
+
+> **Current decision reference:** This 2026-10-26 baseline is superseded where updated by the [Portfolio Decision Record — 2026-10-31](portfolio-decision-2026-10-31.md) and the current [Brand Constitution](../BRAND-CONSTITUTION.md). Use those records for the current NAKEBUSEN proposition and GENJE ZA WARENA identity.
 
 ## 1. Governing principles
 
