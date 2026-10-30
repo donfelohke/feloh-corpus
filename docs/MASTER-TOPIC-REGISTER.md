@@ -211,25 +211,3 @@ Each topic should eventually carry: stable ID and title; scope and research ques
 This register consolidates known programme topics. It is **not** a verified inventory of every file, conversation, repository or unpublished work.
 
 
----
-
-## 7. Twelve-domain execution map — 30 October 2026
-
-The integrated execution plan is maintained in the [FELOH twelve-domain research programme](../research/PROGRAMME-12-DOMAINS-2026-10-30.md). It maps the existing topic taxonomy into twelve working domains, assigns specialist repository homes, identifies current open research work to reconcile, and records the first source-discovery queue.
-
-| ID | Domain | Specialist home |
-|---|---|---|
-| R01 | African history, identity and civilisation | Corpus |
-| R02 | African philosophy, politics and political economy | Corpus |
-| R03 | Sovereign computing and operating systems | WARENA |
-| R04 | AI and distributed intelligence | WARENA / IKAI |
-| R05 | Distributed systems and internet infrastructure | WARENA |
-| R06 | Telecommunications and financial infrastructure | WARENA / NAKEBUSEN |
-| R07 | Computational movement and embodied intelligence | IKAI / GENJE |
-| R08 | Music, culture and computational art | GENJE |
-| R09 | Enterprise, entrepreneurship and market research | NAKEBUSEN |
-| R10 | Design, architecture and digital experience | NAKEBUSEN / Website |
-| R11 | Human development, education and knowledge systems | Corpus / IKAI |
-| R12 | Science, mathematics and engineering | WARENA / IKAI / GENJE |
-
-**Status discipline:** the twelve-domain map is an index and work plan. It does not imply completed research, full-text source review, fieldwork, implementation, deployment or regulatory approval. Keep source and claim identifiers canonical; reconcile existing open PRs before creating duplicate records.
