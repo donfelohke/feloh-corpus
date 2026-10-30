@@ -51,6 +51,7 @@ feloh-corpus/                          # CANON HOME
 ├── EVIDENCE-AND-EDITORIAL-STANDARDS.md # LIVE
 ├── docs/
 │   ├── README.md                      # LIVE
+│   ├── portfolio-decision-2026-10-31.md # LIVE · current portfolio and launch direction
 │   ├── glossary.md                    # LIVE
 │   ├── public-presence.md             # LIVE
 │   ├── decision-provenance.md         # LIVE
@@ -82,7 +83,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 |-------------|-------------------|--------|
 | Brand pillars GRACE·GRIT·GLORY | `BRAND-CONSTITUTION.md` | LIVE |
 | ONLY NAKEBUSEN TRANSACTS | Brand constitution + public copy | LIVE |
-| Loc prices 700 / 1500 / 3500 | NAKEBUSEN service catalogue + site SERVICE-CATALOG | RECONCILIATION NEEDED — site lists the prices; NAKEBUSEN catalogue still flags owner confirmation |
+| Loc campaign starting prices 700+ / 1,500+ / 3,500+ | NAKEBUSEN service catalogue + current campaign record | APPROVED FOR ELDORET CAMPAIGN; final quote remains scope-dependent |
 | Location phrase Eldoret Town / Karibu Mdosi | Website + service catalogue | LIVE |
 | Programme topics | `docs/MASTER-TOPIC-REGISTER.md` | LIVE |
 | Evidence labels | `EVIDENCE-AND-EDITORIAL-STANDARDS.md` | LIVE |
@@ -96,6 +97,8 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 ---
 
 ## 4. Master topic → documentation file
+
+| — | Current portfolio and GENJE launch direction | **docs/portfolio-decision-2026-10-31.md** |
 
 | # | Topic | Primary docs |
 |---|--------|--------------|
@@ -118,7 +121,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 
 ---
 
-## 6. Implementation status snapshot (25 Oct 2026)
+## 6. Implementation status snapshot (25 Oct 2026; portfolio decision addendum 31 Oct 2026)
 
 | Deliverable | Status |
 |-------------|--------|
