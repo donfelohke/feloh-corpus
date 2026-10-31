@@ -162,3 +162,27 @@ These are review-branch changes, not merged production changes. Existing open we
 - 2026-10-31 — Read-only audit of eight public repositories and their README entry points.
 - 2026-10-31 — Cross-repository consistency register and website content implementation specification added on review branches.
 - This register does not certify legal rights, identity, payment routing, service availability, deployment, accessibility conformance or customer outcomes.
+
+
+## 12. Review pull-request index
+
+All changes below are draft review requests against main. None is merged by this reconciliation pass.
+
+| Repository | Draft PR | Scope |
+|---|---|---|
+| Website | [#109](https://github.com/donfelohke/donfelohke.github.io/pull/109) | Page copy, LOCS Retie, starting prices, payment removal, tests and implementation specification |
+| FELOH Corpus | [#28](https://github.com/donfelohke/feloh-corpus/pull/28) | Cross-repository register and README index |
+| WARENA | [#16](https://github.com/donfelohke/WARENA/pull/16) | README consolidation and capability/evidence wording |
+| GENJE | [#11](https://github.com/donfelohke/Genje/pull/11) | Creative boundary and unresolved campaign-image count |
+| NAKEBUSEN | [#13](https://github.com/donfelohke/NAKEBUSEN/pull/13) | Canonical lockup, service naming and service catalogue |
+| Gallery | [#12](https://github.com/donfelohke/Gallery/pull/12) | Asset count, rights/consent status and service label |
+| Profile | [#7](https://github.com/donfelohke/donfelohke/pull/7) | Profile service labels and canonical identity |
+
+The IKAI README was inspected and left unchanged because its research status and prohibited-use boundaries were already consistent with the current canon.
+
+### Website CI evidence for PR #109
+
+- [Static HTML checks — workflow run 41149324728](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324728): required files, structural HTML/internal links/metadata/service catalogue, inline JavaScript syntax and theme/language behavior steps reported successful.
+- [Browser UI checks — workflow run 41149324735](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324735): Chromium responsive, navigation, theme, language and WhatsApp test step reported successful at the latest observation.
+
+These workflow checks do not establish production deployment or a full accessibility conformance audit. The browser workflow includes a smoke check against the currently deployed main-site URL; that smoke check does not mean the branch has been deployed.
