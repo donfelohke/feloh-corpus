@@ -182,7 +182,7 @@ The IKAI README was inspected and left unchanged because its research status and
 
 ### Website CI evidence for PR #109
 
-- [Static HTML checks — workflow run 41149324728](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324728): required files, structural HTML/internal links/metadata/service catalogue, inline JavaScript syntax and theme/language behavior steps reported successful.
-- [Browser UI checks — workflow run 41149324735](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324735): Chromium responsive, navigation, theme, language and WhatsApp test step reported successful at the latest observation.
+- [Static HTML checks — workflow run 41149426363](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324728): required files, structural HTML/internal links/metadata/service catalogue, inline JavaScript syntax and theme/language behavior steps reported successful.
+- [Browser UI checks — workflow run 41149426361](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324735): Chromium responsive, navigation, theme, language and WhatsApp test step reported successful at the latest observation.
 
 These workflow checks do not establish production deployment or a full accessibility conformance audit. The browser workflow includes a smoke check against the currently deployed main-site URL; that smoke check does not mean the branch has been deployed.
