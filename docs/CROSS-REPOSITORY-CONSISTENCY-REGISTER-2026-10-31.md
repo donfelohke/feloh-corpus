@@ -75,7 +75,7 @@ A repository document proves what the repository says. It does not prove current
 
 | Repository | Source reviewed | Evidence role |
 |---|---|---|
-| Website | [README](https://github.com/donfelohke/donfelohke.github.io/blob/main/README.md), [index.html](https://github.com/donfelohke/donfelohke.github.io/blob/main/index.html), [brand canon](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/BRAND-CANON.md), [webcopy](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/WEBCOPY.md), [service catalogue](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/SERVICE-CATALOG.md), [public facts register](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/PUBLIC-FACTS-REGISTER.md), [implementation checklist](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/BRAND-IMPLEMENTATION-CHECKLIST.md) | Public copy, HTML, metadata, services and release gates |
+| Website | [README](https://github.com/donfelohke/donfelohke.github.io/blob/main/README.md), [index.html](https://github.com/donfelohke/donfelohke.github.io/blob/main/index.html), [brand canon](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/BRAND-CANON.md), [webcopy](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/WEBCOPY.md), [service catalogue](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/SERVICE-CATALOG.md), [public facts register](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/PUBLIC-FACTS-REGISTER.md), [implementation checklist](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/BRAND-IMPLEMENTATION-CHECKLIST.md), [content implementation specification](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/CONTENT-IMPLEMENTATION-SPEC-2026-10-31.md) | Public copy, HTML, metadata, services and release gates |
 | FELOH Corpus | [README](https://github.com/donfelohke/feloh-corpus/blob/main/README.md), [portfolio decision](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md), [evidence standards](https://github.com/donfelohke/feloh-corpus/blob/main/EVIDENCE-AND-EDITORIAL-STANDARDS.md) | Shared canon and evidence discipline |
 | NAKEBUSEN | [README](https://github.com/donfelohke/NAKEBUSEN/blob/main/README.md), [brand messaging](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/BRAND-MESSAGING-2026-10-31.md), [service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md) | Commercial offer and campaign prices |
 | WARENA | [README](https://github.com/donfelohke/WARENA/blob/main/README.md), [stack register](https://github.com/donfelohke/WARENA/blob/main/docs/STACK-REGISTER.md), [evidence status](https://github.com/donfelohke/WARENA/blob/main/docs/EVIDENCE-STATUS.md) | Capability status and deployment evidence |
@@ -147,7 +147,7 @@ Until confirmed, keep these claims UNVERIFIED / PENDING and do not fill gaps by 
 ## 10. Review-branch implementation record
 
 The following changes are present on the reconciliation review branches and remain unmerged:
-- Website README and page source: canonical footer lockup, LOCS Retie labels, approved starting-price notation, provisional founder wording, removal of the broad additional-location promise, and removal of the unverified M-PESA / creator-support block.
+- Website README and page source: canonical footer lockup, LOCS Retie labels, approved starting-price notation, provisional founder wording, removal of the broad additional-location promise, removal of the unverified M-PESA / creator-support block, and removal of unverified social-account sameAs metadata.
 - Website static and browser tests: expectations updated to the current service label and to keep unverified payment instructions unpublished.
 - NAKEBUSEN README and service catalogue: canonical service label and no unsupported home-visit promise.
 - GENJE README and Gallery README / manifest: supporting-image count left unresolved until original files are individually inventoried.
@@ -182,7 +182,7 @@ The IKAI README was inspected and left unchanged because its research status and
 
 ### Website CI evidence for PR #109
 
-- [Static HTML checks — workflow run 41149426363](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324728): required files, structural HTML/internal links/metadata/service catalogue, inline JavaScript syntax and theme/language behavior steps reported successful.
-- [Browser UI checks — workflow run 41149426361](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324735): Chromium responsive, navigation, theme, language and WhatsApp test step reported successful at the latest observation.
+- [Static HTML checks — workflow run 41149523327](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324728): required files, structural HTML/internal links/metadata/service catalogue, inline JavaScript syntax and theme/language behavior steps reported successful.
+- [Browser UI checks — workflow run 41149523337](https://github.com/donfelohke/donfelohke.github.io/actions/runs/41149324735): Chromium responsive, navigation, theme, language and WhatsApp test step reported successful at the latest observation.
 
 These workflow checks do not establish production deployment or a full accessibility conformance audit. The browser workflow includes a smoke check against the currently deployed main-site URL; that smoke check does not mean the branch has been deployed.
