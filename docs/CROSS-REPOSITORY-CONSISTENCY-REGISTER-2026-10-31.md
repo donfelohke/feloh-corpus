@@ -144,8 +144,21 @@ These are technical references, not evidence that this site already conforms:
 
 Until confirmed, keep these claims UNVERIFIED / PENDING and do not fill gaps by inference.
 
-## 10. Change record
+## 10. Review-branch implementation record
+
+The following changes are present on the reconciliation review branches and remain unmerged:
+- Website README and page source: canonical footer lockup, LOCS Retie labels, approved starting-price notation, provisional founder wording, removal of the broad additional-location promise, and removal of the unverified M-PESA / creator-support block.
+- Website static and browser tests: expectations updated to the current service label and to keep unverified payment instructions unpublished.
+- NAKEBUSEN README and service catalogue: canonical service label and no unsupported home-visit promise.
+- GENJE README and Gallery README / manifest: supporting-image count left unresolved until original files are individually inventoried.
+- FELOH Corpus README: duplicate index link removed; consistency register linked.
+- WARENA README: repeated portfolio summary removed; stack evidence boundary retained.
+- Profile README: service labels and canonical lockup aligned.
+
+These are review-branch changes, not merged production changes. Existing open website PRs modify overlapping page/test surfaces; compare those diffs before selecting a single integration path.
+
+## 11. Change record
 
 - 2026-10-31 — Read-only audit of eight public repositories and their README entry points.
-- 2026-10-31 — Reconciliation branch prepared; this register records source-level findings and proposed corrections.
+- 2026-10-31 — Cross-repository consistency register and website content implementation specification added on review branches.
 - This register does not certify legal rights, identity, payment routing, service availability, deployment, accessibility conformance or customer outcomes.
