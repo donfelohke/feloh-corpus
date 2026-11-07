@@ -104,3 +104,7 @@ NAKEBUSEN is the only commercial transaction interface; conceptual coherence is 
 ## Before Africa — research programme
 
 The shared dossier investigates African self-naming, philosophies of existence, political organisation, knowledge systems and historical methodology. It distinguishes documented Roman geographical usage from disputed etymology, avoids a single universal indigenous name, and requires regional, linguistic and chronological specificity. [Read the master dossier](docs/before-africa-research-dossier-2026-11-07.md).
+
+## Desktop-stack cross-project alignment — 2026-11
+
+The corpus records cross-domain boundaries; WARENA owns technical implementation detail. See [Cross-Project Desktop Stack Alignment](docs/desktop-stack-alignment-2026-11.md) and the [WARENA technical decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). This is research, not a deployment claim.
