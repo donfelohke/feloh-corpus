@@ -135,3 +135,12 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | Cultural research index (deep) | PLANNED beyond register |
 
 **Governing rule:** one source of truth per fact · clear links · preserved originals · reviewable changes · no implementation claim without evidence.
+
+## 7. Desktop-stack research ownership — 2026-11
+
+| Topic | Canonical location | Boundary |
+|---|---|---|
+| Desktop stack, package managers, compositor and shell evaluation | [WARENA desktop-stack decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md) | WARENA technical owner; RESEARCH only until hardware verification |
+| Cross-project implications | [Desktop-stack alignment](docs/desktop-stack-alignment-2026-11.md) | Corpus owns cross-domain boundaries; no project inherits deployment claims |
+
+The current evaluation is GNU Guix + RDE foundation; Niri + Noctalia v5 practical candidate; Sway fallback/comparator; dwl-guile experimental; Nix/NixOS comparator. NAKEBUSEN DIGITAL may make compatibility claims only after documented service testing. IKAI and GENJE may consume validated infrastructure but do not own the desktop platform. Gallery's asset workflow remains independent.
