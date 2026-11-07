@@ -7,6 +7,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Cross-domain knowledge-base architecture](knowledge-base-architecture.md) — information layers, domain scope, record requirements, evidence rules, workflow, and implementation order.
 - [Cross-domain domain map](domain-map.md) — source-of-record routing across NAKEBUSEN LOCS, NAKEBUSEN DIGITAL, WARENA, IKAI, GENJE/FELOH, Gallery, and public presentation.
 - [Source register and research intake](source-register.md) — source metadata, claim/source matrix, research quality checks, and domain-specific notes.
+- [FELOH twelve-domain research programme](../research/PROGRAMME-12-DOMAINS-2026-10-30.md) — integrated domain map, priority work packages, source-discovery starters, repository ownership and verification gates.
 - [Seed source catalogue](seed-source-catalogue.md) — first batch of official legal/privacy and movement-studies resources plus project repositories; partial screening only, not a fully annotated bibliography.
 - [UI/UX SOP, design trends and brand case studies](research-briefs/ui-ux-sops-design-trends-case-studies.md) — shared UX standards, global/Kenyan benchmarks, evidence limits, and release SOP.
 - [Kenya data-protection entry point](research-briefs/kenya-data-protection-entry-point.md) — official regulator index, source hierarchy, conservative operational implications, and unresolved legal questions.
