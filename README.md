@@ -98,3 +98,9 @@ Current umbrella proposition: **NAKEBUSEN — Beautiful Roots. Sovereign Systems
 
 Canonical brand boundary: **FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.**  
 NAKEBUSEN is the only commercial transaction interface; conceptual coherence is not implementation evidence. Keep this corpus authoritative for shared terminology, governance, provenance and evidence standards, and allow specialist repositories to own their implementation details.
+
+---
+
+## Before Africa — research programme
+
+The shared dossier investigates African self-naming, philosophies of existence, political organisation, knowledge systems and historical methodology. It distinguishes documented Roman geographical usage from disputed etymology, avoids a single universal indigenous name, and requires regional, linguistic and chronological specificity. [Read the master dossier](docs/before-africa-research-dossier-2026-11-07.md).
