@@ -61,6 +61,13 @@ If potentially unauthorised or unattributed material is identified, stop further
 This document is a contributor policy, not an automated detector or legal opinion. It does not prove that AI use is detectable, that a derivative-work question has a simple answer, or that repository settings enforce these rules. Review, CI, signatures, access controls and attestations must be configured and verified separately.
 
 
+## 9. Related documents
+
+- [Governance](GOVERNANCE.md)
+- [Contributing](CONTRIBUTING.md)
+- [Evidence and Provenance Method](EVIDENCE-AND-PROVENANCE-METHOD.md)
+- [GNU GPL-3.0 licence text](LICENSE)
+
 ## 10. Code laundering and derivative-source controls
 
 ### 10.1 Definition
