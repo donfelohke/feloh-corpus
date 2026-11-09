@@ -144,3 +144,14 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | Cross-project implications | [Desktop-stack alignment](docs/desktop-stack-alignment-2026-11.md) | Corpus owns cross-domain boundaries; no project inherits deployment claims |
 
 The current evaluation is GNU Guix + RDE foundation; Niri + Noctalia v5 practical candidate; Sway fallback/comparator; dwl-guile experimental; Nix/NixOS comparator. NAKEBUSEN DIGITAL may make compatibility claims only after documented service testing. IKAI and GENJE may consume validated infrastructure but do not own the desktop platform. Gallery's asset workflow remains independent.
+
+
+## 8. Foundational external references — 2026-11
+
+| Reference | Canonical record | Specialist responsibility |
+|---|---|---|
+| Algorave community guidelines | [Foundational Reference Map](docs/foundational-reference-map-2026-11.md) and [source register](docs/source-register.md) | GENJE applies community guidance to live-coding and event practice; not a legal or mandatory standard |
+| UNESCO General History of Africa | [Foundational Reference Map](docs/foundational-reference-map-2026-11.md) and [Before Africa dossier](docs/before-africa-research-dossier-2026-11-07.md) | Corpus owns historical source methodology; WARENA/GENJE link relevant domain research without flattening regional contexts |
+| Teach Yourself Computer Science | [Foundational Reference Map](docs/foundational-reference-map-2026-11.md) | WARENA owns technical curriculum, exercises and systems labs; study completion is not inferred |
+
+The source register records access dates and known limits. Re-check mutable pages, course editions and exact volume citations before relying on them in public or technical claims.
