@@ -77,3 +77,43 @@ Do not leave example IDs in a published research report as if they were real fin
 ## Status
 
 This register defines a proposed process. It does not assert that any complete source inventory or annotated bibliography has already been compiled.
+
+
+## Movement notation and reflective-computing sources — 2026-11-09
+
+### SRC-REFLECT-2026-001 — Reflective Computing
+- **Author:** Md Haseen Akhtar
+- **Title:** *Reflective Computing: Seven Dimensions from the Gaps in 134 Interactive Systems, 1996–2026*
+- **Type:** Research preprint / critical review
+- **Identifier:** arXiv:2610.35696v1 [cs.HC]
+- **Submitted:** 2026-10-26
+- **URL:** https://arxiv.org/abs/2610.35696
+- **PDF:** https://arxiv.org/pdf/2610.35696
+- **Accessed:** 2026-11-09
+- **Review:** Full 54-page PDF inspected. No independent replication or supplementary-data audit claimed.
+- **Use:** IKAI reflective-compute design research; seven dimensions: tempo agency, invitational form, interpretive openness, reflective depth, temporal span, protected idleness and ethical non-extraction.
+- **Limitations:** Purposive exemplar set of 134 ACM interactive systems, not an exhaustive census. Reported results are the paper's findings, not independently reproduced facts. Peer-review/publication status is not established by this record.
+- **Editorial label:** VERIFIED (bibliographic metadata and paper text inspected); INTERPRETATION (IKAI application); PROPOSAL (prototype/evaluation work).
+- **Canonical note:** [Labanotation and Reflective Computing research brief](research/labanotation-and-reflective-computing-2026-11.md).
+
+### SRC-LABAN-WIKI-2026-001 — Labanotation overview
+- **Title:** Labanotation
+- **Author:** Wikipedia contributors; individual authorship is revision-based
+- **Type:** Tertiary encyclopedia / discovery source
+- **URL:** https://en.wikipedia.org/wiki/Labanotation
+- **Accessed:** 2026-11-09
+- **Use:** Initial orientation to historical development and basic notation concepts.
+- **Limitations:** Not a primary source or specialist teaching authority. Follow the article's citations and use institutional and specialist sources for technical claims.
+- **Editorial label:** DISCOVERY ONLY.
+- **Corroboration:** Ohio State University Department of Dance resource page: https://dance.osu.edu/research/dnb/resources
+
+### SRC-LABAN-OSU-2026-001 — Ohio State University Dance Notation resources
+- **Institution:** The Ohio State University, Department of Dance
+- **Type:** Institutional educational/resource page
+- **URL:** https://dance.osu.edu/research/dnb/resources
+- **Accessed:** 2026-11-09
+- **Use:** Institutional orientation to Labanotation/Kinetography Laban, Motif Description and Laban Movement Analysis; links to specialist bodies and tutorials.
+- **Limitations:** Resource overview, not a full notation textbook or independent validation of all applications.
+- **Editorial label:** VERIFIED (institutional page inspected); detailed instruction requires specialist sources.
+
+**Terminology caution:** Labanotation/Kinetography Laban, Motif notation, Laban Movement Analysis and Bartenieff Fundamentals are related but distinct. Do not use these names as synonyms.
