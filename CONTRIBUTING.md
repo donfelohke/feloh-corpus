@@ -4,7 +4,7 @@ Thank you for helping maintain the FELOH Sovereign Corpus.
 
 ## Before proposing a change
 
-1. Read [Governance](GOVERNANCE.md) and the [documentation index](docs/README.md).
+1. Read [Governance](GOVERNANCE.md) and the documentation index.
 2. Identify the document or claim being changed and its current status.
 3. Preserve existing provenance and historical context.
 4. Keep the change focused and explain its purpose.
@@ -19,6 +19,7 @@ Thank you for helping maintain the FELOH Sovereign Corpus.
 - Never commit secrets, access tokens, personal customer records, or private contact data without a clear, authorized purpose.
 - Respect the IKAI constraints: mirror, not judge; no scoring, face-ID, diagnosis, or cloud profile.
 - Do not imply that NAKEBUSEN's transaction boundary authorizes unrelated projects to transact.
+- Follow [AI-Assisted Development, Source Integrity and Provenance](AI-ASSISTED-DEVELOPMENT.md). Material AI assistance, authorised inputs and human review must be recorded; AI rewriting must never be used to disguise copied or restricted source.
 
 ## Pull request checklist
 
@@ -29,6 +30,7 @@ Thank you for helping maintain the FELOH Sovereign Corpus.
 - [ ] No secrets, private records, or unnecessary external dependencies were added.
 - [ ] Any implementation claim includes verifiable evidence.
 - [ ] Provenance or decision records are updated if canonical meaning or status changed.
+- [ ] Material AI assistance and source permissions are disclosed and reviewed.
 
 ## Suggested pull request description
 
@@ -37,6 +39,8 @@ Thank you for helping maintain the FELOH Sovereign Corpus.
 **Scope:** Which documents or claims change?
 
 **Evidence:** What source, test, observation, or record supports it?
+
+**AI assistance:** Tool/model where known, purpose, authorised inputs, affected files and human review; state none if no material AI assistance was used.
 
 **Status impact:** Does anything move between CONCEPT, RESEARCH, PROTOTYPE, LIVE, UNKNOWN, HISTORICAL, or SUPERSEDED?
 
