@@ -108,3 +108,8 @@ The shared dossier investigates African self-naming, philosophies of existence, 
 ## Desktop-stack cross-project alignment — 2026-11
 
 The corpus records cross-domain boundaries; WARENA owns technical implementation detail. See [Cross-Project Desktop Stack Alignment](docs/desktop-stack-alignment-2026-11.md) and the [WARENA technical decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). This is research, not a deployment claim.
+
+
+## Foundational reference map — 2026-11
+
+The [Foundational Reference Map](docs/foundational-reference-map-2026-11.md) brings together three external starting points with distinct responsibilities: Algorave community guidance for GENJE live-coding practice; UNESCO's General History of Africa for African historical research; and Teach Yourself Computer Science for WARENA's technical learning path. The source register records provenance, access date, scope and limitations. These references inform the corpus; they do not replace local scholarship, primary evidence or implementation tests.
