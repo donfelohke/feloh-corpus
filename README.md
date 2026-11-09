@@ -31,7 +31,7 @@ This repository is the **source of record** for shared terminology, architecture
 | **NAKEBUSEN** | Parent enterprise · **only commercial interface** |
 | **NAKEBUSEN LOCS** | Beauty craft · Eldoret campaign starting prices KES 700+ / 1,500+ / 3,500+ |
 | **NAKEBUSEN DIGITAL** | Technology services · technical identity **WARENA** |
-| **WARENA** | Systems · infrastructure · enablement |
+| **WARENA** | Systems · infrastructure · enablement · **configuration home** |
 | **IKAI** | Reflective-compute research · not a product |
 | **GENJE ZA WARENA** | Cultural identity / motivating idea · not a shop |
 
@@ -56,7 +56,7 @@ Social posts do not automatically enter the corpus. Material must be recorded, r
 
 Apply the following hierarchy when writing or reviewing public copy:
 
-1. **NAKEBUSEN Locs** leads the current customer-facing offer: loc care in **Eldoret Town / Karibu Mdosi**. Published Eldoret campaign starting prices are Retouch & Styling from KES 700+, Sisterlocs Retie from KES 1,500+, and Artificial Locs Installation from KES 3,500+. Confirm availability, scope and final price directly; an enquiry is not a booking. Braiding is not offered.
+1. **NAKEBUSEN Locs** leads the current customer-facing offer: loc care in **Eldoret Town / Karibu Mdosi**. Published Eldoret campaign starting prices are Retouch & Styling from KES 700+, **LOCS Retie** from KES 1,500+, and Artificial Locs Installation from KES 3,500+. Confirm availability, scope and final price directly; an enquiry is not a booking. Braiding is not offered.
 2. **WARENA** describes inspectable, maintainable, local-first computing and systems engineering. Do not imply a deployment or service outcome without implementation evidence.
 3. **GENJE** describes Genge, AfroTech, livecoding, movement and choreohacking as creative practice; distinguish research, prototypes and released works.
 4. **IKAI** is reflective-compute research / work in progress, not a released product or a clinical, scoring, identification or surveillance system.
@@ -82,13 +82,17 @@ A commit is not a deployment. An upstream version is not a host. Mark **UNKNOWN*
 | [donfelohke.github.io](https://github.com/donfelohke/donfelohke.github.io) | Public site |
 | **feloh-corpus** | Canon · governance · evidence |
 | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Enterprise documentation |
-| [WARENA](https://github.com/donfelohke/WARENA) | Systems · stack register |
+| [WARENA](https://github.com/donfelohke/WARENA) | Systems · stack register · **configuration home** |
+| [dwl-guile](https://github.com/donfelohke/dwl-guile) | Guile compositor fork (WARENA research) |
+| [home-service-dwl-guile](https://github.com/donfelohke/home-service-dwl-guile) | Guix Home service fork (WARENA research) |
 | [Genje](https://github.com/donfelohke/Genje) | Creative practice |
 | [Ikai](https://github.com/donfelohke/Ikai) | Reflective research |
 | [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
 | [donfelohke](https://github.com/donfelohke/donfelohke) | Profile README |
 
 **Current maturity:** RESEARCH / DOCUMENTATION BASELINE. Verify independently before treating any capability as operational.
+
+There is no separate `warena-rde` repository. RDE remains an upstream pin; configuration policy lives in WARENA. See [WARENA fork architecture](https://github.com/donfelohke/WARENA/blob/main/docs/FORK-AND-CONFIGURATION-ARCHITECTURE-2026-11.md).
 
 ---
 
@@ -107,4 +111,4 @@ The shared dossier investigates African self-naming, philosophies of existence, 
 
 ## Desktop-stack cross-project alignment — 2026-11
 
-The corpus records cross-domain boundaries; WARENA owns technical implementation detail. See [Cross-Project Desktop Stack Alignment](docs/desktop-stack-alignment-2026-11.md) and the [WARENA technical decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). This is research, not a deployment claim.
+The corpus records cross-domain boundaries; WARENA owns technical implementation detail and configuration policy. See [Cross-Project Desktop Stack Alignment](docs/desktop-stack-alignment-2026-11.md) and the [WARENA technical decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). This is research, not a deployment claim.
