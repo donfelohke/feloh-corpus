@@ -109,3 +109,63 @@ This is a research question, not a claim that Labanotation is itself reflective 
 - **NOT ESTABLISHED:** any validated IKAI feature, sensor pipeline, automated notation interpreter, participant study, or deployment.
 
 **Source integrity rule:** Keep direct source statements, researcher interpretation, owner decisions and implementation evidence in separate records. A citation is not an endorsement; a design proposal is not an experiment; a prototype is not validation.
+
+ 
+## 6. Further source review — method, embodiment and African dance documentation
+
+### 6.1 Reflective Computing: what the abstract establishes and what remains open
+
+The arXiv abstract directly reports:
+- 134 interactive systems drawn from 17 ACM venues over 1996–2026;
+- a two-phase approach: abductive gap analysis, then two-coder scoring against a codebook;
+- Krippendorff's alpha of 0.67–0.84 for five dimensions and ICC 0.82 for the overall score;
+- 51 systems in which the system sets the pace, 74 supporting only momentary use, 12 scaffolding reflection beyond description, and 56 papers silent about collected inner states;
+- an odds ratio of 13.5 for the association between user pace-setting and higher scores, controlling for paradigm and form as described in the abstract.
+
+These are **author-reported results**. An odds ratio is an association in the analysed sample, not evidence that changing pace control alone causes a 13.5-fold improvement. Inter-coder reliability does not, by itself, establish construct validity, representative sampling, or ethical adequacy. The abstract reports alpha for five dimensions, not all seven; the reason and the dimension-specific reliability treatment require full-method inspection.
+
+The source page establishes preprint metadata and the abstract. A browser retrieval of the PDF was unavailable during this follow-up; therefore, no new claim is made here about the full methods, appendices, codebook, supplementary files or paper's complete reference list. These remain a priority for manual full-text review.
+
+**Critical appraisal agenda**
+1. Reconstruct the venue and year inclusion criteria and search strategy; identify what was excluded.
+2. Inspect the 134-system selection table and check whether the set is reproducible from the stated criteria.
+3. Inspect the operational definitions, anchors and examples for every dimension.
+4. Establish which five dimensions received alpha estimates, how the other two were handled, and whether coder calibration or adjudication changed the data.
+5. Review missingness: silence in a paper is not proof that a system did or did not collect a particular kind of data.
+6. Check whether the reported odds ratio is adjusted for plausible confounders and inspect uncertainty intervals and model diagnostics in the full paper.
+7. Test whether the proposed paradigm is descriptive, normative, or both; avoid converting its dimensions into a simplistic product score.
+
+### 6.2 Labanotation in African dance documentation: stronger regional evidence
+
+The literature is not limited to the Wikipedia summary.
+
+**Latipher Amma Osei (2020), “Documenting Ghanaian dances through Labanotation,” African Research Review 14(2), 112–120.** The University of Education, Winneba institutional record says the paper examines Labanotation as one possible approach to safeguarding Ghanaian dances, discusses challenges when applying it to African dances, and considers combining notation with cinematography. The record describes oral, aural and observational transmission as existing preservation practices. This is directly relevant to GENJE, but it is a Ghana-specific scholarly discussion, not a universal statement about all African dance.
+
+**Felix Akinsipe (2015), “Development of ‘Stick Figure’ Notation for African Dances.”** The University of Ilorin repository abstract argues that existing notations have not adequately captured some African dance forms and proposes developing stick-figure notation to address timing and direction. Treat this as one author's research argument and proposal, not an established consensus or a validated notation standard. The repository exposes a very large RTF file; full-text review is still needed before evaluating the proposed notation.
+
+**Odette Blum, *African Dances and Games*.** The Dance Notation Bureau's 2026 archive note reports that Blum taught modern dance and Labanotation at the University of Ghana from 1966 to 1968, then filmed and notated Ghanaian dances. The described publication combines dance-style and cultural/historical context, rhythm, and Labanotation. The DNB says the examples are from Ghana except Agide from Nigeria. The PDF is explicitly restricted to educational/research use and may not be shared, reproduced or sold without permission. This is an archive lead, not permission to republish its score images.
+
+**Grim-Feinberg and Wong Santos, “Movement Notation and the Analysis of Embodied Knowledge: Three Ethnographic Examples,” Journal for the Anthropological Study of Human Movement 22(2).** Their Lahu Na Shehleh case is especially instructive: initial video-derived scores were revised through collaboration with a Lahu dancer, who corrected phrase boundaries, counts, mistakes, and stylistic details. The paper also reports that video and audio were needed alongside notation for teaching. This demonstrates that notation is not a substitute for community expertise; the score improved through performer knowledge, dialogue and embodied reconstruction. Their article also discusses how notation can support analysis of spatial relations and tacit social practices.
+
+### 6.3 Research synthesis
+
+The evidence supports a **plural documentation protocol**, not a universal notation mandate:
+
+- community-held oral, aural, demonstrative and participatory transmission remains primary where communities identify it as such;
+- notation can preserve selected structural details and support comparison, rehearsal and teaching;
+- film and audio can preserve timing, musical cues, spatial relations and qualities not obvious from a score;
+- participant and practitioner interpretation is needed to identify what the movement means, what counts as a phrase, and which variations matter;
+- community control, permissions and culturally specific context must govern the archive.
+
+This synthesis is consistent with the Ghanaian sources and the Lahu ethnographic case. It does not establish that Labanotation is unsuitable for African movement generally, nor that one alternative notation is superior. Those claims require comparative, community-led study.
+
+### 6.4 New research questions for FELOH / GENJE
+
+1. Which movement elements do Turkana, Ateker, Genge and other locally situated practitioners consider essential to documenting a specific practice?
+2. Who has authority to name a movement, phrase, rhythm, variation or performance context?
+3. What is lost when a movement is transcribed without its music, language, social function, costume, space and audience interaction?
+4. Which combination of oral testimony, practitioner demonstration, audio, video, diagrams, notation and performer-authored annotation is useful and acceptable for a given community?
+5. How can a score be revised, contested, withheld or withdrawn by its knowledge holders?
+6. What parts of a performance should not be recorded or publicly archived?
+
+No claims about Turkana movement vocabularies or community practice are made by these external sources. Local research must begin with practitioners and consent, not by mapping them into an imported framework.
