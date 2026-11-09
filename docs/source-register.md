@@ -77,3 +77,46 @@ Do not leave example IDs in a published research report as if they were real fin
 ## Status
 
 This register defines a proposed process. It does not assert that any complete source inventory or annotated bibliography has already been compiled.
+
+
+## Curated foundational sources — 2026-11-09
+
+These are initial source records, not a claim that every linked book, chapter, or resource has been exhaustively read.
+
+### SRC-FOUND-ALG-001 — Algorave general guidelines
+- **Author / institution:** Algorave community contributors
+- **Type:** Community-sourced guidance in a public repository
+- **Version / date:** master branch; no publication date established from the reviewed page
+- **URL:** https://github.com/Algorave/guidelines/blob/master/README_en.md
+- **Accessed:** 2026-11-09
+- **Domain:** GENJE / FELOH creative computing and live-coding practice
+- **Use:** Community norms, artistic process visibility, diversity, accessibility, safety and local community building.
+- **Limitations:** Not a legal standard, complete history or mandatory event specification. The source invites adaptation.
+- **Editorial label:** VERIFIED (page content); INTERPRETATION (local application).
+- **Review status:** Read (English README); further review of linked code of conduct and community resources remains open.
+
+### SRC-FOUND-UNESCO-GHA-001 — UNESCO General History of Africa
+- **Author / institution:** UNESCO; International Scientific Committee and contributing historians/specialists
+- **Type:** Institutional scholarly collection / publication portal
+- **Version / date:** Multi-volume collection; portal accessed 2026-11-09
+- **URL:** https://www.unesco.org/en/general-history-africa
+- **Accessed:** 2026-11-09
+- **Domain:** African history, historiography, knowledge systems and cultural context
+- **Use:** Locate relevant volumes, methodologies, bibliographies and period/region-specific scholarship.
+- **Limitations:** Portal summaries are not substitutes for volume-level evidence or regional and community-specific scholarship. Cite exact volumes and pages for substantive historical claims.
+- **Editorial label:** VERIFIED (collection metadata and portal description); individual historical claims require independent volume-level review.
+- **Review status:** Read (collection portal); volumes not yet systematically reviewed.
+
+### SRC-FOUND-TYCS-001 — Teach Yourself Computer Science
+- **Author / institution:** TeachYourselfCS contributors; site attribution to be checked for formal citation
+- **Type:** Curated educational guide / bibliography
+- **Version / date:** Site states extensive update in May 2020
+- **URL:** https://teachyourselfcs.com/
+- **Accessed:** 2026-11-09
+- **Domain:** Computer science education / WARENA learning architecture
+- **Use:** Nine-subject foundation map: programming, architecture, algorithms/data structures, CS mathematics, operating systems, networking, databases, languages/compilers and distributed systems.
+- **Limitations:** Not a live course catalogue or credential. Recheck editions, course versions, availability and learner prerequisites. The guide is aimed at programmers seeking deeper CS foundations.
+- **Editorial label:** VERIFIED (site's stated syllabus and recommendations); PROPOSAL (local curriculum adoption).
+- **Review status:** Read (main page and subject overview); individual books/courses not yet validated or completed.
+
+Link to the Foundational Reference Map (foundational-reference-map-2026-11.md) for the cross-domain interpretation and application boundaries.
