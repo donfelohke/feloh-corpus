@@ -62,6 +62,9 @@ feloh-corpus/                          # CANON HOME
 │   ├── research-briefs/
 │   │   ├── continental-atlas-and-populations-2026-11.md  # LIVE
 │   │   ├── nakebusen-name-exploration-2026-11.md         # LIVE · architecture approved 2026-11-11
+│   │   ├── warena-name-exploration-2026-11.md            # RESEARCH · authored acronym; etymology open
+│   │   ├── ikai-name-exploration-2026-11.md              # RESEARCH · functional identity; etymology open
+│   │   └── genje-name-exploration-2026-11.md              # RESEARCH · creative interpretation; etymology open
 │   │   └── …
 │   └── releases/                      # PLANNED
 ├── research/                          # LIVE scaffold
@@ -100,6 +103,9 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | IKAI maturity | Always WIP / research | LIVE rule |
 | Before Africa research programme | `docs/before-africa-research-dossier-2026-11-07.md` + research-briefs | LIVE (research maturity) |
 | NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE · architecture approved 2026-11-11 |
+| WARENA name exploration | `docs/research-briefs/warena-name-exploration-2026-11.md` | RESEARCH · authored acronym; etymology open |
+| IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | RESEARCH · functional identity; etymology open |
+| GENJE name exploration | `docs/research-briefs/genje-name-exploration-2026-11.md` | RESEARCH · creative interpretation; etymology open |
 
 ---
 
@@ -123,6 +129,9 @@ Cross-repo research notes:
 - Genje: `docs/BEFORE-AFRICA-LIVITY-AND-EMBODIED-KNOWLEDGE-2026-11-07.md`
 - Ikai: `docs/BEFORE-AFRICA-EXISTENCE-AND-KNOWLEDGE-2026-11-07.md`
 - NAKEBUSEN: `docs/NAKEBUSEN-NAME-NOTE.md` (pointer to corpus brief)
+- WARENA: `docs/WARENA-NAME-NOTE.md` (pointer to corpus brief)
+- IKAI: `docs/IKAI-NAME-NOTE.md` (pointer to corpus brief)
+- GENJE: `docs/GENJE-NAME-NOTE.md` (pointer to corpus brief)
 
 ---
 
@@ -147,6 +156,9 @@ Cross-repo research notes:
 | Before Africa master dossier | **LIVE** (expanded 2026-11-11) |
 | Continental atlas & populations brief | **LIVE** |
 | NAKEBUSEN name exploration brief | **LIVE · architecture approved 2026-11-11** |
+| WARENA name exploration brief | **RESEARCH · authored acronym recorded** |
+| IKAI name exploration brief | **RESEARCH · etymology undocumented** |
+| GENJE name exploration brief | **RESEARCH · creative interpretation recorded** |
 | Website audience hierarchy (EN) | Pages workflow succeeded for main; live browser rendering not independently re-checked in this update |
 | English default + Kiswahili toggle | PR status as previously recorded |
 | Gallery approved assets | No assets inventoried or approved in `Gallery/ASSET-MANIFEST.md` |
