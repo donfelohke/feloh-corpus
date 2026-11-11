@@ -103,37 +103,37 @@ This catalogue records traceable scholarly and institutional resources for the B
 
 ## 5. Languages, oral history and historical method
 
-21. **Vossen, R. & Dimmendaal, G. J. (eds.) (2020). _The Oxford Handbook of African Languages_. Oxford University Press.**  
+22. **Vossen, R. & Dimmendaal, G. J. (eds.) (2020). _The Oxford Handbook of African Languages_. Oxford University Press.**  
     https://doi.org/10.1093/oxfordhb/9780199609895.001.0001  
     Major reference for African language classification, historical linguistics, contact, sociolinguistics and orature. Treat Nilo-Saharan classification as debated and avoid treating “Khoisan” as a single established language family.
 
-22. **Mobley, C. (2018). “Documentary Sources and Methods for Precolonial African History.” _Oxford Research Encyclopedia of African History_.**  
+23. **Mobley, C. (2018). “Documentary Sources and Methods for Precolonial African History.” _Oxford Research Encyclopedia of African History_.**  
     https://doi.org/10.1093/acrefore/9780190277734.013.150  
     Methodological guidance on reading written records critically and triangulating documentary evidence with archaeology, linguistics, ethnography, oral tradition, genetics and environmental history.
 
-23. **Belcher, S. (2018). “Oral Traditions as Sources.” _Oxford Research Encyclopedia of African History_.**  
+24. **Belcher, S. (2018). “Oral Traditions as Sources.” _Oxford Research Encyclopedia of African History_.**  
     https://doi.org/10.1093/acrefore/9780190277734.013.363  
     Methodological introduction to the collection, analysis and presentation of oral traditions as historical sources.
 
-24. **UNESCO. _General History of Africa_ (Volumes I–XI collection).**  
+25. **UNESCO. _General History of Africa_ (Volumes I–XI collection).**  
     https://www.unesco.org/en/general-history-africa?hub=180364  
     Major African-centred scholarly collection. Use individual volume chapters and bibliographies rather than citing the series generically.
 
-25. **Harvard African Language Program. “Introduction to African Languages.”**  
+26. **Harvard African Language Program. “Introduction to African Languages.”**  
     https://alp.fas.harvard.edu/introduction-african-languages  
     Introductory resource only. For disputed higher-level classifications, use specialist comparative-linguistic scholarship such as the Oxford Handbook.
 
 ## 6. Research ethics, heritage authority and governance
 
-26. **Gibbon, V. E. (2020). “African ancient DNA research requires robust ethics and permission protocols.” _Nature Reviews Genetics_ 21, 645–647.**  
+27. **Gibbon, V. E. (2020). “African ancient DNA research requires robust ethics and permission protocols.” _Nature Reviews Genetics_ 21, 645–647.**  
     https://www.nature.com/articles/s41576-020-00285-w  
     Calls attention to the gap between ethics and permission requirements for research on living people and ancient human remains.
 
-27. **“Charting a landmark-driven path forward for population genetics and ancient DNA research in Africa.” (2024). _The American Journal of Human Genetics_ 111, 1243–1251.**  
+28. **“Charting a landmark-driven path forward for population genetics and ancient DNA research in Africa.” (2024). _The American Journal of Human Genetics_ 111, 1243–1251.**  
     https://doi.org/10.1016/j.ajhg.2024.05.019  
     Argues for African scholarly leadership, local institutional capacity and community partnership in African population-genetics and ancient-DNA research.
 
-28. **UNESCO World Heritage Centre — World Heritage List and state-of-conservation resources.**  
+29. **UNESCO World Heritage Centre — World Heritage List and state-of-conservation resources.**  
     https://whc.unesco.org/  
     Use site-specific records for heritage status, threats and conservation context. A World Heritage listing is not a substitute for local community consultation or national heritage law.
 
