@@ -1,6 +1,6 @@
 # FELOH / NAKEBUSEN — Complete documentation tree
 
-**Status:** CANONICAL ARCHITECTURE · 25 October 2026  
+**Status:** CANONICAL ARCHITECTURE · Updated 11 November 2026  
 **Owner of this map:** feloh-corpus  
 **Rule:** One source of truth per fact · conceptual plan ≠ implemented system · ONLY NAKEBUSEN TRANSACTS
 
@@ -52,12 +52,16 @@ feloh-corpus/                          # CANON HOME
 ├── docs/
 │   ├── README.md                      # LIVE
 │   ├── portfolio-decision-2026-10-31.md # LIVE · current portfolio and launch direction
+│   ├── before-africa-research-dossier-2026-11-07.md  # LIVE · expanded 2026-11-11
 │   ├── glossary.md                    # LIVE
 │   ├── public-presence.md             # LIVE
 │   ├── decision-provenance.md         # LIVE
 │   ├── succession.md                  # LIVE
 │   ├── ai-automation-architecture.md  # LIVE
 │   ├── MASTER-TOPIC-REGISTER.md       # LIVE · programme topic index
+│   ├── research-briefs/
+│   │   ├── continental-atlas-and-populations-2026-11.md  # LIVE
+│   │   └── …
 │   └── releases/                      # PLANNED
 ├── research/                          # LIVE scaffold
 │   ├── README.md
@@ -89,16 +93,19 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | Evidence labels | `EVIDENCE-AND-EDITORIAL-STANDARDS.md` | LIVE |
 | Public handles / sameAs | `docs/public-presence.md` | LIVE |
 | Website design (no graphics) | site WEB-DESIGN-STANDARDS | LIVE |
-| Public language policy (English default; Kiswahili toggle) | Website WEBCOPY + PR #33 | PARTIAL — PR #27 is closed/superseded; PR #33 remains open |
-| Gallery asset approval | Gallery/ASSET-MANIFEST.md + ASSET-APPROVAL-WORKFLOW.md | INITIAL INVENTORY DOCUMENTED; no assets inventoried or approved |
+| Public language policy (English default; Kiswahili toggle) | Website WEBCOPY + PR #33 | PARTIAL |
+| Gallery asset approval | Gallery/ASSET-MANIFEST.md + ASSET-APPROVAL-WORKFLOW.md | INITIAL INVENTORY DOCUMENTED |
 | WARENA stack / RDE | WARENA docs | PARTIAL |
 | IKAI maturity | Always WIP / research | LIVE rule |
+| Before Africa research programme | `docs/before-africa-research-dossier-2026-11-07.md` + research-briefs | LIVE (research maturity) |
 
 ---
 
 ## 4. Master topic → documentation file
 
 | — | Current portfolio and GENJE launch direction | **docs/portfolio-decision-2026-10-31.md** |
+| — | Before Africa (naming, populations, knowledge, heritage) | **docs/before-africa-research-dossier-2026-11-07.md** |
+| — | Continental atlas & populations brief | **docs/research-briefs/continental-atlas-and-populations-2026-11.md** |
 
 | # | Topic | Primary docs |
 |---|--------|--------------|
@@ -108,6 +115,12 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | — | Website | donfelohke.github.io docs + index.html |
 | — | Brand | BRAND-CONSTITUTION · glossary |
 | — | AI | docs/ai-automation-architecture.md |
+
+Cross-repo research notes:
+- Genje: `docs/BEFORE-AFRICA-LIVITY-AND-EMBODIED-KNOWLEDGE-2026-11-07.md`
+- Ikai: `docs/BEFORE-AFRICA-EXISTENCE-AND-KNOWLEDGE-2026-11-07.md`
+
+Both link to the corpus master dossier.
 
 ---
 
@@ -121,7 +134,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 
 ---
 
-## 6. Implementation status snapshot (25 Oct 2026; portfolio decision addendum 31 Oct 2026)
+## 6. Implementation status snapshot (updated 11 Nov 2026)
 
 | Deliverable | Status |
 |-------------|--------|
@@ -129,10 +142,12 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | Master Topic Register | **LIVE** |
 | Evidence editorial standards | **LIVE** |
 | Research bibliography v0.1 | **LIVE** scaffold |
-| Website audience hierarchy (EN) | Pages workflow succeeded for main commit `e0fc5f6631bb`; live browser rendering not independently checked in this audit |
-| English default + Kiswahili toggle | PR #33 open; PR #37 is stacked on #33; PR #37 automated checks passed, but browser verification remains pending |
+| Before Africa master dossier | **LIVE** (expanded 2026-11-11) |
+| Continental atlas & populations brief | **LIVE** |
+| Website audience hierarchy (EN) | Pages workflow succeeded for main; live browser rendering not independently re-checked in this update |
+| English default + Kiswahili toggle | PR status as previously recorded |
 | Gallery approved assets | No assets inventoried or approved in `Gallery/ASSET-MANIFEST.md` |
-| Cultural research index (deep) | PLANNED beyond register |
+| Cultural research index (deep) | Advanced via Before Africa dossier |
 
 **Governing rule:** one source of truth per fact · clear links · preserved originals · reviewable changes · no implementation claim without evidence.
 
