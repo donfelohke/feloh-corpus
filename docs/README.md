@@ -52,3 +52,5 @@ Use the status labels defined in [Decision provenance](decision-provenance.md) a
 ## Maintenance
 
 When adding a document, link it here if it is intended for ongoing use. Keep links relative so the repository remains usable when cloned or read offline. If a shared definition changes, update the canonical record first and then review dependent views.
+
+- [Labanotation and Reflective Computing research brief](research/labanotation-and-reflective-computing-2026-11.md) — source-first review of arXiv:2610.35696v1 and Labanotation, with methodological, cultural and rights boundaries.
