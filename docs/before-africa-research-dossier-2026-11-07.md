@@ -200,3 +200,37 @@ The histories of African peoples do not begin with the word “Africa,” nor ar
 
 ---
 **Maintainer:** FELOH Sovereign Corpus · **Author:** Felix Lwova / Don Feloh · **Status:** living research framework · **Last expanded:** 11 November 2026
+
+
+## 15. Research update — source verification and population-genetics qualifications (11 November 2026)
+
+The annotated bibliography, source links and research-material acquisition checklist are maintained in [Before Africa — Source Catalogue, Materials and Research Resources](research-briefs/before-africa-source-catalogue-2026-11.md). This catalogue is the working reference register; the present dossier remains the conceptual and methodological source of record.
+
+### Takarkori: precise scope of the 2025 result
+
+Salem et al. (2025), *Nature* 641, 144–150, analysed two female individuals from Takarkori in southwestern Libya, directly dated to approximately 7,158–6,281 calibrated years BP. The authors' preferred admixture graph models approximately 93% ancestry from a previously unsampled North African lineage and 7% from a deeply ancient Levantine-related source. Their analyses find limited evidence of substantial sub-Saharan-to-northern African gene flow in these individuals and the periods represented. The study revises the interpretation of the African-related component in Taforalt through a Takarkori-related proxy in one model.
+
+**Qualification:** the 93:7 proportions are model-dependent estimates, not ethnic or racial identities. Two people from one site cannot stand for all Saharan populations. “No detectable” or “limited evidence” must not be rewritten as proof that contact never occurred, that no gene flow occurred in the opposite direction, or that all earlier/later humid phases had the same demographic pattern. The study supports substantial cultural transmission in the local spread of pastoralism, not a universal explanation for pastoralism across Africa.
+
+### Southern African genomes: publication and sampling details
+
+Jakobsson et al., “Homo sapiens-specific evolution unveiled by ancient southern African genomes,” *Nature* 650, 156–163 (2026), DOI [10.1038/s41586-025-09811-4](https://doi.org/10.1038/s41586-025-09811-4), was published online on 3 December 2025 and appears in the 5 February 2026 issue. It reports whole-genome data from 28 ancient individuals from south of the Limpopo River, dated approximately 10,200–150 calibrated years BP. The authors report little spatiotemporal stratification across roughly 9,000 years in their sampled material; all sampled individuals older than approximately 1,400 cal BP fall outside the range of variation represented in their modern comparison sample. The paper also reports substantial, but variable, ancient southern African ancestry among present-day Khoe-San groups.
+
+**Qualification:** the study is geographically and temporally sampled, not a census of southern Africa. Its continuity result applies to the sampled individuals and statistical tests; it does not mean every community remained unchanged, nor does it erase later admixture, cultural change or distinct Khoe-San histories. Distinguish the online publication date from the 2026 journal issue date.
+
+### Sub-Saharan forager structure
+
+Lipson et al. (2022), *Nature* 603, 290–296, analysed six new ancient genomes from eastern and south-central Africa spanning approximately 18,000 years, alongside other published ancient individuals. Its inferred ancestry sources are statistical proxies in demographic models, not named prehistoric peoples or fixed ethnic groups. Avoid presenting the model as a definitive three-tribe or three-race structure for all sub-Saharan Africa.
+
+### Deep-time chronology anchors added to the source register
+
+- Lomekwi 3, West Turkana: stone artefacts dated to approximately 3.3 million years ago; the assemblage predates Oldowan technology and was made by earlier hominins, not known Homo sapiens.
+- Olorgesailie Basin: Middle Stone Age contexts approximately 320,000–295,000 years ago document prepared cores, points, pigment and procurement of non-local stone from at least 25–50 km.
+- Jebel Irhoud: fossils and associated Middle Stone Age evidence dated to approximately 315 ± 34 thousand years ago.
+- Omo I, Ethiopia: revised minimum age 233 ± 22 thousand years ago; this is a minimum age, not an exact age.
+- Blombos Cave: engraved ochre from contexts around 75–100 thousand years ago; interpret in the full archaeological sequence.
+- Ounjougou, Mali: ceramic sherds in a sequence dated before 9400 calibrated BCE; pottery is not evidence by itself of farming or sedentism.
+
+For full citations, access links and interpretive limits, use the source catalogue.
+
+**Editorial rule:** empirical result, authors' model, subsequent synthesis and project interpretation must remain distinguishable in every future update.

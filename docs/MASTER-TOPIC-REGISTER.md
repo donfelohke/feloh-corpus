@@ -208,3 +208,13 @@ Each topic should eventually carry: stable ID and title; scope and research ques
 **Canonical principle:** one shared research and documentation system · multiple specialised projects · traceable sources · independently reviewable changes.
 
 This register consolidates known programme topics. It is **not** a verified inventory of every file, conversation, repository or unpublished work.
+
+
+## Before Africa research asset register — 11 November 2026
+
+- **Framework / canon:** [Before Africa master dossier](before-africa-research-dossier-2026-11-07.md).
+- **Regional synthesis:** [Continental atlas and populations brief](research-briefs/continental-atlas-and-populations-2026-11.md).
+- **Annotated references and materials:** [Before Africa source catalogue](research-briefs/before-africa-source-catalogue-2026-11.md).
+- **Specialist interpretive views:** GENJE livity/embodied knowledge and IKAI existence/knowledge notes, each linked from the documentation tree.
+
+The source catalogue is RESEARCH maturity. It does not establish that every listed resource has been fully read, every dataset downloaded, or every research gap resolved.
