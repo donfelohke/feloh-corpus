@@ -19,14 +19,14 @@ The connected GitHub repository listing returned these eight public repositories
 
 | Repository | Responsibility | Observed automation baseline |
 |---|---|---|
-| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canonical definitions, governance, evidence, decisions and shared research | No workflow runs returned by the Actions runs endpoint during this inspection; a custom-skills PR is open |
-| [WARENA](https://github.com/donfelohke/WARENA) | Systems, reproducibility, infrastructure and recovery | `validate.yml`; latest inspected run succeeded |
-| [Genje](https://github.com/donfelohke/Genje) | Creative technology, performance and embodied practice | `validate.yml`; latest inspected run succeeded |
-| [Ikai](https://github.com/donfelohke/Ikai) | Reflective-compute research and privacy boundaries | `validate.yml`; latest inspected run succeeded |
-| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Beauty craft, approved public information and business operations | `validate.yml`; latest inspected run succeeded |
-| [donfelohke.github.io](https://github.com/donfelohke/donfelohke.github.io) | Public website | `html-check.yml` and `pages.yml`; latest inspected HTML check and Pages deployment succeeded |
-| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets, provenance, rights and approvals | No workflow runs returned by the Actions runs endpoint during this inspection; manifest exists |
-| [donfelohke](https://github.com/donfelohke/donfelohke) | GitHub profile presentation | No workflow runs returned by the Actions runs endpoint during this inspection |
+| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canonical definitions, governance, evidence, decisions and shared research | No workflow runs returned; the repository contains the proposed custom-skill pack; PR [#5](https://github.com/donfelohke/feloh-corpus/pull/5) is open for the Sun Burn archive scaffold |
+| [WARENA](https://github.com/donfelohke/WARENA) | Systems, reproducibility, infrastructure and recovery | `validate.yml`; latest inspected main-branch run succeeded |
+| [Genje](https://github.com/donfelohke/Genje) | Creative technology, performance and embodied practice | `validate.yml`; latest inspected main-branch run succeeded |
+| [Ikai](https://github.com/donfelohke/Ikai) | Reflective-compute research and privacy boundaries | `validate.yml`; latest inspected main-branch run succeeded |
+| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Beauty craft, approved public information and business operations | `validate.yml`; latest inspected main-branch run succeeded |
+| [donfelohke.github.io](https://github.com/donfelohke/donfelohke.github.io) | Public website | Current `main` source at the latest inspected base includes Open Graph description, text-only theme control and Organization JSON-LD. Current main workflow outcome was not retrieved in this refresh. PR [#27](https://github.com/donfelohke/donfelohke.github.io/pull/27) proposes Kiswahili-first copy, language controls, stronger tests and SHA-pinned actions; its latest inspected static workflow passed. PRs #23–#25 report non-mergeable and need reconciliation. |
+| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets, provenance, rights and approvals | Main has no workflow runs; PR [#4](https://github.com/donfelohke/Gallery/pull/4) adds agent guidance and governance CI, and its first PR check passed |
+| [donfelohke](https://github.com/donfelohke/donfelohke) | GitHub profile presentation | No workflow runs returned; recursive tree contains only `README.md` and no repository-local workflow or `AGENTS.md` |
 
 Run results are point-in-time observations, not full historical or security audits. An empty Actions run listing does not establish that Actions is disabled. Repository contents and settings must be rechecked before implementation.
 
@@ -127,7 +127,7 @@ A check must validate real requirements, not merely search for a phrase. Missing
 
 ## 8. Custom skills and AI agents
 
-The corpus currently has an open pull request, [#3 — Add conversation-derived FELOH custom skill pack](https://github.com/donfelohke/feloh-corpus/pull/3). Review that proposal as the domain-specific instruction layer; this document describes the wider operating architecture and does not duplicate the skills.
+The corpus tree currently contains the conversation-derived skill pack under `skills/`, including the Sovereign Repository Steward and domain-specific skills. Its README marks the pack PROPOSED and asks for review before adoption. The existence of these files does not install them into GitHub Copilot, ChatGPT, or another agent; this document describes the wider operating architecture and does not duplicate the skills.
 
 Recommended skill contract:
 
@@ -200,7 +200,7 @@ A targeted read of the following workflow files was completed after the initial 
 
 **Follow-up findings and limits:**
 
-- The two website workflows use version tags for third-party actions (`actions/checkout@v4`, `actions/configure-pages@v5`, `actions/upload-pages-artifact@v3`, `actions/deploy-pages@v4`) rather than full commit-SHA pins. This is a hardening opportunity; verify trusted upstream SHAs and update in a separate reviewed change rather than guessing hashes.
+- The current website `main` workflows use version tags (`actions/checkout@v7`, `actions/configure-pages@v6`, `actions/upload-pages-artifact@v5`, `actions/deploy-pages@v5`) rather than full commit-SHA pins. Website PR #27 now proposes reviewed full-SHA pins for both validation and Pages deployment. Those pins are on the PR branch only until reviewed and merged.
 - The four documentation-validation workflows inspected use a full commit-SHA pin for `actions/checkout`.
 - A targeted search did not find `pull_request_target` in those five repositories' indexed workflow files. This is not a complete proof that no such trigger exists in any workflow or branch.
 - This inspection did **not** retrieve repository rulesets, branch protection, default workflow-token settings, secret access, app-installation permissions or environment protection rules. Those remain unknown.
@@ -222,3 +222,31 @@ Treat these as **UNKNOWN until independently verified**. Re-run the inventory be
 
 ---
 **Conclusion:** build a reviewable proposal pipeline before granting autonomous write authority. AI should increase research speed and reduce repetitive maintenance while preserving human authorship, least privilege, evidence quality and domain boundaries.
+
+
+## 10. Follow-up evidence from the 2026-10-25 audit
+
+This section records the results of the later read-only audit and must be refreshed when repository state changes.
+
+- **Website main (historical snapshot):** commit `1c143206d4d27ab9719ffb561bb9e6fbb69b775c` had a failed `Static HTML checks` run while Pages deployment succeeded. That commit is no longer the latest inspected PR base; current `main` source was re-read and includes an Open Graph description, text-only theme control and Organization JSON-LD. A current main-branch run result was not retrieved in this refresh, so do not repeat the old failure as current status.
+- **Website PR reconciliation:** PR [#23](https://github.com/donfelohke/donfelohke.github.io/pull/23) now reports non-mergeable against current `main`; do not merge it unchanged. Its useful theme/action-pin ideas were carried into PR [#27](https://github.com/donfelohke/donfelohke.github.io/pull/27). PRs [#24](https://github.com/donfelohke/donfelohke.github.io/pull/24) and [#25](https://github.com/donfelohke/donfelohke.github.io/pull/25) also report non-mergeable and overlap in copy, location, metadata and policy tests. PR #27 is the current integration candidate and is reported mergeable; its latest head `705299d72179ff6c49ec9153e79654f7c4e6a9ce` passed static validation at [run 40191667294](https://github.com/donfelohke/donfelohke.github.io/actions/runs/40191667294). That run covers static tests and simulated theme/language behaviour, not real-browser or viewport verification.
+- **Website documentation and legacy PRs:** PR [#19](https://github.com/donfelohke/donfelohke.github.io/pull/19) has been refreshed to distinguish current main from proposed changes and remove the stale PR #17 reference. PRs #16 and #19 were based on older main ancestors; PRs #20–#22 and #24–#25 remain open and require current-base reconciliation. No old branch should be merged wholesale.
+- **Gallery rights:** the repository contains a GPL-3.0 `LICENSE`, but the current README still says a repository-level code licence might be added later. PR [#2](https://github.com/donfelohke/Gallery/pull/2) corrects this wording and distinguishes repository code licensing from rights in individual curated assets. The manifest states that no assets have been inventoried or approved.
+- **Gallery automation:** PR [#4](https://github.com/donfelohke/Gallery/pull/4) adds `AGENTS.md` and a read-only governance-baseline workflow. Its initial pull-request workflow check passed; the workflow is not yet on main.
+- **Workflow security:** WARENA, Genje, Ikai and NAKEBUSEN have documentation-baseline workflows with `contents: read` and `actions/checkout` pinned to a full commit SHA. The Website workflows used version tags at the time of inspection; PR #23 proposes pinning the relevant actions. Gallery has no workflow on main until PR #4 is reviewed.
+- **Agent guidance rollout:** documentation-only `AGENTS.md` proposals are open in [WARENA #3](https://github.com/donfelohke/WARENA/pull/3), [Genje #3](https://github.com/donfelohke/Genje/pull/3), [Ikai #3](https://github.com/donfelohke/Ikai/pull/3), [NAKEBUSEN #3](https://github.com/donfelohke/NAKEBUSEN/pull/3), [Corpus #8](https://github.com/donfelohke/feloh-corpus/pull/8), and [Profile #1](https://github.com/donfelohke/donfelohke/pull/1). The four repositories with existing validation workflows passed their checks; Corpus and Profile have no workflow runs, so their instruction-file proposals have no CI evidence.
+- **Settings limitation:** attempts to read branch-protection endpoints returned HTTP 403 `Resource not accessible by integration` for all eight repositories. Branch protection, required reviews, and ruleset enforcement are therefore UNKNOWN from this audit; do not infer that protections are absent or enabled.
+- **Browser limitation:** source and CI checks were inspected, but no successful live browser session or viewport screenshots were available. Responsive layout, real keyboard interaction, live WhatsApp handoff, and deployed theme behavior remain NOT VERIFIED.
+
+## 14. Latest website and portfolio reconciliation — 2026-10-25
+
+This section supersedes earlier website status statements above where the inspected branch or PR state has changed.
+
+- **Website PR #27:** latest inspected head `705299d72179ff6c49ec9153e79654f7c4e6a9ce`; open and reported mergeable. Static workflow run [40191667294](https://github.com/donfelohke/donfelohke.github.io/actions/runs/40191667294) passed the HTML/content checks, inline JavaScript parser, and theme/language preference test. The test caught and led to correction of a language-handler syntax boundary and a test-harness mismatch during iteration. The final recorded run passed. No live-browser, screen-reader, viewport, or deployed-site verification was completed.
+- **Website PR #23:** open but reported non-mergeable; preserve for reference and do not merge unchanged. The current PR #27 branch includes reviewed full-SHA pins for `actions/checkout`, `actions/configure-pages`, `actions/upload-pages-artifact`, and `actions/deploy-pages`; these pins are not on main until reviewed and merged.
+- **Website PRs #24 and #25:** both open and reported non-mergeable. Their copy/metadata/policy changes overlap. Their PR bodies now document the need to port any unique approved improvements onto the current base rather than merge stale branches.
+- **Website public copy correction:** PR #27 removes the unverified home-visit promise and instead states that appointment times and availability are confirmed directly. The approved starting prices remain KES 700, KES 1,500 and KES 3,500; the primary location phrase remains Eldoret Town / Karibu Mdosi. Kiswahili is the default proposed language; the copy still needs fluent Kenyan Kiswahili editorial review.
+- **Website main status:** current main source inspected during this refresh contains an Open Graph description, a text-only theme control and Organization JSON-LD. A current main-branch workflow result was not retrieved. Do not describe the historical failure at `1c14320` as the current main state.
+- **Gallery:** PR #4 remains the proposed governance workflow and agent contract; PR #2 addresses licence wording and asset rights; PR #5 addresses public copy and approval status. No asset was approved by these changes. Review the current heads and CI before any merge.
+- **Other repository copy proposals:** [WARENA #4](https://github.com/donfelohke/WARENA/pull/4), [Genje #4](https://github.com/donfelohke/Genje/pull/4), [Ikai #4](https://github.com/donfelohke/Ikai/pull/4), [NAKEBUSEN #4](https://github.com/donfelohke/NAKEBUSEN/pull/4), [FELOH Corpus #10](https://github.com/donfelohke/feloh-corpus/pull/10), [Profile #2](https://github.com/donfelohke/donfelohke/pull/2) and [Gallery #5](https://github.com/donfelohke/Gallery/pull/5) were found open. The recorded PR-triggered validation runs for Genje #4, Ikai #4 and NAKEBUSEN #4 passed. No PR-triggered run was returned for WARENA #4, Corpus #10, Profile #2 or Gallery #5 in this inspection; this is not proof that no run exists. These are separate proposals and require repository-specific review; no portfolio-wide merge or production release was performed.
+- **No merge/deployment:** no PR was merged and no production deployment was triggered by this audit. Branch protection/ruleset configuration remains unknown because the integration could not read those settings.
