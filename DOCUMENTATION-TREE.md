@@ -61,7 +61,7 @@ feloh-corpus/                          # CANON HOME
 │   ├── MASTER-TOPIC-REGISTER.md       # LIVE · programme topic index
 │   ├── research-briefs/
 │   │   ├── continental-atlas-and-populations-2026-11.md  # LIVE
-│   │   ├── nakebusen-name-exploration-2026-11.md         # LIVE
+│   │   ├── nakebusen-name-exploration-2026-11.md         # LIVE · architecture approved 2026-11-11
 │   │   └── …
 │   └── releases/                      # PLANNED
 ├── research/                          # LIVE scaffold
@@ -99,7 +99,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | WARENA stack / RDE | WARENA docs | PARTIAL |
 | IKAI maturity | Always WIP / research | LIVE rule |
 | Before Africa research programme | `docs/before-africa-research-dossier-2026-11-07.md` + research-briefs | LIVE (research maturity) |
-| NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE (research maturity) |
+| NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE · architecture approved 2026-11-11 |
 
 ---
 
@@ -108,7 +108,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | — | Current portfolio and GENJE launch direction | **docs/portfolio-decision-2026-10-31.md** |
 | — | Before Africa (naming, populations, knowledge, heritage) | **docs/before-africa-research-dossier-2026-11-07.md** |
 | — | Continental atlas & populations brief | **docs/research-briefs/continental-atlas-and-populations-2026-11.md** |
-| — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** |
+| — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** (architecture approved 2026-11-11) |
 
 | # | Topic | Primary docs |
 |---|--------|--------------|
@@ -146,13 +146,18 @@ Cross-repo research notes:
 | Research bibliography v0.1 | **LIVE** scaffold |
 | Before Africa master dossier | **LIVE** (expanded 2026-11-11) |
 | Continental atlas & populations brief | **LIVE** |
-| NAKEBUSEN name exploration brief | **LIVE** |
+| NAKEBUSEN name exploration brief | **LIVE · architecture approved 2026-11-11** |
 | Website audience hierarchy (EN) | Pages workflow succeeded for main; live browser rendering not independently re-checked in this update |
 | English default + Kiswahili toggle | PR status as previously recorded |
 | Gallery approved assets | No assets inventoried or approved in `Gallery/ASSET-MANIFEST.md` |
 | Cultural research index (deep) | Advanced via Before Africa dossier |
 
 **Governing rule:** one source of truth per fact · clear links · preserved originals · reviewable changes · no implementation claim without evidence.
+
+**Name exploration standing rules (approved 11 Nov 2026):**
+- Turkana-rooted cultural association, community-reported meaning, unverified etymology.
+- Founder’s aesthetic interpretation of the name is not linguistic or morphological evidence.
+- Next recommended milestone: primary-source or community-verified Turkana pronunciation and lexical analysis with speaker attribution and permission.
 
 ## 7. Desktop-stack research ownership — 2026-11
 
