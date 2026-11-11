@@ -5,7 +5,7 @@ This glossary records working meanings for terms used across the corpus. A defin
 | Term | Working meaning | Boundary or note |
 |---|---|---|
 | FELOH | Human-authored generative and expressive practice within the wider ecosystem. | FELOH generates. |
-| NAKEBUSEN | Parent enterprise and only commercial interface, bringing beauty craft and practical digital services under one public identity. Current proposition: **Beautiful Roots. Sovereign Systems.** | See also [name exploration brief](research-briefs/nakebusen-name-exploration-2026-11.md). Claimed Turkana association “beautiful” is secondary/unverified; brand interpretation is distinct from settled etymology. |
+| NAKEBUSEN | Parent enterprise and only commercial interface, bringing beauty craft and practical digital services under one public identity. Current proposition: **Beautiful Roots. Sovereign Systems.** | See [name exploration brief](research-briefs/nakebusen-name-exploration-2026-11.md) (architecture approved 2026-11-11). Claimed Turkana association “beautiful” is secondary/unverified. Founder’s aesthetic interpretation is not linguistic or morphological evidence. |
 | LOCS · CROWN | NAKEBUSEN customer-facing path for loc care, styling and beauty craft. | Service scope, prices, location and availability require current approval. |
 | DIGITAL · WARENA | NAKEBUSEN customer-facing path for practical technology and systems services. | WARENA is the systems-engineering identity powering this practice. |
 | WARENA | Systems engineering, infrastructure, reproducibility and technical enablement. | WARENA enables; conceptual plans require implementation evidence. |
