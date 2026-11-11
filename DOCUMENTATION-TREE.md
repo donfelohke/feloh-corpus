@@ -159,3 +159,16 @@ Both link to the corpus master dossier.
 | Cross-project implications | [Desktop-stack alignment](docs/desktop-stack-alignment-2026-11.md) | Corpus owns cross-domain boundaries; no project inherits deployment claims |
 
 The current evaluation is GNU Guix + RDE foundation; Niri + Noctalia v5 practical candidate; Sway fallback/comparator; dwl-guile experimental; Nix/NixOS comparator. NAKEBUSEN DIGITAL may make compatibility claims only after documented service testing. IKAI and GENJE may consume validated infrastructure but do not own the desktop platform. Gallery's asset workflow remains independent.
+
+
+## 8. Before Africa — source catalogue and research materials (11 Nov 2026)
+
+| Resource | Canonical location | Status / role |
+|---|---|---|
+| Before Africa master dossier | [docs/before-africa-research-dossier-2026-11-07.md](docs/before-africa-research-dossier-2026-11-07.md) | LIVE · conceptual and methodological source of record |
+| Continental atlas & populations brief | [docs/research-briefs/continental-atlas-and-populations-2026-11.md](docs/research-briefs/continental-atlas-and-populations-2026-11.md) | LIVE · regional synthesis and population-history update |
+| Source catalogue, materials & research resources | [docs/research-briefs/before-africa-source-catalogue-2026-11.md](docs/research-briefs/before-africa-source-catalogue-2026-11.md) | NEW · annotated bibliography, stable links, methods, data and acquisition queue |
+| GENJE livity & embodied knowledge note | [Genje research note](https://github.com/donfelohke/Genje/blob/main/docs/BEFORE-AFRICA-LIVITY-AND-EMBODIED-KNOWLEDGE-2026-11-07.md) | Specialist interpretation · RESEARCH |
+| IKAI existence & knowledge note | [IKAI research note](https://github.com/donfelohke/Ikai/blob/main/docs/BEFORE-AFRICA-EXISTENCE-AND-KNOWLEDGE-2026-11-07.md) | Specialist interpretation · RESEARCH |
+
+**Reference governance:** cite primary papers for empirical findings; preserve DOI and version dates; record sample size, dating range, geography, uncertainty and model assumptions; distinguish empirical results from author interpretation and project synthesis. Link to restricted datasets rather than copying them. No product, deployment or scientific-validation claims are implied.
