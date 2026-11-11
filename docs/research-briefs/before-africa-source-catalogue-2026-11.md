@@ -93,8 +93,13 @@ This catalogue records traceable scholarly and institutional resources for the B
     https://www.nature.com/articles/s41586-023-06770-6  
     Large genomic study including 1,763 participants from 147 populations in 14 countries and ancient DNA. The Bantu expansion is a linguistic-demographic process with admixture and regional variation, not a biological race or simple continent-wide replacement.
 
-20. **Serre, D. et al. / Taforalt ancient-DNA research (2018) and Salem et al. (2025).**  
-    Use the original Taforalt study and the newer Takarkori analysis together. The 2025 model revises the interpretation of the earlier broadly “sub-Saharan-related” component in Taforalt. Always state the particular statistical model and reference populations.
+20. **van de Loosdrecht, M. et al. (2018). “Pleistocene North African genomes link Near Eastern and sub-Saharan African human populations.” _Science_ 360, 548–552.**  
+    https://doi.org/10.1126/science.aar8380  
+    Reports genome-wide data from seven ~15,000-year-old individuals associated with the Iberomaurusian culture at Taforalt, Morocco. The original analysis modelled a component using available sub-Saharan reference populations. Salem et al. (2025) subsequently tested Takarkori as a North African proxy and obtained a better-fitting model for the Taforalt-related component. These are successive model interpretations, not evidence that one ancient population was a modern racial or ethnic category.
+
+21. **Fregel, R. et al. (2018). “Ancient genomes from North Africa evidence prehistoric migrations to the Maghreb from both the Levant and Europe.” _PNAS_ 115, 6774–6779.**  
+    https://doi.org/10.1073/pnas.1800851115  
+    Ancient genomes from Moroccan Neolithic contexts and southern Iberia; useful for studying local continuity, agricultural adoption and later admixture. Do not collapse the Maghreb’s different prehistoric periods into one ancestry profile.
 
 ## 5. Languages, oral history and historical method
 
