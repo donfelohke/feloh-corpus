@@ -53,7 +53,7 @@ feloh-corpus/                          # CANON HOME
 │   ├── README.md                      # LIVE
 │   ├── portfolio-decision-2026-10-31.md # LIVE · current portfolio and launch direction
 │   ├── before-africa-research-dossier-2026-11-07.md  # LIVE · expanded 2026-11-11
-│   ├── glossary.md                    # LIVE
+│   ├── glossary.md                    # LIVE (updated 2026-11-11)
 │   ├── public-presence.md             # LIVE
 │   ├── decision-provenance.md         # LIVE
 │   ├── succession.md                  # LIVE
@@ -61,6 +61,7 @@ feloh-corpus/                          # CANON HOME
 │   ├── MASTER-TOPIC-REGISTER.md       # LIVE · programme topic index
 │   ├── research-briefs/
 │   │   ├── continental-atlas-and-populations-2026-11.md  # LIVE
+│   │   ├── nakebusen-name-exploration-2026-11.md         # LIVE
 │   │   └── …
 │   └── releases/                      # PLANNED
 ├── research/                          # LIVE scaffold
@@ -98,6 +99,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | WARENA stack / RDE | WARENA docs | PARTIAL |
 | IKAI maturity | Always WIP / research | LIVE rule |
 | Before Africa research programme | `docs/before-africa-research-dossier-2026-11-07.md` + research-briefs | LIVE (research maturity) |
+| NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE (research maturity) |
 
 ---
 
@@ -106,6 +108,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | — | Current portfolio and GENJE launch direction | **docs/portfolio-decision-2026-10-31.md** |
 | — | Before Africa (naming, populations, knowledge, heritage) | **docs/before-africa-research-dossier-2026-11-07.md** |
 | — | Continental atlas & populations brief | **docs/research-briefs/continental-atlas-and-populations-2026-11.md** |
+| — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** |
 
 | # | Topic | Primary docs |
 |---|--------|--------------|
@@ -119,8 +122,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 Cross-repo research notes:
 - Genje: `docs/BEFORE-AFRICA-LIVITY-AND-EMBODIED-KNOWLEDGE-2026-11-07.md`
 - Ikai: `docs/BEFORE-AFRICA-EXISTENCE-AND-KNOWLEDGE-2026-11-07.md`
-
-Both link to the corpus master dossier.
+- NAKEBUSEN: `docs/NAKEBUSEN-NAME-NOTE.md` (pointer to corpus brief)
 
 ---
 
@@ -144,6 +146,7 @@ Both link to the corpus master dossier.
 | Research bibliography v0.1 | **LIVE** scaffold |
 | Before Africa master dossier | **LIVE** (expanded 2026-11-11) |
 | Continental atlas & populations brief | **LIVE** |
+| NAKEBUSEN name exploration brief | **LIVE** |
 | Website audience hierarchy (EN) | Pages workflow succeeded for main; live browser rendering not independently re-checked in this update |
 | English default + Kiswahili toggle | PR status as previously recorded |
 | Gallery approved assets | No assets inventoried or approved in `Gallery/ASSET-MANIFEST.md` |
