@@ -52,3 +52,12 @@ Use the status labels defined in [Decision provenance](decision-provenance.md) a
 ## Maintenance
 
 When adding a document, link it here if it is intended for ongoing use. Keep links relative so the repository remains usable when cloned or read offline. If a shared definition changes, update the canonical record first and then review dependent views.
+
+
+## Before Africa research programme
+
+- [Before Africa master dossier](before-africa-research-dossier-2026-11-07.md) — naming, deep time, populations, knowledge, heritage, evidence protocol and seven-volume programme.
+- [Continental atlas & populations brief](research-briefs/continental-atlas-and-populations-2026-11.md) — regional framework, Green Sahara and population-history updates.
+- [Before Africa source catalogue](research-briefs/before-africa-source-catalogue-2026-11.md) — annotated primary studies, institutional resources, DOI links, supplementary-data checklist, materials acquisition queue and research ethics.
+
+The source catalogue is a curated starting register, not an exhaustive bibliography. Verify each citation and its current version before reuse.
