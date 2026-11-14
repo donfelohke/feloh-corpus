@@ -1,6 +1,6 @@
 # FELOH / NAKEBUSEN — Complete documentation tree
 
-**Status:** CANONICAL ARCHITECTURE · Updated 11 November 2026  
+**Status:** CANONICAL ARCHITECTURE · Updated 14 November 2026  
 **Owner of this map:** feloh-corpus  
 **Rule:** One source of truth per fact · conceptual plan ≠ implemented system · ONLY NAKEBUSEN TRANSACTS
 
@@ -67,10 +67,11 @@ feloh-corpus/                          # CANON HOME
 │   │   └── genje-name-exploration-2026-11.md              # RESEARCH · creative interpretation; etymology open
 │   │   └── …
 │   └── releases/                      # PLANNED
-├── research/                          # LIVE scaffold
+├── research/
 │   ├── README.md
-│   ├── bibliography/                  # master bibliography v0.1
-│   ├── source-inventory/              # internal targets (empty rows OK)
+│   ├── ikai-mirror-spatial-computing-landscape-2026-11-14.md # RESEARCH · cross-project landscape
+│   ├── bibliography/
+│   ├── source-inventory/
 │   └── claims/
 └── skills/                            # LIVE skill packs
 
@@ -106,6 +107,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | WARENA name exploration | `docs/research-briefs/warena-name-exploration-2026-11.md` | RESEARCH · authored acronym; etymology open |
 | IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | RESEARCH · functional identity; etymology open |
 | GENJE name exploration | `docs/research-briefs/genje-name-exploration-2026-11.md` | RESEARCH · creative interpretation; etymology open |
+| IKAI MIRROR+ cross-project research | `research/ikai-mirror-spatial-computing-landscape-2026-11-14.md` | RESEARCH · no hardware/runtime approved |
 
 ---
 
@@ -114,7 +116,8 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | — | Current portfolio and GENJE launch direction | **docs/portfolio-decision-2026-10-31.md** |
 | — | Before Africa (naming, populations, knowledge, heritage) | **docs/before-africa-research-dossier-2026-11-07.md** |
 | — | Continental atlas & populations brief | **docs/research-briefs/continental-atlas-and-populations-2026-11.md** |
-| — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** (architecture approved 2026-11-11) |
+| — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** |
+| — | IKAI MIRROR+ spatial-computing landscape | **research/ikai-mirror-spatial-computing-landscape-2026-11-14.md** |
 
 | # | Topic | Primary docs |
 |---|--------|--------------|
@@ -128,48 +131,43 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 Cross-repo research notes:
 - Genje: `docs/BEFORE-AFRICA-LIVITY-AND-EMBODIED-KNOWLEDGE-2026-11-07.md`
 - Ikai: `docs/BEFORE-AFRICA-EXISTENCE-AND-KNOWLEDGE-2026-11-07.md`
-- NAKEBUSEN: `docs/NAKEBUSEN-NAME-NOTE.md` (pointer to corpus brief)
-- WARENA: `docs/WARENA-NAME-NOTE.md` (pointer to corpus brief)
-- IKAI: `docs/IKAI-NAME-NOTE.md` (pointer to corpus brief)
-- GENJE: `docs/GENJE-NAME-NOTE.md` (pointer to corpus brief)
+- IKAI spatial research: [IKAI specialist record](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md)
+- WARENA compute: [IKAI MIRROR+ architecture](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-MIRROR-COMPUTE-ARCHITECTURE-2026-11-14.md)
+- GENJE embodied interaction: [research note](https://github.com/donfelohke/Genje/blob/main/docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md)
+- NAKEBUSEN: `docs/NAKEBUSEN-NAME-NOTE.md`
+- WARENA: `docs/WARENA-NAME-NOTE.md`
 
 ---
 
 ## 5. Content management workflow
 
-1. Shared facts (price, brand, transaction boundary) → corpus or NAKEBUSEN catalogue first.  
-2. Public page behaviour → donfelohke.github.io; CI + browser gates.  
-3. Visual assets → Gallery only.  
-4. Research claims → editorial evidence labels.  
+1. Shared facts (price, brand, transaction boundary) → corpus or NAKEBUSEN catalogue first.
+2. Public page behaviour → donfelohke.github.io; CI + browser gates.
+3. Visual assets → Gallery only.
+4. Research claims → editorial evidence labels.
 5. Translation → both languages; human Kiswahili review before release.
 
 ---
 
-## 6. Implementation status snapshot (updated 11 Nov 2026)
+## 6. Implementation status snapshot — 14 Nov 2026
 
 | Deliverable | Status |
 |-------------|--------|
-| Documentation tree | **LIVE** |
-| Master Topic Register | **LIVE** |
-| Evidence editorial standards | **LIVE** |
-| Research bibliography v0.1 | **LIVE** scaffold |
-| Before Africa master dossier | **LIVE** (expanded 2026-11-11) |
-| Continental atlas & populations brief | **LIVE** |
-| NAKEBUSEN name exploration brief | **LIVE · architecture approved 2026-11-11** |
-| WARENA name exploration brief | **RESEARCH · authored acronym recorded** |
-| IKAI name exploration brief | **RESEARCH · etymology undocumented** |
-| GENJE name exploration brief | **RESEARCH · creative interpretation recorded** |
-| Website audience hierarchy (EN) | Pages workflow succeeded for main; live browser rendering not independently re-checked in this update |
-| English default + Kiswahili toggle | PR status as previously recorded |
-| Gallery approved assets | No assets inventoried or approved in `Gallery/ASSET-MANIFEST.md` |
-| Cultural research index (deep) | Advanced via Before Africa dossier |
+| Documentation tree | LIVE |
+| Master Topic Register | LIVE |
+| Evidence editorial standards | LIVE |
+| Research bibliography v0.1 | LIVE scaffold |
+| Before Africa master dossier | LIVE (research maturity) |
+| IKAI MIRROR+ landscape | RESEARCH · primary MAVERIK paper inspected; DEVA3 source verification pending |
+| IKAI spatial research note | RESEARCH |
+| WARENA compute architecture note | RESEARCH |
+| GENJE embodied interaction note | RESEARCH |
+| Website audience hierarchy | Previously merged; deployed browser state not re-verified in this update |
+| Gallery approved assets | No new assets approved by this update |
 
 **Governing rule:** one source of truth per fact · clear links · preserved originals · reviewable changes · no implementation claim without evidence.
 
-**Name exploration standing rules (approved 11 Nov 2026):**
-- Turkana-rooted cultural association, community-reported meaning, unverified etymology.
-- Founder’s aesthetic interpretation of the name is not linguistic or morphological evidence.
-- Next recommended milestone: primary-source or community-verified Turkana pronunciation and lexical analysis with speaker attribution and permission.
+**Research boundary:** A commit is not a deployment. A research note is not a validated system. Historical architecture is not evidence of current buildability.
 
 ## 7. Desktop-stack research ownership — 2026-11
 
@@ -177,5 +175,6 @@ Cross-repo research notes:
 |---|---|---|
 | Desktop stack, package managers, compositor and shell evaluation | [WARENA desktop-stack decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md) | WARENA technical owner; RESEARCH only until hardware verification |
 | Cross-project implications | [Desktop-stack alignment](docs/desktop-stack-alignment-2026-11.md) | Corpus owns cross-domain boundaries; no project inherits deployment claims |
+| IKAI MIRROR+ compute architecture | [WARENA research note](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-MIRROR-COMPUTE-ARCHITECTURE-2026-11-14.md) | WARENA owns systems detail; no hardware/runtime selected |
 
-The current evaluation is GNU Guix + RDE foundation; Niri + Noctalia v5 practical candidate; Sway fallback/comparator; dwl-guile experimental; Nix/NixOS comparator. NAKEBUSEN DIGITAL may make compatibility claims only after documented service testing. IKAI and GENJE may consume validated infrastructure but do not own the desktop platform. Gallery's asset workflow remains independent.
+The current desktop evaluation remains GNU Guix + RDE foundation; Niri + Noctalia v5 practical candidate; Sway fallback/comparator; dwl-guile experimental; Nix/NixOS comparator. IKAI and GENJE may consume validated infrastructure but do not own the desktop platform.
