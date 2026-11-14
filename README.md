@@ -19,7 +19,8 @@ This repository is the **source of record** for shared terminology, architecture
 - [Knowledge-base architecture](docs/knowledge-base-architecture.md)  
 - [Domain map](docs/domain-map.md)  
 - [Source register](docs/source-register.md)  
-- [Documentation tree](DOCUMENTATION-TREE.md)
+- [Documentation tree](DOCUMENTATION-TREE.md)  
+- [IKAI MIRROR+ spatial-computing research landscape (2026-11-14)](research/ikai-mirror-spatial-computing-landscape-2026-11-14.md)
 
 ---
 
