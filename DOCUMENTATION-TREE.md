@@ -1,6 +1,6 @@
 # FELOH / NAKEBUSEN — Complete documentation tree
 
-**Status:** CANONICAL ARCHITECTURE · Updated 11 November 2026  
+**Status:** CANONICAL ARCHITECTURE · Updated 14 November 2026  
 **Owner of this map:** feloh-corpus  
 **Rule:** One source of truth per fact · conceptual plan ≠ implemented system · ONLY NAKEBUSEN TRANSACTS
 
@@ -69,6 +69,7 @@ feloh-corpus/                          # CANON HOME
 │   └── releases/                      # PLANNED
 ├── research/                          # LIVE scaffold
 │   ├── README.md
+│   ├── ikai-mirror-spatial-computing-landscape-2026-11-14.md # RESEARCH · cross-project landscape
 │   ├── bibliography/                  # master bibliography v0.1
 │   ├── source-inventory/              # internal targets (empty rows OK)
 │   └── claims/
@@ -106,6 +107,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | WARENA name exploration | `docs/research-briefs/warena-name-exploration-2026-11.md` | RESEARCH · authored acronym; etymology open |
 | IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | RESEARCH · functional identity; etymology open |
 | GENJE name exploration | `docs/research-briefs/genje-name-exploration-2026-11.md` | RESEARCH · creative interpretation; etymology open |
+| IKAI MIRROR+ cross-project research | `research/ikai-mirror-spatial-computing-landscape-2026-11-14.md` | RESEARCH · no hardware/runtime approved |
 
 ---
 
@@ -115,6 +117,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | — | Before Africa (naming, populations, knowledge, heritage) | **docs/before-africa-research-dossier-2026-11-07.md** |
 | — | Continental atlas & populations brief | **docs/research-briefs/continental-atlas-and-populations-2026-11.md** |
 | — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** (architecture approved 2026-11-11) |
+| — | IKAI MIRROR+ spatial-computing landscape | **research/ikai-mirror-spatial-computing-landscape-2026-11-14.md** |
 
 | # | Topic | Primary docs |
 |---|--------|--------------|
@@ -132,6 +135,9 @@ Cross-repo research notes:
 - WARENA: `docs/WARENA-NAME-NOTE.md` (pointer to corpus brief)
 - IKAI: `docs/IKAI-NAME-NOTE.md` (pointer to corpus brief)
 - GENJE: `docs/GENJE-NAME-NOTE.md` (pointer to corpus brief)
+- IKAI spatial research: [IKAI specialist record](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md)
+- WARENA compute: [IKAI MIRROR+ architecture](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-MIRROR-COMPUTE-ARCHITECTURE-2026-11-14.md)
+- GENJE embodied interaction: [research note](https://github.com/donfelohke/Genje/blob/main/docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md)
 
 ---
 
@@ -171,7 +177,16 @@ Cross-repo research notes:
 - Founder’s aesthetic interpretation of the name is not linguistic or morphological evidence.
 - Next recommended milestone: primary-source or community-verified Turkana pronunciation and lexical analysis with speaker attribution and permission.
 
-## 7. Desktop-stack research ownership — 2026-11
+## 7. IKAI MIRROR+ research ownership — 2026-11
+
+| Topic | Canonical location | Boundary |
+|---|---|---|
+| Cross-project spatial-computing landscape | [IKAI MIRROR+ research landscape](research/ikai-mirror-spatial-computing-landscape-2026-11-14.md) | Corpus owns shared definitions, evidence and cross-project decisions |
+| IKAI reflective/spatial interaction | [IKAI specialist research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) | IKAI owns participant-facing research; no product claim |
+| Compute/runtime/hardware | [WARENA architecture note](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-MIRROR-COMPUTE-ARCHITECTURE-2026-11-14.md) | WARENA owns systems detail; no hardware/runtime selected |
+| Movement and creative interaction | [GENJE research note](https://github.com/donfelohke/Genje/blob/main/docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md) | GENJE owns embodied creative practice; no sensing implementation claimed |
+
+## 8. Desktop-stack research ownership — 2026-11
 
 | Topic | Canonical location | Boundary |
 |---|---|---|
