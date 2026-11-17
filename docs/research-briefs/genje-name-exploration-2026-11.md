@@ -29,17 +29,20 @@ The phrase **“The Fire of the Formidable”** is the adopted creative interpre
 
 ## 3. Linguistic and cultural claims
 
-The current canon does not establish a verified dictionary meaning, language attribution, morphology or historical etymology for **GENJE**.
+Recorded Kenyan Sheng sources document context-sensitive uses of **genje**, including “trouble” or “problems”. Popular-culture and music-scene usage also associates it with a formidable, hardcore or “hot” crew or quality. These usages coexist; do not describe the newer popular-culture sense as a complete or universal semantic reversal.
+
+The Go Sheng entry for [*genje* / “Leta genje”](https://www.sheng.co.ke/kamusi/index.php?word_id=3361) records the trouble/problems sense. A 2021 [Newszetu / Nation Media Group interview with Mbogi Genje](https://newszetu.com/the-rise-and-rise-of-mbogi-genje/) attributes to the group its own explanation of the name as a “closed fist” set to conquer / a formidable unit. That is an artist's interpretation of the group's name, not a universal dictionary definition. The [Lughayangu Mbogi Genje entry](https://lughayangu.com/sheng/mbogi-genje) is a secondary community-dictionary account and should be treated accordingly.
 
 The word **Genge** is part of the documented creative context: GENJE is Genge-rooted in sound and aesthetics. That contextual relationship must not be used as proof that GENJE is a historical variant, direct translation or etymological derivative of “Genge”.
 
 The following distinctions are required:
-- **GENJE:** the authored creative identity.
+- **GENJE:** the authored creative identity and practice.
+- **genje (Sheng):** a living expression with context-sensitive recorded senses.
 - **Genge:** a named Kenyan music and cultural context informing the practice.
 - **GENJE ZA WARENA:** an adopted creative identity/campaign phrase.
 - **“The Fire of the Formidable”:** founder-adopted creative interpretation, not a verified translation.
 
-Do not universalise the term across African languages or communities. Any proposed language-specific meaning needs a named language variety, contextual usage, primary source or qualified speaker, and attribution.
+Do not universalise the term across communities or flatten Sheng into a fixed lexicon. Any further language-specific meaning or historical derivation needs a named language variety, contextual usage, a primary source or qualified speaker, and attribution.
 
 ## 4. Form and aesthetic interpretation
 
@@ -62,7 +65,7 @@ The practice should remain culturally situated and properly attributed. Avoid fl
 
 ## 6. Working conclusion
 
-GENJE is an authored cultural and creative identity, Genge-rooted in its stated practice. **“The Fire of the Formidable”** is its adopted creative interpretation, not a verified lexical translation. The corpus does not currently establish an independent etymology or historical linguistic derivation.
+GENJE is an authored cultural and creative identity, Genge-rooted in its stated practice. Sheng sources record context-sensitive senses of *genje*, including trouble/problems and formidable or hardcore popular-culture usage; no single universal definition or definitive historical etymology is established. **“The Fire of the Formidable”** remains the adopted creative interpretation, not a verified lexical translation.
 
 Its relationship with WARENA is expressed in **GENJE ZA WARENA**, a creative association rather than a product or commercial division.
 
