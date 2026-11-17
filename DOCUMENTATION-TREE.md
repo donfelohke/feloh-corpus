@@ -55,6 +55,7 @@ feloh-corpus/                          # CANON HOME
 │   ├── before-africa-research-dossier-2026-11-07.md  # LIVE · expanded 2026-11-11
 │   ├── black-docs-and-data-2026-11-17.md             # RESEARCH · programme charter
 │   ├── sages-and-knowledge-traditions-2026-11-17.md  # RESEARCH · Volume I
+│   ├── peoples-lands-and-civilisations-2026-11-17.md # RESEARCH · Volume II
 │   ├── glossary.md                    # LIVE (updated 2026-11-11)
 │   ├── public-presence.md             # LIVE
 │   ├── decision-provenance.md         # LIVE
