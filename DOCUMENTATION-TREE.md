@@ -59,13 +59,12 @@ feloh-corpus/                          # CANON HOME
 │   ├── succession.md                  # LIVE
 │   ├── ai-automation-architecture.md  # LIVE
 │   ├── MASTER-TOPIC-REGISTER.md       # LIVE · programme topic index
-│   ├── warena-name-and-sheng-context-2026-11-17.md # LIVE · technical name + Sheng context
-│   ├── research-briefs/
+│   ├── warena-name-and-sheng-context-2026-11-17.md # LIVE · technical name + Sheng context\n│   ├── research-briefs/
 │   │   ├── continental-atlas-and-populations-2026-11.md  # LIVE
 │   │   ├── nakebusen-name-exploration-2026-11.md         # LIVE · architecture approved 2026-11-11
-│   │   ├── warena-name-exploration-2026-11.md            # LIVE · owner-confirmed technical expansion
-│   │   ├── ikai-name-exploration-2026-11.md              # RESEARCH · Turkana name meaning “home”
-│   │   └── genje-name-exploration-2026-11.md              # RESEARCH · creative identity; Sheng context qualified
+│   │   ├── warena-name-exploration-2026-11.md            # CANONICAL · owner-confirmed technical expansion
+│   │   ├── ikai-name-exploration-2026-11.md              # RESEARCH · functional identity; etymology open
+│   │   └── genje-name-exploration-2026-11.md              # RESEARCH · creative interpretation; etymology open
 │   │   └── …
 │   └── releases/                      # PLANNED
 ├── research/                          # LIVE scaffold
@@ -93,7 +92,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 |-------------|-------------------|--------|
 | Brand pillars GRACE·GRIT·GLORY | `BRAND-CONSTITUTION.md` | LIVE |
 | ONLY NAKEBUSEN TRANSACTS | Brand constitution + public copy | LIVE |
-| Loc campaign starting prices 700+ / 1,500+ / 3,500+ | `NAKEBUSEN` service catalogue + current campaign record | APPROVED FOR ELDORET CAMPAIGN; final quote remains scope-dependent |
+| Loc campaign starting prices 700+ / 1,500+ / 3,500+ | NAKEBUSEN service catalogue + current campaign record | APPROVED FOR ELDORET CAMPAIGN; final quote remains scope-dependent |
 | Location phrase Eldoret Town / Karibu Mdosi | Website + service catalogue | LIVE |
 | Programme topics | `docs/MASTER-TOPIC-REGISTER.md` | LIVE |
 | Evidence labels | `EVIDENCE-AND-EDITORIAL-STANDARDS.md` | LIVE |
@@ -105,8 +104,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | IKAI maturity | Always WIP / research | LIVE rule |
 | Before Africa research programme | `docs/before-africa-research-dossier-2026-11-07.md` + research-briefs | LIVE (research maturity) |
 | NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE · architecture approved 2026-11-11 |
-| WARENA technical name | `docs/research-briefs/warena-name-exploration-2026-11.md` | CANONICAL · owner-confirmed 2026-11-17 |
-| Kenyan Sheng name context | `docs/warena-name-and-sheng-context-2026-11-17.md` | RESEARCH · contextual usages; etymology provisional |
+| WARENA technical name | `docs/research-briefs/warena-name-exploration-2026-11.md` | CANONICAL · owner-confirmed 2026-11-17 |\n| Kenyan Sheng name context | `docs/warena-name-and-sheng-context-2026-11-17.md` | RESEARCH · contextual usages; etymology provisional |
 | IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | CANONICAL · Turkana name meaning “home” |
 | GENJE name exploration | `docs/research-briefs/genje-name-exploration-2026-11.md` | RESEARCH · creative interpretation; no universal etymology |
 | IKAI MIRROR+ cross-project research | `research/ikai-mirror-spatial-computing-landscape-2026-11-14.md` | RESEARCH · no hardware/runtime approved |
@@ -118,8 +116,8 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | — | Current portfolio and GENJE launch direction | **docs/portfolio-decision-2026-10-31.md** |
 | — | Before Africa (naming, populations, knowledge, heritage) | **docs/before-africa-research-dossier-2026-11-07.md** |
 | — | Continental atlas & populations brief | **docs/research-briefs/continental-atlas-and-populations-2026-11.md** |
-| — | WARENA name + Kenyan Sheng context | **docs/warena-name-and-sheng-context-2026-11-17.md** |
-| — | IKAI MIRROR+ spatial-computing landscape | **research/ikai-mirror-spatial-computing-landscape-2026-11-14.md** |
+| — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** (architecture approved 2026-11-11) |
+| — | WARENA name + Kenyan Sheng context | **docs/warena-name-and-sheng-context-2026-11-17.md** |\n| — | IKAI MIRROR+ spatial-computing landscape | **research/ikai-mirror-spatial-computing-landscape-2026-11-14.md** |
 
 | # | Topic | Primary docs |
 |---|--------|--------------|
@@ -153,7 +151,7 @@ Cross-repo research notes:
 
 ---
 
-## 6. Implementation status snapshot — 17 Nov 2026
+## 6. Implementation status snapshot (updated 11 Nov 2026)
 
 | Deliverable | Status |
 |-------------|--------|
@@ -164,8 +162,7 @@ Cross-repo research notes:
 | Before Africa master dossier | **LIVE** (expanded 2026-11-11) |
 | Continental atlas & populations brief | **LIVE** |
 | NAKEBUSEN name exploration brief | **LIVE · architecture approved 2026-11-11** |
-| WARENA technical name record | **CANONICAL · owner-confirmed expansion** |
-| WARENA / Kenyan Sheng context note | **RESEARCH · contextual sources; no definitive etymology** |
+| WARENA technical name record | **CANONICAL · owner-confirmed expansion** |\n| WARENA / Kenyan Sheng context note | **RESEARCH · contextual sources; no definitive etymology** |
 | IKAI name record | **CANONICAL · Turkana name meaning “home”** |
 | GENJE name record | **RESEARCH · adopted creative interpretation; context-sensitive Sheng usage** |
 | Website audience hierarchy (EN) | Pages workflow succeeded for main; live browser rendering not independently re-checked in this update |
@@ -177,9 +174,9 @@ Cross-repo research notes:
 
 **Name documentation rules (17 Nov 2026):**
 - Distinguish owner-confirmed project constructions from vernacular usage and historical etymology.
-- Attribute Sheng senses to the named dictionary, speaker or community source; preserve contextual variation.
+- Attribute Sheng senses to named dictionaries, speakers or community sources; preserve contextual variation.
 - Do not treat an online dictionary entry as proof of universal usage or conclusive historical origin.
-- Preserve owner-confirmed name meanings (including IKAI's Turkana meaning “home”) without inventing competing derivations.
+- Preserve owner-confirmed name meanings, including IKAI’s Turkana meaning “home,” without inventing competing derivations.
 
 ## 7. IKAI MIRROR+ research ownership — 2026-11
 
