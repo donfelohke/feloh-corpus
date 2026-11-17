@@ -23,6 +23,12 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Succession and stewardship](succession.md) — continuity beyond a single contributor.
 - [Public presence register](public-presence.md) — public channels; re-verify before official use.
 
+## Black documentation and historical research
+
+- [BLACKS: THE DOCS & DATA](black-docs-and-data-2026-11-17.md) — programme charter for Black identity, African plurality, naming, lands, sages and intellectual traditions, Black Is Beautiful, cultural memory and self-determination.
+- [Before Africa research dossier](before-africa-research-dossier-2026-11-07.md) — detailed historical framework for self-naming, populations, knowledge systems and political life before continental standardisation.
+- [Master Topic Register](MASTER-TOPIC-REGISTER.md) — complete programme inventory, including Black Knowledge Archive topics.
+
 ## Research and automation
 
 - [Evidence and Editorial Standards](../EVIDENCE-AND-EDITORIAL-STANDARDS.md) — claim labels, presentation patterns, and research rules.
