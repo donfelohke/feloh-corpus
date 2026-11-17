@@ -18,13 +18,28 @@ Its guiding principle is:
 
 > **Freedom Is a System.**
 
-## 2. Historical naming context
+## 2. Kenyan Sheng resonance
+
+The technical name also resonates with the Kenyan Sheng word **warena**. This cultural and linguistic association is acknowledged, but it is not claimed as the derivation or translation of the technical expansion.
+
+Recorded Sheng references show context-sensitive usage, including:
+- *warena* as “deadly” or “good at doing something” (Go Sheng records this as an auxiliary-verb use);
+- *nare* as “fire”, with some contemporary references also listing *warena* as “fire”;
+- online vocabulary lists that associate *warena* with a flashy lifestyle.
+
+These are recorded vernacular senses, not a universal definition. Usage can vary by community, generation, music scene and situation. Go Sheng's proposed reverse-form relationship between *warena* and *nare* is a dictionary explanation, not an independently established historical etymology. The origin remains uncertain.
+
+The technical expansion and the Sheng word therefore occupy distinct layers: one is an owner-defined project construction; the other is a living vernacular expression with variable recorded senses. Shared spelling creates cultural resonance, not proof of shared historical origin.
+
+For source-by-source qualifications, see the [WARENA Name, Sheng Context and Technical Construction note](../warena-name-and-sheng-context-2026-11-17.md).
+
+## 3. Historical naming context
 
 An earlier expansion, **Advanced Reproducible Extensible Networked Artefacts**, appeared in prior documentation. It is retained as historical naming context only and is superseded as the current expansion by **Warena Architecture Re Network/ed Artefact**.
 
-This is an authored project expansion, not a claim of inherited or ancient etymology. Do not infer a language origin, pronunciation or morphological analysis without separate evidence.
+The current technical expansion is authored. Do not infer that the technical construction is a literal translation, or that it establishes the historical origin of the Sheng word.
 
-## 3. Ecosystem position
+## 4. Ecosystem position
 
 WARENA is the technical identity powering **NAKEBUSEN DIGITAL**. It is not a separate consumer checkout brand or independent commercial interface.
 
@@ -34,12 +49,12 @@ WARENA is the technical identity powering **NAKEBUSEN DIGITAL**. It is not a sep
 - **GENJE:** creative and embodied practice.
 - **IKAI:** reflective-compute research; Turkana female name meaning “home.”
 
-## 4. Practical domains and evidence
+## 5. Practical domains and evidence
 
 Working domains include GNU/Linux systems, reproducible computing, local-first infrastructure, networks, workstations, desktop architecture, system recovery, documentation and maintainability. Each specific implementation, service, compatibility statement or deployment must carry its own evidence and maturity label.
 
 See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) for current technical policy. JavaScript is prohibited; web technologies are excluded as WARENA/IKAI application and runtime architecture. Richard Stallman's [“The JavaScript Trap”](https://www.gnu.org/philosophy/javascript-trap.html) is the required philosophical reference.
 
-## 5. Change control
+## 6. Change control
 
-Preserve older name records as historical sources. Current references must use the owner-confirmed expansion above. Do not let an earlier acronym formulation, a repository README or a repeated draft override the dated canonical decision.
+Preserve older name records as historical sources. Current references must use the owner-confirmed expansion above and distinguish it from the Kenyan Sheng word. Cite the [name and Sheng context note](../warena-name-and-sheng-context-2026-11-17.md) when explaining vernacular usage. Do not present dictionary entries, online lists or artist interpretations as universal definitions or conclusive etymologies.
