@@ -106,6 +106,12 @@ NAKEBUSEN is the only commercial transaction interface; conceptual coherence is 
 
 ---
 
+## BLACKS: THE DOCS & DATA
+
+The Black documentation programme is anchored by **“Black = Beautiful” — cultural affirmation, historical reclamation and self-determination**. It documents African plurality, peoples and lands before continental standardisation, naming and classification, sages and intellectual traditions, Black identity, beauty politics, community memory and knowledge sovereignty. It extends the existing [Before Africa research dossier](docs/before-africa-research-dossier-2026-11-07.md) without replacing it. [Read BLACKS: THE DOCS & DATA](docs/black-docs-and-data-2026-11-17.md).
+
+The programme's research volumes are indexed in the [corpus documentation index](docs/README.md): [Sages & Knowledge Traditions — Volume I](docs/sages-and-knowledge-traditions-2026-11-17.md) and [Peoples, Lands & Civilisations — Volume II](docs/peoples-lands-and-civilisations-2026-11-17.md). Both remain research frameworks, not completed field studies or final historical syntheses.
+
 ## Before Africa — research programme
 
 The shared dossier investigates African self-naming, philosophies of existence, political organisation, knowledge systems and historical methodology. It distinguishes documented Roman geographical usage from disputed etymology, avoids a single universal indigenous name, and requires regional, linguistic and chronological specificity. [Read the master dossier](docs/before-africa-research-dossier-2026-11-07.md).
