@@ -52,3 +52,12 @@ Use the status labels defined in [Decision provenance](decision-provenance.md) a
 ## Maintenance
 
 When adding a document, link it here if it is intended for ongoing use. Keep links relative so the repository remains usable when cloned or read offline. If a shared definition changes, update the canonical record first and then review dependent views.
+
+
+## Current canonical update — 2026-11-17
+
+- [Technology policy](technology-policy-2026-11-17.md) — WARENA expansion, native-first / libre-first / local-first architecture, JavaScript prohibition, RMS reference, and IKAI's Turkana meaning “home”.
+- [1DOC Canonical Master REV009](https://github.com/donfelohke/WARENA) — the current Library master corpus also records this policy as section 68. The authoritative copy is in the ChatGPT Library as FELOH-1DOC-CANONICAL-MASTER-REV009.md and .docx.
+- [IKAI name and identity record](research-briefs/ikai-name-exploration-2026-11.md).
+- [WARENA name and identity record](research-briefs/warena-name-exploration-2026-11.md).
+- [Cross-project desktop-stack alignment](desktop-stack-alignment-2026-11.md) — current X11-first, Guile-WM + Gershwin dual-session research direction.
