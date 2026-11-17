@@ -1,6 +1,6 @@
 # FELOH / NAKEBUSEN — Complete documentation tree
 
-**Status:** CANONICAL ARCHITECTURE · Updated 14 November 2026  
+**Status:** CANONICAL ARCHITECTURE · Updated 17 November 2026  
 **Owner of this map:** feloh-corpus  
 **Rule:** One source of truth per fact · conceptual plan ≠ implemented system · ONLY NAKEBUSEN TRANSACTS
 
@@ -56,16 +56,17 @@ feloh-corpus/                          # CANON HOME
 │   ├── black-docs-and-data-2026-11-17.md             # RESEARCH · programme charter
 │   ├── sages-and-knowledge-traditions-2026-11-17.md  # RESEARCH · Volume I
 │   ├── peoples-lands-and-civilisations-2026-11-17.md # RESEARCH · Volume II
-│   ├── glossary.md                    # LIVE (updated 2026-11-11)
+│   ├── glossary.md                    # LIVE · updated 2026-11-17
 │   ├── public-presence.md             # LIVE
 │   ├── decision-provenance.md         # LIVE
 │   ├── succession.md                  # LIVE
 │   ├── ai-automation-architecture.md  # LIVE
 │   ├── MASTER-TOPIC-REGISTER.md       # LIVE · programme topic index
+│   ├── warena-name-and-sheng-context-2026-11-17.md # LIVE · technical name + Sheng context
 │   ├── research-briefs/
 │   │   ├── continental-atlas-and-populations-2026-11.md  # LIVE
 │   │   ├── nakebusen-name-exploration-2026-11.md         # LIVE · architecture approved 2026-11-11
-│   │   ├── warena-name-exploration-2026-11.md            # RESEARCH · authored acronym; etymology open
+│   │   ├── warena-name-exploration-2026-11.md            # CANONICAL · owner-confirmed technical expansion
 │   │   ├── ikai-name-exploration-2026-11.md              # RESEARCH · functional identity; etymology open
 │   │   └── genje-name-exploration-2026-11.md              # RESEARCH · creative interpretation; etymology open
 │   │   └── …
@@ -110,7 +111,8 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | Sages & Knowledge Traditions | `docs/sages-and-knowledge-traditions-2026-11-17.md` | RESEARCH FRAMEWORK · Volume I |
 | Peoples, Lands & Civilisations | `docs/peoples-lands-and-civilisations-2026-11-17.md` | RESEARCH FRAMEWORK · Volume II |
 | NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE · architecture approved 2026-11-11 |
-| WARENA name exploration | `docs/research-briefs/warena-name-exploration-2026-11.md` | RESEARCH · authored acronym; etymology open |
+| WARENA technical name | `docs/research-briefs/warena-name-exploration-2026-11.md` | CANONICAL · owner-confirmed 2026-11-17 |
+| Kenyan Sheng name context | `docs/warena-name-and-sheng-context-2026-11-17.md` | RESEARCH · contextual usages; etymology provisional |
 | IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | RESEARCH · functional identity; etymology open |
 | GENJE name exploration | `docs/research-briefs/genje-name-exploration-2026-11.md` | RESEARCH · creative interpretation; etymology open |
 | IKAI MIRROR+ cross-project research | `research/ikai-mirror-spatial-computing-landscape-2026-11-14.md` | RESEARCH · no hardware/runtime approved |
@@ -174,7 +176,8 @@ Cross-repo research notes:
 | Peoples, Lands & Civilisations, Volume II | **RESEARCH FRAMEWORK** (created 2026-11-17) |
 | Continental atlas & populations brief | **LIVE** |
 | NAKEBUSEN name exploration brief | **LIVE · architecture approved 2026-11-11** |
-| WARENA name exploration brief | **RESEARCH · authored acronym recorded** |
+| WARENA technical name record | **CANONICAL · owner-confirmed expansion** |
+| WARENA / Kenyan Sheng context note | **RESEARCH · contextual sources; no definitive etymology** |
 | IKAI name exploration brief | **RESEARCH · etymology undocumented** |
 | GENJE name exploration brief | **RESEARCH · creative interpretation recorded** |
 | Website audience hierarchy (EN) | Pages workflow succeeded for main; live browser rendering not independently re-checked in this update |
@@ -184,10 +187,11 @@ Cross-repo research notes:
 
 **Governing rule:** one source of truth per fact · clear links · preserved originals · reviewable changes · no implementation claim without evidence.
 
-**Name exploration standing rules (approved 11 Nov 2026):**
-- Turkana-rooted cultural association, community-reported meaning, unverified etymology.
-- Founder’s aesthetic interpretation of the name is not linguistic or morphological evidence.
-- Next recommended milestone: primary-source or community-verified Turkana pronunciation and lexical analysis with speaker attribution and permission.
+**Name documentation rules (17 Nov 2026):**
+- Distinguish owner-confirmed project constructions from vernacular usage and historical etymology.
+- Attribute Sheng senses to named dictionaries, speakers or community sources; preserve contextual variation.
+- Do not treat an online dictionary entry as proof of universal usage or conclusive historical origin.
+- Preserve owner-confirmed name meanings, including IKAI’s Turkana meaning “home,” without inventing competing derivations.
 
 ## 7. IKAI MIRROR+ research ownership — 2026-11
 
