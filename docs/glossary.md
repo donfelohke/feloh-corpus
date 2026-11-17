@@ -1,6 +1,6 @@
 # Core Glossary
 
-This glossary records working meanings for terms used across the corpus. A definition documents the current canon; it does not prove that a corresponding implementation exists.
+This glossary records working meanings for terms used across the corpus. A definition documents the current canon; it does not prove that a corresponding implementation exists. Sheng entries are contextual records, not claims of universal usage.
 
 | Term | Working meaning | Boundary or note |
 |---|---|---|
@@ -8,7 +8,12 @@ This glossary records working meanings for terms used across the corpus. A defin
 | NAKEBUSEN | Parent enterprise and only commercial interface, bringing beauty craft and practical digital services under one public identity. Current proposition: **Beautiful Roots. Sovereign Systems.** | Service scope, prices and availability require current approval. |
 | LOCS · CROWN | NAKEBUSEN customer-facing path for loc care, styling and beauty craft. | Service scope, prices, location and availability require current approval. |
 | DIGITAL · WARENA | NAKEBUSEN customer-facing path for practical technology and systems services. | WARENA is the systems architecture identity powering this practice. |
-| WARENA | **Warena Architecture Re Network/ed Artefact.** Architecture for creating, connecting, reproducing, maintaining and evolving computational artefacts. | Owner-confirmed 2026-11-17. Earlier “Advanced Reproducible Extensible Networked Artefacts” is historical/superseded. **Freedom Is a System.** See [name record](research-briefs/warena-name-exploration-2026-11.md) and [technology policy](technology-policy-2026-11-17.md). |
+| WARENA | **Warena Architecture Re Network/ed Artefact.** Architecture for creating, connecting, reproducing, maintaining and evolving computational artefacts. | Owner-confirmed 2026-11-17. Earlier “Advanced Reproducible Extensible Networked Artefacts” is historical/superseded. **Freedom Is a System.** The technical construction is distinct from the Kenyan Sheng word *warena*. See [name and Sheng context note](warena-name-and-sheng-context-2026-11-17.md). |
+| warena (Sheng) | Recorded Kenyan Sheng usages include fire, formidable energy, and being exceptionally capable; meanings vary by context and speaker. | Vernacular word, not the source/translation of WARENA's technical expansion. Go Sheng proposes a reverse-form relation to *nare*, but the etymology remains provisional. See [name and Sheng context note](warena-name-and-sheng-context-2026-11-17.md). |
+| nare (Sheng) | Recorded Sheng term for fire. | Do not infer a definitive origin from the dictionary entry. |
+| genje (Sheng) | Recorded senses include trouble/problems; popular-culture usage also associates it with a formidable or hardcore crew/quality. | Context-dependent; do not describe a universal or complete semantic replacement. Mbogi Genje's own explanation of its name is separately attributed in the research note. |
+| genjeness | Creative English–Sheng formation used to express a quality, state or presence associated with *genje*. | Authored/pop-cultural usage; not a fixed dictionary definition. |
+| His Genjeness | Honorific/identity expression playing on formal English titles and the creative term *genjeness*. | Personal creative identity expression; do not universalise as a general Sheng honorific. |
 | IKAI | Turkana female name meaning **home**; reflective, embodied and spatial-computing research. | Owner-confirmed 2026-11-17. “Reflective Compute” is a functional descriptor; “a mirror, not a judge” is a metaphor, not a translation. Research, not a released product. See [name record](research-briefs/ikai-name-exploration-2026-11.md). |
 | GENJE | Cultural and creative practice spanning Genge, livecoding, performance, movement and choreohacking. | See [name exploration brief](research-briefs/genje-name-exploration-2026-11.md). “The Fire of the Formidable” is an adopted creative interpretation, not a verified translation or etymology. GENJE embodies. |
 | GENJE ZA WARENA | Adopted creative identity and campaign phrase: **The Fire of the Formidable**. | Authored creative interpretation, not a verified universal translation or etymological claim; not a separate commercial division. |
