@@ -104,7 +104,8 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | IKAI maturity | Always WIP / research | LIVE rule |
 | Before Africa research programme | `docs/before-africa-research-dossier-2026-11-07.md` + research-briefs | LIVE (research maturity) |
 | NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE · architecture approved 2026-11-11 |
-| WARENA technical name | `docs/research-briefs/warena-name-exploration-2026-11.md` | CANONICAL · owner-confirmed 2026-11-17 |\n| Kenyan Sheng name context | `docs/warena-name-and-sheng-context-2026-11-17.md` | RESEARCH · contextual usages; etymology provisional |
+| WARENA technical name | `docs/research-briefs/warena-name-exploration-2026-11.md` | CANONICAL · owner-confirmed 2026-11-17 |
+| Kenyan Sheng name context | `docs/warena-name-and-sheng-context-2026-11-17.md` | RESEARCH · contextual usages; etymology provisional |
 | IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | CANONICAL · Turkana name meaning “home” |
 | GENJE name exploration | `docs/research-briefs/genje-name-exploration-2026-11.md` | RESEARCH · creative interpretation; no universal etymology |
 | IKAI MIRROR+ cross-project research | `research/ikai-mirror-spatial-computing-landscape-2026-11-14.md` | RESEARCH · no hardware/runtime approved |
@@ -117,7 +118,8 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | — | Before Africa (naming, populations, knowledge, heritage) | **docs/before-africa-research-dossier-2026-11-07.md** |
 | — | Continental atlas & populations brief | **docs/research-briefs/continental-atlas-and-populations-2026-11.md** |
 | — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** (architecture approved 2026-11-11) |
-| — | WARENA name + Kenyan Sheng context | **docs/warena-name-and-sheng-context-2026-11-17.md** |\n| — | IKAI MIRROR+ spatial-computing landscape | **research/ikai-mirror-spatial-computing-landscape-2026-11-14.md** |
+| — | WARENA name + Kenyan Sheng context | **docs/warena-name-and-sheng-context-2026-11-17.md** |
+| — | IKAI MIRROR+ spatial-computing landscape | **research/ikai-mirror-spatial-computing-landscape-2026-11-14.md** |
 
 | # | Topic | Primary docs |
 |---|--------|--------------|
@@ -162,7 +164,8 @@ Cross-repo research notes:
 | Before Africa master dossier | **LIVE** (expanded 2026-11-11) |
 | Continental atlas & populations brief | **LIVE** |
 | NAKEBUSEN name exploration brief | **LIVE · architecture approved 2026-11-11** |
-| WARENA technical name record | **CANONICAL · owner-confirmed expansion** |\n| WARENA / Kenyan Sheng context note | **RESEARCH · contextual sources; no definitive etymology** |
+| WARENA technical name record | **CANONICAL · owner-confirmed expansion** |
+| WARENA / Kenyan Sheng context note | **RESEARCH · contextual sources; no definitive etymology** |
 | IKAI name record | **CANONICAL · Turkana name meaning “home”** |
 | GENJE name record | **RESEARCH · adopted creative interpretation; context-sensitive Sheng usage** |
 | Website audience hierarchy (EN) | Pages workflow succeeded for main; live browser rendering not independently re-checked in this update |
