@@ -108,6 +108,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | Before Africa research programme | `docs/before-africa-research-dossier-2026-11-07.md` + research-briefs | LIVE (research maturity) |
 | BLACKS: THE DOCS & DATA | `docs/black-docs-and-data-2026-11-17.md` | RESEARCH FRAMEWORK · canonical programme charter |
 | Sages & Knowledge Traditions | `docs/sages-and-knowledge-traditions-2026-11-17.md` | RESEARCH FRAMEWORK · Volume I |
+| Peoples, Lands & Civilisations | `docs/peoples-lands-and-civilisations-2026-11-17.md` | RESEARCH FRAMEWORK · Volume II |
 | NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE · architecture approved 2026-11-11 |
 | WARENA name exploration | `docs/research-briefs/warena-name-exploration-2026-11.md` | RESEARCH · authored acronym; etymology open |
 | IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | RESEARCH · functional identity; etymology open |
@@ -121,6 +122,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | — | Current portfolio and GENJE launch direction | **docs/portfolio-decision-2026-10-31.md** |
 | — | BLACKS: THE DOCS & DATA (Black identity, African plurality, beauty, memory and self-determination) | **docs/black-docs-and-data-2026-11-17.md** |
 | — | Sages & Knowledge Traditions (African intellectual histories, philosophic sagacity, Turkana/Ateker knowledge) | **docs/sages-and-knowledge-traditions-2026-11-17.md** |
+| — | Peoples, Lands & Civilisations (peoples, naming, lands, polities, trade, maps and regional histories) | **docs/peoples-lands-and-civilisations-2026-11-17.md** |
 | — | Before Africa (naming, populations, knowledge, heritage) | **docs/before-africa-research-dossier-2026-11-07.md** |
 | — | Continental atlas & populations brief | **docs/research-briefs/continental-atlas-and-populations-2026-11.md** |
 | — | NAKEBUSEN name exploration | **docs/research-briefs/nakebusen-name-exploration-2026-11.md** (architecture approved 2026-11-11) |
@@ -169,6 +171,7 @@ Cross-repo research notes:
 | Before Africa master dossier | **LIVE** (expanded 2026-11-11) |
 | BLACKS: THE DOCS & DATA charter | **RESEARCH FRAMEWORK** (created 2026-11-17) |
 | Sages & Knowledge Traditions, Volume I | **RESEARCH FRAMEWORK** (created 2026-11-17) |
+| Peoples, Lands & Civilisations, Volume II | **RESEARCH FRAMEWORK** (created 2026-11-17) |
 | Continental atlas & populations brief | **LIVE** |
 | NAKEBUSEN name exploration brief | **LIVE · architecture approved 2026-11-11** |
 | WARENA name exploration brief | **RESEARCH · authored acronym recorded** |
