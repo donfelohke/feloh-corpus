@@ -27,6 +27,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 
 - [BLACKS: THE DOCS & DATA](black-docs-and-data-2026-11-17.md) — programme charter for Black identity, African plurality, naming, lands, sages and intellectual traditions, Black Is Beautiful, cultural memory and self-determination.
 - [Sages & Knowledge Traditions](sages-and-knowledge-traditions-2026-11-17.md) — Volume I: African intellectual histories, philosophic sagacity, the Kenyan Sage Philosophy Project, Turkana/Ateker research pathways, oral knowledge, research ethics and source register.
+- [Peoples, Lands & Civilisations](peoples-lands-and-civilisations-2026-11-17.md) — Volume II: African plurality, endonyms and exonyms, historical geography, population mobility, political formations, trade networks, colonial cartography and Turkana/Ateker research pathways.
 - [Before Africa research dossier](before-africa-research-dossier-2026-11-07.md) — detailed historical framework for self-naming, populations, knowledge systems and political life before continental standardisation.
 - [Master Topic Register](MASTER-TOPIC-REGISTER.md) — complete programme inventory, including Black Knowledge Archive topics.
 
