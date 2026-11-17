@@ -113,3 +113,10 @@ The shared dossier investigates African self-naming, philosophies of existence, 
 ## Desktop-stack cross-project alignment — 2026-11
 
 The corpus records cross-domain boundaries; WARENA owns technical implementation detail and configuration policy. See [Cross-Project Desktop Stack Alignment](docs/desktop-stack-alignment-2026-11.md) and the [WARENA technical decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). This is research, not a deployment claim.
+
+
+## Canonical technology policy — 2026-11-17
+
+The current shared technology policy is [Technology Policy (2026-11-17)](docs/technology-policy-2026-11-17.md). It records the WARENA expansion **Warena Architecture Re Network/ed Artefact**, the native-first / libre-first / local-first direction, the prohibition on JavaScript, the exclusion of web technologies as application/runtime architecture, the required reference to Richard Stallman's [“The JavaScript Trap”](https://www.gnu.org/philosophy/javascript-trap.html), and IKAI's Turkana meaning **home**.
+
+This policy supersedes conflicting undated drafts. Historical records retain their original dates and evidence; specialist repositories should link to the current policy rather than silently rewriting history.
