@@ -18,7 +18,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Repository governance](../GOVERNANCE.md) — principles, decision authority, and change process.
 - [Contributing](../CONTRIBUTING.md) — standards for proposals and pull requests.
 - [Security policy](../SECURITY.md) — safe reporting and current assurance limits.
-- [Glossary](glossary.md) — stable meanings for core terms.
+- [Glossary](glossary.md) — stable meanings for core terms, including contextual Sheng entries.
 - [Decision provenance](decision-provenance.md) — evidence chain and change records.
 - [Succession and stewardship](succession.md) — continuity beyond a single contributor.
 - [Public presence register](public-presence.md) — public channels; re-verify before official use.
@@ -28,6 +28,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [Evidence and Editorial Standards](../EVIDENCE-AND-EDITORIAL-STANDARDS.md) — claim labels, presentation patterns, and research rules.
 - [Evidence and Provenance Method](../EVIDENCE-AND-PROVENANCE-METHOD.md) — archive record types and minimum provenance fields.
 - [GitHub AI and automation architecture](ai-automation-architecture.md) — observed repository baseline, AI operating levels, workflow security, domain boundaries, and staged recommendations. This is a research proposal, not proof that recommended controls are configured.
+- [WARENA name and Sheng context (2026-11-17)](warena-name-and-sheng-context-2026-11-17.md) — distinguishes the Kenyan Sheng word *warena* from WARENA's owner-defined technical expansion; documents *nare*, *genje*, *genjeness*, artist attribution and source limitations.
 
 ## Current portfolio decision
 
@@ -52,7 +53,6 @@ Use the status labels defined in [Decision provenance](decision-provenance.md) a
 ## Maintenance
 
 When adding a document, link it here if it is intended for ongoing use. Keep links relative so the repository remains usable when cloned or read offline. If a shared definition changes, update the canonical record first and then review dependent views.
-
 
 ## Current canonical update — 2026-11-17
 
