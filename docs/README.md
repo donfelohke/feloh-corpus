@@ -38,6 +38,10 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 - [GitHub AI and automation architecture](ai-automation-architecture.md) — observed repository baseline, AI operating levels, workflow security, domain boundaries, and staged recommendations. This is a research proposal, not proof that recommended controls are configured.
 - [WARENA name and Sheng context (2026-11-17)](warena-name-and-sheng-context-2026-11-17.md) — distinguishes the Kenyan Sheng word *warena* from WARENA's owner-defined technical expansion; documents *nare*, *genje*, *genjeness*, artist attribution and source limitations.
 
+## Current documentation governance
+
+- [Ecosystem documentation reconciliation (2026-11-18)](ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md) — repository inventory, identified drift, correction priorities and verification boundaries.
+
 ## Current portfolio decision
 
 - [Portfolio decision and GENJE ZA WARENA launch direction (2026-10-31)](portfolio-decision-2026-10-31.md) — current NAKEBUSEN proposition, project boundaries, founder authorship and launch-campaign image hierarchy.

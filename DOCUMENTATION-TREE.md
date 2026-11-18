@@ -104,14 +104,15 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | Website design (no graphics) | site WEB-DESIGN-STANDARDS | LIVE |
 | Public language policy (English default; Kiswahili toggle) | Website WEBCOPY + PR #33 | PARTIAL |
 | Gallery asset approval | Gallery/ASSET-MANIFEST.md + ASSET-APPROVAL-WORKFLOW.md | INITIAL INVENTORY DOCUMENTED |
-| WARENA stack / RDE | WARENA docs | PARTIAL |
-| IKAI maturity | Always WIP / research | LIVE rule |
+| WARENA stack / RDE | WARENA docs | RESEARCH / DOCUMENTATION; host status UNKNOWN |
+| IKAI maturity | Always WIP / research | RESEARCH; no released product claim |
 | Before Africa research programme | `docs/before-africa-research-dossier-2026-11-07.md` + research-briefs | LIVE (research maturity) |
 | BLACKS: THE DOCS & DATA | `docs/black-docs-and-data-2026-11-17.md` | RESEARCH FRAMEWORK · canonical programme charter |
 | Sages & Knowledge Traditions | `docs/sages-and-knowledge-traditions-2026-11-17.md` | RESEARCH FRAMEWORK · Volume I |
 | Peoples, Lands & Civilisations | `docs/peoples-lands-and-civilisations-2026-11-17.md` | RESEARCH FRAMEWORK · Volume II |
 | NAKEBUSEN name exploration | `docs/research-briefs/nakebusen-name-exploration-2026-11.md` | LIVE · architecture approved 2026-11-11 |
 | WARENA technical name | `docs/research-briefs/warena-name-exploration-2026-11.md` | CANONICAL · owner-confirmed 2026-11-17 |
+| Ecosystem documentation reconciliation | `docs/ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md` | AUDIT · main-branch inventory and correction register |
 | Kenyan Sheng name context | `docs/warena-name-and-sheng-context-2026-11-17.md` | RESEARCH · contextual usages; etymology provisional |
 | IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | RESEARCH · functional identity; etymology open |
 | GENJE name exploration | `docs/research-briefs/genje-name-exploration-2026-11.md` | RESEARCH · creative interpretation; etymology open |
