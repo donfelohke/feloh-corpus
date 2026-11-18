@@ -6,12 +6,12 @@
 
 ## Current architecture direction — 2026-11-17
 
-WARENA's current desktop research is **X11-first**. X.Org is the initial compatibility baseline; XLibre is a drop-in compatibility experiment. The current dual-session architecture direction is:
+WARENA's current desktop research is **X11-first**. X.Org is the initial compatibility baseline; XLibre is a separate compatibility experiment. Do not assume X.Org DDX modules are interchangeable with XLibre modules; qualify the server and matching driver stack together. The current dual-session architecture direction is:
 
 - **Session A:** Guile-WM — Scheme-native, programmable, keyboard-oriented session.
 - **Session B:** Gershwin — GNUstep/OpenStep-inspired application-centred desktop session.
 
-Both are intended as default selectable sessions under one WARENA system identity. This is an architecture decision/research baseline, not evidence that both sessions are installed or deployed on a host. Shared identity and interoperability contracts do not require toolkit or implementation unification.
+Both are intended as default selectable sessions under one WARENA system identity. This does not require a shared toolkit, window-manager implementation or runtime. This is an architecture decision/research baseline, not evidence that both sessions are installed or deployed on a host. Shared identity and interoperability contracts do not require toolkit or implementation unification.
 
 Wayland remains a secondary/experimental track: dwl-guile with RDE is the primary research path; Sway is a recovery/comparison baseline. Older Niri/Noctalia evaluations are retained as historical research and must not be presented as the current default desktop direction.
 
