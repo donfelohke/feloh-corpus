@@ -23,6 +23,8 @@ This is the integrated topic inventory for the FELOH research programme and rela
 | **D** | Business, brand and markets | NAKEBUSEN, WARENA, TAM/SAM/SOM, audiences, revenue |
 | **E** | Systems engineering and digital products | GNU/Linux, local-first, networking, reproducibility, IKAI |
 | **F** | Creative practice and living heritage | FELOH authorship, GENJE, Genge, movement, visual arts |
+| **G** | Reflective and spatial computing | IKAI Mirror, voice wearables, smart glasses, OpenXR, privacy and local intelligence |
+| **H** | Kinetics and computational performance | GENJE movement dynamics, Laban-related notation, livecoding, choreography and embodied interaction |
 
 ---
 
