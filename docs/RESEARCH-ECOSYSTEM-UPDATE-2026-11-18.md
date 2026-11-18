@@ -7,6 +7,7 @@
 
 | Domain | Canonical location | Scope | Maturity |
 |---|---|---|---|
+| NVIDIA XR AI comparison | [NVIDIA XR AI architecture study](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) | Four-plane architecture, participant-scoped media, typed model interfaces and process lifecycle; reference only | RESEARCH |
 | IKAI voice and smart glasses | [IKAI distributed architecture](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) | Voice-only and visual AR wearables; hybrid local/remote intelligence; first-class display; contracts, hardware qualification, Scheme integration, threat model and staged MVP | RESEARCH |
 | WARENA integration | [IKAI wearable platform integration](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-WEARABLE-PLATFORM-INTEGRATION-2026-11-18.md) | Guix/RDE, Guile, Shepherd, SQLite, IPC, PipeWire, GStreamer, OpenXR and service operations | RESEARCH |
 | GENJE kinetics/livecoding | [Kinetics, Livecoding & Reflective Interaction](https://github.com/donfelohke/Genje/blob/main/docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) | Movement, kinetics, choreography, notation, algorithmic music, synchronised performance streams and participant authorship | RESEARCH / PRACTICE FRAMEWORK |
