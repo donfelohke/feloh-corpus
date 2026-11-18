@@ -43,6 +43,9 @@ These are complementary research surfaces, not three released products. Integrat
 
 ## M1 status and proof discipline
 
+The detailed [IKAI Mirror M1 Engineering Validation Specification](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) defines proposed optical, display, static-overlay, offline, recovery and privacy tests. Its numerical thresholds are provisional; they are not measured results or approved production requirements.
+
+
 The IKAI specialist note proposes a stationary Mirror M1 and four proof criteria. Those criteria remain research gates until the specialist record supplies measurable thresholds, test conditions, results and limitations. A documented proposal, component recommendation or scholarly reference is not proof of a working prototype.
 
 No procurement, implementation, deployment, clinical efficacy, beauty-service outcome or commercial availability is asserted here.
