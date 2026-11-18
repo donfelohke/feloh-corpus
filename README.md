@@ -15,6 +15,8 @@ This repository is the **source of record** for shared terminology, architecture
 - [Current portfolio decision (2026-10-31)](docs/portfolio-decision-2026-10-31.md)  
 - [Current technology policy (2026-11-17)](docs/technology-policy-2026-11-17.md)  
 - [Ecosystem documentation reconciliation (2026-11-18)](docs/ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md)  
+- [Research ecosystem update (2026-11-18)](docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md) — IKAI voice/glasses, WARENA integration and GENJE kinetics/livecoding cross-project records.  
+  
 - [Historical canonical architecture baseline (2026-10-26)](docs/canonical-architecture-2026-10-26.md)  
 - [Evidence and editorial standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md)  
 - [Knowledge-base architecture](docs/knowledge-base-architecture.md)  
