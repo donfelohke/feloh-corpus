@@ -41,7 +41,7 @@ This index is a navigational view of the FELOH Sovereign Corpus. It is not a sec
 ## Current documentation governance
 
 - [Ecosystem documentation reconciliation (2026-11-18)](ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md) — repository inventory, identified drift, correction priorities and verification boundaries.
-- [Research ecosystem update (2026-11-18)](RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md) — specialist source-of-record links and shared boundaries for IKAI voice/glasses, WARENA integration and GENJE kinetics/livecoding.
+- [Research ecosystem update (2026-11-18)](RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md) — specialist source-of-record links and shared boundaries for IKAI voice/glasses, NVIDIA XR AI comparison, WARENA integration and GENJE kinetics/livecoding.
 
 
 ## Current portfolio decision
