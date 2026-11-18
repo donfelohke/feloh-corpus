@@ -75,3 +75,7 @@ When adding a document, link it here if it is intended for ongoing use. Keep lin
 - [IKAI name and identity record](research-briefs/ikai-name-exploration-2026-11.md).
 - [WARENA name and identity record](research-briefs/warena-name-exploration-2026-11.md).
 - [Cross-project desktop-stack alignment](desktop-stack-alignment-2026-11.md) — current X11-first, Guile-WM + Gershwin dual-session research direction.
+
+## IKAI Mirror cross-project research — 2026-11-18
+
+- [IKAI Mirror Cross-Project Alignment](IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md) — shared responsibilities, research status, M1 evidence discipline, privacy boundaries and specialist source-of-record links. The detailed mirror technology and scholarly research remains in the IKAI repository.
