@@ -1,6 +1,6 @@
 # FELOH / NAKEBUSEN — Complete documentation tree
 
-**Status:** CANONICAL ARCHITECTURE · Updated 17 November 2026  
+**Status:** CANONICAL ARCHITECTURE · Updated 18 November 2026  
 **Owner of this map:** feloh-corpus  
 **Rule:** One source of truth per fact · conceptual plan ≠ implemented system · ONLY NAKEBUSEN TRANSACTS
 
@@ -120,6 +120,7 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | IKAI voice and smart-glasses architecture | Specialist IKAI architecture (linked from `docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md`) | RESEARCH · no device or deployment claimed |
 | GENJE kinetics/livecoding framework | Specialist GENJE research (linked from `docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md`) | RESEARCH · no motion-capture implementation claimed |
 | WARENA wearable platform integration | Specialist WARENA integration plan (linked from `docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md`) | RESEARCH · no host deployment claimed |
+| NVIDIA XR AI architecture comparison | [IKAI comparative study](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) | RESEARCH · industrial reference only; no NVIDIA dependency selected |
 
 ---
 
