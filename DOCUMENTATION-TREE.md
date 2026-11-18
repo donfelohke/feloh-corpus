@@ -117,6 +117,9 @@ NAKEBUSEN/ · WARENA/ · Gallery/ · Genje/ · Ikai/
 | IKAI name exploration | `docs/research-briefs/ikai-name-exploration-2026-11.md` | RESEARCH · functional identity; etymology open |
 | GENJE name exploration | `docs/research-briefs/genje-name-exploration-2026-11.md` | RESEARCH · creative interpretation; etymology open |
 | IKAI MIRROR+ cross-project research | `research/ikai-mirror-spatial-computing-landscape-2026-11-14.md` | RESEARCH · no hardware/runtime approved |
+| IKAI voice and smart-glasses architecture | Specialist IKAI architecture (linked from `docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md`) | RESEARCH · no device or deployment claimed |
+| GENJE kinetics/livecoding framework | Specialist GENJE research (linked from `docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md`) | RESEARCH · no motion-capture implementation claimed |
+| WARENA wearable platform integration | Specialist WARENA integration plan (linked from `docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md`) | RESEARCH · no host deployment claimed |
 
 ---
 
