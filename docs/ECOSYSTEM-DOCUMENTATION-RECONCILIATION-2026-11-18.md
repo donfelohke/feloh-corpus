@@ -56,3 +56,25 @@
 ## Review limitations
 
 This pass inventories the documentation tree and inspects primary entry points and selected high-impact policy files. It is not a line-by-line review of every historical research source, a link checker run, a legal review, an accessibility certification, or a build/deployment verification. Unreviewed material remains unverified rather than presumed correct.
+
+
+## Documentation corrections merged — 2026-11-18
+
+The following main-based documentation changes were merged after review of their patches. These are source-document corrections, not software deployment claims.
+
+| Repository | Merged PR | Scope |
+|---|---|---|
+| FELOH Corpus | [#41](https://github.com/donfelohke/feloh-corpus/pull/41), [#42](https://github.com/donfelohke/feloh-corpus/pull/42) | Service-label canon, documentation audit, XLibre compatibility wording |
+| WARENA | [#27](https://github.com/donfelohke/WARENA/pull/27), [#28](https://github.com/donfelohke/WARENA/pull/28), [#29](https://github.com/donfelohke/WARENA/pull/29) | GNUstep/GOOPS compatibility, X11-first desktop policy, stack/index precedence |
+| GENJE | [#20](https://github.com/donfelohke/Genje/pull/20), [#21](https://github.com/donfelohke/Genje/pull/21) | Movement-score and livecoding research, primary-documentation links |
+| IKAI | [#19](https://github.com/donfelohke/Ikai/pull/19), [#20](https://github.com/donfelohke/Ikai/pull/20), [#21](https://github.com/donfelohke/Ikai/pull/21) | Reflective-computing research and current workstation-policy alignment |
+| NAKEBUSEN | [#17](https://github.com/donfelohke/NAKEBUSEN/pull/17) | Service validation wording and WARENA desktop-policy reference |
+| Gallery | [#15](https://github.com/donfelohke/Gallery/pull/15) | Desktop-policy reference alignment; asset approval rules preserved |
+| Profile | [#11](https://github.com/donfelohke/donfelohke/pull/11) | Service-label correction and portfolio source-of-truth wording |
+| Website | [#126](https://github.com/donfelohke/donfelohke.github.io/pull/126) | Approved homepage proposition, documentation ownership and release evidence |
+| `dwl-guile` fork | [#1](https://github.com/donfelohke/dwl-guile/pull/1) | Historical upstream baseline and fork maturity |
+| `home-service-dwl-guile` fork | [#1](https://github.com/donfelohke/home-service-dwl-guile/pull/1) | Upstream channel versus maintained-fork boundary |
+
+## Remaining PR backlog
+
+The open PR backlog remains a separate reconciliation queue. No mass merge or mass close was performed. Older website PR #109 remains held for service-label and payment-footer conflicts. PRs with useful but stale branches must be compared with current `main` and ported selectively.
