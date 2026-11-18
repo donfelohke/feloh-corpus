@@ -129,3 +129,7 @@ The corpus records cross-domain boundaries; WARENA owns technical implementation
 The current shared technology policy is [Technology Policy (2026-11-17)](docs/technology-policy-2026-11-17.md). It records the WARENA expansion **Warena Architecture Re Network/ed Artefact**, the native-first / libre-first / local-first direction, the prohibition on JavaScript, the exclusion of web technologies as application/runtime architecture, the required reference to Richard Stallman's [“The JavaScript Trap”](https://www.gnu.org/philosophy/javascript-trap.html), and IKAI's Turkana meaning **home**.
 
 This policy supersedes conflicting undated drafts. Historical records retain their original dates and evidence; specialist repositories should link to the current policy rather than silently rewriting history.
+
+## IKAI Mirror research alignment — 2026-11-18
+
+The corpus records shared boundaries and responsibility assignments in [IKAI Mirror Cross-Project Alignment](docs/IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md). The detailed optical, scholarly, M1 and module research remains owned by [IKAI's specialist research note](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md). This is RESEARCH documentation only; no implementation, deployment or product claim is made.
