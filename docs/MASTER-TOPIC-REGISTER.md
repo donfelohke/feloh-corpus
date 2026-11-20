@@ -7,7 +7,7 @@
 **Portfolio decision:** [2026-10-31](portfolio-decision-2026-10-31.md)  
 **Bibliography:** [research/bibliography/](../research/bibliography/)
 
-This is the integrated topic inventory for the FELOH research programme and related projects: Black knowledge documentation, GitHub repositories, AI research, NAKEBUSEN, WARENA, IKAI, GENJE, the FELOH Corpus, and market research.
+This is the integrated topic inventory for the FELOH research programme and related projects: Black knowledge documentation, GitHub repositories, AI research, NAKEBUSEN, WARENA, IKAI, GENJE, the FELOH Corpus, and market research. Its lettered groups are **research topic classifications**, not practice-domain definitions. The current practice architecture has four domains only: NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION and WARENA / CAPABILITY; F3L0H is the overarching authorship identity.
 
 **Governing rule:** evidence first — verified facts, source interpretations, hypotheses, opinions and recommendations must be clearly distinguished.
 
@@ -15,7 +15,7 @@ This is the integrated topic inventory for the FELOH research programme and rela
 
 ## 1. Master index
 
-| Code | Domain | Focus |
+| Code | Research topic group | Focus |
 |---|---|---|
 | **A** | Black Knowledge Archive | History, memory, people, ideas, culture, evidence, preservation |
 | **B** | Research, sources and evidence | Bibliographies, methods, provenance, verification |
@@ -28,20 +28,22 @@ This is the integrated topic inventory for the FELOH research programme and rela
 
 ---
 
-## 2. Core portfolio canon
+## 2. Core portfolio canon — superseded summary
+
+**Current authority:** [F3L0H Sovereign Master Corpus (2026-11-20)](FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md). The table below is a historical topic-routing summary; it must not be used as the current domain hierarchy.
 
 | Identity | Current role | Boundary |
 |---|---|---|
-| **NAKEBUSEN** | Parent enterprise; only commercial interface | Current proposition: **Beautiful Roots. Sovereign Systems.** |
-| **LOCS · CROWN** | Beauty craft and loc-care customer path | Service scope, prices and availability require approval |
-| **DIGITAL · WARENA** | Practical technology customer path | Powered by WARENA systems engineering |
-| **WARENA** | Reproducibility, infrastructure and systems engineering | Do not claim a deployment without host evidence |
-| **GENJE** | Genge-rooted creative practice, AfroTech, livecoding, movement and choreohacking | Cultural/creative identity, not a separate checkout |
-| **GENJE ZA WARENA** | Adopted creative identity — **The Fire of the Formidable** | Authored interpretation, not verified universal etymology |
-| **IKAI** | Reflective-compute research | Research / WIP; not a released product |
-| **FELOH / Don Feloh** | Human authorship and creative/technical practice | Preserve attribution and provenance |
-| **FELOH Corpus** | Shared canon, evidence and governance | Source of record for shared terms and cross-domain policy |
-| **Gallery** | Asset provenance, rights and approval | Repository presence is not publication clearance |
+| **NAKEBUSEN / ROOT** | Physical practice, beauty, heritage, craft and only live commercial interface | **ONLY NAKEBUSEN TRANSACTS.** |
+| **IKAI / MIRROR** | Reflective-computing and embodied spatial research | Research / WIP; not a released product |
+| **GENJE / EXPRESSION** | Genge, sound, movement, livecoding and creative practice | Not a checkout brand |
+| **WARENA / CAPABILITY** | Reproducibility, infrastructure and systems engineering | Do not claim a deployment without host evidence |
+| **F3L0H** | Overarching human authorship and practice identity | Not a fifth practice domain |
+
+
+
+
+
 
 ---
 
