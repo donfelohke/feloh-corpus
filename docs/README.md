@@ -50,6 +50,7 @@ These are research programmes and topic classifications, not additional practice
 - [IKAI Mirror spatial-computing landscape](../research/ikai-mirror-spatial-computing-landscape-2026-11-14.md)
 - [Source register and research intake](source-register.md)
 - [Seed source catalogue](seed-source-catalogue.md)
+- [GENJE Movement IR and Generative Systems Research (2026-11-20)](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-IR-AND-GENERATIVE-SYSTEMS-RESEARCH-2026-11-20.md) — specialist GENJE research: LaMoGen/LabanLite audit, notation and generation systems, proposed Movement IR, music alignment, observation limits and situated documentation.
 - [Laban/Bartenieff resource map](research-briefs/laban-bartenieff-resource-map.md)
 - [GENJE Movement IR and Motion Research (2026-11-20)](../research/GENJE-MOVEMENT-AND-MOTION-RESEARCH-2026-11-20.md) — cross-domain research summary; detailed specification remains in GENJE.
 - [Kenya data-protection entry point](research-briefs/kenya-data-protection-entry-point.md)
