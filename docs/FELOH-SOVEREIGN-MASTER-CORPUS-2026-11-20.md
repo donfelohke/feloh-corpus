@@ -80,6 +80,15 @@ The current desktop research baseline is **X11-first**, not Wayland/Sway-first:
 
 See [WARENA desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md) and [desktop architecture decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). Hardware, host, configuration and deployment status must be evidenced separately.
 
+
+### 4.2 Spatial computing, immersive XR and opt-in intelligence
+
+WARENA's desktop architecture may be extended by independent spatial-computing and immersive-XR research layers. GNU/MAVERIK and DEVA3 are historical architecture references: MAVERIK informs application-aware spatial services; DEVA3 informs distributed virtual-environment state, object behaviour and synchronization. OpenXR is the native XR API candidate and Monado the Linux runtime candidate. These are research dispositions, not selected or deployed dependencies.
+
+AI is optional and disabled by default. Model inference, context access, tool access and agent execution are separate capabilities requiring explicit, scoped authorization. Local inference is preferred; remote inference requires separate opt-in. No silent indexing, media capture, telemetry, unrestricted agent access or mandatory cloud dependency is permitted.
+
+Detailed infrastructure architecture belongs in [WARENA's Spatial Computing, Immersive XR & Opt-in Intelligence Architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md). Cross-domain responsibility routing is recorded in [Spatial/XR/AI Cross-Project Alignment](SPATIAL-XR-AI-CROSS-PROJECT-ALIGNMENT-2026-11-20.md). This addition does not alter the X11-first desktop policy or claim a prototype, package build, device qualification or deployment.
+
 ## 5. Domain-specific research and maturity
 
 ### IKAI — MIRROR
