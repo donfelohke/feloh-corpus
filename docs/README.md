@@ -30,7 +30,8 @@ These are research programmes and topic classifications, not additional practice
 
 - [Before Africa research dossier](before-africa-research-dossier-2026-11-07.md)
 - [BLACKS: THE DOCS & DATA](black-docs-and-data-2026-11-17.md)
-- [Sages & Knowledge Traditions](sages-and-knowledge-traditions-2026-11-17.md)
+- [Sages & Knowledge Traditions](sages-and-knowledge-traditions-2026-11-17.md) — African intellectual histories, knowledge custodianship and philosophic sagacity.
+- [Henry Odera Oruka — Sage Philosophy & Philosophic Sagacity (2026-11-20)](ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) — dedicated scholarly synthesis, methodological critiques and cross-domain boundaries.
 - [Peoples, Lands & Civilisations](peoples-lands-and-civilisations-2026-11-17.md)
 - [Master Topic Register](MASTER-TOPIC-REGISTER.md)
 - [Twelve Research Areas programme (2026-10-30)](../research/PROGRAMME-12-RESEARCH-AREAS-2026-10-30.md) — research taxonomy and source-discovery plan, not practice-domain architecture.
