@@ -32,6 +32,7 @@ These are research programmes and topic classifications, not additional practice
 - [Sages & Knowledge Traditions](sages-and-knowledge-traditions-2026-11-17.md)
 - [Peoples, Lands & Civilisations](peoples-lands-and-civilisations-2026-11-17.md)
 - [Master Topic Register](MASTER-TOPIC-REGISTER.md)
+- [Twelve Research Areas programme (2026-10-30)](../research/PROGRAMME-12-RESEARCH-AREAS-2026-10-30.md) — research taxonomy and source-discovery plan, not practice-domain architecture.
 - [Continental atlas and populations](research-briefs/continental-atlas-and-populations-2026-11.md)
 
 ## Specialist research and cross-domain records
