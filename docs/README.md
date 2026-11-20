@@ -19,6 +19,7 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 - [Evidence and Provenance Method](../EVIDENCE-AND-PROVENANCE-METHOD.md)
 - [Glossary](glossary.md)
 - [Decision provenance](decision-provenance.md)
+- [DEC-2026-11-20-001 — F3L0H Four-Domain Constitution](decisions/DEC-2026-11-20-001-four-domain-constitution.md)
 - [Succession and stewardship](succession.md)
 - [Public presence register](public-presence.md)
 - [Knowledge-entry template](../templates/knowledge-entry.md)
