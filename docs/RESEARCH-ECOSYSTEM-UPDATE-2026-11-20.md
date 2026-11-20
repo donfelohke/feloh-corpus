@@ -56,7 +56,7 @@ Before adopting any candidate:
 
 ## 6. GENJE movement notation, generative systems and embodied research
 
-- [GENJE Movement IR and Generative Systems Research (2026-11-20)](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-IR-AND-GENERATIVE-SYSTEMS-RESEARCH-2026-11-20.md) — LaMoGen/LabanLite paper and static source audit; comparison of symbolic, continuous, motion-DSL, diffusion and music-to-dance systems; proposed event-oriented Movement IR; notation/observation/music adapters; African-centred documentation safeguards and staged research roadmap.
+- [GENJE Movement Intermediate Representation and Motion Research (2026-11-20)](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md) — LaMoGen/LabanLite paper and static source audit; comparison of symbolic, continuous, motion-DSL, diffusion and music-to-dance systems; proposed event-oriented Movement IR; notation/observation/music adapters; African-centred documentation safeguards and staged research roadmap.
 - GENJE owns movement, choreography, sound, creative authorship and performance context. IKAI owns participant-facing reflection and privacy; WARENA owns infrastructure and reproducibility; FELOH Corpus owns shared governance and navigation.
 - LaMoGen is a research comparator and possible isolated adapter, not GENJE's canonical notation or a selected WARENA runtime. The proposed Movement IR remains a specification; no implementation, capture system, dataset or model deployment is claimed.
 
