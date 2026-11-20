@@ -97,3 +97,13 @@ This map is a routing and ownership register, not a complete line-by-line audit 
 - GENJE embodied practice: [GENJE embodied spatial interaction research](https://github.com/donfelohke/Genje/blob/main/docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md).
 
 GNU/MAVERIK and DEVA3 are historical research foundations. OpenXR/Monado are evaluation candidates. AI is disabled by default and opt-in. These records do not establish implementation or deployment.
+
+
+## 11. Network, storage, payments and GNU Hurd research — 2026-11-20
+
+- Canonical network/federation/payment specification: [WARENA Network, Federation and Payment Architecture](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md).
+- Distributed storage comparison: [WARENA Distributed Storage and AFS Comparison](https://github.com/donfelohke/WARENA/blob/main/docs/DISTRIBUTED-STORAGE-AFS-COMPARISON-2026-11-20.md).
+- GNU Hurd/Guix current status and Nix comparison: [WARENA GNU Hurd research](https://github.com/donfelohke/WARENA/blob/main/docs/research/gnu-hurd-nix-compatibility-and-cross-build-2026-11.md).
+- Consolidated cross-project status: [Research Ecosystem Update — 2026-11-20](docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-20.md).
+
+GNUnet, Reticulum, Pubstrate, Goblins/OCapN, GNU Taler, Kenyan mobile-money APIs, OpenAFS and alternatives remain research candidates. No production deployment, financial integration or payment automation is implied.
