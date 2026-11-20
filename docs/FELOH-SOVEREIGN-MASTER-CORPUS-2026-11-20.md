@@ -198,3 +198,8 @@ The constitutional model is accepted as a documentation and governance direction
 - [Cross-project desktop-stack alignment](desktop-stack-alignment-2026-11.md)
 - [Evidence and Editorial Standards](../EVIDENCE-AND-EDITORIAL-STANDARDS.md)
 - [Decision provenance](decision-provenance.md)
+
+
+## Research programme pointer — African Sage Philosophy (2026-11-20)
+
+The FELOH Corpus maintains the canonical research record for African intellectual histories and philosophic sagacity. The dedicated [Henry Odera Oruka — Sage Philosophy & Philosophic Sagacity dossier](ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) documents Oruka's Kenyan project, the distinction between folk and philosophic sages, the four trends, conversational method, scholarly critiques and cross-domain implications. This is a **RESEARCH** programme, not a fifth practice domain or a claim of completed community interviews. WARENA's “Sage” is a separate contemporary design archetype; IKAI and GENJE connections are interpretive research boundaries, not historical equivalences.
