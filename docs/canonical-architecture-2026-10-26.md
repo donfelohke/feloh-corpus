@@ -1,3 +1,7 @@
+> **HISTORICAL BASELINE — SUPERSEDED:** This 2026-10-26 architecture is retained for provenance only. Its enterprise hierarchy and domain relationships are not current. The [F3L0H Sovereign Master Corpus (2026-11-20)](FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) is the current constitutional authority. Do not use this file to infer current domain ownership, service pricing or technical policy.
+
+---
+
 # Canonical Architecture and Decision Register
 **Updated:** 2026-10-26  
 **Status:** Historical baseline retained for provenance; evidence and implementation states must be verified independently.
