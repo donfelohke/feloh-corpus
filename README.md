@@ -87,3 +87,7 @@ A file on `main` proves its presence on that branch only. An idea, commit, merge
 Earlier portfolio and architecture records remain available as dated evidence. Where they conflict with the 2026-11-20 Master Corpus, the Master Corpus governs current shared identity and domain relationships. Historical material is not silently rewritten; specialist technical decisions retain their own authority within the constitutional boundaries.
 
 **ONE CORPUS · MANY VIEWS · ONE PRACTICE.**
+
+## Commercial market validation — 2026-11-20
+
+The current commercial strategy is owned by NAKEBUSEN. Its [TAM, MVP & Sales Blueprint](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md) defines bottom-up TAM/SAM/SOM discipline, LOCS-first sales validation, WARENA technical engagement boundaries, and the conditions for later IKAI/GENJE product or research investment. The Corpus preserves the constitutional rule **ONLY NAKEBUSEN TRANSACTS** and the separation between live commercial practice, technical capability, research and creative expression. This pointer does not certify market size, sales, product-market fit or product availability.
