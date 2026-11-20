@@ -179,6 +179,8 @@ The constitutional model is accepted as a documentation and governance direction
 
 ## 12. Related canonical records
 
+- [DEC-2026-11-20-001 — F3L0H Four-Domain Constitution](decisions/DEC-2026-11-20-001-four-domain-constitution.md)
+
 - [WARENA Technology Constitution — 2026-11-17](technology-policy-2026-11-17.md)
 - [Ecosystem Documentation Reconciliation — 2026-11-18](ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md)
 - [IKAI Mirror Cross-Project Alignment — 2026-11-18](IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md)
