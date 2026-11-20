@@ -77,3 +77,19 @@ Do not leave example IDs in a published research report as if they were real fin
 ## Status
 
 This register defines a proposed process. It does not assert that any complete source inventory or annotated bibliography has already been compiled.
+
+
+## Technical sources — GNU/MAVERIK, DEVA3 and contemporary XR
+
+| Source ID | Source | Supports | Limits / use |
+|---|---|---|---|
+| SRC-MAVERIK-001 | Hubbold et al., “GNU/MAVERIK: A microkernel for large-scale virtual environments,” *Presence*, 10(1), 22–34 (2001), https://doi.org/10.1162/105474601750182298 | Historical MAVERIK architecture and application-data callback model | Historical paper; not evidence of current maintenance or modern compatibility |
+| SRC-MAVERIK-002 | Howard, Hubbold & Murta, “MAVERIK: A Virtual Reality System for Research and Teaching,” GVE'99, https://diglib.eg.org/server/api/core/bitstreams/6dcfe6df-735f-4db6-96d3-66e37cdbdce9/content | Modular microkernel, spatial/display management, culling, interaction, navigation and device I/O | Historical research description; verify exact release/source separately |
+| SRC-MAVERIK-003 | GNU archive index, https://ftp.gnu.org/gnu/maverik/ | Surviving historical release archives | Archive presence does not establish project activity, buildability or licence details of every file |
+| SRC-DEVA3-001 | Pettifer, Cook, Marsh & West, “DEVA3: architecture for a large-scale distributed virtual reality system,” ACM VRST 2000, https://doi.org/10.1145/502393.502397 | Distributed VE, synchronization/subjectivity and object-behaviour model | Abstract and bibliographic record; detailed implementation claims require full paper/source |
+| SRC-DEVA3-002 | DBLP bibliographic record, https://dblp.org/rec/conf/vrst/PettiferCMW00 | Authors, title, venue and publication metadata | Bibliographic corroboration, not full technical evidence |
+| SRC-OPENXR-001 | Khronos OpenXR, https://www.khronos.org/openxr/ | Native XR API standard and ecosystem | API support is not proof of runtime/device/extension support |
+| SRC-MONADO-001 | Monado project documentation, https://monado.freedesktop.org/ | Linux OpenXR runtime project and supported architecture | Hardware support is device/driver-specific; qualify exact target |
+| SRC-MONADO-002 | Monado developer architecture, https://monado.pages.freedesktop.org/monado/index.html | Internal XRT interfaces and modular runtime components | Developer documentation can lag source; inspect pinned code |
+
+These entries are research sources, not claims that every source has been fully extracted or independently corroborated. The WARENA architecture note records the current bounded synthesis and unresolved source-archaeology work.
