@@ -212,3 +212,23 @@ Each topic should eventually carry: stable ID and title; scope and research ques
 **Canonical principle:** one shared research and documentation system · multiple specialised projects · traceable sources · independently reviewable changes.
 
 This register consolidates known programme topics. It is **not** a verified inventory of every file, conversation, repository or unpublished work.
+
+
+## 7. Spatial computing, immersive XR and opt-in intelligence — 2026-11-20
+
+This topic extends existing IKAI reflective/spatial computing and GENJE kinetics research with WARENA's infrastructure architecture.
+
+- Historical foundations: GNU/MAVERIK spatial microkernel; DEVA3 distributed virtual-environment architecture and subjectivity.
+- Modern runtime/API: Khronos OpenXR and Monado Linux runtime candidate.
+- Graphics and scene systems: Vulkan, OpenSceneGraph, VulkanSceneGraph and native rendering comparisons.
+- Spatial interfaces: scene representation, coordinate frames, registration, tracking, spatial displays and immersive presentation.
+- Distributed worlds: object identity/behaviour, persistence, replication, participant-specific views and synchronization.
+- Opt-in intelligence: local inference, context and tool brokers, human approval, permission revocation and remote-egress controls.
+
+Canonical records:
+- [WARENA spatial/XR/opt-in AI architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md).
+- [Corpus cross-project alignment](SPATIAL-XR-AI-CROSS-PROJECT-ALIGNMENT-2026-11-20.md).
+- [IKAI spatial research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md).
+- [GENJE embodied spatial research](https://github.com/donfelohke/Genje/blob/main/docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md).
+
+Maturity: RESEARCH. No recovered MAVERIK/DEVA3 source build, WARENA spatial kernel, XR hardware qualification, distributed-world implementation or AI service is claimed.
