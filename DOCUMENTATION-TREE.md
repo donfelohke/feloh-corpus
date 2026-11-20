@@ -65,7 +65,11 @@ Current Eldoret campaign starting prices: Retouch & Styling KES 700+; Sisterlocs
 
 Native-first, libre-first, local-first. JavaScript and web technologies are prohibited as WARENA/IKAI application/runtime architecture; static publication and documentation are distinct. Desktop research is X11-first: X.Org initial compatibility, XLibre experiment, Gershwin case study, Guile-WM / WM-NG research. Wayland/dwl-guile remains secondary/experimental; Sway is comparison/recovery baseline.
 
-## 6. Research programmes are not domains
+## 6. Research programmes are not practice domains
+
+The [Twelve Research Areas programme](research/PROGRAMME-12-RESEARCH-AREAS-2026-10-30.md) is a source-discovery and work-planning taxonomy. It is not an organizational hierarchy and does not alter the four practice domains.
+
+Research programmes are not domains
 
 Before Africa, BLACKS: THE DOCS & DATA, Sages & Knowledge Traditions, Peoples, Lands & Civilisations and programme topic taxonomies belong in research indexes. They do not create new practice domains.
 
