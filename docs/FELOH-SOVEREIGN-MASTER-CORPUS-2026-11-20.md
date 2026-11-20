@@ -42,11 +42,11 @@ These phrases describe relationships and intent; they are not claims of technica
 
 NAKEBUSEN leads the current physical and commercial practice. WARENA provides technical capability and endorsement where relevant; it does not become a second checkout identity. IKAI and GENJE are not transaction surfaces.
 
-The current Eldoret loc-care campaign facts are maintained in the NAKEBUSEN service catalogue and the website Public Facts Register. The shared public starting-price wording is:
+The current Eldoret loc-care campaign facts are maintained in the NAKEBUSEN service catalogue and the website Public Facts Register. The shared public price wording is:
 
-- Retouch & Styling — **KES 700+**
-- Sisterlocs Retie — **KES 1,500+**
-- Artificial Locs Installation — **KES 3,500+**
+- Retouch & Styling — **KES 700+** (starting price)
+- Sisterlocs Retie — **KES 1,500+** (starting price)
+- Artificial Locs Installation — **KES 3,500** (approved price; no plus sign)
 
 These are starting prices, not guaranteed final quotes. Scope, hair condition, time, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not reproduce payment numbers or operational payment data in this constitutional document; refer to the controlled public facts record and preserve its confirmation requirements.
 
@@ -109,7 +109,7 @@ WARENA is **Warena Architecture Re Network/ed Artefact**. Preserve the deliberat
 **GENJE NODE** is a WARENA manifestation for creative/embodied systems, not a separate practice domain. The WARENA repository owns configuration, stack policy, runbooks and implementation evidence. The `dwl-guile` and `home-service-dwl-guile` repositories are supporting forks; fork ownership does not imply upstream ownership, successful deployment or operational maturity.
 
 ### NAKEBUSEN — ROOT
-NAKEBUSEN means beautiful and is the grounded physical practice and enterprise. Its current public lead is loc care in Eldoret Town. The service catalogue and Public Facts Register, not copied summaries, own the current service and payment facts. Enquiry, booking, quote, payment and completed service are distinct states.
+NAKEBUSEN is used with the founder-supplied interpretation “Beautiful” in Turkana; formal linguistic verification remains open. It is the grounded physical practice and enterprise. Its current public lead is loc care in Eldoret Town. The service catalogue and Public Facts Register, not copied summaries, own the current service and payment facts. Enquiry, booking, quote, payment and completed service are distinct states.
 
 ## 6. Runtime and authority model
 
