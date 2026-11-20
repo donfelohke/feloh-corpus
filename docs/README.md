@@ -51,6 +51,7 @@ These are research programmes and topic classifications, not additional practice
 - [Source register and research intake](source-register.md)
 - [Seed source catalogue](seed-source-catalogue.md)
 - [Laban/Bartenieff resource map](research-briefs/laban-bartenieff-resource-map.md)
+- [GENJE Movement IR and Motion Research (2026-11-20)](../research/GENJE-MOVEMENT-AND-MOTION-RESEARCH-2026-11-20.md) — cross-domain research summary; detailed specification remains in GENJE.
 - [Kenya data-protection entry point](research-briefs/kenya-data-protection-entry-point.md)
 - [UI/UX SOP, design trends and brand case studies](research-briefs/ui-ux-sops-design-trends-case-studies.md)
 
