@@ -2,12 +2,14 @@
 ## The Sovereign Master Corpus
 
 **Canonical date:** 2026-11-20  
-**Status:** OWNER-DIRECTED CONSTITUTIONAL RECORD  
+**Status:** OWNER-DIRECTED CONSTITUTIONAL SPINE · PARTIAL CONSOLIDATION  
 **Maturity:** GOVERNANCE / DOCUMENTATION  
 **Principle:** ONE CORPUS · MANY VIEWS · ONE PRACTICE.  
 **Motto:** THE ROOT BECOMES THE RUNTIME.
 
 This document establishes the current shared architecture for the FELOH practice and its repositories. It supersedes conflicting portfolio and domain summaries dated before 2026-11-20. It does not erase their historical evidence, and it does not certify that a proposed workflow, product, prototype, service, device or deployment exists.
+
+**Completeness note:** This main-branch record captures the approved constitutional architecture and cross-repository corrections. It is not yet a verbatim import of the full user-authored F3L0H-PRESENT-001 edition (Parts I–XV, sections 1–60) or its complete proposed folder tree. Those detailed sections and records must be reconciled from the exact source text before this file is labelled the complete 1DOC/master edition. No missing section has been reconstructed by guesswork.
 
 ## 1. Constitutional authority
 
