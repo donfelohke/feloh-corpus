@@ -20,8 +20,8 @@ This document converts the FELOH research areas into an executable, evidence-led
 | R04 | AI and distributed intelligence | What can local inference, federated learning and agent systems do under explicit privacy, provenance, evaluation and human-authorization constraints? | WARENA / IKAI |
 | R05 | Distributed systems and internet infrastructure | How should Git, ActivityPub, Fediverse services, peer-to-peer networking, offline-first storage and federation be evaluated for operational sovereignty? | WARENA |
 | R06 | Telecommunications and financial infrastructure | How do USSD, operator access, M-Pesa/Daraja, bank rails, interoperability and regulation fit together in a Kenya-first service workflow? | WARENA / NAKEBUSEN |
-| R07 | Computational movement and embodied intelligence | How can Laban/Bartenieff movement concepts, notation and observation inform creative computation without turning people into scores or covert profiles? | IKAI / GENJE |
-| R08 | Music, culture and computational art | How do Genge, live coding, algorithmic composition and generative visuals support authored, attributable cultural practice? | GENJE |
+| R07 | Computational movement and embodied intelligence | How can a human-authored Movement IR connect notation, music, observation and rendering while preserving practitioner authority, consent and cultural specificity? | GENJE (specialist); IKAI (participant-directed reflection) |
+| R08 | Music, culture and computational art | How do Genge, livecoding, algorithmic composition, movement and audiovisual systems support authored, attributable cultural practice? | GENJE |
 | R09 | Enterprise, entrepreneurship and market research | What customer needs, service economics, local demand and delivery constraints can be evidenced for NAKEBUSEN LOCS and DIGITAL? | NAKEBUSEN |
 | R10 | Design, architecture and digital experience | Does the public experience communicate the offer clearly and work across devices, languages, assistive technologies and real enquiry journeys? | NAKEBUSEN / Website |
 | R11 | Human development, education and knowledge systems | How can self-directed learning, apprenticeship, reflective practice, local knowledge stewardship and durable research records support human agency? | Corpus / IKAI |
@@ -47,7 +47,7 @@ The first ten work packages translate the priority tracks into repository work. 
 | 03 | USSD and Kenyan payment rails | Operator/payment/network separation, integration feasibility and regulatory questions | WARENA PR #13 |
 | 04 | African historical identity | Source-led chronology, regional terminology and contested-claim register | Corpus PR #15; programme source queue |
 | 05 | IKAI Reflective Computing | Research questions, ethics, privacy model and reproducibility protocols | IKAI PR #5 |
-| 06 | Computational movement | Laban/Bartenieff resource map, terminology, method comparison and consent-aware study design | Corpus Laban resource map; IKAI / GENJE |
+| 06 | Computational movement | Laban/Bartenieff resource map; Movement IR; notation, music-to-dance and motion-model comparison; practitioner-led documentation and consent protocol | [GENJE Movement IR and Motion Research](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md); Corpus shared research index |
 | 07 | Fediverse and distributed publishing | ActivityPub/Git/Pubstrate/Mastodon architecture and threat-model comparison | WARENA Guile ecosystem PR #14 |
 | 08 | NAKEBUSEN market intelligence | Customer segments, local evidence, competitor observation protocol, service economics | Corpus PR #14 and #15; NAKEBUSEN PR #6 |
 | 09 | Agentic OS architecture | Agent authority model, desktop integration, reproducibility and human authorization | WARENA PR #12 and desktop architecture |
