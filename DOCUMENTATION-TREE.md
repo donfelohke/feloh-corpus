@@ -87,3 +87,13 @@ Update shared constitutional records first, then dependent summaries. Preserve h
 ## 9. Audit limitations
 
 This map is a routing and ownership register, not a complete line-by-line audit or release certification. PR diffs, internal links, browser accessibility, deployed state, hardware and physical prototypes require separate verification. Unverified claims remain UNKNOWN.
+
+
+## 10. Spatial/XR/AI research records — 2026-11-20
+
+- Canonical infrastructure specification: [WARENA Spatial Computing, Immersive XR & Opt-in Intelligence Architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md).
+- Shared domain boundaries: [Spatial/XR/AI Cross-Project Alignment](docs/SPATIAL-XR-AI-CROSS-PROJECT-ALIGNMENT-2026-11-20.md).
+- IKAI participant-facing research: [IKAI spatial-computing research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md).
+- GENJE embodied practice: [GENJE embodied spatial interaction research](https://github.com/donfelohke/Genje/blob/main/docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md).
+
+GNU/MAVERIK and DEVA3 are historical research foundations. OpenXR/Monado are evaluation candidates. AI is disabled by default and opt-in. These records do not establish implementation or deployment.
