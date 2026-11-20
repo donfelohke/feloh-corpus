@@ -79,6 +79,10 @@ A future decision record can use this template:
 ## Open questions
 ```
 
+## Current accepted decision
+
+- [DEC-2026-11-20-001 — F3L0H Four-Domain Constitution](decisions/DEC-2026-11-20-001-four-domain-constitution.md) — establishes F3L0H as the overarching authorship identity and NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION and WARENA / CAPABILITY as the four practice domains.
+
 ## Current repository status
 
 This protocol is **LIVE as documentation**. No claim is made here that an external decision ledger, automated attestation service, or SEQ-07 enforcement workflow has been deployed.
