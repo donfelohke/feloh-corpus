@@ -36,3 +36,18 @@ WARENA and IKAI are native-first, libre-first and local-first. JavaScript is pro
 Use RESEARCH until a specific configuration has been built and exercised. Use PROTOTYPE only when a runnable implementation exists. Use LIVE only with current host or deployment evidence. A package appearing in a repository is not proof of a working user session, substitute availability, offline completeness or hardware compatibility.
 
 No repo note in this alignment authorizes installation, host mutation, deployment or migration. Human approval is required for those actions.
+
+
+## Spatial computing, immersive XR and opt-in AI — 2026-11-20
+
+The X11-first desktop decision remains unchanged. Spatial computing and immersive XR are separate optional layers; OpenXR is an application/runtime API, Monado is a Linux runtime candidate, and neither replaces the conventional desktop stack. GNU/MAVERIK and DEVA3 are historical architectural references for application-aware spatial services and distributed virtual environments respectively.
+
+AI is disabled by default and requires explicit, scoped opt-in. It must not silently index files, capture media, contact remote services or acquire unrestricted agent permissions.
+
+Ownership and detail:
+- WARENA owns the canonical infrastructure specification: [Spatial Computing, Immersive XR & Opt-in Intelligence Architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md).
+- IKAI owns reflective interaction, participant authority and privacy.
+- GENJE owns movement, choreography and creative performance context.
+- FELOH Corpus owns cross-domain governance and evidence.
+
+All remain RESEARCH; no runtime, package, headset, spatial display, AI service or host deployment is claimed.
