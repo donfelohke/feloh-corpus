@@ -55,7 +55,7 @@ African history and chronology; Black histories across Africa and the diaspora; 
 
 ### 02 — Philosophy, thought and intellectual traditions
 
-African philosophy and epistemology; knowledge systems, truth, evidence and interpretation; indigenous knowledge and oral intellectual traditions; African humanism, ethics and social responsibility; freedom, justice, dignity, agency and personhood; power, knowledge, authority and legitimacy; decolonial and postcolonial critique; African political philosophy and social theory; intellectual biographies and schools of thought; Henry Odera Oruka and African philosophical traditions; comparative philosophy; thought, opinion, argument and evidence as distinct categories.
+African philosophy and epistemology; knowledge systems, truth, evidence and interpretation; indigenous knowledge and oral intellectual traditions; African humanism, ethics and social responsibility; freedom, justice, dignity, agency and personhood; power, knowledge, authority and legitimacy; decolonial and postcolonial critique; African political philosophy and social theory; intellectual biographies and schools of thought; Henry Odera Oruka and African philosophical traditions; Sage Philosophy Project; philosophic sagacity; folk and philosophic sages; oral dialogue and interview methodology; comparative philosophy; thought, opinion, argument and evidence as distinct categories. See [Oruka Sage Philosophy research dossier](ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md).
 
 ### 03 — Turkana, Ateker and indigenous knowledge
 
