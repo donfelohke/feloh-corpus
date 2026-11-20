@@ -78,3 +78,5 @@ These are research programmes and topic classifications, not additional practice
 ## Maintenance rule
 
 When a shared definition changes, update the Master Corpus first, then align dependent indexes and specialist summaries. Keep detailed research in its owning repository; link rather than duplicate. Use relative links for files in this repository. Mark incomplete or unverified work explicitly.
+
+- [WARENA Agentic Operating Environment & GNU Hurd Research (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md) — RENAISSANCE BLACK OPS research banner; human authority, intent/policy/capability separation, GNU Hurd/Mach, ChildHurd, Guile, Guix, Shepherd, security requirements and African intellectual design questions. Research / proposed architecture; no implementation claimed.
