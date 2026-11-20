@@ -8,10 +8,13 @@
 
 ## Research records
 
+- [GENJE Movement IR and Motion Research (2026-11-20)](GENJE-MOVEMENT-AND-MOTION-RESEARCH-2026-11-20.md) — shared research synopsis and source routing; the detailed specification is maintained in the [GENJE repository](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md).
+
 ```
 research/
 ├── README.md
 ├── PROGRAMME-12-RESEARCH-AREAS-2026-10-30.md
+├── GENJE-MOVEMENT-AND-MOTION-RESEARCH-2026-11-20.md
 ├── bibliography/
 ├── source-inventory/
 └── claims/
