@@ -7,6 +7,8 @@
 
 This repository is the shared constitutional source of record for identity, four practice domains, governance, terminology, evidence, provenance and cross-domain indexes. Specialist repositories own their detailed practice, research and implementation records. The public website is an audience-facing view, not the complete knowledge base.
 
+**Consolidation status:** The 2026-11-20 Master Corpus file is the accepted constitutional spine. The full F3L0H-PRESENT-001 edition (Parts I–XV, §§1–60) and complete folder tree still require exact-source import and reconciliation; the current spine is not represented as a verbatim complete transcription.
+
 ## Start here
 
 - [Sovereign Master Corpus (2026-11-20)](docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) — current constitutional architecture and repository ownership.
