@@ -52,6 +52,9 @@ These are research programmes and topic classifications, not additional practice
 - [Kenya data-protection entry point](research-briefs/kenya-data-protection-entry-point.md)
 - [UI/UX SOP, design trends and brand case studies](research-briefs/ui-ux-sops-design-trends-case-studies.md)
 
+- [WARENA network, federation and payment architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md) — GNUnet and alternatives, Reticulum, Pubstrate/ActivityPub, Goblins/OCapN, GNU Taler, Kenya mobile-money boundaries, security and Guix/Shepherd.
+- [WARENA distributed storage and AFS comparison (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/DISTRIBUTED-STORAGE-AFS-COMPARISON-2026-11-20.md) — OpenAFS and alternatives, workload mapping, security, operations and recovery.
+
 ## Name and identity research
 
 - [NAKEBUSEN name exploration](research-briefs/nakebusen-name-exploration-2026-11.md)
