@@ -121,3 +121,16 @@ These sources are indexed for the Oruka research dossier. Indexing does not impl
 | SRC-SAGE-006 | Mosima, Pius Maija, *Philosophic Sagacity and Intercultural Philosophy: Beyond Henry Odera Oruka*, African Studies Centre Leiden, 2016, https://www.ascleiden.nl/publications/philosophic-sagacity-and-intercultural-philosophy-beyond-henry-odera-oruka | Later comparative and intercultural scholarship | Book-level record and abstract; full text review required for detailed interpretation |
 
 These sources are indexed for the Oruka research dossier. Indexing does not imply exhaustive reading of every primary text or complete verification of every claim. Preserve this distinction in future bibliography work.
+
+## Agentic operating systems and GNU Hurd — 2026-11-20
+
+| Source ID | Source | Supports | Limits / use |
+|---|---|---|---|
+| SRC-AGENTOS-001 | Zhao et al., “AgenticOS: An Intent-Oriented Secure Operating System Architecture for Autonomous AI Agents” (2026), https://arxiv.org/abs/2606.15419 | Intent-oriented security architecture proposal for autonomous agents | Research proposal; inspect full paper, threat model and evaluation before adopting mechanisms |
+| SRC-AGENTOS-002 | Li et al., “Ring-0 by Default: Agents as Operating Systems (AaOS)” (2026), https://arxiv.org/abs/2610.23199 | Analysis of OS-like responsibilities and security gaps in agent systems | Source-specific taxonomy and counts; not a universal measurement or proof of all agents' behaviour |
+| SRC-HURD-AGENT-001 | GNU Hurd project, https://www.gnu.org/software/hurd/ | Official project scope, architecture and development entry point | Project landing page; consult versioned manuals and source for mechanism-level claims |
+| SRC-HURD-AGENT-002 | GNU Hurd documentation, https://www.gnu.org/software/hurd/doc/ | User-space servers, translators and system documentation | Documentation version and current implementation must be checked |
+| SRC-MACH-AGENT-001 | GNU Mach documentation, https://www.gnu.org/software/hurd/microkernel/mach/ | Mach tasks, ports and IPC concepts | Do not infer a complete revocable object-capability model from port rights alone |
+| SRC-GUIX-HURD-001 | GNU Guix, https://guix.gnu.org/ | Guix packaging and system-management project | Hurd support and package coverage are time-sensitive; record exact revision and current test output |
+
+The WARENA [Agentic Operating Environment & GNU Hurd Research specification](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md) is the current synthesis. These entries are source pointers; each technical claim still requires exact version, passage, experiment or source inspection before being marked VERIFIED.
