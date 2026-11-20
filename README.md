@@ -1,135 +1,86 @@
-# FELOH Sovereign Corpus
+# F3L0H — FELOH WARENA
 
-**Author:** Feloh Warena · [@donfelohke](https://github.com/donfelohke)  
-**Public umbrella:** **NAKEBUSEN · Locs & Digital** — powered by **WARENA**  
-**Site:** [donfelohke.github.io](https://donfelohke.github.io)
+**Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)  
+**Canonical architecture:** [The Sovereign Master Corpus — 2026-11-20](docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md)  
+**Principle:** ONE CORPUS · MANY VIEWS · ONE PRACTICE.  
+**Motto:** THE ROOT BECOMES THE RUNTIME.
 
-**Principle:** ONE CORPUS → MANY VIEWS → ONE PRACTICE.
-
-This repository is the **source of record** for shared terminology, architecture, governance, provenance, evidence standards and cross-domain indexes. Specialist repositories hold domain-specific work. The public website is an audience view, not the complete knowledge base.
-
----
+This repository is the shared constitutional source of record for identity, four practice domains, governance, terminology, evidence, provenance and cross-domain indexes. Specialist repositories own their detailed practice, research and implementation records. The public website is an audience-facing view, not the complete knowledge base.
 
 ## Start here
 
-- [Current portfolio decision (2026-10-31)](docs/portfolio-decision-2026-10-31.md)  
-- [Current technology policy (2026-11-17)](docs/technology-policy-2026-11-17.md)  
-- [Ecosystem documentation reconciliation (2026-11-18)](docs/ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md)  
-- [Research ecosystem update (2026-11-18)](docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md) — IKAI voice/glasses, WARENA integration and GENJE kinetics/livecoding cross-project records.  
-  
-- [Historical canonical architecture baseline (2026-10-26)](docs/canonical-architecture-2026-10-26.md)  
-- [Evidence and editorial standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md)  
-- [Knowledge-base architecture](docs/knowledge-base-architecture.md)  
-- [Domain map](docs/domain-map.md)  
-- [Source register](docs/source-register.md)  
-- [Documentation tree](DOCUMENTATION-TREE.md)  
-- [IKAI MIRROR+ spatial-computing research landscape (2026-11-14)](research/ikai-mirror-spatial-computing-landscape-2026-11-14.md)
+- [Sovereign Master Corpus (2026-11-20)](docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) — current constitutional architecture and repository ownership.
+- [Technology Constitution (2026-11-17)](docs/technology-policy-2026-11-17.md) — native-first, libre-first, local-first WARENA/IKAI policy.
+- [Ecosystem Documentation Reconciliation (2026-11-18)](docs/ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md) — audited repository baseline and known limitations.
+- [Documentation index](docs/README.md) · [Documentation tree](DOCUMENTATION-TREE.md) · [Domain map](docs/domain-map.md).
+- [Evidence and editorial standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md) · [Source register](docs/source-register.md) · [Decision provenance](docs/decision-provenance.md).
 
----
+## The four practice domains
 
-## Canonical relationships
+F3L0H is the overarching human authorship and practice identity, not a fifth domain.
 
-| Name | Role |
-|------|------|
-| **FELOH** | Human author and integrated practice |
-| **NAKEBUSEN** | Parent enterprise · **only commercial interface** |
-| **NAKEBUSEN LOCS** | Beauty craft · Eldoret campaign starting prices KES 700+ / 1,500+ / 3,500+ |
-| **NAKEBUSEN DIGITAL** | Technology services · technical identity **WARENA** |
-| **WARENA** | Systems · infrastructure · enablement · **configuration home** |
-| **IKAI** | Reflective-compute research · not a product |
-| **GENJE ZA WARENA** | Cultural identity / motivating idea · not a shop |
+| Domain | Role | Canonical home |
+|---|---|---|
+| **NAKEBUSEN** | **ROOT** — physical practice, beauty, heritage, craft and enterprise | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) |
+| **IKAI** | **MIRROR** — reflective computing and embodied spatial research | [Ikai](https://github.com/donfelohke/Ikai) |
+| **GENJE** | **EXPRESSION** — Genge, movement, sound, livecoding and creative practice | [Genje](https://github.com/donfelohke/Genje) |
+| **WARENA** | **CAPABILITY** — sovereign infrastructure, systems engineering and reproducibility | [WARENA](https://github.com/donfelohke/WARENA) |
 
-The current portfolio relationship model is maintained in the [2026-10-31 decision record](docs/portfolio-decision-2026-10-31.md). The 2026-10-26 architecture is retained as a historical baseline.
+**FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.**
 
-**An enquiry is not a booking.** No shaving or braiding appears on the public catalogue.
+**ONLY NAKEBUSEN TRANSACTS.** NAKEBUSEN is the sole commercial and transaction interface. WARENA supplies technical capability; IKAI remains research; GENJE remains creative practice. **GENJE NODE** is a WARENA manifestation, not a fifth domain.
 
----
+## Public-facing facts
 
-## Public voice versus corpus
+NAKEBUSEN's current Eldoret campaign starting prices are maintained in its service catalogue and the website Public Facts Register:
 
-| Layer | Location |
-|-------|----------|
-| Live speech | [X @donfelohke](https://x.com/donfelohke) |
-| Identity index | [GitHub profile](https://github.com/donfelohke) |
-| Canon | **This repository** |
-| Approved services view | [Website](https://donfelohke.github.io) |
+- Retouch & Styling — KES 700+
+- Sisterlocs Retie — KES 1,500+
+- Artificial Locs Installation — KES 3,500+
 
-Social posts do not automatically enter the corpus. Material must be recorded, reviewed, attributed and labelled.
+These are starting prices, not guaranteed final quotes. Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy payment numbers into this repository; use the approved Public Facts Register and its confirmation requirements.
 
-## Public-facing copy contract
+- [NAKEBUSEN service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md)
+- [Public Facts Register](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/PUBLIC-FACTS-REGISTER.md)
 
-Apply the following hierarchy when writing or reviewing public copy:
+## Technology and implementation boundaries
 
-1. **NAKEBUSEN Locs** leads the current customer-facing offer: loc care in **Eldoret Town / Karibu Mdosi**. Published Eldoret campaign starting prices are Retouch & Styling from KES 700+, **Sisterlocs Retie** from KES 1,500+, and Artificial Locs Installation from KES 3,500+. Confirm availability, scope and final price directly; an enquiry is not a booking. Braiding is not offered.
-2. **WARENA** describes inspectable, maintainable, local-first computing and systems engineering. Do not imply a deployment or service outcome without implementation evidence.
-3. **GENJE** describes Genge, AfroTech, livecoding, movement and choreohacking as creative practice; distinguish research, prototypes and released works.
-4. **IKAI** is reflective-compute research / work in progress, not a released product or a clinical, scoring, identification or surveillance system.
-5. **FELOH / Don Feloh** is the human author and public voice. Preserve attribution and provenance.
+WARENA and WARENA-governed IKAI infrastructure follow the [Technology Constitution](docs/technology-policy-2026-11-17.md): native-first, libre-first, local-first, inspectable and reproducible. JavaScript and web technologies are prohibited as WARENA/IKAI application/runtime architecture. Static publication and documentation are distinct from native system architecture.
 
-Use English and Kiswahili deliberately for public accessibility. Do not describe the homepage as Kiswahili-first until language-toggle changes are merged and verified. Keep metadata, profile copy, repository READMEs and the public page consistent. Historical locations and older service menus must not be presented as current availability without confirmation.
+The desktop research baseline is **X11-first**: X.Org initial compatibility; XLibre compatibility experiment; Gershwin as an X11 desktop case study; Guile-WM / WM-NG window-management research. Wayland remains secondary/experimental; dwl-guile is experimental and Sway is a comparison/recovery baseline.
 
----
+A commit is not a deployment. A research note is not a prototype. A hardware candidate is not a verified system. Use explicit maturity and evidence labels.
 
-## Evidence discipline
-
-**Labels:** VERIFIED · CORROBORATED · DISPUTED · UNVERIFIED · INTERPRETATION · OPINION · TESTIMONY · PROPOSAL  
-**Maturity:** LIVE · PROTOTYPE · RESEARCH · CONCEPT · HISTORICAL · SUPERSEDED · UNKNOWN
-
-A commit is not a deployment. An upstream version is not a host. Mark **UNKNOWN** when host evidence is missing.
-
----
-
-## Repository map
+## Repository register
 
 | Repository | Responsibility |
 |---|---|
-| [donfelohke.github.io](https://github.com/donfelohke/donfelohke.github.io) | Public site |
-| **feloh-corpus** | Canon · governance · evidence |
-| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Enterprise documentation |
-| [WARENA](https://github.com/donfelohke/WARENA) | Systems · stack register · **configuration home** |
-| [dwl-guile](https://github.com/donfelohke/dwl-guile) | Guile compositor fork (WARENA research) |
-| [home-service-dwl-guile](https://github.com/donfelohke/home-service-dwl-guile) | Guix Home service fork (WARENA research) |
-| [Genje](https://github.com/donfelohke/Genje) | Creative practice |
-| [Ikai](https://github.com/donfelohke/Ikai) | Reflective research |
-| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
-| [donfelohke](https://github.com/donfelohke/donfelohke) | Profile README |
+| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Shared constitution, governance, evidence, provenance and indexes |
+| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | ROOT practice, catalogue, customer journeys and commercial terms |
+| [Ikai](https://github.com/donfelohke/Ikai) | MIRROR research, protocols and privacy |
+| [Genje](https://github.com/donfelohke/Genje) | EXPRESSION practice, creative source and movement |
+| [WARENA](https://github.com/donfelohke/WARENA) | CAPABILITY architecture, stack and runbooks |
+| [Gallery](https://github.com/donfelohke/Gallery) | Asset provenance, rights, consent and approval |
+| [donfelohke.github.io](https://github.com/donfelohke/donfelohke.github.io) | Public website, accessibility, browser tests and deployment |
+| [donfelohke](https://github.com/donfelohke/donfelohke) | Public profile and navigation |
+| [dwl-guile](https://github.com/donfelohke/dwl-guile) | Supporting WARENA compositor fork |
+| [home-service-dwl-guile](https://github.com/donfelohke/home-service-dwl-guile) | Supporting Guix Home service fork |
 
-**Current maturity:** RESEARCH / DOCUMENTATION BASELINE. Verify independently before treating any capability as operational.
+The Corpus does not duplicate specialist documents. It owns shared decisions and links to domain-specific sources of record. Gallery is an asset-governance repository, the website is a publication repository, and the two forks are supporting implementation repositories—not additional practice domains.
 
-There is no separate `warena-rde` repository. RDE remains an upstream pin; configuration policy lives in WARENA. See [WARENA fork architecture](https://github.com/donfelohke/WARENA/blob/main/docs/FORK-AND-CONFIGURATION-ARCHITECTURE-2026-11.md).
+## Research programmes
 
----
+Before Africa, BLACKS: THE DOCS & DATA, Sages & Knowledge Traditions, Peoples, Lands & Civilisations, and other research classifications are **programmes and topics**, not additional practice domains. Their records remain indexed in the [documentation index](docs/README.md) and [Master Topic Register](docs/MASTER-TOPIC-REGISTER.md).
 
-## Historical portfolio alignment — 2026-10
+## Evidence discipline
 
-This dated section records the 2026-10 decision baseline; current policy and later decisions take precedence. Current umbrella proposition: **NAKEBUSEN — Beautiful Roots. Sovereign Systems.** Supporting proposition: *Craft, technology and culture rooted in African ingenuity.* The current decision record and GENJE ZA WARENA launch brief are documented in [portfolio decision 2026-10-31](docs/portfolio-decision-2026-10-31.md).
+Claim labels: VERIFIED · CORROBORATED · DISPUTED · UNVERIFIED · INTERPRETATION · OPINION · TESTIMONY · PROPOSAL.  
+Maturity labels: LIVE · PROTOTYPE · RESEARCH · CONCEPT · HISTORICAL · SUPERSEDED · UNKNOWN.
 
-Canonical brand boundary: **FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.**  
-NAKEBUSEN is the only commercial transaction interface; conceptual coherence is not implementation evidence. Keep this corpus authoritative for shared terminology, governance, provenance and evidence standards, and allow specialist repositories to own their implementation details.
+A file on `main` proves its presence on that branch only. An idea, commit, merge, poster concept or upstream release is not proof of an operational capability. Keep unknowns explicit.
 
----
+## Historical records
 
-## BLACKS: THE DOCS & DATA
+Earlier portfolio and architecture records remain available as dated evidence. Where they conflict with the 2026-11-20 Master Corpus, the Master Corpus governs current shared identity and domain relationships. Historical material is not silently rewritten; specialist technical decisions retain their own authority within the constitutional boundaries.
 
-The Black documentation programme is anchored by **“Black = Beautiful” — cultural affirmation, historical reclamation and self-determination**. It documents African plurality, peoples and lands before continental standardisation, naming and classification, sages and intellectual traditions, Black identity, beauty politics, community memory and knowledge sovereignty. It extends the existing [Before Africa research dossier](docs/before-africa-research-dossier-2026-11-07.md) without replacing it. [Read BLACKS: THE DOCS & DATA](docs/black-docs-and-data-2026-11-17.md).
-
-The programme's research volumes are indexed in the [corpus documentation index](docs/README.md): [Sages & Knowledge Traditions — Volume I](docs/sages-and-knowledge-traditions-2026-11-17.md) and [Peoples, Lands & Civilisations — Volume II](docs/peoples-lands-and-civilisations-2026-11-17.md). Both remain research frameworks, not completed field studies or final historical syntheses.
-
-## Before Africa — research programme
-
-The shared dossier investigates African self-naming, philosophies of existence, political organisation, knowledge systems and historical methodology. It distinguishes documented Roman geographical usage from disputed etymology, avoids a single universal indigenous name, and requires regional, linguistic and chronological specificity. [Read the master dossier](docs/before-africa-research-dossier-2026-11-07.md).
-
-## Desktop-stack cross-project alignment — 2026-11
-
-The corpus records cross-domain boundaries; WARENA owns technical implementation detail and configuration policy. See [Cross-Project Desktop Stack Alignment](docs/desktop-stack-alignment-2026-11.md) and the [WARENA technical decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md). This is research, not a deployment claim.
-
-
-## Canonical technology policy — 2026-11-17
-
-The current shared technology policy is [Technology Policy (2026-11-17)](docs/technology-policy-2026-11-17.md). It records the WARENA expansion **Warena Architecture Re Network/ed Artefact**, the native-first / libre-first / local-first direction, the prohibition on JavaScript, the exclusion of web technologies as application/runtime architecture, the required reference to Richard Stallman's [“The JavaScript Trap”](https://www.gnu.org/philosophy/javascript-trap.html), and IKAI's Turkana meaning **home**.
-
-This policy supersedes conflicting undated drafts. Historical records retain their original dates and evidence; specialist repositories should link to the current policy rather than silently rewriting history.
-
-## IKAI Mirror research alignment — 2026-11-18
-
-The corpus records shared boundaries and responsibility assignments in [IKAI Mirror Cross-Project Alignment](docs/IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md). The detailed optical, scholarly, M1 and module research remains owned by [IKAI's specialist research note](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md). This is RESEARCH documentation only; no implementation, deployment or product claim is made.
+**ONE CORPUS · MANY VIEWS · ONE PRACTICE.**
