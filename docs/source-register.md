@@ -93,3 +93,17 @@ This register defines a proposed process. It does not assert that any complete s
 | SRC-MONADO-002 | Monado developer architecture, https://monado.pages.freedesktop.org/monado/index.html | Internal XRT interfaces and modular runtime components | Developer documentation can lag source; inspect pinned code |
 
 These entries are research sources, not claims that every source has been fully extracted or independently corroborated. The WARENA architecture note records the current bounded synthesis and unresolved source-archaeology work.
+
+
+## African Sage Philosophy and philosophic sagacity — 2026-11-20
+
+| Source ID | Source | Supports | Limits / use |
+|---|---|---|---|
+| SRC-SAGE-001 | Stanford Encyclopedia of Philosophy, “African Sage Philosophy,” archived Spring 2026 edition, https://plato.stanford.edu/archives/spr2026/entries/african-sage/ | Oruka project, oral reasoning, Eurocentric bias, literacy, four trends and philosophical criteria | Secondary reference; entry's substantive revision is dated 22 February 2016 |
+| SRC-SAGE-002 | Internet Encyclopedia of Philosophy, “African Sage Philosophy,” https://iep.utm.edu/african-sage/ | Project history, Oruka's intellectual setting, folk/philosophic sage distinction, criticisms and later scholarship | Secondary reference; verify primary claims against Oruka's own publications |
+| SRC-SAGE-003 | Oruka, H. Odera (ed.), *Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy* (1990) | Primary dialogues and Oruka's presentation of individual sages | Consult exact edition; verify page numbers and quotation context before reuse |
+| SRC-SAGE-004 | Azenabor, Godwin, “Odera Oruka’s Philosophic Sagacity: Problems and Challenges of Conversation Method in African Philosophy,” *Thought and Practice* 1(1), 2009, pp. 69–86, https://www.ajol.info/index.php/tp/article/download/46307/32705/0 | Conversation method and methodological challenges | Critical secondary analysis; interpret within wider debate |
+| SRC-SAGE-005 | Kazeem, Fayemi Ademola, “H. Odera Oruka and the Question of Methodology in African Philosophy: A Critique,” *Thought and Practice* 4(2), 2012, https://doi.org/10.5840/tap20124211 | Methodological critique and scholarly reception | Secondary article; obtain full text for detailed claims |
+| SRC-SAGE-006 | Mosima, Pius Maija, *Philosophic Sagacity and Intercultural Philosophy: Beyond Henry Odera Oruka*, African Studies Centre Leiden, 2016, https://www.ascleiden.nl/publications/philosophic-sagacity-and-intercultural-philosophy-beyond-henry-odera-oruka | Later comparative and intercultural scholarship | Book-level record and abstract; full text review required for detailed interpretation |
+
+These sources are indexed for the Oruka research dossier. Indexing does not imply exhaustive reading of every primary text or complete verification of every claim. Preserve this distinction in future bibliography work.
