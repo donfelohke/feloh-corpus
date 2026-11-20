@@ -78,3 +78,35 @@ Use the Corpus maturity vocabulary: LIVE · PROTOTYPE · RESEARCH · CONCEPT · 
 Detailed architecture changes belong in WARENA. Participant-facing and privacy changes belong in IKAI. Creative and movement-method changes belong in GENJE. Shared definitions and cross-domain policy changes are recorded here first. Supporting repositories link to canonical sources rather than duplicating them.
 
 No production code, hardware procurement, deployment, product release or commercial change is authorized by this alignment.
+
+
+## Glass Terminal — cross-project design constitution — 2026-11-20
+
+Glass Terminal is a shared UI/UX/XR research direction, not a fifth project, new repository, commercial brand or product release. It connects the existing project authorities without collapsing them.
+
+| Concern | Authority |
+|---|---|
+| Native desktop, graphics, compositor/window management, XR runtime integration and reproducible packaging | WARENA |
+| Reflective experience, physical mirror optics, participant authority, consent, privacy and memory semantics | IKAI |
+| Embodied creative practice, movement notation, choreography, sound and performance authorship | GENJE |
+| Shared terms, evidence, provenance, cross-domain governance and maturity labels | FELOH Corpus |
+| Grounded services and all commercial transactions | NAKEBUSEN |
+
+### Shared design principles
+
+- Glass is a material and visual vocabulary, not an information hierarchy.
+- Terminal means inspectability, composability, precision, programmability and human control.
+- XR is an optional spatial modality; the conventional desktop remains independently useful.
+- OpenXR is an application/runtime API, not a desktop display server or shell.
+- Browser HTML/CSS may present public research but does not become WARENA or IKAI application architecture.
+- Native-first, local-first and libre-first remain the system design constraints.
+- Essential tasks must have non-gesture interaction paths.
+- Reflection and movement remain participant-authored; no face identification, scoring, covert sensing or inferred personal labels.
+- **ONLY NAKEBUSEN TRANSACTS.**
+
+### Public reference
+
+The design constitution and static public research presentation are maintained in the existing website repository:
+https://donfelohke.github.io/research/glass-terminal/
+
+A public page, design proposal, documentation update or merged commit does not establish implementation, usability validation, hardware compatibility or deployment. Use the existing maturity vocabulary and require evidence for every promotion.
