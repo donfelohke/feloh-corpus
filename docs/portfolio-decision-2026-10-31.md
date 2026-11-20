@@ -1,3 +1,7 @@
+> **SUPERSEDED FOR CURRENT IDENTITY AND DOMAIN ARCHITECTURE — 2026-11-20.** This dated decision remains historical evidence for the 2026-10-31 NAKEBUSEN-parent campaign. It is no longer the current shared portfolio hierarchy. The governing record is the [F3L0H Sovereign Master Corpus (2026-11-20)](FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md): F3L0H is the overarching authorship identity; NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION and WARENA / CAPABILITY are the four practice domains; ONLY NAKEBUSEN TRANSACTS.
+
+---
+
 # Portfolio Decision Record — 2026-10-31
 
 **Status:** CURRENT AUTHOR-SUPPLIED DIRECTION  
