@@ -363,3 +363,8 @@ The Kenyan Sage Philosophy Project demonstrates the importance of recording indi
 **Author:** Felix Lwova / Don Feloh  
 **Maturity:** RESEARCH FRAMEWORK  
 **Last updated:** 17 November 2026
+
+
+## 9. Dedicated Oruka research dossier — 20 November 2026
+
+The focused study [Henry Odera Oruka — Sage Philosophy & Philosophic Sagacity](ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) expands the Kenyan project’s historical setting, terminology, four trends, conversational method, methodological criticisms, source bibliography and links to IKAI, GENJE and WARENA. It is the current specialist synthesis; this broader programme dossier remains the parent framework. **Status: RESEARCH.**
