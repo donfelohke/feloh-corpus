@@ -123,11 +123,11 @@ WARENA as systems practice; NAKEBUSEN DIGITAL relationship; technology services 
 
 ### 18 — GNU/Linux, free software and sovereign infrastructure
 
-GNU/Linux administration; FOSS; reproducible and declarative systems; local-first and offline architectures; Guix / RDE where documented; Btrfs, SQLite, Git, Restic; backup, recovery and portability; lightweight desktop; network design; local servers and caches; reproducible research environments; hardware selection and repairability; software freedom and security; reduced cloud dependence; runbooks.
+GNU/Linux administration; FOSS; reproducible and declarative systems; local-first and offline architectures; Guix / RDE where documented; Btrfs, SQLite, Git, Restic; backup, recovery and portability; lightweight desktop; network design; local servers and caches; reproducible research environments; hardware selection and repairability; software freedom and security; reduced cloud dependence; runbooks. WARENA specialist records: [network/federation/payment architecture](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md), [distributed storage/AFS](https://github.com/donfelohke/WARENA/blob/main/docs/DISTRIBUTED-STORAGE-AFS-COMPARISON-2026-11-20.md), and [GNU Hurd/Guix status](https://github.com/donfelohke/WARENA/blob/main/docs/research/gnu-hurd-nix-compatibility-and-cross-build-2026-11.md).
 
 ### 19 — Networks, hardware and technical services
 
-Edge hardware concepts (e.g. H68K, RK3568) where researched; x86 routers and OPNsense/pfSense; LAN, Wi-Fi, VLANs, mesh; multi-ISP failover; WireGuard/IPsec; QoS; hotspot concepts; offline caching; PXE and lab deployment; school/SME networks; firewalling and security; monitoring and remote support; BOM and lifecycle costs; storage and DR; audits and pricing; offline resilience.
+Edge hardware concepts (e.g. H68K, RK3568) where researched; x86 routers and OPNsense/pfSense; LAN, Wi-Fi, VLANs, mesh; multi-ISP failover; WireGuard/IPsec; QoS; hotspot concepts; offline caching; PXE and lab deployment; school/SME networks; firewalling and security; monitoring and remote support; BOM and lifecycle costs; storage and DR; audits and pricing; offline resilience. Specialist comparison: [GNUnet, Reticulum, libp2p, Yggdrasil, ActivityPub, Pubstrate and Taler](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md); [OpenAFS and distributed storage](https://github.com/donfelohke/WARENA/blob/main/docs/DISTRIBUTED-STORAGE-AFS-COMPARISON-2026-11-20.md).
 
 Label **PROPOSAL** or **RESEARCH** until deployed evidence exists.
 
@@ -153,7 +153,7 @@ Information literacy; OER; digital libraries; technical training; computer labs 
 
 ### 24 — Entrepreneurship, finance and digital economies
 
-SME development; market entry and acquisition; pricing, revenue, expenses, margins and cash flow; M-Pesa and digital payments; digital commerce; recurring revenue; productised consulting; validation and discovery; procurement and cost models; infrastructure as economic capability; livelihoods; financial assumptions vs evidence; total market spending vs obtainable revenue.
+SME development; market entry and acquisition; pricing, revenue, expenses, margins and cash flow; M-Pesa and digital payments; digital commerce; recurring revenue; productised consulting; validation and discovery; procurement and cost models; infrastructure as economic capability; livelihoods; financial assumptions vs evidence; total market spending vs obtainable revenue. Payment architecture and Kenya provider/regulatory boundaries: [WARENA GNU Taler and mobile-money study](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md).
 
 ### 25 — Ecology, land, food and material life
 
