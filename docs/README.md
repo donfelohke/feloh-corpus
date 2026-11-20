@@ -43,6 +43,8 @@ These are research programmes and topic classifications, not additional practice
 - [Research ecosystem update (2026-11-18)](RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md)
 - [IKAI Mirror Cross-Project Alignment (2026-11-18)](IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md)
 - [Cross-project desktop-stack alignment](desktop-stack-alignment-2026-11.md)
+- [Spatial/XR/AI cross-project alignment (2026-11-20)](SPATIAL-XR-AI-CROSS-PROJECT-ALIGNMENT-2026-11-20.md)
+- [WARENA spatial/XR/opt-in AI architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md)
 - [IKAI Mirror spatial-computing landscape](../research/ikai-mirror-spatial-computing-landscape-2026-11-14.md)
 - [Source register and research intake](source-register.md)
 - [Seed source catalogue](seed-source-catalogue.md)
