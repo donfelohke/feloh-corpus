@@ -53,6 +53,11 @@ WARENA owns technical implementation and policy. The current shared baseline is 
 
 Desktop research is X11-first: X.Org initial compatibility, XLibre compatibility experiment, Gershwin case study, Guile-WM / WM-NG research; Wayland/dwl-guile is secondary/experimental and Sway is a comparison/recovery baseline. See [Technology Constitution](technology-policy-2026-11-17.md) and WARENA's specialist desktop records.
 
+
+### Spatial computing, XR and AI routing
+
+WARENA owns spatial services, graphics/runtime adapters, OpenXR/Monado evaluation, Guix packaging and optional AI infrastructure. IKAI owns participant-facing reflection, consent, privacy and memory semantics. GENJE owns authored movement, choreography, livecoding and performance. The Corpus owns shared governance and evidence. AI remains disabled by default and explicitly opt-in. See [Spatial/XR/AI Cross-Project Alignment](SPATIAL-XR-AI-CROSS-PROJECT-ALIGNMENT-2026-11-20.md) and [WARENA's canonical architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md).
+
 ## Research programmes are not practice domains
 
 Before Africa, BLACKS: THE DOCS & DATA, Sages & Knowledge Traditions, Peoples, Lands & Civilisations and programme taxonomies are research programmes/topics. They do not expand the four practice domains. Keep programme classification in the Master Topic Register and related research records.
