@@ -36,6 +36,8 @@ These are research programmes and topic classifications, not additional practice
 
 ## Specialist research and cross-domain records
 
+- [IKAI NVIDIA XR AI Architecture Comparative Study (2026-11-18)](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial reference only; no NVIDIA dependency selected.
+
 - [Research ecosystem update (2026-11-18)](RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md)
 - [IKAI Mirror Cross-Project Alignment (2026-11-18)](IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md)
 - [Cross-project desktop-stack alignment](desktop-stack-alignment-2026-11.md)
