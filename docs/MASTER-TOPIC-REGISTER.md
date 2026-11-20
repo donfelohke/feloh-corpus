@@ -232,3 +232,7 @@ Canonical records:
 - [GENJE embodied spatial research](https://github.com/donfelohke/Genje/blob/main/docs/EMBODIED-SPATIAL-INTERACTION-RESEARCH-2026-11-14.md).
 
 Maturity: RESEARCH. No recovered MAVERIK/DEVA3 source build, WARENA spatial kernel, XR hardware qualification, distributed-world implementation or AI service is claimed.
+
+## Agentic operating environments and sovereign computing — 2026-11-20
+
+Research scope: agentic operating-system architectures; agent identity and authority; intent declarations; policy evaluation; least-privilege capabilities; delegation and revocation; independent audit; persistent-state integrity; GNU Hurd, GNU Mach, translators and ChildHurd; GNU/Linux enforcement adapters; Guile orchestration; Guix reproducibility; Shepherd supervision; human approval and recovery; African intellectual sovereignty and situated design correspondences. Canonical technical record: [WARENA Agentic Operating Environment & GNU Hurd Research](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md). Status: RESEARCH / PROPOSED ARCHITECTURE. No implementation, secure sandbox, deployment or product is claimed.
