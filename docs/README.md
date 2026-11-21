@@ -109,3 +109,6 @@ When a shared definition changes, update the Master Corpus first, then align dep
 - [WARENA Agentic Operating Environment & GNU Hurd Research (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md) — RENAISSANCE BLACK OPS research banner; human authority, intent/policy/capability separation, GNU Hurd/Mach, ChildHurd, Guile, Guix, Shepherd, security requirements and African intellectual design questions. Research / proposed architecture; no implementation claimed.
 
 - [GENJE Movement and Music Interoperability Study (2026-11-20)](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-MUSIC-INTEROPERABILITY-STUDY-2026-11-20.md) — comparison of existing notation, motion-capture, animation and music protocols; timing, transformation loss and proposed validation tests. Research only.
+
+- [Cross-Repository Documentation Audit (2026-11-21)](CROSS-REPOSITORY-DOCUMENTATION-AUDIT-2026-11-21.md) — entry-point audit and repository-specific evidence gaps.
+- [Cross-Repository Documentation Audit Index (2026-11-21)](CROSS-REPOSITORY-DOCUMENTATION-AUDIT-INDEX-2026-11-21.md) — repository ownership, next evidence gates and shared maintenance protocol.
