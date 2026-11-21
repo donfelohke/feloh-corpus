@@ -8,6 +8,7 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 - [Technology Constitution (2026-11-17)](technology-policy-2026-11-17.md) — WARENA/IKAI native-first, libre-first, local-first technology policy.
 - [Cross-domain domain map](domain-map.md) — current source-of-record routing.
 - [Ecosystem documentation reconciliation (2026-11-18)](ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md) — ten-repository audit and known limitations.
+- [Repository-wide baseline audit (2026-11-21)](REPOSITORY-WIDE-BASELINE-AUDIT-2026-11-21.md) — refreshed repository and Markdown inventory, open PR snapshot and remaining verification boundaries.
 - [Documentation tree](../DOCUMENTATION-TREE.md) — repository and document ownership map.
 
 ## Governance and evidence
