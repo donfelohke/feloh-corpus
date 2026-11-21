@@ -27,6 +27,9 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 ## Research programmes and knowledge archives
 
+- [Black Heritage, Historical Identity & Knowledge Sovereignty](../research/black-heritage-knowledge-sovereignty/README.md) — initial source-grounded programme and claim register.
+- [NAKEBUSEN Beauty Research Dossier](../research/nakebusen-beauty/README.md) — local practice and service-design research; not a live service or price source.
+
 - [COMPUTE + ARTS research programme](../research/compute-arts/README.md) — proposed computational arts programme spanning E-Genge livecoding, movement, cultural rights, reproducibility and local-first systems.
 - [COMPUTE + ARTS annotated bibliography](../research/bibliography/subject-bibliographies/compute-arts.md) — source-by-source review-depth and limitations.
 - [COMPUTE + ARTS claim register](../research/claims/compute-arts-claim-ledger.md) — bounded claims and evidence states.
