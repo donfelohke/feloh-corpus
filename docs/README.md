@@ -27,6 +27,8 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 ## Research programmes and knowledge archives
 
+- [Before Africa source catalogue](research-briefs/before-africa-source-catalogue-2026-11.md) — annotated primary studies, DOI links, supplementary-data guidance, research materials and regional acquisition priorities.
+
 These are research programmes and topic classifications, not additional practice domains.
 
 - [Before Africa research dossier](before-africa-research-dossier-2026-11-07.md)

@@ -107,3 +107,12 @@ GNU/MAVERIK and DEVA3 are historical research foundations. OpenXR/Monado are eva
 - Consolidated cross-project status: [Research Ecosystem Update — 2026-11-20](docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-20.md).
 
 GNUnet, Reticulum, Pubstrate, Goblins/OCapN, GNU Taler, Kenyan mobile-money APIs, OpenAFS and alternatives remain research candidates. No production deployment, financial integration or payment automation is implied.
+
+
+## 12. Before Africa research records — 2026-11-21
+
+- [Before Africa master dossier](docs/before-africa-research-dossier-2026-11-07.md) — conceptual and methodological source of record, with dated population-genetics qualifications.
+- [Continental atlas and populations brief](docs/research-briefs/continental-atlas-and-populations-2026-11.md) — regional synthesis and sample-scope safeguards.
+- [Before Africa source catalogue](docs/research-briefs/before-africa-source-catalogue-2026-11.md) — annotated primary studies, DOI links, supplementary-data and materials-acquisition guidance.
+
+All remain RESEARCH. A source catalogue is not proof that every item has been read in full or every dataset acquired.
