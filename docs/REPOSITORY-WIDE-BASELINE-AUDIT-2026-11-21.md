@@ -103,3 +103,38 @@ This baseline did not establish:
 Next work is to review open PRs individually against current canonical documents; inspect exact source provenance and missing corpus material; run deterministic Markdown/link/index checks; review the website's existing test workflow; reconcile the WARENA, IKAI and GENJE research queues; and verify fork lineage and build/test state. Do not bulk-merge PRs or infer implementation from documentation.
 
 **Audit rule:** inventory is not validation; a commit is not deployment; a merge is not approval of every claim inside a repository.
+
+
+## Follow-up maintenance snapshot — 2026-11-21
+
+This addendum preserves the original inventory and PR search snapshot above while recording subsequent maintenance activity.
+
+### Merged documentation and maintenance PRs
+
+- [NAKEBUSEN #24](https://github.com/donfelohke/NAKEBUSEN/pull/24) — current Corpus link and duplicate copy correction.
+- [FELOH Corpus #51](https://github.com/donfelohke/feloh-corpus/pull/51) — baseline audit, README price correction and documentation index.
+- [WARENA #40](https://github.com/donfelohke/WARENA/pull/40) — stale PR count and duplicate README section.
+- [GENJE #29](https://github.com/donfelohke/Genje/pull/29) — four-domain architecture and governance alignment.
+- [Public website #151](https://github.com/donfelohke/donfelohke.github.io/pull/151) — dated supersession notices and service-price documentation corrections.
+- [Gallery #19](https://github.com/donfelohke/Gallery/pull/19) — replace missing cross-repository evidence-register links with current canon and Gallery-owned approval records.
+- [IKAI #29](https://github.com/donfelohke/Ikai/pull/29) — document the disabled Pages publication setting and deployment blocker.
+- [FELOH Corpus #52](https://github.com/donfelohke/feloh-corpus/pull/52) — align the Master Topic Register with the four-domain constitution.
+- [Public website #147](https://github.com/donfelohke/donfelohke.github.io/pull/147) — update `actions/upload-artifact` to v7; checks passed.
+- [Public website #148](https://github.com/donfelohke/donfelohke.github.io/pull/148) — update `actions/setup-node` to v7; checks passed.
+
+[Public website #5](https://github.com/donfelohke/donfelohke.github.io/pull/5), the old `actions/configure-pages` v6 update, was closed as superseded because current `main` already pins v6.
+
+### Remaining open PR queue
+
+A refreshed repository-scoped search returned 16 pre-existing open PRs: 10 in `feloh-corpus` and 6 in `WARENA`; none were returned for the other eight repositories. The search index briefly continued to list merged Corpus #52; direct PR retrieval confirmed it is closed and merged. Refresh before making queue decisions.
+
+The remaining PRs are not automatically approved. They require individual content, source, conflict and current-canon review. In particular, research branches that predate the 2026-11-20 constitution or the 2026-11-17 WARENA X11-first desktop decision must be reconciled before merging.
+
+### Additional verified repository facts
+
+- `donfelohke/dwl-guile` is a GitHub fork whose parent is `engstrand-config/dwl-guile`.
+- `donfelohke/home-service-dwl-guile` is a GitHub fork whose parent is `engstrand-config/home-service-dwl-guile`.
+- Both remain WARENA-maintained supporting forks; upstream history, licences, attribution and source provenance must be preserved. Their existence does not establish a successful WARENA build, installation or deployed Wayland session.
+- IKAI's `.github/workflows/validate.yml` contains validation, Jekyll build and Pages deployment jobs. Run #105 passed validation and build but failed deployment because GitHub Pages is disabled; repository metadata reports `has_pages: false`. The settings change remains outstanding.
+
+**Current queue count is a dated observation, not a permanent status.** The 338-file inventory above remains the initial recursive-tree snapshot; no claim is made that every file has now received a complete line-by-line review.
