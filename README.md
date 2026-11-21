@@ -15,6 +15,7 @@ This repository is the shared constitutional source of record for identity, four
 - [Technology Constitution (2026-11-17)](docs/technology-policy-2026-11-17.md) — native-first, libre-first, local-first WARENA/IKAI policy.
 - [Ecosystem Documentation Reconciliation (2026-11-18)](docs/ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md) — audited repository baseline and known limitations.
 - [Research Ecosystem Update (2026-11-20)](docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-20.md) — WARENA network, storage, payment, Hurd, desktop and spatial/XR research reconciliation.
+- [IKAI REFLECTION± — Light In, Light Out, Compute (2026-11-21)](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) — optical acquisition, compute, output, bidirectional IO, timing, standards and proposed experiments; detailed research remains canonical in IKAI.
 - [Documentation index](docs/README.md) · [Documentation tree](DOCUMENTATION-TREE.md) · [Domain map](docs/domain-map.md).
 - [Evidence and editorial standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md) · [Source register](docs/source-register.md) · [Decision provenance](docs/decision-provenance.md).
 
