@@ -8,6 +8,9 @@
 
 ## Research records
 
+- [Black Heritage, Historical Identity & Knowledge Sovereignty](black-heritage-knowledge-sovereignty/README.md) — initial programme, annotated bibliography and bounded claim register; research only.
+- [NAKEBUSEN Beauty Research Dossier](nakebusen-beauty/README.md) — Eldoret natural-loc-care practice research, with separate bibliography, claim limits and technology proposal.
+
 - [COMPUTE + ARTS programme](compute-arts/README.md) — E-Genge livecoding, computational arts, movement studies, cultural governance and reproducible creative systems.
 - [COMPUTE + ARTS bibliography](bibliography/subject-bibliographies/compute-arts.md) — annotated source review depth and limitations.
 - [COMPUTE + ARTS claim register](claims/compute-arts-claim-ledger.md) — bounded claims and evidence status.
