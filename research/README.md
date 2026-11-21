@@ -8,6 +8,10 @@
 
 ## Research records
 
+- [COMPUTE + ARTS programme](compute-arts/README.md) — E-Genge livecoding, computational arts, movement studies, cultural governance and reproducible creative systems.
+- [COMPUTE + ARTS bibliography](bibliography/subject-bibliographies/compute-arts.md) — annotated source review depth and limitations.
+- [COMPUTE + ARTS claim register](claims/compute-arts-claim-ledger.md) — bounded claims and evidence status.
+
 - [Before Africa source catalogue](../docs/research-briefs/before-africa-source-catalogue-2026-11.md) — annotated studies, stable links, supplementary-data guidance and regional research-material priorities.
 
 - [GENJE Movement IR and Motion Research (2026-11-20)](GENJE-MOVEMENT-AND-MOTION-RESEARCH-2026-11-20.md) — shared research synopsis and source routing; the detailed specification is maintained in the [GENJE repository](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md).
