@@ -55,6 +55,9 @@ These are research programmes and topic classifications, not additional practice
 - [Twelve Research Areas programme (2026-10-30)](../research/PROGRAMME-12-RESEARCH-AREAS-2026-10-30.md) — research taxonomy and source-discovery plan, not practice-domain architecture.
 - [Continental atlas and populations](research-briefs/continental-atlas-and-populations-2026-11.md)
 
+- [GitHub Account Research and Maintenance Update (2026-11-21)](ACCOUNT-RESEARCH-UPDATE-2026-11-21.md) — current ten-repository inventory, sampled workflow outcomes, new specialist research links and unresolved deployment/validation gates.
+- [F3L0H Master Research Dossier (2026-11-21)](F3L0H-MASTER-RESEARCH-DOSSIER-2026-11-21.md) — cross-domain research overview and shared work packages.
+
 ## Specialist research and cross-domain records
 
 - [Labanotation and Reflective Computing research brief](research/labanotation-and-reflective-computing-2026-11.md) — source-first review of reflective-computing HCI and movement notation, with cultural, methodological and rights boundaries.

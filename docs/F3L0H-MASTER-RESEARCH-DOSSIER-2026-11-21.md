@@ -119,6 +119,15 @@ A documentation CI pass is not hardware validation.
 
 ---
 
+## 3.F Specialist domain reports
+
+- **NAKEBUSEN · ROOT:** [Operations, Tax and Data-Protection Research](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — business operations, eTIMS, ODPC applicability and county verification.
+- **IKAI · MIRROR:** [REFLECTION±](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) and [M1 Engineering Validation](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md).
+- **GENJE · EXPRESSION:** [Movement IR and Motion Research](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-IR-AND-MOTION-RESEARCH-2026-11-20.md) and [Movement–Music Interoperability](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-MUSIC-INTEROPERABILITY-STUDY-2026-11-20.md).
+- **WARENA · CAPABILITY:** [Sovereign Movement Systems](https://github.com/donfelohke/WARENA/blob/main/docs/research/SOVEREIGN-MOVEMENT-SYSTEMS-RESEARCH-2026-11-21.md) — EV software, embedded systems, mobility cultures, energy and off-grid infrastructure.
+
+These reports are specialist records in their owning repositories. Their status remains RESEARCH unless a report explicitly cites implementation and validation evidence.
+
 ## 4. Cross-domain connections
 
 | Connection | Research question |
