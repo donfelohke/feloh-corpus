@@ -179,9 +179,9 @@ The queue is clear; this does not mean every possible source or historical claim
 
 ### Consolidated work merged through reviewable PRs
 
-The following maintenance and research integrations were merged:
+**22 maintenance and research pull requests were merged.** The following maintenance and research integrations were merged:
 
-- NAKEBUSEN #24; FELOH Corpus #51, #52, #53, #54, #55, #56, #57, #59 and #60.
+- NAKEBUSEN #24; FELOH Corpus #51, #52, #53, #54, #55, #56, #57, #59, #60 and #61.
 - WARENA #40, #41, #42, #43 and #44.
 - GENJE #29; public website #151, #147 and #148; Gallery #19; IKAI #29.
 
