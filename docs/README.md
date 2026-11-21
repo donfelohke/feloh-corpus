@@ -27,6 +27,10 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 ## Research programmes and knowledge archives
 
+- [Annotated source starter](annotated-source-starter.md) — initial cross-domain reading queue for computer science, GNU/Linux reproducibility, security, accessibility, Kenya data protection/economic context and movement studies.
+- [Initial claim register](claim-register.md) — source-page facts with editorial labels, scope limits and next verification steps.
+- [Cross-domain learning paths](learning-paths.md) — staged study-to-practice routes for CS, systems, research, market analysis, NAKEBUSEN, IKAI and GENJE.
+
 - [Before Africa source catalogue](research-briefs/before-africa-source-catalogue-2026-11.md) — annotated primary studies, DOI links, supplementary-data guidance, research materials and regional acquisition priorities.
 
 These are research programmes and topic classifications, not additional practice domains.
