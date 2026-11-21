@@ -167,15 +167,17 @@ Human authorship and attribution; IP and licensing; copyright and reuse; privacy
 
 | Identity | Role |
 |---|---|
-| **FELOH** | Authorship, research, generation, expression |
-| **NAKEBUSEN** | Parent enterprise; beauty and digital services; only commercial interface |
-| **WARENA** | Infrastructure, reproducibility, capability, enablement |
-| **IKAI** | Reflection, observation, memory; research maturity |
-| **GENJE** | Rhythm, movement, code, embodiment |
-| **FELOH Corpus** | Writing, research, creative works and shared canon |
-| **Sun Burn — Black Musings** | Black thought and authored reflections |
-| **Gallery** | Visual archive, provenance, rights and approval |
-| **Research / business sites** | Sources, docs, customer journeys |
+| **FELOH / Don Feloh** | Human author and overarching authorship identity; not a fifth practice domain |
+| **NAKEBUSEN / ROOT** | Beauty craft, loc care, customer practice and the only live commercial / transaction interface |
+| **WARENA / CAPABILITY** | Systems engineering, infrastructure, reproducibility and technical enablement; not a separate checkout interface |
+| **IKAI / MIRROR** | Reflective-computing research; work in progress, not a released product |
+| **GENJE / EXPRESSION** | Creative, musical, choreographic and embodied practice; not a checkout brand |
+| **FELOH Corpus** | Shared canon, research evidence, terminology and governance |
+| **Sun Burn — Black Musings** | Proposed creative archive; source inventory and publication approval remain separate gates |
+| **Gallery** | Supporting asset archive, provenance, rights, consent and approval |
+| **Research / business sites** | Public presentation and customer journeys; service pathways remain within NAKEBUSEN |
+
+**Service-path boundary:** NAKEBUSEN LOCS and NAKEBUSEN DIGITAL are service pathways within NAKEBUSEN / ROOT, not additional practice domains. **Only NAKEBUSEN transacts.**
 
 Shared: GitHub, CI, standards for evidence, attribution, rights, versioning, stewardship.
 
