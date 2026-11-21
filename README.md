@@ -14,6 +14,7 @@ This repository is the shared constitutional source of record for identity, four
 - [Sovereign Master Corpus (2026-11-20)](docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) — current constitutional architecture and repository ownership.
 - [Technology Constitution (2026-11-17)](docs/technology-policy-2026-11-17.md) — native-first, libre-first, local-first WARENA/IKAI policy.
 - [Ecosystem Documentation Reconciliation (2026-11-18)](docs/ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md) — audited repository baseline and known limitations.
+- [Repository-wide baseline audit (2026-11-21)](docs/REPOSITORY-WIDE-BASELINE-AUDIT-2026-11-21.md) — current ten-repository inventory, documentation counts, open PR snapshot and audit limitations.
 - [Research Ecosystem Update (2026-11-20)](docs/RESEARCH-ECOSYSTEM-UPDATE-2026-11-20.md) — WARENA network, storage, payment, Hurd, desktop and spatial/XR research reconciliation.
 - [IKAI REFLECTION± — Light In, Light Out, Compute (2026-11-21)](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) — optical acquisition, compute, output, bidirectional IO, timing, standards and proposed experiments; detailed research remains canonical in IKAI.
 - [Documentation index](docs/README.md) · [Documentation tree](DOCUMENTATION-TREE.md) · [Domain map](docs/domain-map.md).
@@ -32,7 +33,7 @@ F3L0H is the overarching human authorship and practice identity, not a fifth dom
 
 **FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.**
 
-**NAKEBUSEN remains the sole commercial and transaction interface.** NAKEBUSEN is the sole commercial and transaction interface. WARENA supplies technical capability; IKAI remains research; GENJE remains creative practice. **GENJE NODE** is a WARENA manifestation, not a fifth domain.
+**NAKEBUSEN remains the sole commercial and transaction interface.** WARENA supplies technical capability; IKAI remains research; GENJE remains creative practice. **GENJE NODE** is a WARENA manifestation, not a fifth domain.
 
 ## Public-facing facts
 
@@ -40,7 +41,7 @@ NAKEBUSEN's current Eldoret campaign starting prices are maintained in its servi
 
 - Retouch & Styling — KES 700+
 - Sisterlocs Retie — KES 1,500+
-- Artificial Locs Installation — KES 3,500+
+- Artificial Locs Installation — KES 3,500
 
 These are starting prices, not guaranteed final quotes. Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy payment numbers into this repository; use the approved Public Facts Register and its confirmation requirements.
 
