@@ -27,6 +27,10 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 ## Research programmes and knowledge archives
 
+- [Sun Burn — Black Musings archive research](sun-burn-black-musings-research.md) — source inventory, provenance, authorship and publication gates; no original work imported.
+- [FELOH Creative Archive](../creative/README.md) — proposed empty archive scaffold and status vocabulary.
+- [Creative work record template](templates/creative-work.md) — source-first intake form separating original work, edition, commentary and AI synthesis.
+
 - [Black Heritage, Historical Identity & Knowledge Sovereignty](../research/black-heritage-knowledge-sovereignty/README.md) — initial source-grounded programme and claim register.
 - [NAKEBUSEN Beauty Research Dossier](../research/nakebusen-beauty/README.md) — local practice and service-design research; not a live service or price source.
 
