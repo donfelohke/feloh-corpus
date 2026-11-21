@@ -27,6 +27,10 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 ## Research programmes and knowledge archives
 
+- [Sun Burn — Black Musings archive research](sun-burn-black-musings-research.md) — source inventory, provenance, authorship and publication gates; no original work imported.
+- [FELOH Creative Archive](../creative/README.md) — proposed empty archive scaffold and status vocabulary.
+- [Creative work record template](templates/creative-work.md) — source-first intake form separating original work, edition, commentary and AI synthesis.
+
 - [COMPUTE + ARTS research programme](../research/compute-arts/README.md) — proposed computational arts programme spanning E-Genge livecoding, movement, cultural rights, reproducibility and local-first systems.
 - [COMPUTE + ARTS annotated bibliography](../research/bibliography/subject-bibliographies/compute-arts.md) — source-by-source review-depth and limitations.
 - [COMPUTE + ARTS claim register](../research/claims/compute-arts-claim-ledger.md) — bounded claims and evidence states.
