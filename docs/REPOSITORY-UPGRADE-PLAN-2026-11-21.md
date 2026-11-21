@@ -2,7 +2,7 @@
 
 **Repository:** `feloh-corpus`  
 **Primary role:** Shared constitutional canon, governance, evidence, provenance and cross-domain indexes.  
-**Status:** Upgrade plan; not a claim that source consolidation is complete.
+**Status:** Ten-repository inventory and initial PR queue reconciled on 2026-11-21; exact-source consolidation and full line-by-line content audit remain incomplete.
 
 ## Governing rule
 
@@ -31,7 +31,7 @@ The Corpus is the source of record for shared canon. Specialist repositories ret
 
 1. Freeze the accepted master spine as a reference point.
 2. Inventory exact source editions and missing sections; import without paraphrase.
-3. Reconcile the currently observed 19 open PRs by unique contribution, not age alone; do not bulk-merge or bulk-close. See the dated repository-wide baseline audit for the per-repository snapshot.
+3. **Completed 2026-11-21:** individually review and reconcile the initial 19-PR queue. Relevant work was integrated through reviewable PRs; superseded or duplicate branches were closed with reasons. A fresh search returned zero open PRs across all ten repositories. Refresh the queue before any future merge.
 4. Resolve merge conflicts against current canonical sources.
 5. Add automated link, Markdown, index and provenance checks where deterministic.
-6. Publish a dated completeness report with explicit remaining gaps.
+6. **Partial:** publish dated inventory and queue reports with explicit remaining gaps. The 366-file tree inventory is complete for the ten accessible public repositories, but line-by-line content, link, source and rights audits remain outstanding.
