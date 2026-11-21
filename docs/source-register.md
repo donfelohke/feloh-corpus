@@ -134,3 +134,107 @@ These sources are indexed for the Oruka research dossier. Indexing does not impl
 | SRC-GUIX-HURD-001 | GNU Guix, https://guix.gnu.org/ | Guix packaging and system-management project | Hurd support and package coverage are time-sensitive; record exact revision and current test output |
 
 The WARENA [Agentic Operating Environment & GNU Hurd Research specification](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md) is the current synthesis. These entries are source pointers; each technical claim still requires exact version, passage, experiment or source inspection before being marked VERIFIED.
+## Movement notation and reflective-computing sources — 2026-11-09
+
+### SRC-REFLECT-2026-001 — Reflective Computing
+- **Author:** Md Haseen Akhtar
+- **Title:** *Reflective Computing* (subtitle: *Seven Dimensions from the Gaps in 134 Interactive Systems, 1996–2026*)
+- **Type:** Research preprint / critical review
+- **Identifier:** arXiv:2610.35696v1 [cs.HC]
+- **Submitted:** 2026-10-26
+- **URL:** https://arxiv.org/abs/2610.35696
+- **PDF:** https://arxiv.org/pdf/2610.35696
+- **Accessed:** 2026-11-09
+- **Review:** Full 54-page PDF inspected. No independent replication or supplementary-data audit claimed.
+- **Use:** IKAI reflective-compute design research; seven dimensions: tempo agency, invitational form, interpretive openness, reflective depth, temporal span, protected idleness and ethical non-extraction.
+- **Limitations:** Purposive exemplar set of 134 ACM interactive systems, not an exhaustive census. Reported results are the paper's findings, not independently reproduced facts. Peer-review/publication status is not established by this record.
+- **Editorial label:** VERIFIED (bibliographic metadata and paper text inspected); INTERPRETATION (IKAI application); PROPOSAL (prototype/evaluation work).
+- **Canonical note:** [Labanotation and Reflective Computing research brief](research/labanotation-and-reflective-computing-2026-11.md).
+
+### SRC-LABAN-WIKI-2026-001 — Labanotation overview
+- **Title:** Labanotation
+- **Author:** Wikipedia contributors; individual authorship is revision-based
+- **Type:** Tertiary encyclopedia / discovery source
+- **URL:** https://en.wikipedia.org/wiki/Labanotation
+- **Accessed:** 2026-11-09
+- **Use:** Initial orientation to historical development and basic notation concepts.
+- **Limitations:** Not a primary source or specialist teaching authority. Follow the article's citations and use institutional and specialist sources for technical claims.
+- **Editorial label:** DISCOVERY ONLY.
+- **Corroboration:** Ohio State University Department of Dance resource page: https://dance.osu.edu/research/dnb/resources
+
+### SRC-LABAN-OSU-2026-001 — Ohio State University Dance Notation resources
+- **Institution:** The Ohio State University, Department of Dance
+- **Type:** Institutional educational/resource page
+- **URL:** https://dance.osu.edu/research/dnb/resources
+- **Accessed:** 2026-11-09
+- **Use:** Institutional orientation to Labanotation/Kinetography Laban, Motif Description and Laban Movement Analysis; links to specialist bodies and tutorials.
+- **Limitations:** Resource overview, not a full notation textbook or independent validation of all applications.
+- **Editorial label:** VERIFIED (institutional page inspected); detailed instruction requires specialist sources.
+
+**Terminology caution:** Labanotation/Kinetography Laban, Motif notation, Laban Movement Analysis and Bartenieff Fundamentals are related but distinct. Do not use these names as synonyms.
+
+ 
+## African movement documentation and further critical sources — 2026-11-09
+
+### SRC-OSEI-2020-001 — Documenting Ghanaian dances through Labanotation
+- **Author:** Latipher Amma Osei
+- **Year:** 2020
+- **Publication:** *African Research Review: An International Multidisciplinary Journal*, 14(2), 112–120
+- **DOI:** https://doi.org/10.4314/afrrev.v14i2.11
+- **Institutional record:** https://www.uew.edu.gh/theatre-arts/staff/laosei/publications/29001/detail
+- **Type:** Scholarly article; institutional publication record and abstract reviewed
+- **Use:** Ghanaian dance documentation; challenges of Labanotation; proposed complementarity with cinematography and existing oral/aural/observational practices.
+- **Limitations:** Ghana-specific; full article not reviewed in this intake. Do not generalise to all African dance.
+- **Editorial label:** CORROBORATED (bibliographic record and abstract); full argument requires article review.
+
+### SRC-AKINSIPE-2015-001 — Development of 'Stick Figure' Notation for African Dances
+- **Author:** Felix Akinsipe
+- **Year:** 2015
+- **Repository:** University of Ilorin Institutional Repository
+- **URL:** https://uilspace.unilorin.edu.ng/items/6416499b-c0df-4d9b-91e5-3a7bf42e18f8
+- **Type:** Scholarly repository record; abstract reviewed
+- **Use:** Alternative notation proposal; timing and direction identified in the abstract as challenges.
+- **Limitations:** The abstract is an author's argument, not proof that established notation systems are universally inadequate. Full text has not been critically reviewed; repository lists a very large RTF file.
+- **Editorial label:** CORROBORATED (metadata and abstract); PROPOSAL (author's suggested system).
+
+### SRC-BLUM-DNB-2026-001 — Odette Blum, African Dances and Games archive note
+- **Contributor:** Mei-Chen Lu, Dance Notation Bureau Theory Bulletin Board
+- **Page date:** 2026-09-23
+- **URL:** https://www.dancenotation.org/theory-bulletin-board/african-dances-and-games/
+- **Type:** Specialist archive / collection note
+- **Use:** Discovery of historical Ghanaian dance films and Labanotation records made after Blum's 1966–1968 teaching period at the University of Ghana; examples include Ghana and one Nigerian dance, Agide.
+- **Rights:** DNB states the PDF is supplied for educational and research purposes only and may not be shared, reproduced or sold without prior permission from Odette Blum.
+- **Limitations:** Archive description, not independent historical verification of every record. Do not republish its PDF, scores or images without permission.
+- **Editorial label:** VERIFIED (archive note and stated restriction); historical details should be corroborated with the publication and archive records.
+
+### SRC-GRIM-WONG-2015-001 — Movement Notation and the Analysis of Embodied Knowledge
+- **Authors:** Kate Grim-Feinberg and Monica FA Wong Santos
+- **Publication:** *Journal for the Anthropological Study of Human Movement*, 22(2)
+- **URL:** https://jashm.press.uillinois.edu/22.2/grim-feinberg.html
+- **Type:** Scholarly ethnographic methods article; full article reviewed online
+- **Use:** Three examples: Lahu Na Shehleh New Year dance, Philippine ballet practice and children's spatial/social practices in Peru. Shows collaborative correction of scores by a Lahu dancer, importance of direct contextual inquiry, and use of video/audio alongside notation.
+- **Limitations:** Case studies are not a universal validation of Labanotation; authors describe limitations in their own video-only initial analysis and the need for community expertise.
+- **Editorial label:** REVIEWED (full article); case-specific findings only.
+
+### SRC-ICKL-TEXTBOOKS-001 — ICKL bibliography of textbooks
+- **Institution:** International Council of Kinetography Laban
+- **URL:** https://ickl.org/resources/textbooks/
+- **Type:** Specialist bibliography; page states list is in progress
+- **Use:** Locate Ann Hutchinson Guest's *Labanotation: The System of Analyzing and Recording Movement* (4th ed., 2005), Albrecht Knust's *A Dictionary of Kinetography Laban* (1997), and other language-specific teaching texts.
+- **Limitations:** Bibliography is incomplete and not a substitute for checking editions, availability or rights.
+- **Editorial label:** VERIFIED (bibliographic listing); books not yet read.
+
+
+## UNESCO General History of Africa — 2026-11-21
+
+### SRC-UNESCO-GHA-2026-001 — General History of Africa
+- **Institution:** UNESCO
+- **Type:** Institutional scholarly collection / research and educational resource
+- **URL:** https://www.unesco.org/en/general-history-africa
+- **Initiative launched:** 1964
+- **Collection:** Volumes I–XI; UNESCO's current collection page describes collaboration among more than 550 historians and specialists and an International Scientific Committee with two-thirds African membership.
+- **Accessed:** 2026-11-21
+- **Use:** Continental historiography, source discovery, research methodology and curriculum design for BEFORE AFRICA.
+- **Limitations:** A continental synthesis does not settle local Turkana, Ateker, linguistic, archaeological or oral-history questions. Inspect individual volumes and chapters; corroborate claims with specialist and community-grounded sources.
+- **Rights:** Link to official records; check item-level terms before reproducing chapters, illustrations, maps or teaching materials.
+- **Editorial label:** VERIFIED (institutional collection metadata); chapter-level claims require direct reading and claim-specific citations.
