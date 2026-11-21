@@ -40,6 +40,9 @@ These are research programmes and topic classifications, not additional practice
 
 ## Specialist research and cross-domain records
 
+- [Labanotation and Reflective Computing research brief](research/labanotation-and-reflective-computing-2026-11.md) — source-first review of reflective-computing HCI and movement notation, with cultural, methodological and rights boundaries.
+- [UNESCO General History of Africa source note](research-briefs/unesco-general-history-of-africa-2026-11.md) — institutional collection map and methodological pathway for BEFORE AFRICA, including East African/Turkana scope limits.
+
 - [IKAI NVIDIA XR AI Architecture Comparative Study (2026-11-18)](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial reference only; no NVIDIA dependency selected.
 
 - [Research ecosystem update (2026-11-20)](RESEARCH-ECOSYSTEM-UPDATE-2026-11-20.md) — network, storage, payment, Hurd, desktop and spatial/XR reconciliation.
