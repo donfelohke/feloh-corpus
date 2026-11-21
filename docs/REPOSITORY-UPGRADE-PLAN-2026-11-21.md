@@ -31,7 +31,7 @@ The Corpus is the source of record for shared canon. Specialist repositories ret
 
 1. Freeze the accepted master spine as a reference point.
 2. Inventory exact source editions and missing sections; import without paraphrase.
-3. Reconcile 28 open PRs by unique contribution, not age alone; do not bulk-merge or bulk-close.
+3. Reconcile the currently observed 19 open PRs by unique contribution, not age alone; do not bulk-merge or bulk-close. See the dated repository-wide baseline audit for the per-repository snapshot.
 4. Resolve merge conflicts against current canonical sources.
 5. Add automated link, Markdown, index and provenance checks where deterministic.
 6. Publish a dated completeness report with explicit remaining gaps.
