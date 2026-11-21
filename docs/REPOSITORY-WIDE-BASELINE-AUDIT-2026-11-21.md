@@ -138,3 +138,64 @@ The remaining PRs are not automatically approved. They require individual conten
 - IKAI's `.github/workflows/validate.yml` contains validation, Jekyll build and Pages deployment jobs. Run #105 passed validation and build but failed deployment because GitHub Pages is disabled; repository metadata reports `has_pages: false`. The settings change remains outstanding.
 
 **Current queue count is a dated observation, not a permanent status.** The 338-file inventory above remains the initial recursive-tree snapshot; no claim is made that every file has now received a complete line-by-line review.
+
+
+## Final repository reconciliation — 2026-11-21
+
+This final same-day snapshot supersedes the earlier 16-open-PR follow-up count above. The earlier counts remain as historical observations; this section records the final state after individual review and selective integration.
+
+### Refreshed main-branch inventory
+
+All ten recursive Git tree requests returned truncated: false. Every repository reports main as its default branch.
+
+| Repository | Tree entries | Documentation files |
+|---|---:|---:|
+| donfelohke/donfelohke.github.io | 101 | 63 |
+| donfelohke/feloh-corpus | 136 | 104 |
+| donfelohke/WARENA | 72 | 64 |
+| donfelohke/Genje | 33 | 28 |
+| donfelohke/Ikai | 79 | 56 |
+| donfelohke/NAKEBUSEN | 32 | 27 |
+| donfelohke/Gallery | 18 | 13 |
+| donfelohke/donfelohke | 7 | 6 |
+| donfelohke/dwl-guile | 34 | 3 |
+| donfelohke/home-service-dwl-guile | 19 | 2 |
+| **Total** | **531** | **366** |
+
+Documentation-file counts include Markdown, reStructuredText and Org files. This is a tree inventory, not a line-by-line review of all 366 documents.
+
+### Pull-request queue
+
+**0 open PRs**
+
+A fresh repository-scoped search returned zero open pull requests across all ten repositories. The initial 19-PR queue has been individually reconciled:
+
+- Relevant research and documentation were selectively integrated into current-main PRs.
+- Stale branches with superseded architecture, duplicate standards, unresolved canonical references or outdated desktop decisions were closed with an explanatory disposition.
+- Website dependency updates #147 and #148 were merged after passing checks; #5 was closed because its configure-pages v6 change was already present on main.
+- No branch was force-pushed or deleted.
+
+The queue is clear; this does not mean every possible source or historical claim is verified.
+
+### Consolidated work merged through reviewable PRs
+
+The following maintenance and research integrations were merged:
+
+- NAKEBUSEN #24; FELOH Corpus #51, #52, #53, #54, #55, #56, #57, #59 and #60.
+- WARENA #40, #41, #42, #43 and #44.
+- GENJE #29; public website #151, #147 and #148; Gallery #19; IKAI #29.
+
+All repository edits were made on branches and merged through pull requests. No direct commit to main, force-push or branch deletion was performed.
+
+### Remaining blockers and uncompleted verification
+
+1. **IKAI publication:** GitHub Pages remains disabled (has_pages: false). Workflow run #105 passed validation and Jekyll build but failed deployment with HTTP 404. Enable Pages in repository settings and verify a successful deployment before describing the Portal as live.
+2. **Exact source completeness:** the complete F3L0H-PRESENT-001 edition and folder tree have not yet been verified/imported verbatim. The 2026-11-20 Master Corpus remains the accepted constitutional spine, not proof of complete transcription.
+3. **Full documentation audit:** all 366 documentation files are inventoried, but not all have received line-by-line review, source verification, terminology checks or link validation.
+4. **Automated checks:** a deterministic whole-repository Markdown, relative-link, index and provenance check has not yet been run across all repositories.
+5. **Gallery rights:** no image is approved merely because its manifest or workflow is documented. Asset-level rights, consent, intended use and publication approval remain to be verified.
+6. **Sun Burn — Black Musings:** the intake scaffold exists, but no original creative work was located or imported. Source inventory and publication intent remain incomplete / unreviewed.
+7. **WARENA implementation:** Hurd, Guix, Guile, RDE and workstation documents remain research/specification. No Guix build, host installation, compositor runtime or recovery test is claimed by these documentation merges.
+8. **Governance and deployment controls:** branch-protection settings, all workflow states and production deployment behaviour were not comprehensively audited.
+
+**Final status:** repository inventory complete for the ten accessible public repositories; open PR queue cleared; selected canonical, research and provenance documentation reconciled. Full content audit, exact-source consolidation, Pages enablement, asset approval and implementation validation remain outstanding.
