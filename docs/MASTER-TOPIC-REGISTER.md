@@ -238,3 +238,13 @@ Maturity: RESEARCH. No recovered MAVERIK/DEVA3 source build, WARENA spatial kern
 ## Agentic operating environments and sovereign computing — 2026-11-20
 
 Research scope: agentic operating-system architectures; agent identity and authority; intent declarations; policy evaluation; least-privilege capabilities; delegation and revocation; independent audit; persistent-state integrity; GNU Hurd, GNU Mach, translators and ChildHurd; GNU/Linux enforcement adapters; Guile orchestration; Guix reproducibility; Shepherd supervision; human approval and recovery; African intellectual sovereignty and situated design correspondences. Canonical technical record: [WARENA Agentic Operating Environment & GNU Hurd Research](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md). Status: RESEARCH / PROPOSED ARCHITECTURE. No implementation, secure sandbox, deployment or product is claimed.
+
+
+## 9. Before Africa research asset register — 2026-11-21
+
+- **Framework / canon:** [Before Africa master dossier](before-africa-research-dossier-2026-11-07.md).
+- **Regional synthesis:** [Continental atlas and populations brief](research-briefs/continental-atlas-and-populations-2026-11.md).
+- **Annotated references and materials:** [Before Africa source catalogue](research-briefs/before-africa-source-catalogue-2026-11.md).
+- **Specialist interpretive views:** GENJE livity/embodied knowledge and IKAI existence/knowledge notes, each linked from the documentation tree.
+
+The source catalogue is RESEARCH maturity. It does not establish that every listed resource has been fully read, every dataset downloaded, or every research gap resolved.
