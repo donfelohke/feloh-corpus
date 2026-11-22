@@ -52,6 +52,7 @@ WARENA-maintained source forks:
 ## Current systems research routing
 
 - **WARENA desktop architecture:** [Gershwin Guix packaging plan](https://github.com/donfelohke/WARENA/blob/main/docs/GERSHWIN-GUIX-PACKAGING-PLAN-2026-11.md), [Gershwin upstream delta — 2026-11-18](https://github.com/donfelohke/WARENA/blob/main/docs/GERSHWIN-UPSTREAM-DELTA-2026-11-18.md), and [Guile-WM / WM-NG X11 session audit](https://github.com/donfelohke/WARENA/blob/main/docs/GUILE-WM-WMNG-GUIX-SESSION-AUDIT-2026-11.md).
+- **Omarchy / Omaxian / Guix desktop case study:** [WARENA comparative architecture research (2026-11-22)](https://github.com/donfelohke/WARENA/blob/main/docs/OMARCHY-OMAXIAN-GUIX-DESKTOP-ARCHITECTURE-RESEARCH-2026-11-22.md) is the technical source of record; this Corpus owns the cross-repository alignment note.
 - **IKAI spatial computing:** [IKAI MIRROR+ research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) and [WARENA compute architecture](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-MIRROR-COMPUTE-ARCHITECTURE-2026-11-14.md).
 - **GENJE movement and notation:** specialist movement-score and Labanotation research belongs in GENJE; shared sources, terminology and evidence standards belong in this Corpus.
 - **Guix Home compositor integration:** `home-service-dwl-guile` remains the Wayland service track. It is not the proposed X11 WM-NG implementation.
