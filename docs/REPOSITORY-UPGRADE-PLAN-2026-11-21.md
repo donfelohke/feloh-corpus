@@ -35,3 +35,9 @@ The Corpus is the source of record for shared canon. Specialist repositories ret
 4. Resolve merge conflicts against current canonical sources.
 5. Add automated link, Markdown, index and provenance checks where deterministic.
 6. **Partial:** publish dated inventory and queue reports with explicit remaining gaps. The 366-file tree inventory is complete for the ten accessible public repositories, but line-by-line content, link, source and rights audits remain outstanding.
+
+## Execution addendum — 2026-11-22
+
+Direct-to-main alignment records were added and indexed. The new cross-domain research routing record covers mirror systems and real-time bidirectional I/O, with IKAI owning reflective experience/optics, WARENA owning enabling infrastructure, GENJE owning authored movement and the Corpus owning shared evidence and provenance. The four-domain constitution and NAKEBUSEN-only transaction boundary remain unchanged.
+
+**Verification:** repository validation workflow passed. This does not certify every historical claim, source, licence or document; exact-source consolidation and full line-by-line review remain separate work.
