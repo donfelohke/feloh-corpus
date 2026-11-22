@@ -116,3 +116,14 @@ GNUnet, Reticulum, Pubstrate, Goblins/OCapN, GNU Taler, Kenyan mobile-money APIs
 - [Before Africa source catalogue](docs/research-briefs/before-africa-source-catalogue-2026-11.md) — annotated primary studies, DOI links, supplementary-data and materials-acquisition guidance.
 
 All remain RESEARCH. A source catalogue is not proof that every item has been read in full or every dataset acquired.
+
+
+## 13. BLACK HINTERLAND — BEFORE AFRICA (2026-11-22)
+
+- Canonical integrated framework: [BLACK HINTERLAND master dossier](docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
+- Supporting evidence: [Before Africa source catalogue](docs/research-briefs/before-africa-source-catalogue-2026-11.md), [Continental atlas and populations](docs/research-briefs/continental-atlas-and-populations-2026-11.md), and [UNESCO General History of Africa source note](docs/research-briefs/unesco-general-history-of-africa-2026-11.md).
+- Specialist interpretations: WARENA (technology and infrastructure), IKAI (existence and knowledge governance), GENJE (embodied and cultural knowledge), NAKEBUSEN (heritage and representation), Gallery (asset provenance).
+- The profile and public website may link to the dossier; neither replaces the Corpus as source of record.
+- Supporting compositor/service forks remain technical repositories and are not historical research repositories.
+
+All material remains RESEARCH unless a specific claim or deliverable has its own evidence and maturity record.
