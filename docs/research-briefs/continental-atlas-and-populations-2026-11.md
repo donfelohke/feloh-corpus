@@ -75,3 +75,11 @@ Use the [Before Africa Source Catalogue, Materials and Research Resources](befor
 ### Regional materials acquisition priorities
 
 For each region, assemble site reports, stratigraphy, direct dating, artefact catalogues, environmental records, relevant genomes and supplementary data, language histories, oral-history protocols and heritage governance documentation. Prioritise Central African, additional Saharan, West African and eastern African sampling gaps. Do not publish restricted coordinates, genomic data, sacred knowledge or community-held recordings without authority.
+
+
+
+## Integrated programme and present-day baseline — 22 November 2026
+
+The current framework is [BLACK HINTERLAND — BEFORE AFRICA](../BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). This brief remains the narrower regional and population-genetics synthesis. Its sample and model limitations remain in force.
+
+For the contemporary statistical layer, use dated source releases rather than copying undated figures: UN DESA Population Division, [World Population Prospects 2024](https://population.un.org/wpp/); AfDB, [November 2026 Macroeconomic Performance and Outlook](https://www.afdb.org/en/documents/africas-macroeconomic-performance-outlook-november-98553); ITU, [Facts and Figures 2026](https://www.itu.int/itu-d/reports/statistics/facts-figures-2026/); KNBS for Kenya; UNHCR/IOM for displacement. The AfDB November 2026 forecast is 4.6% African growth in 2026 and 4.5% in 2027; ITU's 2026 report places internet use in its Africa region at 42%. These are forecast/indicator values with source-specific definitions, not final outcomes or universal lived-experience measures.
