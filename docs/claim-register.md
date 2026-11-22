@@ -84,3 +84,44 @@
 - Keep source claims separate from local observations and recommendations.
 - If a source changes, re-check the record and update the review date.
 - Do not convert a source-page fact into an unsupported local-market, product-performance, legal-compliance, or implementation claim.
+
+
+## CLM-0009 — Omarchy v4.5.0 release and project-reported activity
+- **Claim:** Omarchy v4.5.0 was published on 2026-11-05. Its release notes report more than 740 merged pull requests from more than 180 contributors in twelve weeks, a traditional desktop mode alongside tiling, Apple Silicon support and 50 interface languages.
+- **Source:** [Omarchy v4.5.0 release](https://github.com/omacom/omarchy/releases/tag/v4.5.0)
+- **Source type:** Official software release and project-authored notes.
+- **Editorial status:** VERIFIED (release metadata and release-note wording); PROJECT-REPORTED (activity metrics).
+- **Scope/limits:** These metrics do not establish active users, retention, reliability, financial sustainability or a stable contributor base.
+- **Next check:** Review subsequent releases and contributor/maintenance patterns over time; do not treat download or star counts as retained users.
+
+## CLM-0010 — Omarchy Quattro consolidated desktop-shell functions
+- **Claim:** Omarchy v4.0.0 describes a Quickshell-based shell consolidating multiple desktop-shell functions that were previously separate components.
+- **Source:** [Omarchy v4.0.0 release](https://github.com/omacom/omarchy/releases/tag/v4.0.0)
+- **Source type:** Official software release and project-authored architecture description.
+- **Editorial status:** VERIFIED AS PROJECT-DOCUMENTED ARCHITECTURE.
+- **Scope/limits:** The release description is not an independent benchmark of performance, fault isolation, security or maintainability.
+- **Next check:** Inspect source and issue history before drawing implementation-level conclusions.
+
+## CLM-0011 — Omaxian is an X11/XLibre and i3 port of the Omarchy shell
+- **Claim:** Omaxian's official repository describes a Debian-family port using X11/XLibre and i3; the latest release endpoint checked returned v1.2.2, published 2026-11-16.
+- **Source:** [Omaxian repository](https://github.com/aozora/omaxian); [v1.2.2 release](https://github.com/aozora/omaxian/releases/tag/v1.2.2)
+- **Source type:** Official source repository and release metadata.
+- **Editorial status:** VERIFIED (repository description and release metadata).
+- **Scope/limits:** This establishes the project's declared scope and release, not WARENA compatibility, Guix packaging, hardware validation or equivalence with the original Omarchy implementation.
+- **Next check:** Inspect the pinned source and file-level port notes for any implementation comparison.
+
+## CLM-0012 — QML supports JavaScript expressions and methods
+- **Claim:** Qt's QML documentation states that property bindings, signal handlers and methods can contain JavaScript expressions, with a JavaScript host environment provided by the QML engine.
+- **Source:** [Qt — Integrating QML and JavaScript](https://doc.qt.io/qt-6/qtqml-javascript-topic.html)
+- **Source type:** Official language/runtime documentation.
+- **Editorial status:** VERIFIED AT DOCUMENTATION LEVEL.
+- **Scope/limits:** QML is not equivalent to a browser-hosted web application. The claim is limited to QML's documented JavaScript integration and is used to assess WARENA's existing policy, not to make a general judgement about Qt.
+- **Next check:** Evaluate the actual QML and runtime dependency graph of any candidate before proposing a policy exception.
+
+## CLM-0013 — Guix documents system generations and rollback
+- **Claim:** GNU Guix documents that system reconfiguration creates generations and that previous generations can be selected or restored; `guix describe` records Guix/channel revision information.
+- **Source:** [GNU Guix manual](https://guix.gnu.org/manual/en/); [Using the Configuration System](https://guix.gnu.org/manual/en/html_node/Using-the-Configuration-System.html)
+- **Source type:** Official technical manual.
+- **Editorial status:** VERIFIED AT DOCUMENTATION LEVEL.
+- **Scope/limits:** This does not prove that a WARENA host has been configured, rebuilt, booted or recovered. System generations do not replace backup of mutable user data or external state.
+- **Next check:** Run a controlled VM reconfigure, inspect channel provenance, boot a prior generation and separately test user-data restoration before making a WARENA operational claim.
