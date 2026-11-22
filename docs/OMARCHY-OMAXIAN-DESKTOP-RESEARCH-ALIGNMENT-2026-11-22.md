@@ -78,3 +78,10 @@ A source repository or upstream release does not prove WARENA compatibility. A d
 - WARENA technical study: https://github.com/donfelohke/WARENA/blob/main/docs/OMARCHY-OMAXIAN-GUIX-DESKTOP-ARCHITECTURE-RESEARCH-2026-11-22.md
 
 **Review record:** GitHub repository trees and selected documentation were inspected across all ten existing repositories on 2026-11-22. Detailed technical source review is recorded in WARENA. This is not a complete line-by-line audit of every file in all repositories.
+
+
+## Source-register and claim-register reconciliation
+
+The primary upstream records are entered in [source-register.md](source-register.md) under SRC-OMARCHY-RELEASE-2026-001, SRC-OMARCHY-QUATTRO-2026-001, SRC-QUICKSHELL-ABOUT-2026-001, SRC-QT-QML-JS-2026-001, SRC-OMAXIAN-RELEASE-2026-001, SRC-GUIX-MANUAL-DESKTOP-2026-001 and SRC-RDE-UPSTREAM-2026-001. Bounded claims CLM-0009–CLM-0013 are recorded in [claim-register.md](claim-register.md), with explicit limits and follow-up checks.
+
+The Qt documentation confirms QML's JavaScript integration; the WARENA policy conclusion is kept separate from that source fact. QML is not treated as identical to a browser-hosted web application.
