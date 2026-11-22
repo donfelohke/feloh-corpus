@@ -361,3 +361,9 @@ The following sources are research entry points. They are not a substitute for r
 **FELOH Sovereign Corpus · BLACKS: THE DOCS & DATA**  
 **Author / editor:** Felix Lwova · Don Feloh  
 **Status:** RESEARCH FRAMEWORK · not a completed field study or final continental synthesis
+
+
+
+## Programme alignment — 22 November 2026
+
+Use [BLACK HINTERLAND — BEFORE AFRICA](BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md) as the integrated chronology and geography framework. Keep peoples, territories, languages, polities, archaeological cultures and genetic populations as distinct registers. Extend the atlas beyond state boundaries and include ecological regions, island histories, interior networks and diaspora connections. All mapped community territories require source attribution, uncertainty and sensitivity review.
