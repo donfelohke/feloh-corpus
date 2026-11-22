@@ -1,5 +1,8 @@
 # F3L0H — FELOH WARENA
 
+> Current alignment: [Ecosystem update — 2026-11-22](docs/ECOSYSTEM-UPDATE-2026-11-22.md). This dated record supplements this README; it does not replace the canonical source documents.
+
+
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)  
 **Canonical architecture:** [The Sovereign Master Corpus — 2026-11-20](docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md)  
 **Principle:** ONE CORPUS · MANY VIEWS · ONE PRACTICE.  
