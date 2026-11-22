@@ -238,3 +238,22 @@ The WARENA [Agentic Operating Environment & GNU Hurd Research specification](htt
 - **Limitations:** A continental synthesis does not settle local Turkana, Ateker, linguistic, archaeological or oral-history questions. Inspect individual volumes and chapters; corroborate claims with specialist and community-grounded sources.
 - **Rights:** Link to official records; check item-level terms before reproducing chapters, illustrations, maps or teaching materials.
 - **Editorial label:** VERIFIED (institutional collection metadata); chapter-level claims require direct reading and claim-specific citations.
+
+
+
+## BLACK HINTERLAND — BEFORE AFRICA and contemporary Africa baseline — 2026-11-22
+
+| Source ID | Source | Supports | Limits / use |
+|---|---|---|---|
+| SRC-BH-UNESCO-001 | UNESCO, General History of Africa, Volumes I–XI: https://www.unesco.org/en/general-history-africa | African historiography, prehistory, ancient and modern regional histories, Global Africa and diaspora | Collection-level source; cite individual volume/chapter/page for substantive claims. |
+| SRC-BH-WPP-001 | UN DESA Population Division, World Population Prospects 2024: https://population.un.org/wpp/ | Official population estimates and projections to 2100 | State release, geography, scenario and reference year; projections are not census counts. |
+| SRC-BH-AFDB-001 | African Development Bank, Africa’s Macroeconomic Performance and Outlook, November 2026: https://www.afdb.org/en/documents/africas-macroeconomic-performance-outlook-november-98553 | Latest dated continental macroeconomic forecast; November update projects 4.6% growth in 2026 and 4.5% in 2027 | Forecast, not final outturn; country and regional outcomes differ. Prefer this revision over May 2026 forecast. |
+| SRC-BH-ITU-001 | ITU, Facts and Figures 2026: https://www.itu.int/itu-d/reports/statistics/facts-figures-2026/ | Internet use and digital development indicators; 2026 regional figure for Africa is 42% | ITU region definitions; distinguish use, coverage, affordability, quality and access. |
+| SRC-BH-AU-001 | African Union, official portal: https://au.int/ | AU institutions, policy and continental governance | Official institutional source; policy statements do not prove implementation. |
+| SRC-BH-A2063-001 | AU/AUDA-NEPAD, Agenda 2063 Second Ten-Year Implementation Plan 2024–2033: https://a2063.africa/publications/second-ten-year-implementation-plan-2024-to-2033 | Current Agenda 2063 delivery framework and seven Moonshots | Aspirations and implementation framework; evaluate outcomes independently. |
+| SRC-BH-KEN-001 | Constitution of Kenya (2010), Parliament-hosted PDF: https://www.parliament.go.ke/sites/default/files/2017-05/The_Constitution_of_Kenya_2010.pdf | Constitutional text on sovereignty, language, culture, land, community land, rights and devolution | Primary legal text; interpret with case law, legislation and current institutional practice. |
+| SRC-BH-KNBS-001 | Kenya National Bureau of Statistics: https://www.knbs.or.ke/ | Kenyan census, labour, economic and social statistics | Use the specific release, table, reference period and definitions. |
+| SRC-BH-MAGICALKENYA-001 | Magical Kenya: https://magicalkenya.com/ | Official tourism-facing heritage and national representation | Promotional source; not independent historical or archaeological authority. |
+| SRC-BH-WIKI-001 | Wikipedia, Kenya: https://en.wikipedia.org/wiki/Kenya | Preliminary orientation and bibliography discovery | Tertiary source only; verify substantive claims against primary and specialist sources. |
+
+The canonical research framework is [BLACK HINTERLAND — BEFORE AFRICA](BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). These entries identify sources for use; they do not claim exhaustive reading, independent replication or community approval. For current indicators, capture the source file, table number, download/access date and exact geography before publishing a number.
