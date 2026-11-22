@@ -109,3 +109,8 @@ The current master research dossier is [BLACK HINTERLAND — BEFORE AFRICA](docs
 ## Current cross-domain research update — 2026-11-22
 
 - [Real-time I/O and mirror systems](docs/RESEARCH-UPDATE-2026-11-22-REALTIME-IO-AND-MIRROR-SYSTEMS.md) — canonical ownership, reuse, evidence and privacy boundaries for IKAI/WARENA/GENJE collaboration.
+
+
+## Desktop architecture research — 2026-11-22
+
+The [cross-repository desktop research alignment](docs/OMARCHY-OMAXIAN-DESKTOP-RESEARCH-ALIGNMENT-2026-11-22.md) records the ten-repository disposition and shared evidence boundaries. The detailed technical source of record remains in [WARENA's Omarchy / Omaxian / Guix desktop architecture study](https://github.com/donfelohke/WARENA/blob/main/docs/OMARCHY-OMAXIAN-GUIX-DESKTOP-ARCHITECTURE-RESEARCH-2026-11-22.md). This is research only; no WARENA implementation or deployment is claimed.
