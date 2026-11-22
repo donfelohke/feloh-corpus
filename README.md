@@ -97,3 +97,7 @@ The current commercial strategy is owned by NAKEBUSEN. Its [TAM, MVP & Sales Blu
 ## Repository upgrade plan
 
 See [the feloh-corpus repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). This plan records the next maintenance and quality gates without claiming unfinished work is complete.
+
+## BLACK HINTERLAND — BEFORE AFRICA (2026-11-22)
+
+The current master research dossier is [BLACK HINTERLAND — BEFORE AFRICA](docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). It integrates deep time, ancestral geography, the history of the name Africa, peoples and civilisations, Balkanisation, contemporary African realities and African futures through 2100. Specialist repositories own bounded domain interpretations; the Corpus owns the shared framework, evidence standards and source register. **RESEARCH**; not a completed continental synthesis or field study.
