@@ -259,3 +259,8 @@ Deep time and African geological histories; hominin evolution and Homo sapiens; 
 ## 2026-11-22 alignment record
 
 The current cross-domain research and ownership update is recorded in [ECOSYSTEM-UPDATE-2026-11-22.md](ECOSYSTEM-UPDATE-2026-11-22.md). It supplements, and does not supersede, the canonical domain dossiers, source register, claim ledger or adopted decision records.
+
+
+## Real-time bidirectional I/O and mirror systems — 2026-11-22
+
+Shared routing record: [RESEARCH-UPDATE-2026-11-22-REALTIME-IO-AND-MIRROR-SYSTEMS.md](RESEARCH-UPDATE-2026-11-22-REALTIME-IO-AND-MIRROR-SYSTEMS.md). IKAI owns reflective experience and optical research; WARENA owns enabling infrastructure; GENJE owns authored movement and creative interpretation.
