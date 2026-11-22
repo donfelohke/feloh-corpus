@@ -104,3 +104,8 @@ See [the feloh-corpus repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026
 ## BLACK HINTERLAND — BEFORE AFRICA (2026-11-22)
 
 The current master research dossier is [BLACK HINTERLAND — BEFORE AFRICA](docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). It integrates deep time, ancestral geography, the history of the name Africa, peoples and civilisations, Balkanisation, contemporary African realities and African futures through 2100. Specialist repositories own bounded domain interpretations; the Corpus owns the shared framework, evidence standards and source register. **RESEARCH**; not a completed continental synthesis or field study.
+
+
+## Current cross-domain research update — 2026-11-22
+
+- [Real-time I/O and mirror systems](docs/RESEARCH-UPDATE-2026-11-22-REALTIME-IO-AND-MIRROR-SYSTEMS.md) — canonical ownership, reuse, evidence and privacy boundaries for IKAI/WARENA/GENJE collaboration.
