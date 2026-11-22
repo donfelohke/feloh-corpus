@@ -27,3 +27,8 @@ Use maturity labels consistently: LIVE / PRACTICE / RESEARCH / PROTOTYPE / CONCE
 3. Preserve original editions and source wording during transcription.
 4. Record source and rights provenance for creative and Gallery assets.
 5. Keep website publication curated and subordinate to canonical source records.
+
+
+## Omarchy / Omaxian desktop research alignment — 2026-11-22
+
+The [cross-repository desktop research alignment](OMARCHY-OMAXIAN-DESKTOP-RESEARCH-ALIGNMENT-2026-11-22.md) records the shared conclusion and disposition of all ten repositories. WARENA owns the technical source of record; the Corpus owns cross-project routing and evidence boundaries. No desktop implementation, package build, host validation or deployment is claimed.
