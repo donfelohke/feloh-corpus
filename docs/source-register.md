@@ -257,3 +257,67 @@ The WARENA [Agentic Operating Environment & GNU Hurd Research specification](htt
 | SRC-BH-WIKI-001 | Wikipedia, Kenya: https://en.wikipedia.org/wiki/Kenya | Preliminary orientation and bibliography discovery | Tertiary source only; verify substantive claims against primary and specialist sources. |
 
 The canonical research framework is [BLACK HINTERLAND — BEFORE AFRICA](BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). These entries identify sources for use; they do not claim exhaustive reading, independent replication or community approval. For current indicators, capture the source file, table number, download/access date and exact geography before publishing a number.
+
+
+## Omarchy, Quickshell, Omaxian and Guix desktop architecture — 2026-11-22
+
+### SRC-OMARCHY-RELEASE-2026-001 — Omarchy v4.5.0 release
+- **Project:** Omarchy / omacom
+- **Release:** v4.5.0, published 2026-11-05
+- **URL:** https://github.com/omacom/omarchy/releases/tag/v4.5.0
+- **Type:** Official software release and project-authored release notes
+- **Use:** Establishes the release version and the project's reported scope: more than 740 merged pull requests, more than 180 contributors in twelve weeks, traditional desktop mode alongside tiling, Apple Silicon support and 50 interface languages.
+- **Limitations:** Contributor and PR figures are project-reported release metrics; they do not establish active users, retention, revenue, reliability or long-term sustainability.
+- **Editorial label:** VERIFIED (release metadata and wording); metrics remain project-reported.
+
+### SRC-OMARCHY-QUATTRO-2026-001 — Omarchy v4.0.0 / Quattro
+- **Project:** Omarchy / omacom
+- **Release:** v4.0.0, published 2026-08-14
+- **URL:** https://github.com/omacom/omarchy/releases/tag/v4.0.0
+- **Type:** Official software release and project-authored release notes
+- **Use:** Documents the move to a Quickshell-based desktop shell consolidating the bar, launcher, menus, notifications, OSD, control panels, lock screen and authentication agent.
+- **Limitations:** Release notes establish the project's described architecture, not independent performance or reliability measurements.
+- **Editorial label:** VERIFIED (release metadata and documented design); impact assessment is INTERPRETATION.
+
+### SRC-QUICKSHELL-ABOUT-2026-001 — Quickshell official architecture overview
+- **Project:** Quickshell
+- **URL:** https://quickshell.org/about/
+- **Type:** Official project documentation
+- **Use:** Describes Quickshell as a desktop-shell toolkit based on QtQuick and QML, and lists integrations for windowing, compositor workspaces, PipeWire, BlueZ, authentication, power and media.
+- **Limitations:** The list of integrations is not proof that every integration works identically across all compositors or distributions.
+- **Editorial label:** VERIFIED (project description); compatibility must be tested per target.
+
+### SRC-QT-QML-JS-2026-001 — Qt QML and JavaScript integration
+- **Institution/project:** Qt Project
+- **URL:** https://doc.qt.io/qt-6/qtqml-javascript-topic.html
+- **Type:** Official language/runtime documentation
+- **Use:** Documents that QML property bindings, signal handlers and methods can contain JavaScript expressions and that the QML engine provides a JavaScript host environment.
+- **Limitations:** QML is not simply a browser application or ordinary JavaScript file; assess the actual QML/Qt runtime and code path rather than collapsing all Qt technology into web technology.
+- **Editorial label:** VERIFIED (official language documentation). WARENA's policy disposition is a separate owner-directed decision.
+
+### SRC-OMAXIAN-RELEASE-2026-001 — Omaxian v1.2.2
+- **Project:** Omaxian / aozora
+- **Release:** v1.2.2, published 2026-11-16
+- **URL:** https://github.com/aozora/omaxian/releases/tag/v1.2.2
+- **Repository:** https://github.com/aozora/omaxian
+- **Type:** Official software release, repository metadata and README
+- **Use:** Establishes the current release checked for the study and the project's stated purpose as an Omarchy-shell port for Debian-family systems using X11/XLibre and i3, without requiring Wayland, Hyprland or a specific init system.
+- **Limitations:** A release and repository description do not prove compatibility with WARENA, Guix packaging, hardware support or independent validation of all listed features.
+- **Editorial label:** VERIFIED (release metadata and repository description); WARENA suitability remains RESEARCH.
+
+### SRC-GUIX-MANUAL-DESKTOP-2026-001 — GNU Guix configuration and generations
+- **Project:** GNU Guix
+- **URL:** https://guix.gnu.org/manual/en/
+- **Configuration guide:** https://guix.gnu.org/manual/en/html_node/Using-the-Configuration-System.html
+- **Type:** Official technical manual
+- **Use:** Documents declarative system configuration, reconfiguration, system generations and rollback. The manual also documents `guix describe` for recording Guix/channel revisions.
+- **Limitations:** These facilities do not automatically back up mutable user data, firmware, external services or every hardware-specific state. Documentation does not prove a WARENA host has been rebuilt or recovered.
+- **Editorial label:** VERIFIED (documented Guix behaviour); WARENA host operation remains UNKNOWN until tested.
+
+### SRC-RDE-UPSTREAM-2026-001 — RDE upstream repository
+- **Project:** RDE / abcdw
+- **URL:** https://github.com/abcdw/rde
+- **Type:** Upstream source repository and project description
+- **Use:** Identifies RDE as a Scheme-based framework for managing reproducible development environments and provides the upstream source of record.
+- **Limitations:** Repository metadata is time-sensitive. A source repository or historical push date does not establish current maintenance activity, a pinned WARENA channel, Guix package availability or a successful local build.
+- **Editorial label:** VERIFIED (repository identity and project description); current compatibility and maintenance status require a fresh review.
