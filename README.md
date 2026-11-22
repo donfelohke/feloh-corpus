@@ -48,6 +48,8 @@ NAKEBUSEN's current Eldoret campaign starting prices are maintained in its servi
 
 These are starting prices, not guaranteed final quotes. Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy payment numbers into this repository; use the approved Public Facts Register and its confirmation requirements.
 
+The current NAKEBUSEN directions reference is **F743+R35, Eldoret, Kenya** ([owner-supplied Google Maps pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). Loc-care home calls may be arranged within the wider Eldoret Town area, subject to confirmation of the exact location, suitability, availability and travel arrangements. The pin is a directions reference, not independently verified street-address or entrance evidence.
+
 - [NAKEBUSEN service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md)
 - [Public Facts Register](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/PUBLIC-FACTS-REGISTER.md)
 
