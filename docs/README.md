@@ -112,3 +112,12 @@ When a shared definition changes, update the Master Corpus first, then align dep
 
 - [Cross-Repository Documentation Audit (2026-11-21)](CROSS-REPOSITORY-DOCUMENTATION-AUDIT-2026-11-21.md) — entry-point audit and repository-specific evidence gaps.
 - [Cross-Repository Documentation Audit Index (2026-11-21)](CROSS-REPOSITORY-DOCUMENTATION-AUDIT-INDEX-2026-11-21.md) — repository ownership, next evidence gates and shared maintenance protocol.
+
+
+## BLACK HINTERLAND — BEFORE AFRICA · 22 November 2026
+
+- [BLACK HINTERLAND — BEFORE AFRICA master dossier](BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md) — canonical integrated framework: deep time, ancestral geography, prehistory, naming, peoples, languages, civilisations, Balkanisation, Africa today and African futures.
+- [Before Africa source catalogue](research-briefs/before-africa-source-catalogue-2026-11.md) — annotated archaeological, genetic, linguistic and historiographical sources.
+- [Continental atlas and populations](research-briefs/continental-atlas-and-populations-2026-11.md) — regional and population-genetic synthesis with sampling limitations.
+
+The 22 November dossier supersedes earlier summaries only as the current integrated programme map. Earlier dated dossiers and research notes remain preserved as source history; specialist repositories retain authority over their own bounded work.
