@@ -121,3 +121,8 @@ When a shared definition changes, update the Master Corpus first, then align dep
 - [Continental atlas and populations](research-briefs/continental-atlas-and-populations-2026-11.md) — regional and population-genetic synthesis with sampling limitations.
 
 The 22 November dossier supersedes earlier summaries only as the current integrated programme map. Earlier dated dossiers and research notes remain preserved as source history; specialist repositories retain authority over their own bounded work.
+
+
+## 2026-11-22 ecosystem alignment
+
+See [Ecosystem canon and research update](ECOSYSTEM-UPDATE-2026-11-22.md) for the current four-domain boundaries, BLACK HINTERLAND evidence rules, REFLECTION± research framing, upstream reuse policy and maturity distinctions.
