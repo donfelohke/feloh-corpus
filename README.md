@@ -48,7 +48,7 @@ NAKEBUSEN's current Eldoret campaign starting prices are maintained in its servi
 
 These are starting prices, not guaranteed final quotes. Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy payment numbers into this repository; use the approved Public Facts Register and its confirmation requirements.
 
-The current NAKEBUSEN directions reference is **F743+R35, Eldoret, Kenya** ([owner-supplied Google Maps pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). Loc-care home calls may be arranged within the wider Eldoret Town area, subject to confirmation of the exact location, suitability, availability and travel arrangements. The pin is a directions reference, not independently verified street-address or entrance evidence.
+The current NAKEBUSEN location is **near King's Square on Kisumu Road, Eldoret Town, Uasin Gishu County, Kenya**. The owner-supplied directions reference is **F743+R35, Eldoret, Kenya** ([Google Maps map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). Loc-care home calls may be arranged across the wider Eldoret Town service area, subject to confirmation of the exact location, suitability, availability and any travel costs. The map pin is a directions reference; it is not independently verified street-address or entrance evidence.
 
 - [NAKEBUSEN service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md)
 - [Public Facts Register](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/PUBLIC-FACTS-REGISTER.md)
