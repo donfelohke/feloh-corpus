@@ -234,3 +234,9 @@ Lipson et al. (2022), *Nature* 603, 290–296, analysed six new ancient genomes 
 For full citations, access links and interpretive limits, use the source catalogue.
 
 **Editorial rule:** empirical result, authors' model, subsequent synthesis and project interpretation must remain distinguishable in every future update.
+
+
+
+## Programme alignment — 22 November 2026
+
+The current integrated programme map is [BLACK HINTERLAND — BEFORE AFRICA master dossier (2026-11-22)](BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). This 7 November dossier remains an earlier conceptual and methodological record, including its detailed historical terminology and population-genetics qualifications. Use the newer master for the complete programme architecture, contemporary baseline, African futures and cross-repository ownership. Do not silently erase or overwrite this dated research history.
