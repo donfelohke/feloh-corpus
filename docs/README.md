@@ -126,3 +126,9 @@ The 22 November dossier supersedes earlier summaries only as the current integra
 ## 2026-11-22 ecosystem alignment
 
 See [Ecosystem canon and research update](ECOSYSTEM-UPDATE-2026-11-22.md) for the current four-domain boundaries, BLACK HINTERLAND evidence rules, REFLECTION± research framing, upstream reuse policy and maturity distinctions.
+
+
+## Omarchy / Omaxian desktop research alignment — 2026-11-22
+
+- [Cross-repository desktop architecture research alignment](OMARCHY-OMAXIAN-DESKTOP-RESEARCH-ALIGNMENT-2026-11-22.md) — shared conclusion, evidence boundaries, ten-repository disposition and ownership routing.
+- [WARENA technical case study](https://github.com/donfelohke/WARENA/blob/main/docs/OMARCHY-OMAXIAN-GUIX-DESKTOP-ARCHITECTURE-RESEARCH-2026-11-22.md) — canonical technical analysis of Omarchy Quattro, Omaxian, Quickshell/QML, Guix/RDE, modular native architecture and validation gates.
