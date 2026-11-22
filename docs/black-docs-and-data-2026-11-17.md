@@ -309,3 +309,9 @@ The histories of the peoples now grouped under the name Africa do not begin with
 **Author:** Felix Lwova / Don Feloh  
 **Maturity:** RESEARCH FRAMEWORK  
 **Last updated:** 17 November 2026
+
+
+
+## BLACK HINTERLAND programme alignment — 22 November 2026
+
+The BLACKS: THE DOCS & DATA programme now sits within the integrated [BLACK HINTERLAND — BEFORE AFRICA master dossier](BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). Its remit includes the historical formation of Black identities and racialisation, African peoples and civilisations, Global Africa and diaspora, contemporary Black life, evidence and knowledge sovereignty. Do not project modern racial categories unchanged into prehistory. Distinguish African ancestry, pigmentation, language, culture, self-identification, nationality and racialisation.
