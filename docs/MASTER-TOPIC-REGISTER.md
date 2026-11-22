@@ -254,3 +254,8 @@ The source catalogue is RESEARCH maturity. It does not establish that every list
 ### 11 — BLACK HINTERLAND / BEFORE AFRICA / AFRICAN FUTURES
 
 Deep time and African geological histories; hominin evolution and Homo sapiens; Palaeolithic and Holocene archaeology; ancestral populations and ancient DNA; palaeoclimate and the African Humid Period; Turkana Basin and East African archaeology; indigenous territories, peoples and endonyms; languages and historical linguistics; political formations, technologies and knowledge systems; the history of the name Africa; colonial cartography and Balkanisation; African states and continental institutions; contemporary demography, political economy, labour, poverty, infrastructure, conflict, climate and diaspora; Africanfuturism, Afrofuturism, Indigenous Futurisms, Pan-African futures, technological sovereignty and long-range foresight. **Canonical dossier:** [BLACK HINTERLAND — BEFORE AFRICA (2026-11-22)](BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). This is a research programme, not a fifth practice domain.
+
+
+## 2026-11-22 alignment record
+
+The current cross-domain research and ownership update is recorded in [ECOSYSTEM-UPDATE-2026-11-22.md](ECOSYSTEM-UPDATE-2026-11-22.md). It supplements, and does not supersede, the canonical domain dossiers, source register, claim ledger or adopted decision records.
