@@ -248,3 +248,9 @@ Research scope: agentic operating-system architectures; agent identity and autho
 - **Specialist interpretive views:** GENJE livity/embodied knowledge and IKAI existence/knowledge notes, each linked from the documentation tree.
 
 The source catalogue is RESEARCH maturity. It does not establish that every listed resource has been fully read, every dataset downloaded, or every research gap resolved.
+
+
+
+### 11 — BLACK HINTERLAND / BEFORE AFRICA / AFRICAN FUTURES
+
+Deep time and African geological histories; hominin evolution and Homo sapiens; Palaeolithic and Holocene archaeology; ancestral populations and ancient DNA; palaeoclimate and the African Humid Period; Turkana Basin and East African archaeology; indigenous territories, peoples and endonyms; languages and historical linguistics; political formations, technologies and knowledge systems; the history of the name Africa; colonial cartography and Balkanisation; African states and continental institutions; contemporary demography, political economy, labour, poverty, infrastructure, conflict, climate and diaspora; Africanfuturism, Afrofuturism, Indigenous Futurisms, Pan-African futures, technological sovereignty and long-range foresight. **Canonical dossier:** [BLACK HINTERLAND — BEFORE AFRICA (2026-11-22)](BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). This is a research programme, not a fifth practice domain.
