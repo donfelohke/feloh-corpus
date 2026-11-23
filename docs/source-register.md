@@ -321,3 +321,19 @@ The canonical research framework is [BLACK HINTERLAND — BEFORE AFRICA](BLACK-H
 - **Use:** Identifies RDE as a Scheme-based framework for managing reproducible development environments and provides the upstream source of record.
 - **Limitations:** Repository metadata is time-sensitive. A source repository or historical push date does not establish current maintenance activity, a pinned WARENA channel, Guix package availability or a successful local build.
 - **Editorial label:** VERIFIED (repository identity and project description); current compatibility and maintenance status require a fresh review.
+
+
+## FELOH ecosystem alignment and cooperative infrastructure records — 2026-11-24
+
+The following are first-party project records. They establish the projects' documented positions and research status; they are not independent evidence that a technical capability is deployed or that every underlying external claim has been verified.
+
+| Source ID | Source | Type / supports | Limits / review status |
+|---|---|---|---|
+| SRC-FELOH-ECOSYSTEM-001 | [NAKEBUSEN × WARENA Brand Platform & Narrative Constitution](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) | Founder-approved governance record for shared identity, narrative, domain authority, evidence and maturity controls | First-party policy; not legal incorporation or external etymological proof. Read and indexed 2026-11-24. |
+| SRC-FELOH-ECOSYSTEM-002 | [FELOH Corpus Ecosystem Alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) | Repository roles, documentation boundaries, cross-project evidence rules and website exclusion | First-party alignment record; does not certify full repository audit or CI status. Read and indexed 2026-11-24. |
+| SRC-WARENA-NET-001 | [WARENA Cooperative Networking, Federation and Self-Hosted Services](https://github.com/donfelohke/WARENA/blob/main/docs/research/cooperative-networking-and-self-hosted-services-2026-11-23.md) | Research map for community access networking, GNUnet, Tor, federation, self-hosting, databases, USSD and GNU Taler | Research only; source-page statements and compatibility claims require independent review before implementation. Read and indexed 2026-11-24. |
+| SRC-GENJE-NET-001 | [GENJE Cooperative Networks and Embodied Media](https://github.com/donfelohke/Genje/blob/main/docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md) | Creator-controlled exchange, embodied media, consent, rights and cooperative archive questions | Research only; no network or archive implementation claimed. Read and indexed 2026-11-24. |
+| SRC-FELOH-NET-001 | [Cooperative Digital Infrastructure — Cross-Domain Research Update](https://github.com/donfelohke/feloh-corpus/blob/main/docs/research/COOPERATIVE-DIGITAL-INFRASTRUCTURE-CROSS-DOMAIN-UPDATE-2026-11-23.md) | Cross-domain routing and conceptual distinctions between networking, federation, privacy, self-hosting and governance | First-party synthesis; external technical claims must be checked against the linked primary sources before adoption. Read and indexed 2026-11-24. |
+| SRC-IKAI-NAME-001 | [IKAI Ecosystem Alignment](https://github.com/donfelohke/Ikai/blob/main/docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) | Current attribution and uncertainty status of the proposed IKAI name association | First-party statement of uncertainty, not etymological evidence. Read and indexed 2026-11-24. |
+
+Do not count these records as independent sources when they repeat one another. For external technical standards and project documentation cited inside the specialist dossiers, create separate source records only after checking the exact source page, version, publication date and relevant passage.
