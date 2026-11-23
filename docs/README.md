@@ -140,3 +140,9 @@ See [Ecosystem canon and research update](ECOSYSTEM-UPDATE-2026-11-22.md) for th
 - [WARENA specialist research dossier](https://github.com/donfelohke/WARENA/blob/main/docs/research/cooperative-networking-and-self-hosted-services-2026-11-23.md)
 - [IKAI local-first infrastructure implications](https://github.com/donfelohke/Ikai/blob/main/docs/research/IKAI-LOCAL-FIRST-COOPERATIVE-INFRASTRUCTURE-IMPLICATIONS-2026-11-23.md)
 - [GENJE cooperative networks and embodied media](https://github.com/donfelohke/Genje/blob/main/docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md)
+
+
+## Ecosystem canon — 24 November 2026
+
+- [Ecosystem Alignment](ECOSYSTEM-ALIGNMENT-2026-11-24.md) — repository boundaries, evidence and maturity rules, documentation ownership and integration priorities.
+- [NAKEBUSEN × WARENA Brand Platform & Narrative Constitution](NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) — canonical shared brand architecture, story, values, messaging and publication controls.
