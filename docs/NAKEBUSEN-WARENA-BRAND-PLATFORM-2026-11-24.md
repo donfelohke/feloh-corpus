@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Date:** 2026-11-24  
-**Status:** Canonical brand-platform draft for founder review and controlled publication  
+**Status:** Founder-approved canonical brand platform; linguistic, historical, market and implementation claims remain subject to evidence review  
 **Human author:** Felix Lwova · Feloh Warena · Don Feloh · [@donfelohke](https://github.com/donfelohke)  
 **Master expression:** **NAKEBUSEN · WARENA POWERED**  
 **Ethos:** **GRACE · GRIT · GLORY | GENJE ZA WARENA**  
@@ -286,3 +286,40 @@ Before publishing brand copy, confirm:
 **GRACE · GRIT · GLORY | GENJE ZA WARENA**  
 **BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.**  
 **@donfelohke · #HisGenjeness**
+
+
+## 16. Evidence, maturity and publication control
+
+### Evidence labels
+
+Use the following labels for material claims in the FELOH Corpus and specialist records:
+
+- **VERIFIED:** directly established by an appropriate primary record, reproducible test or authoritative evidence.
+- **CORROBORATED:** supported by multiple credible sources, while some uncertainty remains.
+- **UNVERIFIED:** not yet established to the required standard.
+- **DISPUTED:** credible sources or testimony conflict.
+- **TESTIMONY:** attributed statement from a named or appropriately anonymised speaker.
+- **INTERPRETATION:** reasoned reading or synthesis, not a directly established fact.
+- **OPINION:** explicitly subjective judgement.
+- **PROPOSAL:** a suggested future action, design or policy, not an adopted or implemented state.
+
+Record source, author or speaker, date, context, location where relevant, confidence and limitations. A repository file proves that the file exists at the cited revision; it does not by itself prove the truth of every claim in it.
+
+### Maturity labels
+
+Use **LIVE**, **PROTOTYPE**, **RESEARCH**, **CONCEPT**, **HISTORICAL**, **SUPERSEDED** and **UNKNOWN** consistently. Distinguish literature review, design proposal, implementation, test, deployment and independent validation. A commit is not a test result; a build workflow is not a deployed service; a technical proposal is not a commercial offer.
+
+### Domain authority
+
+- NAKEBUSEN owns current customer-facing service, pricing, contact, location, availability, payment and booking records.
+- WARENA owns technical architecture, dependencies, implementation, configuration, operations and validation evidence.
+- GENJE owns creative artefacts, performance records, credits, licences and cultural context.
+- IKAI owns reflective-computing research, participant-facing design, consent and data-governance requirements.
+- Gallery owns asset-level rights, consent, attribution and publication approvals.
+- FELOH Corpus owns shared identity definitions, terminology, research provenance, evidence vocabulary and cross-project navigation.
+
+No shared brand document overrides specialist operational records or changes the public website. The public website remains outside this documentation integration phase.
+
+### Adoption record
+
+This document is the founder-approved shared brand baseline for internal repository alignment. Approval does not certify linguistic etymologies, market claims, legal status, technical deployment, customer outcomes or independent validation. Those require their own evidence and review.
