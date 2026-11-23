@@ -78,3 +78,22 @@ BLACK HINTERLAND — BEFORE AFRICA, BLACKS: THE DOCS & DATA, Sages & Knowledge T
 ---
 
 **ONE CORPUS · MANY VIEWS · ONE PRACTICE.**
+
+## GRACE · GRIT · GLORY — canonical identity relationship
+
+The shared philosophy is expressed through three pillars and distinct practice domains:
+
+- **GRACE → NAKEBUSEN:** beauty, heritage, craft, dignity and the only live commercial practice.
+- **GRIT → WARENA:** libre-first technology, freedom, infrastructure, reproducibility and independent works.
+- **GLORY → DON FELOH:** the human author, creative agency, expression and becoming.
+- **GENJE:** embodied creative expression across Genge, sound, code, movement and choreography.
+- **IKAI:** reflective computing and research, grounded in its Turkana meaning, “home.”
+- **FELOH CORPUS:** shared canon, governance, evidence and provenance.
+
+**GENJE ZA WARENA | NAKEBUSEN** is the public-facing signature; it is not a corporate merger or new practice domain.
+
+> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+
+**ONLY NAKEBUSEN TRANSACTS.** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
+
+See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
