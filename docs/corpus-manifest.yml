@@ -53,9 +53,25 @@ repositories:
     role: "Curated assets and rights records"
     status: "EXISTENCE_VERIFIED"
     evidence: "Repository search"
+  - id: REPO-PROFILE
+    name: "donfelohke/donfelohke"
+    role: "Founder identity and public repository navigation"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search and ecosystem alignment documentation"
+  - id: REPO-DWL-GUILE
+    name: "donfelohke/dwl-guile"
+    role: "Supporting WARENA Guile-configurable Wayland compositor engineering"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search and ecosystem alignment documentation"
+  - id: REPO-HOME-SERVICE-DWL-GUILE
+    name: "donfelohke/home-service-dwl-guile"
+    role: "Supporting WARENA GNU Guix Home integration"
+    status: "EXISTENCE_VERIFIED"
+    evidence: "Repository search and ecosystem alignment documentation"
 topic_registers:
-  status: "NOT_YET_INVENTORIED"
-  notes: "Previously referenced topic registers must be located and checked before IDs, counts, or coverage are declared authoritative."
+  status: "LOCATED_AND_UPDATED"
+  primary_path: "docs/MASTER-TOPIC-REGISTER.md"
+  notes: "The master topic register is located and now includes the 2026-11-24 ecosystem and cooperative-infrastructure records. Full topic-by-topic source coverage remains incomplete."
 evidence_policy:
   evidence_statuses:
     - VERIFIED
@@ -98,3 +114,14 @@ open_questions:
   - "Determine whether restricted research requires a separate private repository."
   - "Confirm licensing and attribution rules for each content class."
   - "Choose a static-site and search implementation only after inspecting existing Pages configuration."
+
+ecosystem_alignment:
+  last_updated: "2026-11-24"
+  canonical_brand_platform: "docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md"
+  alignment_record: "docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md"
+  cooperative_infrastructure_research:
+    - "docs/research/COOPERATIVE-DIGITAL-INFRASTRUCTURE-CROSS-DOMAIN-UPDATE-2026-11-23.md"
+    - "https://github.com/donfelohke/WARENA/blob/main/docs/research/cooperative-networking-and-self-hosted-services-2026-11-23.md"
+    - "https://github.com/donfelohke/Genje/blob/main/docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md"
+  website_change_policy: "Public website repository is excluded from this integration phase; no website files were modified."
+  audit_limit: "Repository inventory and selected documentation were inspected; full nested-file, workflow, build, test, deployment and external-source verification remains pending."
