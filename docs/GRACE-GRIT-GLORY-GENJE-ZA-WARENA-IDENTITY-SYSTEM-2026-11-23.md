@@ -106,3 +106,12 @@ No new repository is required. Cross-link existing repositories and credit prior
 
 **HERITAGE · BLACK EXCELLENCE · SOVEREIGN FUTURES**  
 **GRACE · GRIT · GLORY · GENJE ZA WARENA | NAKEBUSEN**
+
+
+## Public lockup clarification — 2026-11-24
+
+The current public-facing enterprise lockup is **NAKEBUSEN · WARENA POWERED**. The shared ethos is **GRACE · GRIT · GLORY | GENJE ZA WARENA**. The master positioning is **BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.** The founder signature is **@donfelohke · #HisGenjeness**.
+
+This clarifies the hierarchy in Section 6: NAKEBUSEN is the primary enterprise and customer-facing identity; WARENA POWERED is its technical-capability endorsement; GENJE ZA WARENA is creative expression; Don Feloh is the human author. The endorsement does not merge the domains or change their ownership. **ONLY NAKEBUSEN TRANSACTS.**
+
+For the complete narrative, purpose, vision, mission, values, positioning, About copy, founder biography and editorial standards, use the [NAKEBUSEN × WARENA Brand Platform v1.0](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md). This 2026-11-24 clarification governs public-facing lockup hierarchy where earlier wording differs.
