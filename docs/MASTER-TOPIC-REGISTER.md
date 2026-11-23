@@ -264,3 +264,16 @@ The current cross-domain research and ownership update is recorded in [ECOSYSTEM
 ## Real-time bidirectional I/O and mirror systems — 2026-11-22
 
 Shared routing record: [RESEARCH-UPDATE-2026-11-22-REALTIME-IO-AND-MIRROR-SYSTEMS.md](RESEARCH-UPDATE-2026-11-22-REALTIME-IO-AND-MIRROR-SYSTEMS.md). IKAI owns reflective experience and optical research; WARENA owns enabling infrastructure; GENJE owns authored movement and creative interpretation.
+
+
+## 2026-11-24 — Ecosystem alignment and cooperative infrastructure
+
+This update records the current cross-project alignment without creating new practice domains. The four practice domains remain NAKEBUSEN / ROOT, WARENA / CAPABILITY, GENJE / EXPRESSION and IKAI / MIRROR; FELOH Corpus remains the shared canon and DON FELOH the human authorship identity.
+
+- **Brand and enterprise architecture:** [NAKEBUSEN × WARENA Brand Platform & Narrative Constitution](NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) — canonical master expression, hierarchy, purpose, vision, mission, values, narrative, approved copy, naming evidence, visual direction and publication controls.
+- **Cross-project governance:** [Ecosystem Alignment](ECOSYSTEM-ALIGNMENT-2026-11-24.md) — domain authority, repository boundaries, evidence and maturity discipline, and website exclusion.
+- **Cooperative infrastructure:** [Cross-domain research update](research/COOPERATIVE-DIGITAL-INFRASTRUCTURE-CROSS-DOMAIN-UPDATE-2026-11-23.md) — community networking, federation, privacy, self-hosting, payment boundaries and cooperative governance.
+- **WARENA specialist research:** [Cooperative Networking, Federation and Self-Hosted Services](https://github.com/donfelohke/WARENA/blob/main/docs/research/cooperative-networking-and-self-hosted-services-2026-11-23.md) — technical layers, policy conflicts and feasibility work packages.
+- **GENJE specialist research:** [Cooperative Networks and Embodied Media](https://github.com/donfelohke/Genje/blob/main/docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md) — creator-controlled media, movement/music exchange, rights, consent and cooperative archive governance.
+
+**Status boundary:** These records are documentation and research updates. They do not establish a deployed network, a released IKAI product, a new commercial service, a verified linguistic etymology or a website revision.
