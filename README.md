@@ -87,7 +87,7 @@ The shared philosophy is expressed through three pillars and distinct practice d
 - **GRIT → WARENA:** libre-first technology, freedom, infrastructure, reproducibility and independent works.
 - **GLORY → DON FELOH:** the human author, creative agency, expression and becoming.
 - **GENJE:** embodied creative expression across Genge, sound, code, movement and choreography.
-- **IKAI:** reflective computing and research, grounded in its Turkana meaning, “home.”
+- **IKAI:** reflective computing and research, associated in a working, user-supplied name note with “home”; the proposed Turkana connection remains under linguistic verification.
 - **FELOH CORPUS:** shared canon, governance, evidence and provenance.
 
 **GENJE ZA WARENA | NAKEBUSEN** is the public-facing signature; it is not a corporate merger or new practice domain.
