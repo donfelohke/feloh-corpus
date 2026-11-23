@@ -97,3 +97,12 @@ The shared philosophy is expressed through three pillars and distinct practice d
 **ONLY NAKEBUSEN TRANSACTS.** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
 
 See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
+
+
+## Latest brand platform — 2026-11-24
+
+The current public lockup is **NAKEBUSEN · WARENA POWERED**. The shared ethos is **GRACE · GRIT · GLORY | GENJE ZA WARENA**. The master positioning is **BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.** The founder signature is **@donfelohke · #HisGenjeness**.
+
+This 2026-11-24 brand platform clarifies the public hierarchy: NAKEBUSEN is primary; WARENA POWERED is a capability endorsement; GENJE ZA WARENA is creative expression; only NAKEBUSEN transacts. It supplements the 2026-11-23 identity-system record and governs new public-facing brand copy where the two documents differ in presentation hierarchy.
+
+Canonical document: [NAKEBUSEN × WARENA — Brand Platform & Narrative Constitution](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md).
