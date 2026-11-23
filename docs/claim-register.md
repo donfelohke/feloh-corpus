@@ -125,3 +125,31 @@
 - **Editorial status:** VERIFIED AT DOCUMENTATION LEVEL.
 - **Scope/limits:** This does not prove that a WARENA host has been configured, rebuilt, booted or recovered. System generations do not replace backup of mutable user data or external state.
 - **Next check:** Run a controlled VM reconfigure, inspect channel provenance, boot a prior generation and separately test user-data restoration before making a WARENA operational claim.
+
+
+## CLM-0013 — Cooperative digital infrastructure research is not a deployment record
+
+- **Claim:** The current cross-domain cooperative infrastructure dossier explicitly classifies the work as research and states that no network build, radio survey, benchmark, deployment, provider integration or legal review is claimed.
+- **Sources:** [WARENA cooperative networking research](https://github.com/donfelohke/WARENA/blob/main/docs/research/cooperative-networking-and-self-hosted-services-2026-11-23.md); [FELOH Corpus cross-domain synthesis](https://github.com/donfelohke/feloh-corpus/blob/main/docs/research/COOPERATIVE-DIGITAL-INFRASTRUCTURE-CROSS-DOMAIN-UPDATE-2026-11-23.md).
+- **Source type:** First-party project research records.
+- **Editorial status:** VERIFIED AS A STATEMENT IN THE REFERENCED PROJECT DOCUMENTS.
+- **Scope/limits:** This verifies what the documents declare, not the absence of unrecorded activity outside the repositories or the technical correctness of every cited external source.
+- **Next check:** Record any later site survey, hardware selection, test protocol, observed result, provider agreement or legal review as a separate dated evidence record.
+
+## CLM-0014 — Shared brand platform assigns specialist domain authority
+
+- **Claim:** The canonical FELOH brand platform assigns customer-facing service facts to NAKEBUSEN, technical implementation evidence to WARENA, creative-work provenance to GENJE, reflective-computing and participant safeguards to IKAI, asset-level rights to Gallery, and shared terminology/evidence to FELOH Corpus.
+- **Source:** [NAKEBUSEN × WARENA Brand Platform & Narrative Constitution](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md).
+- **Source type:** Founder-approved first-party governance document.
+- **Editorial status:** VERIFIED AS AN ADOPTED GOVERNANCE STATEMENT; NOT AN EXTERNAL FACT CLAIM.
+- **Scope/limits:** This records the internal authority model. It does not establish legal incorporation, contractual rights or operational compliance.
+- **Next check:** Reconcile specialist READMEs and operational records against the stated authority model during future audits.
+
+## CLM-0015 — IKAI name attribution remains unverified
+
+- **Claim:** IKAI's current public repository note labels the proposed Turkana female-name association with “home” as unverified pending language-variety, spelling, pronunciation, morphology and community consultation.
+- **Source:** [IKAI ecosystem alignment record](https://github.com/donfelohke/Ikai/blob/main/docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md).
+- **Source type:** First-party project documentation.
+- **Editorial status:** VERIFIED AS A STATEMENT IN THE REFERENCED PROJECT DOCUMENT.
+- **Scope/limits:** This records the project's stated uncertainty; it does not verify the proposed etymology.
+- **Next check:** Obtain competent Turkana linguistic review and attributed community testimony before presenting the meaning as established.
