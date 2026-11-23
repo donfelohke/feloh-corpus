@@ -106,3 +106,8 @@ The current public lockup is **NAKEBUSEN · WARENA POWERED**. The shared ethos i
 This 2026-11-24 brand platform clarifies the public hierarchy: NAKEBUSEN is primary; WARENA POWERED is a capability endorsement; GENJE ZA WARENA is creative expression; only NAKEBUSEN transacts. It supplements the 2026-11-23 identity-system record and governs new public-facing brand copy where the two documents differ in presentation hierarchy.
 
 Canonical document: [NAKEBUSEN × WARENA — Brand Platform & Narrative Constitution](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md).
+
+
+## Ecosystem alignment · 2026-11-24
+
+See [Ecosystem Alignment](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) and the [NAKEBUSEN × WARENA Brand Platform & Narrative Constitution](docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) for the canonical shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
