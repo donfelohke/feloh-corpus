@@ -101,3 +101,7 @@ See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA
 ## Ecosystem alignment · 2026-11-24
 
 See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for current shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
+
+## NAKEBUSEN × WARENA brand constitution · 2026-11-24
+
+See the [NAKEBUSEN × WARENA Brand Constitution v1.0](docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md) for the shared brand platform, narrative, architecture, values, messaging, naming/evidence controls and publication standards. This is a review-branch proposal, not a merged or deployed website change.
