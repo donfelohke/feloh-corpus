@@ -132,3 +132,11 @@ See [Ecosystem canon and research update](ECOSYSTEM-UPDATE-2026-11-22.md) for th
 
 - [Cross-repository desktop architecture research alignment](OMARCHY-OMAXIAN-DESKTOP-RESEARCH-ALIGNMENT-2026-11-22.md) — shared conclusion, evidence boundaries, ten-repository disposition and ownership routing.
 - [WARENA technical case study](https://github.com/donfelohke/WARENA/blob/main/docs/OMARCHY-OMAXIAN-GUIX-DESKTOP-ARCHITECTURE-RESEARCH-2026-11-22.md) — canonical technical analysis of Omarchy Quattro, Omaxian, Quickshell/QML, Guix/RDE, modular native architecture and validation gates.
+
+
+## Cooperative digital infrastructure — 23 November 2026
+
+- [Cooperative Digital Infrastructure — Cross-Domain Research Update](research/COOPERATIVE-DIGITAL-INFRASTRUCTURE-CROSS-DOMAIN-UPDATE-2026-11-23.md) — ownership routing across WARENA, IKAI, GENJE and FELOH Corpus; separates community networking, federation, privacy, self-hosting and cooperative governance.
+- [WARENA specialist research dossier](https://github.com/donfelohke/WARENA/blob/main/docs/research/cooperative-networking-and-self-hosted-services-2026-11-23.md)
+- [IKAI local-first infrastructure implications](https://github.com/donfelohke/Ikai/blob/main/docs/research/IKAI-LOCAL-FIRST-COOPERATIVE-INFRASTRUCTURE-IMPLICATIONS-2026-11-23.md)
+- [GENJE cooperative networks and embodied media](https://github.com/donfelohke/Genje/blob/main/docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md)
