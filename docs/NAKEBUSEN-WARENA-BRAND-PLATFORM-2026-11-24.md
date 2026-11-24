@@ -53,7 +53,11 @@ Use the hierarchy in this order. Do not give WARENA or GENJE equal commercial pr
 - **DON FELOH / GLORY:** human authorship, creative agency, expression and becoming.
 - **FELOH CORPUS:** shared canon, evidence, terminology, governance and provenance.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 ## 3. Brand essence and positioning
 
