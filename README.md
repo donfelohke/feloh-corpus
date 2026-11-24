@@ -19,7 +19,7 @@ F3L0H is the overarching human authorship identity—not a fifth practice domain
 | **IKAI · MIRROR** | Reflective computing, mirror systems and embodied spatial research | [Ikai](https://github.com/donfelohke/Ikai) |
 | **GENJE · EXPRESSION** | Genge-rooted sound, livecoding, movement and creative practice | [Genje](https://github.com/donfelohke/Genje) |
 
-****FELOH** — Authorship · Intellectual work · Creative direction  
+**FELOH** — Authorship · Intellectual work · Creative direction  
 **NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
 **IKAI** — Reflective computing · Perception · Memory · Human experience  
 **WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
