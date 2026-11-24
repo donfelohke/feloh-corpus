@@ -150,3 +150,13 @@ See [Ecosystem canon and research update](ECOSYSTEM-UPDATE-2026-11-22.md) for th
 
 - [Ecosystem Alignment](ECOSYSTEM-ALIGNMENT-2026-11-24.md) — repository boundaries, evidence and maturity rules, documentation ownership and integration priorities.
 - [NAKEBUSEN × WARENA Brand Platform & Narrative Constitution](NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) — canonical shared brand architecture, story, values, messaging and publication controls.
+
+
+### Specialist source-to-test updates — 2026-11-24
+
+- [WARENA — Reproducible Systems and Real-Time I/O Validation](https://github.com/donfelohke/WARENA/blob/main/docs/REPRODUCIBLE-SYSTEMS-AND-REALTIME-IO-VALIDATION-2026-11-24.md) — Guix pinning, software provenance, native media-stack qualification and benchmark protocol.
+- [IKAI — M1 Optical and Display Bench Addendum](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md) — optical standards scope, reflection/display test matrix and measurement caveats.
+- [GENJE — Movement Notation and Interoperability Validation](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-NOTATION-AND-INTEROPERABILITY-VALIDATION-2026-11-24.md) — Labanotation/Benesh provenance and format round-trip tests.
+- [NAKEBUSEN — Eldoret Loc-Care Operations and Regulatory Verification](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/ELDORET-LOC-CARE-OPERATIONS-AND-REGULATORY-VERIFICATION-2026-11-24.md) — Uasin Gishu permit pathway, hygiene controls and legal verification register.
+
+The linked documents are proposed research/validation work. They do not claim that the tests have been executed, a permit has been issued, or a compliance assessment has been completed.
