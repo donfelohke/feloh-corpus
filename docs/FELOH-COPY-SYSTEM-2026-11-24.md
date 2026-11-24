@@ -1,7 +1,7 @@
 # FELOH Copy System — Editorial, Design, Campaign and Technical Language
 
 **Date:** 2026-11-24  
-**Status:** Founder-approved working editorial system derived from the canonical brand platform  
+**Status:** Working editorial proposal derived from the founder-approved canonical brand platform  
 **Authority:** FELOH Corpus for shared identity and copy rules; specialist repositories retain authority over service, technical, research, creative and operational facts.
 
 ## 1. Purpose
