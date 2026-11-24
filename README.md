@@ -66,8 +66,8 @@ A file on `main` proves its presence on that branch only. A research note is not
 
 NAKEBUSEN's current public starting prices are maintained in its [service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md) and the website's Public Facts Register:
 
-- Retouch & Styling — KES 700+
-- Sisterlocs Retie — KES 1,500+
+- Retouch & Styling — KES 700
+- Sisterlocs Retie — KES 1,500
 - Artificial Locs Installation — KES 3,500
 
 Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy payment details into the Corpus.
