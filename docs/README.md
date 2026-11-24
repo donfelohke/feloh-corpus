@@ -67,7 +67,7 @@ These are research programmes and topic classifications, not additional practice
 
 - [Research ecosystem update (2026-11-20)](RESEARCH-ECOSYSTEM-UPDATE-2026-11-20.md) — network, storage, payment, Hurd, desktop and spatial/XR reconciliation.
 - [Research ecosystem update (2026-11-18)](RESEARCH-ECOSYSTEM-UPDATE-2026-11-18.md)
-- [IKAI Mirror Cross-Project Alignment (2026-11-18)](IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md)
+- [WARENA camera, display and real-time I/O at scale (2026-11-24)](https://github.com/donfelohke/WARENA/blob/main/docs/CAMERA-DISPLAY-REALTIME-IO-SCALE-RESEARCH-2026-11-24.md) — native Linux capture/display interfaces, buffer sharing, clock domains, throughput, queueing, scale and validation; research only.\n- [IKAI Mirror Cross-Project Alignment (2026-11-18)](IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md)
 - [Cross-project desktop-stack alignment](desktop-stack-alignment-2026-11.md)
 - [Spatial/XR/AI cross-project alignment (2026-11-20)](SPATIAL-XR-AI-CROSS-PROJECT-ALIGNMENT-2026-11-20.md)
 - [WARENA spatial/XR/opt-in AI architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md)
