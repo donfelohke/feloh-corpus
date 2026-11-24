@@ -30,7 +30,7 @@ F3L0H is the overarching human authorship identity—not a fifth practice domain
 **WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
 **GENJE** — Music · Movement · Performance · Creative expression
 
-****ONLY NAKEBUSEN TRANSACTS.**** WARENA is technical capability; IKAI is research; GENJE is creative practice. None is a separate checkout or booking interface.
+**ONLY NAKEBUSEN TRANSACTS.** WARENA is technical capability; IKAI is research; GENJE is creative practice. None is a separate checkout or booking interface.
 
 ## Start here
 
@@ -108,7 +108,7 @@ The shared philosophy is expressed through three pillars and distinct practice d
 **WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
 **GENJE** — Music · Movement · Performance · Creative expression
 
-****ONLY NAKEBUSEN TRANSACTS.**** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
+**ONLY NAKEBUSEN TRANSACTS.** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
 
 See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
 
@@ -118,10 +118,6 @@ See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA
  [Five-identity architecture & copy standard](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-FIVE-IDENTITY-ARCHITECTURE-AND-COPY-STANDARD-2026-11-24.md).
 
 See [FELOH Copy System](docs/FELOH-COPY-SYSTEM-2026-11-24.md) for canonical web, design, campaign and technical copy rules, channel-specific messaging, reusable copy blocks and the recommended public-page architecture.
-
-## Copy system and latest brand platform
-
-The [FELOH Copy System](docs/FELOH-COPY-SYSTEM-2026-11-24.md) governs cross-channel web, design, campaign and technical messaging.
 
 ## Latest brand platform — 2026-11-24
 
