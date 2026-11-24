@@ -21,7 +21,7 @@ F3L0H is the overarching human authorship identity—not a fifth practice domain
 
 **FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.**
 
-**ONLY NAKEBUSEN TRANSACTS.** WARENA is technical capability; IKAI is research; GENJE is creative practice. None is a separate checkout or booking interface.
+**NAKEBUSEN remains the sole customer-facing transaction interface.** WARENA is technical capability; IKAI is research; GENJE is creative practice. None is a separate checkout or booking interface.
 
 ## Start here
 
@@ -94,7 +94,7 @@ The shared philosophy is expressed through three pillars and distinct practice d
 
 > FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
 
-**ONLY NAKEBUSEN TRANSACTS.** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
+**NAKEBUSEN remains the sole customer-facing transaction interface.** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
 
 See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
 
