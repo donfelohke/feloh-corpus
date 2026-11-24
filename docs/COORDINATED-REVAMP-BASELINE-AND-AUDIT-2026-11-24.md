@@ -55,6 +55,25 @@ These are desk-research records. They do not claim participant testing, measured
 - NAKEBUSEN PR [#34](https://github.com/donfelohke/NAKEBUSEN/pull/34) merged: current Eldoret operations research index.
 - Website PR [#190](https://github.com/donfelohke/donfelohke.github.io/pull/190) and profile README research index update remain part of the preceding 24 November integration.
 
+## 4A. Follow-up execution — 24 November 2026
+
+The second implementation pass completed four additional documentation PRs:
+
+- [GENJE PR #41](https://github.com/donfelohke/Genje/pull/41) merged: consolidated the README, removed repeated identity addenda, indexed current movement/interoperability and cooperative-media research, and made the cultural art-direction rule more context-specific. Main validation passed: [run 45338071437](https://github.com/donfelohke/Genje/actions/runs/45338071437).
+- [Gallery PR #27](https://github.com/donfelohke/Gallery/pull/27) merged: consolidated governance guidance and made the initialized/pending approval state and text-first publication boundary clearer. Main validation passed: [run 45338085896](https://github.com/donfelohke/Gallery/actions/runs/45338085896). No assets were added or approved.
+- [home-service-dwl-guile PR #8](https://github.com/donfelohke/home-service-dwl-guile/pull/8) merged: documented the upstream project, the Org-mode installation guide and the upstream-channel/fork boundary. Documentation-only; this repository has no Actions workflow, and no Guix build or runtime validation is claimed.
+- [FELOH Corpus PR #83](https://github.com/donfelohke/feloh-corpus/pull/83) merged: corrected the remaining malformed emphasis around the canonical transaction boundary and removed a repeated copy-system paragraph. Pull-request validation passed; post-merge validation is recorded separately in Actions.
+
+The four follow-up PRs are merged. No open PRs were returned by the account-wide open-PR query at the time of this update.
+
+### Website publication observation
+
+A fresh external read of https://donfelohke.github.io/ on 24 November 2026 returned the current page content, including the approved KES 700 / KES 1,500 / KES 3,500 service prices, English/Kiswahili content, WARENA's engagement-scope disclosure, the NAKEBUSEN-only transaction boundary, and the manual M-PESA safeguards. This is a current publication observation, not a substitute for manual browser, device, keyboard or screen-reader testing. Website issue [#187](https://github.com/donfelohke/donfelohke.github.io/issues/187) remains open for that work.
+
+### IKAI Pages deployment diagnosis
+
+The latest main-branch workflow [run 45336632509](https://github.com/donfelohke/Ikai/actions/runs/45336632509) completed validation and Jekyll build successfully but failed in the deploy job with HTTP 404. The deploy log explicitly says to ensure GitHub Pages is enabled. This is an account/repository Settings prerequisite, not a source-build failure. Pages must be enabled in repository Settings before a deploy rerun can verify publication.
+
 ## 5. Account presentation
 
 The profile README's selected-work order already follows the intended sequence:
@@ -106,9 +125,9 @@ The GitHub integration can read the connected profile and repository README, but
 | GitHub pinned repositories | Pin website, NAKEBUSEN, WARENA, FELOH Corpus, IKAI, GENJE in that order | Manual |
 | GitHub bio / profile fields | Review and set concise identity, location and website link | Manual |
 | Repository descriptions and topics | Review all ten descriptions/topics in repository Settings | Manual |
-| Visual design exploration | Capture current page and compare visual directions in Product Design Work workflow | Pending |
-| Browser/device review | Verify Android and desktop, EN/SW, theme, keyboard and reflow | Pending |
-| GitHub Pages deployment | Verify latest merged website commit is live | Pending |
+| Visual design exploration | Desk research is recorded in the website repository; a rendered visual exploration remains pending | Research complete / exploration pending |
+| Browser/device review | External page read returns current content; manual Android/desktop, EN/SW, theme, keyboard, screen-reader and reflow checks remain | Pending manual QA |
+| GitHub Pages deployment | Website page content externally observed current; IKAI Pages deploy remains blocked because Pages is not enabled | Partially verified / IKAI blocked |
 
 ## 9. Explicit limits
 
