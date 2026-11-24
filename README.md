@@ -10,6 +10,7 @@ The FELOH Corpus is the shared constitutional source of record for identity, dom
 
 ## Coordinated revamp programme
 
+- [GitHub account revamp manual settings](docs/GITHUB-ACCOUNT-REVAMP-MANUAL-SETTINGS-2026-11-24.md) — profile copy, six pinned repositories, descriptions, topics and manual application steps.
 See [the 24 November baseline audit and work register](docs/COORDINATED-REVAMP-BASELINE-AND-AUDIT-2026-11-24.md) and [GitHub issue #78](https://github.com/donfelohke/feloh-corpus/issues/78) for the three coordinated workstreams: all repositories, the public page and the account.
 
 ## The architecture
