@@ -8,6 +8,10 @@ The FELOH Corpus is the shared constitutional source of record for identity, dom
 
 **Consolidation honesty:** The 2026-11-20 Master Corpus is the accepted constitutional spine. It is not represented as a verbatim, fully reconciled transcription of every earlier edition.
 
+## Coordinated revamp programme
+
+See [the 24 November baseline audit and work register](docs/COORDINATED-REVAMP-BASELINE-AND-AUDIT-2026-11-24.md) and [GitHub issue #78](https://github.com/donfelohke/feloh-corpus/issues/78) for the three coordinated workstreams: all repositories, the public page and the account.
+
 ## The architecture
 
 F3L0H is the overarching human authorship identity—not a fifth practice domain.
