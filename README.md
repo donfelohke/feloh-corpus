@@ -64,7 +64,7 @@ A file on `main` proves its presence on that branch only. A research note is not
 
 ## Commercial facts
 
-NAKEBUSEN's current public starting prices are maintained in its [service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md) and the website's Public Facts Register:
+NAKEBUSEN's approved public prices are maintained in its [service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md) and the website's Public Facts Register:
 
 - Retouch & Styling — KES 700
 - Sisterlocs Retie — KES 1,500
