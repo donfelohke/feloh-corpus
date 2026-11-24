@@ -73,6 +73,14 @@ Research programmes are not domains
 
 Before Africa, BLACKS: THE DOCS & DATA, Sages & Knowledge Traditions, Peoples, Lands & Civilisations and programme topic taxonomies belong in research indexes. They do not create new practice domains.
 
+## 6A. #NotYetUhuru research programme
+
+- Canonical programme index: [docs/not-yet-uhuru/README.md](docs/not-yet-uhuru/README.md).
+- Research dossier: [RESEARCH-DOSSIER-2026-11-24.md](docs/not-yet-uhuru/RESEARCH-DOSSIER-2026-11-24.md).
+- Primary-source intake: [SOURCE-REGISTER.md](docs/not-yet-uhuru/SOURCE-REGISTER.md).
+- Editorial and visual system: [EDITORIAL-AND-VISUAL-SYSTEM-2026-11-24.md](docs/not-yet-uhuru/EDITORIAL-AND-VISUAL-SYSTEM-2026-11-24.md).
+- Scope: Kenya, continental Africa and global diaspora. Status: RESEARCH; not a practice domain, party, candidate or movement publication.
+
 ## 7. Evidence and maturity
 
 Claim labels: VERIFIED, CORROBORATED, DISPUTED, UNVERIFIED, INTERPRETATION, OPINION, TESTIMONY, PROPOSAL.  
