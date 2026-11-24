@@ -27,8 +27,6 @@ jobs:
           grep -q "ODPC" docs/research-briefs/kenya-data-protection-entry-point.md
           grep -q "LIMS" docs/research-briefs/laban-bartenieff-resource-map.md
           grep -qi "ONE CORPUS" README.md
-          if grep -qi "ONLY NAKEBUSEN TRANSACTS" README.md GOVERNANCE.md; then
-            echo "Use the approved customer-facing pathway wording."
-            exit 1
-          fi
+          grep -qi "ONLY NAKEBUSEN TRANSACTS" README.md || { echo "README missing the canonical NAKEBUSEN transaction boundary"; exit 1; }
+          echo "Canonical transaction boundary is present."
           echo "Knowledge-base documentation baseline is present."
