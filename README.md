@@ -110,6 +110,8 @@ See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA
 
 ## Copy and editorial system
 
+ [Five-identity architecture & copy standard](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-FIVE-IDENTITY-ARCHITECTURE-AND-COPY-STANDARD-2026-11-24.md).
+
 See [FELOH Copy System](docs/FELOH-COPY-SYSTEM-2026-11-24.md) for canonical web, design, campaign and technical copy rules, channel-specific messaging, reusable copy blocks and the recommended public-page architecture.
 
 ## Copy system and latest brand platform
