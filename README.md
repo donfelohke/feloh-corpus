@@ -19,7 +19,11 @@ F3L0H is the overarching human authorship identity—not a fifth practice domain
 | **IKAI · MIRROR** | Reflective computing, mirror systems and embodied spatial research | [Ikai](https://github.com/donfelohke/Ikai) |
 | **GENJE · EXPRESSION** | Genge-rooted sound, livecoding, movement and creative practice | [Genje](https://github.com/donfelohke/Genje) |
 
-**FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.**
+****FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression**
 
 **NAKEBUSEN remains the sole customer-facing transaction interface.** WARENA is technical capability; IKAI is research; GENJE is creative practice. None is a separate checkout or booking interface.
 
@@ -93,7 +97,11 @@ The shared philosophy is expressed through three pillars and distinct practice d
 
 **GENJE ZA WARENA | NAKEBUSEN** is the public-facing signature; it is not a corporate merger or new practice domain.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 **NAKEBUSEN remains the sole customer-facing transaction interface.** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
 
