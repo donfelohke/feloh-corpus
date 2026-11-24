@@ -83,6 +83,8 @@ Scope, availability and final terms are agreed directly. **An enquiry does not c
 
 ## Research programmes
 
+- [#NotYetUhuru — The Unfinished Independence](docs/not-yet-uhuru/README.md) — Kenya, continental Africa and diaspora research; dossier, source register and independent editorial/visual system. RESEARCH, not a political-party or movement publication.
+
 BLACK HINTERLAND — BEFORE AFRICA, BLACKS: THE DOCS & DATA, Sages & Knowledge Traditions, Peoples, Lands & Civilisations and related classifications are research programmes—not new practice domains. Their records are indexed in the [documentation index](docs/README.md) and [Master Topic Register](docs/MASTER-TOPIC-REGISTER.md).
 
 ---

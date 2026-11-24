@@ -27,6 +27,8 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 ## Research programmes and knowledge archives
 
+- [#NotYetUhuru — The Unfinished Independence](not-yet-uhuru/README.md) — independent research across Kenya, continental Africa and the diaspora; includes the 24 November 2026 dossier, source register and editorial/visual system. RESEARCH; political actors are subjects of study, not endorsements.
+
 - [Research Programme: Standards, Evidence, Benchmarks & Local Solutions (2026-11-24)](RESEARCH-PROGRAMME-STANDARDS-EVIDENCE-BENCHMARKS-LOCAL-SOLUTIONS-2026-11-24.md) — cross-repository research method, global standards, Kenya/East Africa data, local adaptation questions, benchmark protocols and repository-specific evidence gates.
 
 - [Historical 70-Document Corpus Extraction & Reconciliation (2026-11-24)](HISTORICAL-70-DOCUMENT-CORPUS-EXTRACTION-2026-11-24.md) — first-pass inventory, bounded substantive extraction, historical-to-current source routing and remaining review work. It does not claim full review of all 70 files.
