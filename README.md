@@ -28,9 +28,9 @@ F3L0H is the overarching human authorship identity—not a fifth practice domain
 **NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
 **IKAI** — Reflective computing · Perception · Memory · Human experience  
 **WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
-**GENJE** — Music · Movement · Performance · Creative expression**
+**GENJE** — Music · Movement · Performance · Creative expression
 
-**NAKEBUSEN remains the sole customer-facing transaction interface.** WARENA is technical capability; IKAI is research; GENJE is creative practice. None is a separate checkout or booking interface.
+****ONLY NAKEBUSEN TRANSACTS.**** WARENA is technical capability; IKAI is research; GENJE is creative practice. None is a separate checkout or booking interface.
 
 ## Start here
 
@@ -108,7 +108,7 @@ The shared philosophy is expressed through three pillars and distinct practice d
 **WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
 **GENJE** — Music · Movement · Performance · Creative expression
 
-**NAKEBUSEN remains the sole customer-facing transaction interface.** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
+****ONLY NAKEBUSEN TRANSACTS.**** Specialist repositories retain ownership of their technical, commercial, creative and research records. This Corpus owns shared identity relationships and terminology.
 
 See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
 
