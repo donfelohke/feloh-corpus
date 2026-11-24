@@ -213,6 +213,7 @@ The 70 files below are **inventoried**. Grouping is based on title and file type
 | Source | Words | Initial routing |
 |---|---:|---|
 | `Contemporary_African_Guidebook.docx` | 1,310 | Contextual source; verify scope and provenance |
+| `NAKEBUSEN-WARENA-Deep-Research-v8.0-FINAL.md` | 6,744 | Historical cross-domain deep research; compare its claims and architecture to current domain authorities |
 | `NAKEBUSEN_023_Business_Plan.pdf` | 1,216 | Historical business planning |
 | `NAKEBUSEN_Branded_Wallpapers_Concept.md` | 5,129 | Historical design concept |
 | `NAKEBUSEN_Landing_Page_Concept.md` | 5,305 | Historical publication concept |
