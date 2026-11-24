@@ -27,6 +27,8 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 ## Research programmes and knowledge archives
 
+- [Historical 70-Document Corpus Extraction & Reconciliation (2026-11-24)](HISTORICAL-70-DOCUMENT-CORPUS-EXTRACTION-2026-11-24.md) — first-pass inventory, bounded substantive extraction, historical-to-current source routing and remaining review work. It does not claim full review of all 70 files.
+
 - [Sun Burn — Black Musings archive research](sun-burn-black-musings-research.md) — source inventory, provenance, authorship and publication gates; no original work imported.
 - [FELOH Creative Archive](../creative/README.md) — proposed empty archive scaffold and status vocabulary.
 - [Creative work record template](templates/creative-work.md) — source-first intake form separating original work, edition, commentary and AI synthesis.
