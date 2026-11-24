@@ -25,7 +25,13 @@ This document governs how FELOH and its practice domains describe themselves acr
 
 **ONLY NAKEBUSEN TRANSACTS.**
 
-The relationship sentence is: **FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.**
+The five-identity signature is:
+
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 Use the centred dot in the canonical lockup: **NAKEBUSEN · WARENA POWERED**. The × symbol may describe collaboration in ordinary prose, but must not replace the approved lockup.
 
