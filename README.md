@@ -103,6 +103,10 @@ See the canonical [identity system specification](docs/GRACE-GRIT-GLORY-GENJE-ZA
 
 See [FELOH Copy System](docs/FELOH-COPY-SYSTEM-2026-11-24.md) for canonical web, design, campaign and technical copy rules, channel-specific messaging, reusable copy blocks and the recommended public-page architecture.
 
+## Copy system and latest brand platform
+
+The [FELOH Copy System](docs/FELOH-COPY-SYSTEM-2026-11-24.md) governs cross-channel web, design, campaign and technical messaging.
+
 ## Latest brand platform — 2026-11-24
 
 The current public lockup is **NAKEBUSEN · WARENA POWERED**. The shared ethos is **GRACE · GRIT · GLORY | GENJE ZA WARENA**. The master positioning is **BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.** The founder signature is **@donfelohke · #HisGenjeness**.
