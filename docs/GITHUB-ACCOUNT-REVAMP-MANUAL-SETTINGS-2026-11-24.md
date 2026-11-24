@@ -1,0 +1,94 @@
+# GitHub Account Revamp — Manual Settings and Copy
+
+**Date:** 24 November 2026  
+**Programme:** [Coordinated revamp issue #78](https://github.com/donfelohke/feloh-corpus/issues/78)  
+**Status:** Copy and order proposal for manual GitHub account settings  
+**Authority:** Founder-approved identity and repository architecture
+
+The connected GitHub integration can update repository files and create pull requests, but it does not expose the account profile editor, pinned repository reorder, repository description editor or topic editor. Apply the following settings manually in GitHub.
+
+## 1. Profile presentation
+
+**Display name:** Felix Lwova · Don Feloh
+
+**Bio (copy-ready):**
+```text
+Founder · CTO · Loctician · Creative Technologist | Kenya
+```
+
+**Website:**
+```text
+https://donfelohke.github.io/
+```
+
+**Location:** Eldoret, Kenya
+
+**Social link:** X — https://x.com/donfelohke
+
+Use the profile README as the detailed introduction. Do not duplicate the entire brand constitution in the short bio.
+
+## 2. Pinned repositories — exact order
+
+Pin these six repositories in this order:
+
+1. `donfelohke.github.io` — public website and primary entry point
+2. `NAKEBUSEN` — primary enterprise and only transaction interface
+3. `WARENA` — systems engineering and infrastructure
+4. `feloh-corpus` — shared canon, evidence and provenance
+5. `Ikai` — reflective-computing research
+6. `Genje` — creative and embodied practice
+
+Keep `Gallery`, `dwl-guile` and `home-service-dwl-guile` discoverable in the repository list, but do not let supporting infrastructure displace the six primary public destinations.
+
+## 3. Repository descriptions
+
+Use concise descriptions that explain the actual project without claiming unverified release status.
+
+| Repository | Suggested description |
+|---|---|
+| `donfelohke.github.io` | Bilingual public home for NAKEBUSEN, WARENA and Don Feloh — loc care, systems capability and creative research |
+| `NAKEBUSEN` | Natural loc care and practical technical services in Eldoret, Kenya — the primary enterprise and sole transaction interface |
+| `WARENA` | Libre-first, local-first systems engineering, GNU/Linux, infrastructure and reproducible computing |
+| `feloh-corpus` | Shared canon, research governance, evidence, provenance and cross-project indexes |
+| `Ikai` | Reflective-computing, mirror-systems and human-directed interaction research — work in progress |
+| `Genje` | Genge-rooted sound, livecoding, movement, choreography and embodied creative practice |
+| `Gallery` | Asset provenance, rights, consent and approval records for the FELOH ecosystem |
+| `donfelohke` | GitHub profile and project index for Felix Lwova · Don Feloh |
+| `dwl-guile` | Guile-configurable dwl Wayland compositor with REPL — supporting WARENA engineering project |
+| `home-service-dwl-guile` | GNU Guix Home service for dwl-guile configuration in Guile Scheme |
+
+## 4. Suggested repository topics
+
+Topics are discovery metadata, not proof of implementation or release. Add only the topics that accurately match the repository's current contents.
+
+| Repository | Suggested topics |
+|---|---|
+| `donfelohke.github.io` | `github-pages`, `static-site`, `html`, `css`, `accessibility`, `bilingual`, `portfolio` |
+| `NAKEBUSEN` | `loc-care`, `eldoret`, `kenya`, `beauty-services`, `natural-hair-care`, `small-business` |
+| `WARENA` | `gnu-linux`, `guile`, `scheme`, `reproducible-builds`, `infrastructure`, `local-first`, `libre-software` |
+| `feloh-corpus` | `research-governance`, `provenance`, `documentation`, `knowledge-management`, `evidence` |
+| `Ikai` | `reflective-computing`, `human-computer-interaction`, `optics`, `mirror-systems`, `privacy`, `research` |
+| `Genje` | `livecoding`, `genge`, `algorithmic-music`, `choreography`, `movement-notation`, `creative-coding` |
+| `Gallery` | `asset-provenance`, `rights-management`, `consent`, `approval-workflow`, `creative-assets` |
+| `donfelohke` | `profile-readme`, `portfolio`, `personal-website` |
+| `dwl-guile` | `wayland`, `dwl`, `guile`, `scheme`, `linux`, `compositor` |
+| `home-service-dwl-guile` | `guix`, `guix-home`, `guile`, `scheme`, `wayland`, `dwl` |
+
+## 5. Manual application steps
+
+1. Open https://github.com/settings/profile.
+2. Set the display name, bio, location, website and social link using the values above.
+3. Open https://github.com/donfelohke.
+4. In the pinned repositories section, select **Customize your pins**.
+5. Pin the six repositories in the exact order above and save.
+6. Open each repository's **About** section, edit its description and topics, then save.
+7. Revisit the profile page in a signed-out/private browser window and confirm the public first impression and pinned order.
+
+## 6. Copy and governance rules
+
+- The profile is the human-author landing page; the website is the primary public home.
+- NAKEBUSEN leads commercially. **ONLY NAKEBUSEN TRANSACTS.**
+- WARENA is capability, IKAI is research, GENJE is creative practice and FELOH Corpus is governance/provenance.
+- Do not call IKAI a released product, GENJE a WARENA subsidiary or Gallery a live public gallery.
+- Do not imply every repository is a finished product.
+- Keep profile copy concise; send technical detail to the specialist README and Corpus.
