@@ -67,6 +67,10 @@ Felix Lwova, known as Feloh Warena and Don Feloh, is a Kenyan founder and practi
 - **IKAI:** Reflective-computing research exploring optics, sensing, displays, local computation and human-directed interaction. A mirror, not a judge. Research / work in progress.
 - **GENJE:** Creative practice connecting Genge-rooted sound, livecoding, audiovisual experimentation, movement and choreography. Culture is lived; the human remains the author.
 
+### Capability expression rule
+
+Do not publish a detached, inflated skills inventory as the primary explanation of the practice. Make capabilities legible through the work people can engage with: NAKEBUSEN services and care experiences; WARENA technical services, systems and documented engineering artefacts; IKAI research questions, prototypes and validated experiments only when evidence supports those labels; GENJE creative works, performances and embodied experiences. The skill or discipline may be named where it helps explain the work, but the offer, artefact, experience, scope and maturity are the evidence-bearing unit. Distinguish available services from research directions, concepts and aspirations. Never imply that a listed research interest is a customer-ready product or that a documented capability is automatically available for engagement.
+
 ### Website CTA hierarchy
 
 - NAKEBUSEN customer action: **Enquire with NAKEBUSEN**.
