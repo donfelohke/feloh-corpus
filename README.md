@@ -30,6 +30,7 @@ F3L0H is the overarching human authorship identity—not a fifth practice domain
 - [Technology Constitution](docs/technology-policy-2026-11-17.md) — WARENA/IKAI technology boundaries.
 - [Evidence and editorial standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md) · [Source register](docs/source-register.md) · [Decision provenance](docs/decision-provenance.md).
 - [Repository-wide baseline audit](docs/REPOSITORY-WIDE-BASELINE-AUDIT-2026-11-21.md) — inventory and known audit limits.
+- [Historical 70-Document Corpus Extraction & Reconciliation](docs/HISTORICAL-70-DOCUMENT-CORPUS-EXTRACTION-2026-11-24.md) — historical source inventory, bounded extraction, current source routing and next review gates.
 - [Repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md) — maintenance gates, not a completion claim.
 - [BLACK HINTERLAND — BEFORE AFRICA](docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md) — current master research dossier; RESEARCH, not a completed continental synthesis.
 - [Real-time I/O and mirror systems](docs/RESEARCH-UPDATE-2026-11-22-REALTIME-IO-AND-MIRROR-SYSTEMS.md) — cross-domain ownership, reuse, evidence and privacy boundaries.
