@@ -117,3 +117,52 @@ This register establishes the programme baseline and current cross-project rules
 
 **ONE CORPUS → MANY VIEWS → ONE PRACTICE.**  
 **GRACE · GRIT · GLORY — HERITAGE · BLACK EXCELLENCE · SOVEREIGN FUTURES.**
+
+
+## 9. Delivery update — 26 November 2026
+
+### Merged first implementation tranche
+
+The following pull requests were merged on 26 November:
+
+| Repository | Pull request | Delivered |
+|---|---|---|
+| `feloh-corpus` | [#86](https://github.com/donfelohke/feloh-corpus/pull/86) | Corpus README consolidation, current identity clarification, Master Corpus amendment and this execution register |
+| `donfelohke` | [#27](https://github.com/donfelohke/donfelohke/pull/27) | Human-author profile README and six-project navigation |
+| `donfelohke.github.io` | [#212](https://github.com/donfelohke/donfelohke.github.io/pull/212) | Website documentation index and current identity alignment in active page/copy |
+| `NAKEBUSEN` | [#36](https://github.com/donfelohke/NAKEBUSEN/pull/36) | Business documentation index and current identity note |
+| `WARENA` | [#58](https://github.com/donfelohke/WARENA/pull/58) | Engineering documentation index and current identity note |
+| `Ikai` | [#40](https://github.com/donfelohke/Ikai/pull/40) | Research index, current pillar mapping and founder-provided naming context |
+| `Genje` | [#43](https://github.com/donfelohke/Genje/pull/43) | Creative research/provenance index and current GLORY mapping |
+| `Gallery` | [#28](https://github.com/donfelohke/Gallery/pull/28) | Asset-governance documentation index |
+| `dwl-guile` | [#9](https://github.com/donfelohke/dwl-guile/pull/9) | Documentation index and corrected relative ecosystem link |
+| `home-service-dwl-guile` | [#9](https://github.com/donfelohke/home-service-dwl-guile/pull/9) | Configuration/provenance documentation index |
+
+The website's first post-merge test run exposed one stale test assertion for the superseded identity mapping. It was corrected in [website PR #213](https://github.com/donfelohke/donfelohke.github.io/pull/213), then merged.
+
+### Verified website workflow result
+
+For commit `6333e479272e5cd49b81e38d4ad28b88fbe0dbc5`:
+
+- Static site validation: **PASS — 26 tests**.
+- GitHub Pages validation: **PASS**.
+- Pages artifact build: **PASS**.
+- GitHub Pages deploy job: **PASS**.
+
+The web retrieval surface returned a cached pre-deployment page snapshot during this pass. Therefore workflow deployment success is recorded, while fresh visual/device confirmation remains open.
+
+### GitHub account metadata
+
+[Corpus PR #87](https://github.com/donfelohke/feloh-corpus/pull/87) records the 26 November metadata audit and manual copy-ready settings. The authenticated audit found seven repositories with no description, three with descriptions, all ten with empty topics and all ten with no homepage URL set. The connected integration does not expose profile, pin, description or topic writes; these settings remain manual.
+
+### Still open
+
+This is the first documentation and identity pass, not completion of the full revamp. Remaining work includes:
+
+- Deeper source, dependency, build, test and operational audits for each repository.
+- Link validation across documentation trees.
+- Website visual, keyboard, screen-reader, mobile and live-page checks.
+- Design and content refinement beyond identity alignment.
+- Manual profile bio, pin order, repository descriptions, topics and homepage metadata.
+- Evidence-backed implementation and validation of the specialist technical research.
+
