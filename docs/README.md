@@ -4,6 +4,8 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 ## Constitutional authority
 
+- [Current identity clarification (2026-11-26)](IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md) — current GRACE / GRIT / GLORY mapping and the separate FELOH authorship role.
+- [Ecosystem revamp execution register (2026-11-26)](ECOSYSTEM-REVAMP-EXECUTION-REGISTER-2026-11-26.md) — all ten repositories, public website and GitHub account.
 - [F3L0H — The Sovereign Master Corpus (2026-11-20)](FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) — current identity, four-domain architecture, authority model, runtime, evidence and repository ownership.
 - [Technology Constitution (2026-11-17)](technology-policy-2026-11-17.md) — WARENA/IKAI native-first, libre-first, local-first technology policy.
 - [Cross-domain domain map](domain-map.md) — current source-of-record routing.
