@@ -27,6 +27,14 @@ jobs:
           grep -q "ODPC" docs/research-briefs/kenya-data-protection-entry-point.md
           grep -q "LIMS" docs/research-briefs/laban-bartenieff-resource-map.md
           grep -qi "ONE CORPUS" README.md
+          for amount in "**KES 700**" "**KES 1,500**" "**KES 3,500**"; do
+            grep -Fq "$amount" README.md || { echo "Corpus README missing approved fixed price: $amount"; exit 1; }
+          done
+          if grep -Eq "KES (700|1,500|3,500)\\+" README.md; then
+            echo "Corpus README must not publish plus-sign starting prices."
+            exit 1
+          fi
+          grep -Fq "GLORY → GENJE / GENJENESS" README.md || { echo "README missing current GLORY mapping"; exit 1; }
           grep -qi "ONLY NAKEBUSEN TRANSACTS" README.md || { echo "README missing the canonical NAKEBUSEN transaction boundary"; exit 1; }
           echo "Canonical transaction boundary is present."
           echo "Knowledge-base documentation baseline is present."
