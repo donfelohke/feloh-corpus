@@ -59,11 +59,11 @@ NAKEBUSEN is the primary enterprise and the only current customer-facing transac
 
 The canonical NAKEBUSEN service catalogue and website Public Facts Register govern public service facts. Current approved price presentation:
 
-- Retouch & Styling — **KES 700+**
-- Sisterlocs Retie — **KES 1,500+**
+- Retouch & Styling — **KES 700**
+- Sisterlocs Retie — **KES 1,500**
 - Artificial Locs Installation — **KES 3,500**
 
-The first two are starting prices; the third is the approved stated price. Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy operational payment details into this Corpus.
+All three are fixed approved public prices, not starting-price estimates. No plus sign is used. Any additional work or scope change is agreed directly before work begins. Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy operational payment details into this Corpus.
 
 ## Repository responsibilities
 
