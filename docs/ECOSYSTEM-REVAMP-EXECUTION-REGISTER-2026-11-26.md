@@ -166,3 +166,17 @@ This is the first documentation and identity pass, not completion of the full re
 - Manual profile bio, pin order, repository descriptions, topics and homepage metadata.
 - Evidence-backed implementation and validation of the specialist technical research.
 
+
+
+## 10. Deep-scope technical audit — 26 November 2026
+
+The first technical audit pass is documented in [Deep-scope ecosystem audit](DEEP-SCOPE-ECOSYSTEM-AUDIT-2026-11-26.md). It inspects current README and documentation entry points, workflow definitions, selected build files and recent Actions outcomes across all ten repositories. It is not a complete source-code, security, dependency or accessibility audit.
+
+Key outcomes:
+- Confirmed fixed public prices: KES 700, KES 1,500 and KES 3,500; no plus signs or starting-price language.
+- Corrected current-facing identity drift in the Corpus, website and supporting Guile READMEs.
+- Corrected IKAI's failing Pages deployment path with an explicit fail-closed variable gate; validation and Jekyll build pass while Pages remains disabled.
+- Strengthened NAKEBUSEN and Corpus CI to enforce exact prices and canonical identity; current main workflows pass.
+- Identified the next technical gaps: no CI/test harness in the two Guile repositories, docs-only workflows in several specialist repositories, no cross-repository link validator, and outstanding website manual verification.
+
+See the audit for commit/run evidence, repository-by-repository status, limitations and P0–P3 work queue. The broader revamp remains ACTIVE.
