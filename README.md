@@ -18,6 +18,7 @@ The FELOH Corpus governs shared identity, terminology, domain relationships, evi
 - [Evidence and Editorial Standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md) · [Evidence and Provenance Method](EVIDENCE-AND-PROVENANCE-METHOD.md).
 - [Repository-wide baseline audit](docs/REPOSITORY-WIDE-BASELINE-AUDIT-2026-11-21.md) — inventory and audit limitations.
 - [Coordinated revamp execution register](docs/ECOSYSTEM-REVAMP-EXECUTION-REGISTER-2026-11-26.md) — ten-repository, website and account work register.
+- [Deep-scope ecosystem audit](docs/DEEP-SCOPE-ECOSYSTEM-AUDIT-2026-11-26.md) — workflow evidence, technical gaps and prioritized overhaul work.
 - [GitHub account settings guide](docs/GITHUB-ACCOUNT-REVAMP-MANUAL-SETTINGS-2026-11-24.md) — copy-ready profile, pins, descriptions, topics and manual steps.
 - [Research programme: standards, evidence, benchmarks and local solutions](docs/RESEARCH-PROGRAMME-STANDARDS-EVIDENCE-BENCHMARKS-LOCAL-SOLUTIONS-2026-11-24.md) — cross-project research method.
 
