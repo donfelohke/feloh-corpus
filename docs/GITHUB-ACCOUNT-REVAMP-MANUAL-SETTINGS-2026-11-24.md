@@ -1,11 +1,27 @@
 # GitHub Account Revamp — Manual Settings and Copy
 
-**Date:** 24 November 2026  
+**Updated:** 26 November 2026 · original guide 24 November 2026  
 **Programme:** [Coordinated revamp issue #78](https://github.com/donfelohke/feloh-corpus/issues/78)  
 **Status:** Copy and order proposal for manual GitHub account settings  
 **Authority:** Founder-approved identity and repository architecture
 
 The connected GitHub integration can update repository files and create pull requests, but it does not expose the account profile editor, pinned repository reorder, repository description editor or topic editor. Apply the following settings manually in GitHub.
+
+## 0. Current metadata audit — 26 November 2026
+
+Authenticated inventory of all ten existing public repositories found:
+
+- **7/10 repositories have no description.**
+- **3/10 have descriptions:** `donfelohke`, `dwl-guile` and `home-service-dwl-guile`.
+- **10/10 have no repository topics.**
+- **10/10 have no homepage URL set** in repository metadata.
+- All ten are public, unarchived and use `main` as their default branch.
+
+The connected GitHub integration does not expose repository metadata writes or profile/pin settings. The copy-ready descriptions and topics below therefore remain manual account actions; no metadata change is claimed as applied.
+
+**Current pillar mapping:** GRACE → NAKEBUSEN; GRIT → WARENA; GLORY → GENJE / GENJENESS. FELOH remains the human author and decision-maker. IKAI remains MIRROR / reflective-computing research. **ONLY NAKEBUSEN TRANSACTS.**
+
+See the [current identity clarification](IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md) for the shared source of record.
 
 ## 1. Profile presentation
 
