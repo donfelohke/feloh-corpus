@@ -220,3 +220,10 @@ Further corrections were made after the initial PR disposition:
 - Corpus PR #115 remains held. Its broad research addition needs a careful editorial and source review; do not merge it in its current state.
 
 These corrections are on the relevant profile main branch or the named PR branches as stated. A branch correction is not a merge.
+
+
+## 14. Latest documentation and GENJE branch checks — 27 November 2026
+
+- The latest Corpus documentation validation run for this register revision completed successfully: [run 46039104935](https://github.com/donfelohke/feloh-corpus/actions/runs/46039104935).
+- The corrected GENJE alignment branch passed its repository baseline workflow: [run 46039044528](https://github.com/donfelohke/Genje/actions/runs/46039044528). This validates the repository's configured baseline checks only; it does not independently validate every research statement or upstream source.
+- The home-service branch has no returned workflow runs for this revision. Its PR remains unmergeable after the main branch advanced; preserve the corrected branch and reconcile it against current main before considering merge.
