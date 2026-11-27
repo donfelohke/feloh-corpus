@@ -338,3 +338,32 @@ The PR has not been merged or deployed. Manual visual, responsive/mobile, keyboa
 - The WARENA Guix and Home service repositories still need pinned channel provenance, package evaluation/build, service activation and compositor-session validation. The source-level export correction and upstream documentation clarification do not substitute for these tests.
 
 The ecosystem revamp remains in progress. This update records verified changes and outstanding work; it does not declare completion.
+
+
+## 14. Delivery update — 27 November 2026 · current audit state
+
+### Link-audit configuration verified
+
+- Corpus PR #104 corrected the pinned lychee v0.16.1 configuration schema.
+- Corpus PR #105 added `lychee.toml` to both pull-request and main-branch push triggers.
+- Corpus PR #107 tuned the checker to GET requests, concurrency 4, a 10-second timeout and one retry.
+- The tuned PR-branch audit run completed successfully: the ten repository checkouts, IKAI Jekyll build, configuration-path preflight, link-check step and baseline-outcome step all completed successfully.
+- A main-branch audit and the audit triggered by this register PR were still running when this note was written.
+
+The audit remains report-only. A successful action run confirms that the workflow executed; it does not certify that every external URL is valid. Review the lychee job summary and classify remaining 404s, timeouts and bot/rate-limit responses before any move to blocking status.
+
+### Latest source corrections
+
+- **GENJE PR #46:** FineDance references now point to the authors' project page; a malformed duplicate FACT link was removed.
+- **GENJE PR #47:** the dead Library of Congress PDF path was replaced by the current Finding Aids portal, with the exact collection record explicitly marked unverified.
+- **Corpus PR #106:** GIDA CARE Principles reference updated to the current official page; source register records the unresolved Library of Congress identifier.
+- **home-service-dwl-guile PR #13:** upstream-only channel and service examples in the preserved Org README are now clearly labelled as provenance, not fork installation instructions.
+- **Corpus PR #108:** this execution-register tranche was merged, keeping programme status and remaining gates current.
+
+### Website PR
+
+Website PR #217 remains open at head `9534f75daf6b033208d8a059b8cd4711d295f8ea`. Its static validation and GitHub Pages pull-request validation are green. The page's current fixed-price facts, NAKEBUSEN footer support route and payment safeguards remain present. The static-delivery regression test rejects script elements, inline handlers, JavaScript URLs, remote iframes and external CSS imports.
+
+No production deployment is claimed. Manual rendered visual, mobile, keyboard, screen-reader, contrast, reduced-motion/transparency and Kiswahili editorial checks remain release gates.
+
+This is a current status record, not a completion declaration.
