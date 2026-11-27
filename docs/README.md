@@ -40,7 +40,15 @@ The four practice domains are distinct. **FELOH is the human author.** GENJE is 
 - [Source register](source-register.md) · [Decision provenance](decision-provenance.md) · [Succession and stewardship](succession.md).
 - [Knowledge-entry template](../templates/knowledge-entry.md) · [Creative-work record template](templates/creative-work.md).
 
-## 5. Research archives and full inventory
+## 5. African and Black intellectual research
+
+
+- [THE AFRI-CAN INTELLECTUAL ATLAS · 27 November 2026](docs/THE-AFRI-CAN-INTELLECTUAL-ATLAS-2026-11-27.md) — Africanisms, African philosophies, Black and Africana thought, Pan-African and diasporic movements, Adinkra, East African and Turkana research, and an explicitly authored FELOH synthesis.
+
+## 6. Research archives and full inventory
+
+- [NAKEBUSEN loc-care health and salon technology addendum · 27 November 2026](../research/nakebusen-beauty/LOC-CARE-HEALTH-AND-TECHNOLOGY-ADDENDUM-2026-11-27.md) — health-risk boundaries, craft, salon workflow and Kenya market evidence limits.
+- [GENJE TidalCycles and SuperCollider livecoding research · 27 November 2026](https://github.com/donfelohke/Genje/blob/research/canonical-synthesis-2026-11-27/docs/TIDALCYCLES-SUPERCOLLIDER-LIVECODING-RESEARCH-2026-11-27.md) — component architecture, IDE roles, timing and validation plan.
 
 - [Comprehensive reference index](REFERENCE-INDEX.md) — all research programmes, topic archives, bibliographies and historical records.
 - [Documentation and repository map](../DOCUMENTATION-TREE.md) — ownership, authority and repository-level structure.

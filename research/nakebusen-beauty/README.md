@@ -10,6 +10,10 @@
 
 > **Editorial rule:** Distinguish documented findings from interpretation, business strategy, owner-provided facts, and unresolved questions. A source's existence does not prove every claim made about a subject. Do not generalise findings from a small sample or from the United States to all Kenyan clients.
 
+## Current addendum — 27 November 2026
+
+- [Loc-care health, craft and salon technology addendum](LOC-CARE-HEALTH-AND-TECHNOLOGY-ADDENDUM-2026-11-27.md) — traction-risk awareness, Black hair politics, human-confirmed salon workflows and KNBS market-context limitations.
+
 ## 1. Executive summary
 
 NAKEBUSEN can position beauty as skilled, personal care grounded in respect for the client’s chosen style. The research opportunity is to connect five practical dimensions without overloading the customer-facing brand:

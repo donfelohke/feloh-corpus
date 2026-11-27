@@ -41,6 +41,8 @@ This is the comprehensive inventory of research, governance and specialist recor
 
 - [Black Heritage, Historical Identity & Knowledge Sovereignty](../research/black-heritage-knowledge-sovereignty/README.md) — initial source-grounded programme and claim register.
 - [NAKEBUSEN Beauty Research Dossier](../research/nakebusen-beauty/README.md) — local practice and service-design research; not a live service or price source.
+- [NAKEBUSEN loc-care health and salon technology addendum (2026-11-27)](../research/nakebusen-beauty/LOC-CARE-HEALTH-AND-TECHNOLOGY-ADDENDUM-2026-11-27.md) — traction-risk awareness, craft, salon automation boundaries and KNBS market context.
+- [GENJE TidalCycles and SuperCollider livecoding research (2026-11-27)](https://github.com/donfelohke/Genje/blob/research/canonical-synthesis-2026-11-27/docs/TIDALCYCLES-SUPERCOLLIDER-LIVECODING-RESEARCH-2026-11-27.md) — livecoding topology, IDE roles, timing and reproducibility.
 
 - [COMPUTE + ARTS research programme](../research/compute-arts/README.md) — proposed computational arts programme spanning E-Genge livecoding, movement, cultural rights, reproducibility and local-first systems.
 - [COMPUTE + ARTS annotated bibliography](../research/bibliography/subject-bibliographies/compute-arts.md) — source-by-source review-depth and limitations.
