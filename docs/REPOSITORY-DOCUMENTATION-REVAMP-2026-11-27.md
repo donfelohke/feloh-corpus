@@ -68,6 +68,8 @@ The page remains a one-page static, bilingual, text-first publication. No framew
 - docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md
 - research/nakebusen-market-customer-research-2026-10.md
 - docs/PR-RECONCILIATION-2026-10-25.md
+- docs/BRAND-MANUAL.md
+- NAKEBUSEN-MASTER-IMPLEMENTATION-BRIEF.md
 
 ### NAKEBUSEN
 - README.md
@@ -176,4 +178,4 @@ The website Public Facts Register, acceptance checklist, current canonical align
 
 The website's English and Kiswahili LOCS footnote now explicitly states that Retouch & Styling and Sisterlocs Retie are starting prices, while Artificial Locs Installation is fixed at KES 3,500. The wording is also recorded in docs/WEBCOPY.md and the website changelog. Regression tests assert both language disclosures.
 
-The site static test suite passed at commit fc0cb0302cff4a3e2457e34df9f3c3774ca5d943. A later docs-only update triggered another run; the latest Pages deployment remained queued at the time of this note.
+The site static test suite passed at commit fc0cb0302cff4a3e2457e34df9f3c3774ca5d943 after the page/test disclosure update. Later documentation-only commits triggered a fresh run at 186c80db4cc5affea4d6fb81a7389e1d54355044; its validation was queued and its Pages deployment pending at the time of this note.
