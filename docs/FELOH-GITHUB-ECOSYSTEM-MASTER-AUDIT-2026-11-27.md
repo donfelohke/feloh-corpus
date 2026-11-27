@@ -280,3 +280,19 @@ Following the merged alignment tranche, the profile README received a further di
 - Re-fetched the updated default-branch README and verified the new content.
 
 The profile README content is updated. The GitHub account presentation is **not complete**: profile fields, actual pinned order, repository descriptions, topics and homepage metadata still require manual application and signed-out verification. The account settings guide has been updated with the copy-ready values and this completion record.
+
+
+## 9. Cross-repository documentation and public-facts follow-up — 27 November 2026
+
+The account-wide documentation revamp added two WARENA research briefs and a new Corpus synthesis. The website and NAKEBUSEN public-price records were reconciled to the current approved presentation:
+- Retouch & Styling — starts at KES 700+.
+- Sisterlocs Retie — starts at KES 1,500+.
+- Artificial Locs Installation — fixed at KES 3,500.
+
+The current canonical source is [FELOH Canonical Research Synthesis](FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md). Specialist price authorities remain [NAKEBUSEN service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md) and the website [Public Facts Register](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/PUBLIC-FACTS-REGISTER.md). Older dated snapshots remain historical records; do not treat their earlier fixed-price wording as current publication guidance.
+
+New WARENA research records:
+- [Freedom in machine-learning applications](https://github.com/donfelohke/WARENA/blob/main/docs/research/WARENA-FREEDOM-IN-MACHINE-LEARNING-RESEARCH-2026-11-27.md).
+- [Utility Shell, Kernel Boundaries and Composable Systems](https://github.com/donfelohke/WARENA/blob/main/docs/research/WARENA-UTILITY-SHELL-KERNEL-AND-COMPOSABLE-SYSTEMS-RESEARCH-2026-11-27.md).
+
+These additions are research and documentation, not a new product or implementation claim.
