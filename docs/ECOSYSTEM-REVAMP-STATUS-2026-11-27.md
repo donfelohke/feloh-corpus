@@ -41,8 +41,9 @@ The following focused documentation-only pull requests consolidate root README m
 | [Gallery](https://github.com/donfelohke/Gallery) | [#30](https://github.com/donfelohke/Gallery/pull/30) | Asset provenance, rights, consent and human approval |
 | [dwl-guile](https://github.com/donfelohke/dwl-guile) | [#13](https://github.com/donfelohke/dwl-guile/pull/13) | Build scope, upstream provenance and runtime-validation limits |
 | [home-service-dwl-guile](https://github.com/donfelohke/home-service-dwl-guile) | [#14](https://github.com/donfelohke/home-service-dwl-guile/pull/14) | Guix Home integration, channel provenance and activation evidence |
+| [dwl-guile follow-up](https://github.com/donfelohke/dwl-guile) | [#14](https://github.com/donfelohke/dwl-guile/pull/14) | Remove an unavailable contribution-guide link from the README |
 
-These PRs are open for review. Their branch contents are not yet merged into their default branches. No repository history, source code, assets, service catalogue, price or runtime configuration was changed by these README-only updates.
+All listed repository README and research changes have now been merged into their default branches. The WARENA, NAKEBUSEN, IKAI, GENJE and Gallery governance workflows passed on their final reviewed commits; the website static-site and Pages workflows passed; the Corpus link-integrity check is being completed for this register. The two supporting Guile repositories did not expose a PR validation workflow, so their changes were manually checked as documentation-only. These changes did not alter source code, assets, the service catalogue, prices or runtime configuration.
 
 The profile README repository [donfelohke](https://github.com/donfelohke/donfelohke) was inspected and retained because its current human-author introduction, practice map and pinned-order explanation already match the canonical architecture. The Corpus README and existing specialist documentation indexes were likewise retained where their current navigation was already coherent.
 
