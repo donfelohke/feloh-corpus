@@ -1,12 +1,12 @@
 # F3L0H Sovereign Corpus — Documentation and Repository Map
 
-**Status:** Current constitutional map · 2026-11-20  
+**Status:** Current constitutional map · updated 2026-11-27  
 **Authority:** [F3L0H — The Sovereign Master Corpus](docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md)  
 **Rule:** One source of truth per fact · ONE CORPUS · MANY VIEWS · ONE PRACTICE.
 
 ## 1. Architecture
 
-F3L0H / FELOH WARENA is the overarching human authorship and practice identity. There are **four practice domains**:
+FELOH / Don Feloh is the human authorship identity and decision-maker. WARENA is a distinct CAPABILITY practice. There are **four practice domains**:
 
 | Domain | Role | Specialist repository |
 |---|---|---|
@@ -15,9 +15,11 @@ F3L0H / FELOH WARENA is the overarching human authorship and practice identity. 
 | GENJE | EXPRESSION | [Genje](https://github.com/donfelohke/Genje) |
 | WARENA | CAPABILITY | [WARENA](https://github.com/donfelohke/WARENA) |
 
-GENJE NODE is a WARENA manifestation. Gallery, website, profile and supporting forks are repository roles, not additional domains.
+GENJE is a distinct EXPRESSION practice. “GENJE ZA WARENA” denotes creative/technical collaboration, not ownership, subsidiary status or a product relationship. Gallery, website, profile and supporting forks are repository roles, not additional domains.
 
 ## 2. Canonical document ownership
+
+- **Documentation entry points:** `docs/README.md` is the concise start page; `docs/REFERENCE-INDEX.md` is the comprehensive research/document inventory.
 
 - **Master identity, domain relationships, constitutional principles:** `docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md`.
 - **Technology policy:** `docs/technology-policy-2026-11-17.md`; specialist technical decisions remain in WARENA.
@@ -50,7 +52,7 @@ GENJE NODE is a WARENA manifestation. Gallery, website, profile and supporting f
 |---|---|
 | Four practice domains and identity hierarchy | Master Corpus |
 | ONLY NAKEBUSEN TRANSACTS | Master Corpus + NAKEBUSEN operating records |
-| Service names, scope and starting prices | NAKEBUSEN service catalogue |
+| Service names, scope and approved public prices | NAKEBUSEN service catalogue |
 | Publicly approved payment and location facts | Website Public Facts Register |
 | WARENA/IKAI technology constraints | Technology Constitution + WARENA decisions |
 | Desktop implementation choices | WARENA desktop architecture and decision records |
@@ -59,7 +61,7 @@ GENJE NODE is a WARENA manifestation. Gallery, website, profile and supporting f
 | Asset rights and approval | Gallery asset manifest and workflow |
 | Public rendered copy and deployment status | Website repository and verification records |
 
-Current Eldoret campaign starting prices: Retouch & Styling KES 700+; Sisterlocs Retie KES 1,500+; Artificial Locs Installation KES 3,500+. These are not final quotes. Enquiry is not booking. Do not duplicate payment numbers in the Corpus.
+Current approved Eldoret public prices: Retouch & Styling KES 700; Sisterlocs Retie KES 1,500; Artificial Locs Installation KES 3,500. The approved public prices have no plus signs. Any additional scope or materials must be discussed and agreed directly. Enquiry is not booking. Do not duplicate payment numbers in the Corpus.
 
 ## 5. Technology policy summary
 
