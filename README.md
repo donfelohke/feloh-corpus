@@ -17,7 +17,8 @@ The FELOH Corpus governs shared identity, terminology, domain relationships, evi
 - [Documentation index](docs/README.md) · [Documentation tree](DOCUMENTATION-TREE.md) · [Domain map](docs/domain-map.md).
 - [Governance](GOVERNANCE.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md).
 - [Evidence and Editorial Standards](EVIDENCE-AND-EDITORIAL-STANDARDS.md) · [Evidence and Provenance Method](EVIDENCE-AND-PROVENANCE-METHOD.md).
-- [FELOH GitHub Ecosystem Master Audit · 27 November 2026](docs/FELOH-GITHUB-ECOSYSTEM-MASTER-AUDIT-2026-11-27.md) — refreshed ten-repository inventory, merged alignment tranche, open PR disposition, website QA and technical validation queue.
+- [Repository Documentation Revamp · 27 November 2026](docs/REPOSITORY-DOCUMENTATION-REVAMP-2026-11-27.md) — exact changed-file register across all ten repositories, pricing/canonical updates and workflow evidence.
+- [FELOH GitHub Ecosystem Master Audit · 27 November 2026](docs/FELOH-GITHUB-ECOSYSTEM-MASTER-AUDIT-2026-11-27.md) — ten-repository inventory, alignment tranche, website QA and technical validation queue.
 - [Repository-wide baseline audit](docs/REPOSITORY-WIDE-BASELINE-AUDIT-2026-11-21.md) — inventory and audit limitations.
 - [Coordinated revamp execution register](docs/ECOSYSTEM-REVAMP-EXECUTION-REGISTER-2026-11-26.md) — ten-repository, website and account work register.
 - [Deep-scope ecosystem audit](docs/DEEP-SCOPE-ECOSYSTEM-AUDIT-2026-11-26.md) — workflow evidence, technical gaps and prioritized overhaul work.
