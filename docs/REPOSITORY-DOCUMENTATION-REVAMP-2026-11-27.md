@@ -59,6 +59,15 @@ The page remains a one-page static, bilingual, text-first publication. No framew
 - docs/NAVIGATION-BRAND-UX-RESEARCH.md
 - docs/WEBSITE-AUDIT-DISCREPANCY-REGISTER.md
 - docs/NAKEBUSEN-NG-GLASS-PROTOTYPE-SPEC-2026-11-24.md
+- docs/FELOH-HOMEPAGE-IMPLEMENTATION-SPEC-2026-11-27.md
+- docs/ECOSYSTEM.md
+- docs/WEBSITE-COPY-RESEARCH-AND-IMPLEMENTATION-2026-11-19.md
+- docs/UI-UX-RESEARCH-2026-11-19.md
+- docs/BRAND-RESEARCH-VALIDATION.md
+- docs/brand-business-blueprint.md
+- docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md
+- research/nakebusen-market-customer-research-2026-10.md
+- docs/PR-RECONCILIATION-2026-10-25.md
 
 ### NAKEBUSEN
 - README.md
@@ -112,8 +121,8 @@ Utility Shell, Kernel Boundaries and Composable Systems separates shell, kernel,
 
 - Updated WARENA README, documentation index and knowledge-base index were committed; repository validation workflows were observed passing for the new research/index commits.
 - NAKEBUSEN's updated documentation-baseline workflow passed after its validation rules were updated to accept KES 700+ and KES 1,500+ as starting prices while retaining KES 3,500 as fixed.
-- The website's static-site and Pages workflows were triggered by the latest page/test commits. Their final result must be recorded after completion; a queued run is not a pass.
-- The site regression tests were updated to assert the two starting prices and one fixed price. Browser-level rendering, responsive visual inspection, accessibility review and deployed-page verification remain separate release checks.
+- The website static-site validation passed at commit 971eea31d5a885d1c7ffb2bd953a0160039b8997. The subsequent Pages deployment run for commit a17af99b3ec42b1827c97c248f64b01d31c14465 was pending at the last check; confirm its completion before claiming the newest docs revision was deployed. The page/test source revision at 665c37e8b45b9b0f7e1a81c53ca37d46019d010f had both validation and Pages deployment pass.
+- The site regression tests were updated to assert the two starting prices and one fixed price. Browser-level visual inspection, responsive review, accessibility review and a fresh public-page fetch remain separate release checks.
 
 ## 6. Deliberately unchanged
 
