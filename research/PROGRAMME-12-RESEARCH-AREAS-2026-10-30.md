@@ -103,7 +103,7 @@ These are initial institutional, standards, project or primary-source entry poin
 - [web.dev Core Web Vitals](https://web.dev/articles/vitals): performance measurement orientation. Field data, lab results and source-level assumptions must be reported separately.
 
 ### R11 — Learning and knowledge stewardship
-- [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care): collective benefit, authority to control, responsibility and ethics. Apply with community context and consent; do not treat a principles page as community authorization.
+- [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/careprinciples): collective benefit, authority to control, responsibility and ethics. Apply with community context and consent; do not treat a principles page as community authorization.
 - [FAIR Principles](https://www.go-fair.org/fair-principles/): findability, accessibility, interoperability and reuse for research data. FAIR does not override privacy, consent, Indigenous governance or rights restrictions.
 
 ### R12 — Science, mathematics and systems engineering
