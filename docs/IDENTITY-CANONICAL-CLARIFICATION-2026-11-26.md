@@ -20,6 +20,15 @@ FELOH is not a competing practice domain and is not removed by the pillar mappin
 
 This is the current founder-directed mapping for new and revised public-facing material. Older documents that map GLORY solely to DON FELOH are historical editions and should be aligned when next revised. Do not silently erase their provenance.
 
+## 2A. Authored English interpretations
+
+- **GENJE = GREATNESS.** This is the central authored English interpretation of the GENJE creative identity.
+- **WARENA = THE POWERFUL.** This is the central authored English interpretation of the WARENA capability identity.
+- These are distinct authored brand interpretations, not interchangeable synonyms, verified dictionary definitions or word-for-word translations.
+- **Kali, Noma and Ngori** are associated Sheng expressions, not exact synonyms for either term. The WARENA fire/heat/energy resonance is contextual wordplay; do not present it as a literal translation.
+- Preserve the distinction between documented language use, speaker testimony, founder-authored interpretation and campaign copy. Record speaker, variety, context and attribution before elevating a linguistic claim.
+
+
 ## 3. Distinct identities and responsibilities
 
 - **FELOH:** the human author and creative/technical authority.
