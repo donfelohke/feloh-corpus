@@ -259,3 +259,39 @@ The 27 November GitHub API recheck remains unchanged: 7/10 repositories have no 
 - Apply and signed-out verify GitHub profile, pin and repository metadata changes manually.
 
 This register records merged work and remaining gates; it does not mark the full revamp complete.
+
+
+## 12. Delivery update — 27 November 2026 · source-integrity tranche
+
+### Merged source and link corrections
+
+- **Corpus PR #99:** updated the SLSA artifact-verification link to the versioned v1.2 specification and downgraded the unavailable Pubstrate URL to an explicitly unverified historical research lead.
+- **Corpus PR #100:** replaced a dead third-party PDF URL for *African History: A Very Short Introduction* with the official Oxford Academic publisher record; retained the DOI for Fayemi Kazeem's Oruka methodology article while adding its verified AJOL article record; expanded link-audit triggers to all Markdown, HTML and Org paths.
+- **WARENA PR #60:** corrected the Artanis project references, replaced the obsolete RDE and OpenSceneGraph URLs, pointed OpenAFS research to the official release/documentation archive, and marked the unavailable SoDeV URL as unverified rather than recommending it as a dependency.
+- **IKAI PR #44:** replaced the unavailable OpenXR-Headers repository with Khronos' OpenXR-SDK, OpenXR-Docs and official registry.
+- **Corpus PR #98:** corrected relative links from the UNESCO research brief, replaced a stale local WARENA policy link, and updated the glass-terminal references to the existing source design specification.
+- **WARENA PR #59:** corrected Hurd/Nix research paths, replaced a non-existent Corpus reference map with the actual source register, and replaced the unpublished glass-terminal route with the source design specification.
+- **IKAI PR #43 and GENJE PR #45:** replaced unpublished glass-terminal routes with the existing design source.
+- **dwl-guile PR #12:** repaired README references to actual local and shared documentation.
+- **NAKEBUSEN PR #38:** corrected the knowledge index's last current-facing “starting-price” label.
+
+### Link-audit workflow
+
+Corpus PR #95 introduced the ten-repository lychee baseline; PR #96 corrected the CLI fragment flag; PR #97 made the first audit report-only, added a Jekyll build for IKAI, and excluded raw Liquid/wiki source from direct parsing. PR #100 expanded triggers to Markdown, HTML and Org changes throughout the repository tree.
+
+The first baseline completed with a mixture of:
+- genuine broken local and external references;
+- bot-blocked or rate-limited sites (403 / 429 / 503);
+- Jekyll/Liquid source-template and extensionless-route false positives.
+
+Confirmed defects were corrected in the merged PRs above. The first post-correction audit was still running at the time of this register update; its results must be inspected before the baseline is promoted to a blocking gate. Do not claim the ten-repository link set is clean yet.
+
+### Remaining technical and release gates
+
+- Triage remaining external 404s and network errors from the newest audit report; verify every proposed replacement against primary sources.
+- Keep SoDeV and Pubstrate marked as unverified research leads until a maintained source or successor is confirmed.
+- Complete Guix channel pinning, package evaluation/build, Home service activation and compositor-session validation for the Guile support projects.
+- Keep website PR #217 open until manual rendered visual, mobile, keyboard, screen-reader, contrast, reduced-motion/transparency and Kiswahili editorial review are completed. Its automated checks have passed; no production deployment is claimed.
+- Apply and signed-out verify account-level profile, pin and repository metadata settings manually; the GitHub integration still exposes no write operations for those fields.
+
+This source-integrity tranche improves provenance and removes known dead references; it does not certify every external source or complete the overall revamp.
