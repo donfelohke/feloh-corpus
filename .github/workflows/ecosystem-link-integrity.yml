@@ -1,0 +1,118 @@
+name: Ecosystem link integrity baseline
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/ecosystem-link-integrity.yml"
+      - "README.md"
+      - "docs/**"
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  ecosystem-links:
+    name: Check links across the ten public repositories
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out FELOH Corpus
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: repositories/feloh-corpus
+          persist-credentials: false
+
+      - name: Check out public website
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/donfelohke.github.io
+          ref: main
+          path: repositories/donfelohke.github.io
+          persist-credentials: false
+
+      - name: Check out NAKEBUSEN
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/NAKEBUSEN
+          ref: main
+          path: repositories/NAKEBUSEN
+          persist-credentials: false
+
+      - name: Check out WARENA
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/WARENA
+          ref: main
+          path: repositories/WARENA
+          persist-credentials: false
+
+      - name: Check out IKAI
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/Ikai
+          ref: main
+          path: repositories/Ikai
+          persist-credentials: false
+
+      - name: Check out GENJE
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/Genje
+          ref: main
+          path: repositories/Genje
+          persist-credentials: false
+
+      - name: Check out Gallery
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/Gallery
+          ref: main
+          path: repositories/Gallery
+          persist-credentials: false
+
+      - name: Check out profile README
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/donfelohke
+          ref: main
+          path: repositories/donfelohke
+          persist-credentials: false
+
+      - name: Check out dwl-guile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/dwl-guile
+          ref: main
+          path: repositories/dwl-guile
+          persist-credentials: false
+
+      - name: Check out home-service-dwl-guile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: donfelohke/home-service-dwl-guile
+          ref: main
+          path: repositories/home-service-dwl-guile
+          persist-credentials: false
+
+      # First pass is deliberately non-blocking: collect and triage historical,
+      # external-host and fragment false positives before making this a gate.
+      - name: Check Markdown, HTML and Org links
+        id: lychee
+        uses: lycheeverse/lychee-action@7da8ec1fc4e01b5a12062ac6c589c10a4ce70d67 # v2.0.0
+        with:
+          args: --verbose --no-progress --max-concurrency 4 --max-retries 2 --timeout 20 --include-fragments=anchor-only './repositories/**/*.md' './repositories/**/*.html' './repositories/**/*.org'
+          fail: false
+          format: markdown
+          output: lychee/out.md
+          jobSummary: true
+          token: \${{ github.token }}
+
+      - name: Record baseline outcome
+        if: always()
+        shell: bash
+        run: |
+          echo "The first ecosystem link audit is a non-blocking baseline."
+          echo "Review the lychee job summary and triage false positives before promoting this check to a required gate."
