@@ -1,6 +1,6 @@
 # GitHub Account Revamp — Manual Settings and Copy
 
-**Updated:** 26 November 2026 · original guide 24 November 2026  
+**Updated:** 27 November 2026 · original guide 24 November 2026  
 **Programme:** [Coordinated revamp issue #78](https://github.com/donfelohke/feloh-corpus/issues/78)  
 **Status:** Copy and order proposal for manual GitHub account settings  
 **Authority:** Founder-approved identity and repository architecture
@@ -9,7 +9,7 @@ The connected GitHub integration can update repository files and create pull req
 
 ## 0. Current metadata audit — 26 November 2026
 
-Authenticated inventory of all ten existing public repositories found:
+Authenticated GitHub API recheck on 27 November 2026 confirmed the following across all ten existing public repositories:
 
 - **7/10 repositories have no description.**
 - **3/10 have descriptions:** `donfelohke`, `dwl-guile` and `home-service-dwl-guile`.
@@ -17,7 +17,7 @@ Authenticated inventory of all ten existing public repositories found:
 - **10/10 have no homepage URL set** in repository metadata.
 - All ten are public, unarchived and use `main` as their default branch.
 
-The connected GitHub integration does not expose repository metadata writes or profile/pin settings. The copy-ready descriptions and topics below therefore remain manual account actions; no metadata change is claimed as applied.
+The connected GitHub integration can update repository files but does not expose repository description, homepage URL, topic, profile or pin writes. The copy-ready descriptions and topics below therefore remain manual account actions; no metadata change is claimed as applied. Set a repository homepage URL only when that repository has a real, maintained public destination; do not fill the field with the umbrella website merely to remove an empty value.
 
 **Current pillar mapping:** GRACE → NAKEBUSEN; GRIT → WARENA; GLORY → GENJE / GENJENESS. FELOH remains the human author and decision-maker. IKAI remains MIRROR / reflective-computing research. **ONLY NAKEBUSEN TRANSACTS.**
 
@@ -62,7 +62,7 @@ Use concise descriptions that explain the actual project without claiming unveri
 
 | Repository | Suggested description |
 |---|---|
-| `donfelohke.github.io` | Bilingual public home for NAKEBUSEN, WARENA and Don Feloh — loc care, systems capability and creative research |
+| `donfelohke.github.io` | Public home for Don Feloh: NAKEBUSEN enterprise, WARENA systems engineering, IKAI research, GENJE creative practice and FELOH Corpus |
 | `NAKEBUSEN` | Natural loc care and practical technical services in Eldoret, Kenya — the primary enterprise and sole transaction interface |
 | `WARENA` | Libre-first, local-first systems engineering, GNU/Linux, infrastructure and reproducible computing |
 | `feloh-corpus` | Shared canon, research governance, evidence, provenance and cross-project indexes |
@@ -75,7 +75,7 @@ Use concise descriptions that explain the actual project without claiming unveri
 
 ## 4. Suggested repository topics
 
-Topics are discovery metadata, not proof of implementation or release. Add only the topics that accurately match the repository's current contents.
+Topics are discovery metadata, not proof of implementation or release. Add only the topics that accurately match the repository's current contents. The website topics below describe its static, bilingual public-home implementation; they do not imply a web-application runtime.
 
 | Repository | Suggested topics |
 |---|---|
@@ -108,3 +108,15 @@ Topics are discovery metadata, not proof of implementation or release. Add only 
 - Do not call IKAI a released product, GENJE a WARENA subsidiary or Gallery a live public gallery.
 - Do not imply every repository is a finished product.
 - Keep profile copy concise; send technical detail to the specialist README and Corpus.
+
+
+## 7. Recheck record — 27 November 2026
+
+The authenticated GitHub API was queried again for all ten repositories. The result remains:
+
+- **7 repositories without descriptions**; only the profile README repository and the two supporting Guile repositories have descriptions.
+- **10 repositories without topics**.
+- **10 repositories without a homepage URL** (null or empty).
+- The six-repository pin order above remains the intended public discovery order.
+
+The API recheck does not prove that profile display name, bio, location, website, X link or pins have been changed. Verify those manually after application, using a signed-out browser session. Do not report the account presentation as complete until that check is recorded.
