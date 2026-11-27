@@ -277,3 +277,12 @@ This update records the current cross-project alignment without creating new pra
 - **GENJE specialist research:** [Cooperative Networks and Embodied Media](https://github.com/donfelohke/Genje/blob/main/docs/research/GENJE-COOPERATIVE-NETWORKS-AND-EMBODIED-MEDIA-2026-11-23.md) — creator-controlled media, movement/music exchange, rights, consent and cooperative archive governance.
 
 **Status boundary:** These records are documentation and research updates. They do not establish a deployed network, a released IKAI product, a new commercial service, a verified linguistic etymology or a website revision.
+
+
+---
+
+## 4. Africanisms, African philosophies and Black intellectual traditions
+
+**THE AFRI-CAN INTELLECTUAL ATLAS** is the dedicated research framework for African-derived concepts, civilisational philosophies, Black/Africana thought, Pan-African and diasporic movements, spiritual traditions, aesthetics, futurisms and indigenous knowledge. It prioritises source language, community, historical period, scholarly evidence, speaker attribution, consent and cultural rights. The Turkana cluster is a research frontier; themes are not assumed to have one established Turkana term.
+
+See [THE AFRI-CAN INTELLECTUAL ATLAS · 27 November 2026](THE-AFRI-CAN-INTELLECTUAL-ATLAS-2026-11-27.md). This is a research programme, not a new practice domain or a claim that all listed topics are already researched.
