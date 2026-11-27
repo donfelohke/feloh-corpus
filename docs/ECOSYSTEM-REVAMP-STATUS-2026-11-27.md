@@ -24,7 +24,7 @@
 
 The page now opens with Don Feloh and the connected practice architecture, while retaining NAKEBUSEN as the primary enterprise and sole transaction interface. The loc-care offer and approved prices remain visible; WARENA, IKAI, GENJE and the Corpus retain distinct roles.
 
-Automated static-site validation and the GitHub Pages workflow passed on the reviewed PR head. This does not establish final visual quality on physical devices, screen-reader conformance, translation approval or a full accessibility audit. Those remain manual release-verification items.
+Automated static-site validation and the GitHub Pages workflow passed on the reviewed PR head. A follow-up semantic-anchor correction is in [website PR #218](https://github.com/donfelohke/donfelohke.github.io/pull/218): the umbrella hero receives `#home`, while the stable `#nakebusen` fragment points to the commercial services section. This does not establish final visual quality on physical devices, screen-reader conformance, translation approval or a full accessibility audit. Those remain manual release-verification items.
 
 ## 3. Repository orientation workstream
 
@@ -33,8 +33,10 @@ The following focused documentation-only pull requests consolidate root README m
 | Repository | Pull request | Focus |
 |---|---|---|
 | [WARENA](https://github.com/donfelohke/WARENA) | [#61](https://github.com/donfelohke/WARENA/pull/61) | Capability identity, engineering policy, research map and validation |
+| [WARENA research](https://github.com/donfelohke/WARENA) | [#62](https://github.com/donfelohke/WARENA/pull/62) | Current V4L2, DMA-BUF, DRM/KMS, PipeWire and OpenXR interface contracts |
 | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | [#39](https://github.com/donfelohke/NAKEBUSEN/pull/39) | ROOT enterprise, approved prices, enquiry/payment safeguards and service authority |
 | [IKAI](https://github.com/donfelohke/Ikai) | [#45](https://github.com/donfelohke/Ikai/pull/45) | Reflective-computing research, M1 source routing, privacy and maturity |
+| [IKAI I/O research](https://github.com/donfelohke/Ikai) | [#46](https://github.com/donfelohke/Ikai/pull/46) | Align mirror systems with current Linux buffer, clock and display contracts |
 | [GENJE](https://github.com/donfelohke/Genje) | [#48](https://github.com/donfelohke/Genje/pull/48) | Creative practice, movement notation and interoperability evidence |
 | [Gallery](https://github.com/donfelohke/Gallery) | [#30](https://github.com/donfelohke/Gallery/pull/30) | Asset provenance, rights, consent and human approval |
 | [dwl-guile](https://github.com/donfelohke/dwl-guile) | [#13](https://github.com/donfelohke/dwl-guile/pull/13) | Build scope, upstream provenance and runtime-validation limits |
