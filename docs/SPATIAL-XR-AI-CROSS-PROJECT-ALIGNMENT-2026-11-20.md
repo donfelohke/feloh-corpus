@@ -107,6 +107,6 @@ Glass Terminal is a shared UI/UX/XR research direction, not a fifth project, new
 ### Public reference
 
 The design constitution and static public research presentation are maintained in the existing website repository:
-https://donfelohke.github.io/research/glass-terminal/
+https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/NAKEBUSEN-EDITORIAL-ROOTED-GLASS-TERMINAL-DESIGN.md
 
 A public page, design proposal, documentation update or merged commit does not establish implementation, usability validation, hardware compatibility or deployment. Use the existing maturity vocabulary and require evidence for every promotion.
