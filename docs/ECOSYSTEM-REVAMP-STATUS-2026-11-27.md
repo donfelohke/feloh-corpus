@@ -46,6 +46,8 @@ The following focused documentation-only pull requests consolidate root README m
 
 All listed repository README and research changes have now been merged into their default branches. The WARENA, NAKEBUSEN, IKAI, GENJE and Gallery governance workflows passed on their final reviewed commits; the website static-site and Pages workflows passed; the Corpus link-integrity check is being completed for this register. The two supporting Guile repositories did not expose a PR validation workflow, so their changes were manually checked as documentation-only. These changes did not alter source code, assets, the service catalogue, prices or runtime configuration.
 
+The Corpus documentation front door was subsequently overhauled in [PR #113](https://github.com/donfelohke/feloh-corpus/pull/113): `docs/README.md` is now the concise start page, the complete former index is preserved as `docs/REFERENCE-INDEX.md`, and `DOCUMENTATION-TREE.md` now reflects the distinct GENJE practice and the approved NAKEBUSEN price baseline. The account field audit was merged in [PR #112](https://github.com/donfelohke/feloh-corpus/pull/112).
+
 The profile README was updated and merged in [PR #28](https://github.com/donfelohke/donfelohke/pull/28): its human-author introduction and featured-repository order were preserved, the IKAI naming context was attributed, and the latest WARENA I/O research was indexed. The Corpus root README and existing specialist documentation indexes were retained where their current navigation was already coherent.
 
 ## 4. Account settings — manual actions still required
@@ -59,7 +61,7 @@ The connected GitHub integration does not expose account-profile editing, pin or
 - Social link: `https://x.com/donfelohke`.
 - Pinned order: `donfelohke.github.io`, `NAKEBUSEN`, `WARENA`, `feloh-corpus`, `Ikai`, `Genje`.
 
-Repository descriptions and topics remain copy-ready in [GitHub Account Revamp — Manual Settings and Copy](GITHUB-ACCOUNT-REVAMP-MANUAL-SETTINGS-2026-11-24.md). The field-level distinction between connected account identity, public visibility, and settings not changed is being recorded in [account field audit PR #112](https://github.com/donfelohke/feloh-corpus/pull/112). Do not report these account settings as applied until verified on the public profile in a signed-out browser session.
+Repository descriptions and topics remain copy-ready in [GitHub Account Revamp — Manual Settings and Copy](GITHUB-ACCOUNT-REVAMP-MANUAL-SETTINGS-2026-11-24.md). The field-level distinction between connected account identity, public visibility, and settings not changed is documented in the merged [account field audit PR #112](https://github.com/donfelohke/feloh-corpus/pull/112). Do not report these account settings as applied until verified on the public profile in a signed-out browser session.
 
 ## 5. Research and evidence standards
 
