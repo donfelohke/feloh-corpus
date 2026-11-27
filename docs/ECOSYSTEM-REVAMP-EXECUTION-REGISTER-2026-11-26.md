@@ -180,3 +180,34 @@ Key outcomes:
 - Identified the next technical gaps: no CI/test harness in the two Guile repositories, docs-only workflows in several specialist repositories, no cross-repository link validator, and outstanding website manual verification.
 
 See the audit for commit/run evidence, repository-by-repository status, limitations and P0–P3 work queue. The broader revamp remains ACTIVE.
+
+
+## 10. Delivery update — 27 November 2026
+
+### Unified homepage implementation opened for review
+
+Website PR [#217](https://github.com/donfelohke/donfelohke.github.io/pull/217) begins the next implementation tranche:
+
+- The homepage's first impression now introduces Don Feloh and the connected FELOH ecosystem rather than presenting the site as only a loc-care landing page.
+- The public lockup **BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.** is used as the umbrella introduction.
+- NAKEBUSEN remains the primary commercial entry, with published loc-care prices retained in the hero.
+- WARENA, IKAI and GENJE are introduced as distinct technical, research and creative practices.
+- Page title, search description and social metadata now describe the complete public home.
+- The website README and regression tests are aligned with the new hierarchy.
+
+### Verification
+
+For website head commit `5ee9e807e98fdd885c0c48b1a2081e71b3e59bca`:
+
+- Static site validation: **PASS**.
+- GitHub Pages validation: **PASS**.
+- Pages build and deploy jobs: **SKIPPED** for the pull-request event, as expected; no production deployment is claimed.
+- Earlier failing checks exposed obsolete test assertions and metadata drift. The assertions were updated to test the new public identity and bilingual introduction; the current head passes.
+
+The PR remains open for review and manual visual/device verification. The live site has not been changed by this branch.
+
+### Programme status
+
+This is the first visible homepage tranche, not completion of the ten-repository programme. The remaining account metadata work is manual because the connected GitHub integration does not expose profile editing, pin ordering, repository descriptions or topic writes. Specialist repository audits, documentation reconciliation, source/build validation, link integrity and manual site accessibility/device checks remain in scope.
+
+Do not interpret a successful pull-request validation as production deployment, accessibility certification, or completion of the broader revamp.
