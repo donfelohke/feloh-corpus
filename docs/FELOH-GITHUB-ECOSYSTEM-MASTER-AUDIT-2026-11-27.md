@@ -266,3 +266,17 @@ The remaining PR disposition is:
 The merge API rejected the three conflicted PRs with HTTP 405 and the explicit message “Pull Request has merge conflicts.” No force merge, history rewrite or conflict bypass was attempted. Their reviewed changes remain available on the original branches.
 
 **Current confirmed merged alignment count: nine PRs.** Account-level profile bio, pinned repositories, repository descriptions/topics and homepage metadata remain manual tasks because the connected GitHub integration does not expose those write operations.
+
+
+## 8. Account profile README follow-up — 27 November 2026
+
+Following the merged alignment tranche, the profile README received a further direct default-branch update in [donfelohke/README.md](https://github.com/donfelohke/donfelohke/blob/main/README.md).
+
+- **Commit:** [9391e5104d191d692fbcee99b8c1bde3a5868daa](https://github.com/donfelohke/donfelohke/commit/9391e5104d191d692fbcee99b8c1bde3a5868daa).
+- Added the founder-approved recursive WARENA expansion and distinguished it from its authored English interpretation.
+- Added the 27 November cooperative/federated computing and embodied-interaction synthesis, GENJE livecoding research, and FSF machine-learning freedom announcement as a research lead.
+- Explicitly labels Utility Shell Kernel as exploratory, not an implemented kernel.
+- Preserves the six-repository discovery order, evidence/maturity boundaries and NAKEBUSEN-only transaction rule.
+- Re-fetched the updated default-branch README and verified the new content.
+
+The profile README content is updated. The GitHub account presentation is **not complete**: profile fields, actual pinned order, repository descriptions, topics and homepage metadata still require manual application and signed-out verification. The account settings guide has been updated with the copy-ready values and this completion record.
