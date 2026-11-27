@@ -367,3 +367,18 @@ Website PR #217 remains open at head `9534f75daf6b033208d8a059b8cd4711d295f8ea`.
 No production deployment is claimed. Manual rendered visual, mobile, keyboard, screen-reader, contrast, reduced-motion/transparency and Kiswahili editorial checks remain release gates.
 
 This is a current status record, not a completion declaration.
+
+
+## 15. Link-audit milestone — 27 November 2026
+
+The first tuned **main-branch** ecosystem link-audit run completed successfully:
+
+- Workflow run: [46013602573](https://github.com/donfelohke/feloh-corpus/actions/runs/46013602573)
+- All ten repository checkouts completed.
+- The IKAI Jekyll site built successfully.
+- The nested lychee configuration path preflight passed.
+- The Markdown / HTML / Org link-check step and baseline-outcome step completed successfully.
+
+This is evidence that the cross-repository audit pipeline now executes on main with the pinned lychee configuration. It is **not** a certification that every external link is valid: the workflow intentionally remains report-only, and the job summary must be reviewed for 404s, timeouts, rate limits and bot-blocked hosts. No external failures are silently promoted to verified sources.
+
+The next step is to review the generated report, correct confirmed broken references, document hosts that block automated checks, and only then consider making internal-link checks blocking.
