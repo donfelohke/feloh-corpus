@@ -19,7 +19,7 @@ Authenticated GitHub API recheck on 27 November 2026 confirmed the following acr
 
 The connected GitHub integration can update repository files but does not expose repository description, homepage URL, topic, profile or pin writes. The copy-ready descriptions and topics below therefore remain manual account actions; no metadata change is claimed as applied. Set a repository homepage URL only when that repository has a real, maintained public destination; do not fill the field with the umbrella website merely to remove an empty value.
 
-**Current pillar mapping:** GRACE → NAKEBUSEN; GRIT → WARENA; GLORY → GENJE / GENJENESS. FELOH remains the human author and decision-maker. IKAI remains MIRROR / reflective-computing research. **ONLY NAKEBUSEN TRANSACTS.**
+**Current pillar mapping:** GRACE → NAKEBUSEN; GRIT → WARENA; GLORY → GENJE / GENJENESS. GENJE's authored English interpretation is GREATNESS; WARENA's authored English interpretation is THE POWERFUL. These are distinct authored brand interpretations, not interchangeable synonyms or literal dictionary translations. FELOH remains the human author and decision-maker. IKAI remains MIRROR / reflective-computing research. **ONLY NAKEBUSEN TRANSACTS.**
 
 See the [current identity clarification](IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md) for the shared source of record.
 
