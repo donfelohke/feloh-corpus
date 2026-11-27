@@ -24,7 +24,7 @@
 
 The page now opens with Don Feloh and the connected practice architecture, while retaining NAKEBUSEN as the primary enterprise and sole transaction interface. The loc-care offer and approved prices remain visible; WARENA, IKAI, GENJE and the Corpus retain distinct roles.
 
-Automated static-site validation and the GitHub Pages workflow passed on the reviewed PR head. A follow-up semantic-anchor correction is in [website PR #218](https://github.com/donfelohke/donfelohke.github.io/pull/218): the umbrella hero receives `#home`, while the stable `#nakebusen` fragment points to the commercial services section. This does not establish final visual quality on physical devices, screen-reader conformance, translation approval or a full accessibility audit. Those remain manual release-verification items.
+Automated static-site validation and the GitHub Pages workflow passed on the reviewed PR head. A follow-up semantic-anchor correction in [website PR #218](https://github.com/donfelohke/donfelohke.github.io/pull/218) gives the umbrella hero `#home` and preserves `#nakebusen` for the commercial services section. [Website PR #219](https://github.com/donfelohke/donfelohke.github.io/pull/219) then attributed IKAI's name meaning to the founder-provided Turkana context and kept independent linguistic/community validation explicitly open. Static-site validation and GitHub Pages workflows passed for both changes. This does not establish final visual quality on physical devices, screen-reader conformance, translation approval or a full accessibility audit. Those remain manual release-verification items.
 
 ## 3. Repository orientation workstream
 
@@ -59,7 +59,7 @@ The connected GitHub integration does not expose account-profile editing, pin or
 - Social link: `https://x.com/donfelohke`.
 - Pinned order: `donfelohke.github.io`, `NAKEBUSEN`, `WARENA`, `feloh-corpus`, `Ikai`, `Genje`.
 
-Repository descriptions and topics remain copy-ready in [GitHub Account Revamp — Manual Settings and Copy](GITHUB-ACCOUNT-REVAMP-MANUAL-SETTINGS-2026-11-24.md). Do not report these account settings as applied until verified on the public profile in a signed-out browser session.
+Repository descriptions and topics remain copy-ready in [GitHub Account Revamp — Manual Settings and Copy](GITHUB-ACCOUNT-REVAMP-MANUAL-SETTINGS-2026-11-24.md). The field-level distinction between connected account identity, public visibility, and settings not changed is being recorded in [account field audit PR #112](https://github.com/donfelohke/feloh-corpus/pull/112). Do not report these account settings as applied until verified on the public profile in a signed-out browser session.
 
 ## 5. Research and evidence standards
 
