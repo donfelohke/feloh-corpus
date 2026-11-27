@@ -47,3 +47,8 @@ The four practice domains are distinct. **FELOH is the human author.** GENJE is 
 - [Documentation and repository map](../DOCUMENTATION-TREE.md) — ownership, authority and repository-level structure.
 
 Use the reference index for historical or specialist topic discovery. Use the current identity clarification and the specialist repository's current source record for decisions. A document's presence does not prove implementation, validation, deployment, approval or service availability.
+
+## Cooperative, federated computing and embodied interaction — 27 November 2026
+
+- [Cross-domain research synthesis](research/COOPERATIVE-FEDERATED-COMPUTING-AND-EMBODIED-INTERACTION-SYNTHESIS-2026-11-27.md) — Cathedral/Bazaar/Cooperative framework; GNU/Linux and GNU/Hurd service architecture; Guix; human-governed agents; spatial XR and real-time I/O; livecoding; Fediverse/federation; independent workers and cooperative infrastructure.
+- Specialist source records remain authoritative in [WARENA](https://github.com/donfelohke/WARENA), [IKAI](https://github.com/donfelohke/Ikai) and [GENJE](https://github.com/donfelohke/Genje). This synthesis does not create a new product, legal structure or implementation claim.
