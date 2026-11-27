@@ -169,3 +169,10 @@ The update:
 **Verification:** the updated README was fetched again from the default branch. The canonical expansion, research links, Utility Shell Kernel maturity boundary and six-repository order were confirmed in the returned content.
 
 This file update does not change account-level profile fields, repository About metadata, topics or pinned repositories. Those remain manual actions described above.
+
+
+## 11. Account-wide documentation revamp — 27 November 2026
+
+The account-wide documentation and page-source tranche is recorded in [Repository Documentation Revamp](REPOSITORY-DOCUMENTATION-REVAMP-2026-11-27.md). It covers all ten public repositories, exact files changed, the new Corpus canonical synthesis, WARENA research briefs, website pricing/copy reconciliation, broken-link corrections and CI evidence.
+
+The profile README and repository documentation are committed. Account-level About fields, topics, homepage metadata and the six pinned-repository order remain separate GitHub settings actions; repository file commits do not change those settings.
