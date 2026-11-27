@@ -71,4 +71,4 @@ The shared spelling creates cultural resonance, not proof of shared historical e
 
 WARENA is the systems/infrastructure identity powering NAKEBUSEN DIGITAL. It does not transact independently. Commercial enquiries and agreements route through NAKEBUSEN.
 
-See the [WARENA Technology Constitution](TECHNOLOGY-CONSTITUTION-2026-11-17.md) for the governing technology policy and the FELOH Corpus for shared terminology and provenance.
+See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) for the governing technology policy and the FELOH Corpus for shared terminology and provenance.
