@@ -149,3 +149,23 @@ Treat the following carefully:
 | Signed-out public profile verification | PENDING |
 
 Do not mark the account revamp complete until the manual fields, pins and repository About metadata are applied and the public profile is checked while signed out.
+
+
+## 10. Profile README refresh — 27 November 2026
+
+The profile README at [donfelohke/README.md](https://github.com/donfelohke/donfelohke/blob/main/README.md) was refreshed directly on the default branch after the latest account and research audit.
+
+**Commit:** [9391e5104d191d692fbcee99b8c1bde3a5868daa](https://github.com/donfelohke/donfelohke/commit/9391e5104d191d692fbcee99b8c1bde3a5868daa)
+
+The update:
+- preserves the founder-approved six-repository discovery and pin order;
+- records WARENA's current recursive expansion, **Warena Architecture Re Network/ed Artefact**, and distinguishes it from the authored English interpretation **THE POWERFUL**;
+- adds the 27 November cross-domain synthesis on cooperative/federated computing and embodied interaction;
+- adds the current GENJE livecoding research record;
+- adds the FSF machine-learning freedom announcement as an external research lead, not as a claim of completed evaluation or implementation;
+- identifies Utility Shell Kernel as exploratory architecture discussion, not an implemented kernel;
+- retains research/implementation/deployment evidence boundaries and **ONLY NAKEBUSEN TRANSACTS**.
+
+**Verification:** the updated README was fetched again from the default branch. The canonical expansion, research links, Utility Shell Kernel maturity boundary and six-repository order were confirmed in the returned content.
+
+This file update does not change account-level profile fields, repository About metadata, topics or pinned repositories. Those remain manual actions described above.
