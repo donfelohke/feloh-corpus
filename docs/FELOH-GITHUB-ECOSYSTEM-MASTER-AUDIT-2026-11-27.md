@@ -10,7 +10,7 @@
 
 The authenticated account inventory returned ten public repositories. All ten use `main` as the default branch, are unarchived, and report administrative access for the connected account. The inventory is consistent with the ten-repository scope in issue #78.
 
-Seven additive alignment pull requests were merged on 27 November 2026:
+Nine additive alignment pull requests were merged on 27 November 2026:
 
 | Repository | PR | Result |
 |---|---:|---|
@@ -21,6 +21,8 @@ Seven additive alignment pull requests were merged on 27 November 2026:
 | Profile README | [#29](https://github.com/donfelohke/donfelohke/pull/29) | Merged |
 | Public website | [#220](https://github.com/donfelohke/donfelohke.github.io/pull/220) | Merged |
 | dwl-guile | [#15](https://github.com/donfelohke/dwl-guile/pull/15) | Merged |
+| Genje | [#49](https://github.com/donfelohke/Genje/pull/49) | Merged |
+| home-service-dwl-guile | [#15](https://github.com/donfelohke/home-service-dwl-guile/pull/15) | Merged |
 
 These changes add dated alignment records and navigation. They do not establish runtime capability, browser accessibility, release readiness, or live deployment by themselves. The website merge may trigger publication; the deployed artifact must be checked separately.
 
@@ -88,9 +90,9 @@ The seven PRs listed in section 1 were merged with expected head SHAs. Their com
 
 | Repository / PR | Current disposition | Reason |
 |---|---|---|
-| [Genje #49](https://github.com/donfelohke/Genje/pull/49) | Hold | Its proposed creative tagline must not replace the current distinction GENJE = GREATNESS and WARENA = THE POWERFUL. Retain it only as an optional creative expression if consistent with the canon. The TidalCycles/SuperCollider research addition also needs source and technical review. |
+| [Genje #49](https://github.com/donfelohke/Genje/pull/49) | Merged | Canonical identity alignment and bounded TidalCycles/SuperCollider architecture research merged. No installed or tested performance rig is claimed; the repository returned no PR-triggered workflow runs for the merge commit. |
 | [feloh-corpus #115](https://github.com/donfelohke/feloh-corpus/pull/115) | Hold | Contains an unsuitable shared taxonomy and terminology that conflicts with editorial direction. Reframe the material using precise, context-specific subject names; correct the relative link; review the large research addition source by source before merging. |
-| [home-service-dwl-guile #15](https://github.com/donfelohke/home-service-dwl-guile/pull/15) | Hold | README introduces the same unsuitable shared taxonomy. Remove that reference and retain only the relevant WARENA/Guix integration alignment. |
+| [home-service-dwl-guile #15](https://github.com/donfelohke/home-service-dwl-guile/pull/15) | Merged | Supporting WARENA/Guix Home integration alignment merged after narrowing the PR to repository scope. No PR-triggered workflow runs were returned for the merge commit; runtime activation and rollback remain unverified. |
 | [feloh-corpus #93](https://github.com/donfelohke/feloh-corpus/pull/93) | Conflict | GitHub reports mergeable=false. Resolve against current main, then review all 50 claims, citations and evidence labels. |
 | [feloh-corpus #85](https://github.com/donfelohke/feloh-corpus/pull/85) | Conflict | GitHub reports mergeable=false. Resolve against current main; inspect image provenance and all dated claims before merge. |
 | [Ikai #42](https://github.com/donfelohke/Ikai/pull/42) | Conflict | GitHub reports mergeable=false. Resolve against current main and verify the Corpus evidence link and IKAI research boundaries. |
@@ -241,3 +243,26 @@ The current authored interpretations were propagated into the relevant source re
 - The public website repository README now records the current interpretations alongside the pillar mapping.
 
 Configured baseline/documentation checks passed for the affected WARENA, GENJE, NAKEBUSEN, IKAI and Corpus commits. The website static validation passed for the brand-document updates; the most recent README-only update's run must be checked separately. These checks validate configured repository checks, not visual browser QA or independent linguistic research.
+
+
+## 16. Owner authorization and latest execution update — 27 November 2026
+
+The owner explicitly confirmed: **ALL CHANGES APPROVED**. This authorizes the remaining approved repository documentation and alignment work. It does not waive merge-conflict checks, technical acceptance criteria, source attribution, evidence standards or the distinction between documentation and tested implementation.
+
+Two additional PRs were merged with their exact reviewed head SHAs:
+- [Genje #49](https://github.com/donfelohke/Genje/pull/49) — squash merge commit [7b062ea](https://github.com/donfelohke/Genje/commit/7b062ea9af5c3e061bc3e6d5fbef200dc68df770). The TidalCycles/SuperCollider addition remains a research architecture proposal; no integrated rig or measured performance is claimed.
+- [home-service-dwl-guile #15](https://github.com/donfelohke/home-service-dwl-guile/pull/15) — squash merge commit [103afd1](https://github.com/donfelohke/home-service-dwl-guile/commit/103afd18c7342f2d1063e659f65664708831d426). The README scope was narrowed to the Guix Home integration responsibility.
+
+No PR-triggered workflow runs were returned for either merge commit. Do not report CI success for these two merges.
+
+The public website's latest main-branch run [46039380920](https://github.com/donfelohke/donfelohke.github.io/actions/runs/46039380920) completed with all three jobs successful: static validation, Pages build and deployment. This is a confirmed GitHub Pages deployment. Real browser, Android-device, keyboard and screen-reader QA remains open under [website issue #187](https://github.com/donfelohke/donfelohke.github.io/issues/187).
+
+The remaining PR disposition is:
+- [feloh-corpus #115](https://github.com/donfelohke/feloh-corpus/pull/115): held for editorial and source review. Its proposed taxonomy uses a framing that conflicts with the user's standing editorial direction; do not merge until corrected and reviewed.
+- [feloh-corpus #93](https://github.com/donfelohke/feloh-corpus/pull/93): merge API confirms conflicts. Reconcile on a fresh branch from current main, then validate all claim-level sources and evidence labels.
+- [feloh-corpus #85](https://github.com/donfelohke/feloh-corpus/pull/85): merge API confirms conflicts. Reconcile on a fresh branch from current main; inspect all dated claims and image provenance.
+- [Ikai #42](https://github.com/donfelohke/Ikai/pull/42): merge API confirms conflicts. Reconcile on a fresh branch from current main; preserve IKAI's empirical/research boundaries.
+
+The merge API rejected the three conflicted PRs with HTTP 405 and the explicit message “Pull Request has merge conflicts.” No force merge, history rewrite or conflict bypass was attempted. Their reviewed changes remain available on the original branches.
+
+**Current confirmed merged alignment count: nine PRs.** Account-level profile bio, pinned repositories, repository descriptions/topics and homepage metadata remain manual tasks because the connected GitHub integration does not expose those write operations.
