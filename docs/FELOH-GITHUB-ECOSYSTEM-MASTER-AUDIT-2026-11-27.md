@@ -289,7 +289,7 @@ The account-wide documentation revamp added two WARENA research briefs and a new
 - Sisterlocs Retie — starts at KES 1,500+.
 - Artificial Locs Installation — fixed at KES 3,500.
 
-The current canonical source is [FELOH Canonical Research Synthesis](FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md). Specialist price authorities remain [NAKEBUSEN service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md) and the website [Public Facts Register](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/PUBLIC-FACTS-REGISTER.md). Older dated snapshots remain historical records; do not treat their earlier fixed-price wording as current publication guidance.
+The current account-wide changed-file record is [Repository Documentation Revamp](REPOSITORY-DOCUMENTATION-REVAMP-2026-11-27.md). The current canonical source is [FELOH Canonical Research Synthesis](FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md). Specialist price authorities remain [NAKEBUSEN service catalogue](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/service-catalogue.md) and the website [Public Facts Register](https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/PUBLIC-FACTS-REGISTER.md). Older dated snapshots remain historical records; do not treat their earlier fixed-price wording as current publication guidance.
 
 New WARENA research records:
 - [Freedom in machine-learning applications](https://github.com/donfelohke/WARENA/blob/main/docs/research/WARENA-FREEDOM-IN-MACHINE-LEARNING-RESEARCH-2026-11-27.md).
