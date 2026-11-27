@@ -20,7 +20,14 @@
 - [Repository-wide baseline audit](REPOSITORY-WIDE-BASELINE-AUDIT-2026-11-21.md) · [Documentation reconciliation](ECOSYSTEM-DOCUMENTATION-RECONCILIATION-2026-11-18.md).
 - [Research programme: standards, evidence, benchmarks and local solutions](RESEARCH-PROGRAMME-STANDARDS-EVIDENCE-BENCHMARKS-LOCAL-SOLUTIONS-2026-11-24.md).
 
-## 3. Specialist workstreams
+## 3. Current cross-domain research additions · 27 November 2026
+
+- [WARENA — Freedom in machine-learning applications](https://github.com/donfelohke/WARENA/blob/main/docs/research/WARENA-FREEDOM-IN-MACHINE-LEARNING-RESEARCH-2026-11-27.md) — user freedom across code, models, weights, data, training, inference, hardware and governance.
+- [WARENA — Utility Shell, Kernel Boundaries and Composable Systems](https://github.com/donfelohke/WARENA/blob/main/docs/research/WARENA-UTILITY-SHELL-KERNEL-AND-COMPOSABLE-SYSTEMS-RESEARCH-2026-11-27.md) — separates shell, kernel, service, IPC and I/O responsibilities; reuse-first feasibility agenda.
+
+These are research briefs, not implementation or product announcements. WARENA owns the technical records; the Corpus provides cross-project navigation and governance.
+
+## 4. Specialist workstreams
 
 | Workstream | Canonical destination |
 |---|---|
@@ -34,14 +41,14 @@
 
 The four practice domains are distinct. **FELOH is the human author.** GENJE is not a WARENA subsidiary or product. “GENJE ZA WARENA” expresses creative/technical collaboration. **ONLY NAKEBUSEN TRANSACTS.**
 
-## 4. Governance, evidence and provenance
+## 5. Governance, evidence and provenance
 
 - [Repository governance](../GOVERNANCE.md) · [Contributing](../CONTRIBUTING.md) · [Security](../SECURITY.md).
 - [Evidence and editorial standards](../EVIDENCE-AND-EDITORIAL-STANDARDS.md) · [Evidence and provenance method](../EVIDENCE-AND-PROVENANCE-METHOD.md).
 - [Source register](source-register.md) · [Decision provenance](decision-provenance.md) · [Succession and stewardship](succession.md).
 - [Knowledge-entry template](../templates/knowledge-entry.md) · [Creative-work record template](templates/creative-work.md).
 
-## 5. Research archives and full inventory
+## 6. Research archives and full inventory
 
 - [Comprehensive reference index](REFERENCE-INDEX.md) — all research programmes, topic archives, bibliographies and historical records.
 - [Documentation and repository map](../DOCUMENTATION-TREE.md) — ownership, authority and repository-level structure.
