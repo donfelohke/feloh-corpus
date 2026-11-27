@@ -6,6 +6,7 @@
 
 ## 1. Current identity and authority
 
+- [FELOH Canonical Research Synthesis · 27 November 2026](FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md) — current shared identity, practice architecture, public boundaries and evidence vocabulary.
 - [Current identity clarification · 26 November 2026](IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md) — GRACE / GRIT / GLORY and the separate human-authorship role.
 - [FELOH Sovereign Master Corpus](FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) — constitutional architecture and authority model.
 - [Cross-domain map](domain-map.md) · [Glossary](glossary.md) · [Four-domain decision](decisions/DEC-2026-11-20-001-four-domain-constitution.md).
