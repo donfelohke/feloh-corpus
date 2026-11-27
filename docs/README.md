@@ -13,6 +13,7 @@
 
 ## 2. Programme status and audit
 
+- [FELOH GitHub Ecosystem Master Audit · 27 November 2026](FELOH-GITHUB-ECOSYSTEM-MASTER-AUDIT-2026-11-27.md) — refreshed ten-repository inventory, merged alignment tranche, held PRs, website QA, technical validation and account-setting limits.
 - [Ecosystem revamp status · 27 November 2026](ECOSYSTEM-REVAMP-STATUS-2026-11-27.md) — merged website and repository work, manual account tasks and remaining validation.
 - [Ecosystem revamp execution register · 26 November 2026](ECOSYSTEM-REVAMP-EXECUTION-REGISTER-2026-11-26.md) — original programme scope and work packages.
 - [Deep-scope ecosystem audit](DEEP-SCOPE-ECOSYSTEM-AUDIT-2026-11-26.md) — workflow evidence, maturity gaps and priorities.
