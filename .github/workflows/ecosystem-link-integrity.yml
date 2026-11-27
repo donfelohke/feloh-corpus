@@ -6,6 +6,9 @@ on:
       - ".github/workflows/ecosystem-link-integrity.yml"
       - "README.md"
       - "docs/**"
+      - "**/*.md"
+      - "**/*.html"
+      - "**/*.org"
   push:
     branches:
       - main
