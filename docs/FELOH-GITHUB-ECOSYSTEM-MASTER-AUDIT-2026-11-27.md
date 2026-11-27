@@ -208,3 +208,15 @@ The Corpus documentation validation workflows for the new audit register and bot
 - [Corpus README validation](https://github.com/donfelohke/feloh-corpus/actions/runs/46038935878) — success.
 
 **Website issue #187 remains open** for real-browser, keyboard, screen-reader and device-specific verification. The fresh extraction resolves the earlier stale-copy concern at the text-extraction level, but does not close the manual QA acceptance gate.
+
+
+## 13. Editorial correction activity — 27 November 2026
+
+Further corrections were made after the initial PR disposition:
+- The profile README now uses **creative greatness** rather than the superseded adjective in its GENJE description.
+- The profile's canonical identity note now explicitly records GENJE = **GREATNESS** and WARENA = **THE POWERFUL**, preserving these as distinct authored interpretations and keeping associated Sheng expressions separate.
+- GENJE PR #49's branch document was corrected so its heading and explanation do not replace the canonical interpretations. The PR remains open pending review of the TidalCycles/SuperCollider research addition and its sources.
+- home-service-dwl-guile PR #15's README no longer adds the unrelated shared taxonomy. Its PR description was narrowed to the repository's Guix Home integration responsibilities. The PR is still not mergeable against the updated main branch and must be reconciled before merge.
+- Corpus PR #115 remains held. Its broad research addition needs a careful editorial and source review; do not merge it in its current state.
+
+These corrections are on the relevant profile main branch or the named PR branches as stated. A branch correction is not a merge.
