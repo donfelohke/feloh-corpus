@@ -115,3 +115,7 @@ BLACK HINTERLAND — BEFORE AFRICA, BLACKS: THE DOCS & DATA, Sages & Knowledge T
 ## Canonical alignment · 27 November 2026
 
 See [FELOH Canonical Research Synthesis](docs/FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
+
+## Research atlas · 27 November 2026
+
+- [THE AFRI-CAN INTELLECTUAL ATLAS · 27 November 2026](docs/THE-AFRI-CAN-INTELLECTUAL-ATLAS-2026-11-27.md) — Africanisms, African philosophies, Black and Africana thought, Pan-African and diasporic movements, Adinkra, East African and Turkana research, and an explicitly authored FELOH synthesis.
