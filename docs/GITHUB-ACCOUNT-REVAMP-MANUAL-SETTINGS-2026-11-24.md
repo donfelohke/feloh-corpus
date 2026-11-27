@@ -120,3 +120,32 @@ The authenticated GitHub API was queried again for all ten repositories. The res
 - The six-repository pin order above remains the intended public discovery order.
 
 The API recheck does not prove that profile display name, bio, location, website, X link or pins have been changed. Verify those manually after application, using a signed-out browser session. Do not report the account presentation as complete until that check is recorded.
+
+## 8. Fields not changed or not independently verified — 27 November 2026
+
+The authenticated GitHub connector confirmed the account login as `donfelohke`, the current connected display name as `F3L0H #HisGenjeness`, and the current avatar resource URL. It does not expose the account profile editor or a reliable public rendering of every manual profile field.
+
+Treat the following carefully:
+
+- **Display name:** current connected value is `F3L0H #HisGenjeness`; proposed public display name remains `Felix Lwova · Don Feloh` as specified above.
+- **Bio, company, location, website, social links, pronouns and status:** not independently read back from the public profile in this pass. Apply only the approved copy in this guide; do not report completion before a signed-out verification.
+- **Company:** no new company value is prescribed here. Do not imply WARENA is the parent company of NAKEBUSEN or the other practices.
+- **Pronouns:** no value was supplied for this audit. Leave unchanged rather than infer.
+- **Status message:** no new status text was approved. Leave unchanged rather than inventing an availability or hiring claim.
+- **Avatar:** the account avatar resource was retrieved, but its visual quality, identity suitability and crop were not independently reviewed. Do not replace it without a separate visual review and explicit selection.
+- **Public email:** an email value returned by an authenticated connector is not evidence that the address is publicly visible. Do not copy it into the public profile or expose it as a contact route without explicit confirmation.
+
+## 9. Completion record
+
+| Area | State |
+|---|---|
+| Public website and README alignment | MERGED |
+| Specialist README and research documentation updates | MERGED |
+| Profile README | MERGED |
+| Account display name / bio / location / website / social fields | MANUAL APPLICATION PENDING |
+| Six pinned repositories | MANUAL APPLICATION PENDING |
+| Repository descriptions and topics | MANUAL APPLICATION PENDING |
+| Company / pronouns / status / avatar | NOT CHANGED; owner decision or visual review required |
+| Signed-out public profile verification | PENDING |
+
+Do not mark the account revamp complete until the manual fields, pins and repository About metadata are applied and the public profile is checked while signed out.
