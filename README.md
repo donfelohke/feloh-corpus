@@ -111,3 +111,7 @@ BLACK HINTERLAND — BEFORE AFRICA, BLACKS: THE DOCS & DATA, Sages & Knowledge T
 **GRACE · GRIT · GLORY**  
 **HERITAGE · BLACK EXCELLENCE · SOVEREIGN FUTURES**  
 **NAKEBUSEN · WARENA · DON FELOH**
+
+## Canonical alignment · 27 November 2026
+
+See [FELOH Canonical Research Synthesis](docs/FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
