@@ -1,9 +1,9 @@
 # Lychee configuration for the ten-repository ecosystem audit.
 # Exclude raw Jekyll/Liquid sources and Markdown files copied into the
 # generated IKAI site; the rendered HTML pages remain in the audit.
-max_concurrency = 2
-timeout = 20
-max_retries = 2
+max_concurrency = 4
+timeout = 10
+max_retries = 1
 include_fragments = true
 method = "get"
 
