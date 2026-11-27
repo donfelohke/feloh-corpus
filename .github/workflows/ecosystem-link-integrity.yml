@@ -114,6 +114,9 @@ jobs:
       # First pass is deliberately non-blocking. Jekyll output is checked instead of
       # raw Liquid templates; the raw IKAI wiki is excluded from source parsing.
       # Triage historical links, network blocks and genuine missing targets before gating.
+      - name: Verify audit configuration path
+        run: test -f repositories/feloh-corpus/lychee.toml
+
       - name: Check Markdown, HTML and Org links
         id: lychee
         uses: lycheeverse/lychee-action@7da8ec1fc4e01b5a12062ac6c589c10a4ce70d67 # v2.0.0
