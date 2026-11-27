@@ -252,7 +252,7 @@ The following sources are starting points. Their inclusion does not mean every u
 - South African History Online, [“Africa: What’s in a name?”](https://sahistory.org.za/article/africa-whats-name) (2015; updated 2025). Accessible overview of the history and changing geographical use of the term.
 - David Stone, [“Roman Africa”](https://doi.org/10.1093/obo/9780195389661-0327), Oxford Bibliographies in Classics (2018). Scholarly reference on Roman North Africa and the complexity of Roman rule.
 - Atoma Batoma, [“African Ethnonyms and Toponyms: An Annotated Bibliography”](https://doi.org/10.17077/1092-9576.1000), Electronic Journal of Africana Bibliography 10(1) (2006). Names as historical, geographical, linguistic, symbolic and socio-political records.
-- John Parker and Richard Rathbone, [African History: A Very Short Introduction](https://ccaf.africa/books/%5BJohn_Parker_Richard_Rathbone%5D_African_History.pdf). Context for the history of continental naming and African historiography.
+- John Parker and Richard Rathbone, [African History: A Very Short Introduction](https://academic.oup.com/book/871). Context for the history of continental naming and African historiography.
 - UNESCO, [General History of Africa](https://www.unesco.org/en/general-history-africa). Multi-volume historical resource; use individual chapters and their evidence critically.
 
 ### Philosophy and intellectual traditions

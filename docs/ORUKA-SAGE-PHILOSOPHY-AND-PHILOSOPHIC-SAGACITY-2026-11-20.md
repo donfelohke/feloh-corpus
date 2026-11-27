@@ -177,7 +177,7 @@ GENJE may investigate how oral performance, rhythm, gesture, craft and movement 
 ### Methodological critique and later scholarship
 
 - **Azenabor, Godwin.** “Odera Oruka’s Philosophic Sagacity: Problems and Challenges of Conversation Method in African Philosophy.” *Thought and Practice: A Journal of the Philosophical Association of Kenya*, new series, 1(1), June 2009, pp. 69–86. https://www.ajol.info/index.php/tp/article/download/46307/32705/0
-- **Kazeem, Fayemi Ademola.** “H. Odera Oruka and the Question of Methodology in African Philosophy: A Critique.” *Thought and Practice* 4(2), 2012, pp. 185–204. DOI: https://doi.org/10.5840/tap20124211
+- **Kazeem, Fayemi Ademola.** “H. Odera Oruka and the Question of Methodology in African Philosophy: A Critique.” *Thought and Practice* 4(2), 2012, pp. 185–204. DOI: 10.5840/tap20124211 · [AJOL article record](https://www.ajol.info/index.php/tp/article/view/88147)
 - **Mosima, Pius Maija.** *Philosophic Sagacity and Intercultural Philosophy: Beyond Henry Odera Oruka*. African Studies Centre Leiden, 2016. https://www.ascleiden.nl/publications/philosophic-sagacity-and-intercultural-philosophy-beyond-henry-odera-oruka
 
 ### Source limitations
