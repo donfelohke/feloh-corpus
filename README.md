@@ -12,6 +12,7 @@ The FELOH Corpus governs shared identity, terminology, domain relationships, evi
 ## Start here
 
 - [Sovereign Master Corpus](docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) — constitutional architecture and repository ownership.
+- [FELOH Canonical Research Synthesis · 27 November 2026](docs/FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md) — current shared identity, practice architecture, public boundaries and evidence vocabulary.
 - [Current identity clarification · 26 November 2026](docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md) — current GRACE / GRIT / GLORY mapping and public lockup hierarchy.
 - [Documentation index](docs/README.md) · [Documentation tree](DOCUMENTATION-TREE.md) · [Domain map](docs/domain-map.md).
 - [Governance](GOVERNANCE.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md).
@@ -61,11 +62,11 @@ NAKEBUSEN is the primary enterprise and the only current customer-facing transac
 
 The canonical NAKEBUSEN service catalogue and website Public Facts Register govern public service facts. Current approved price presentation:
 
-- Retouch & Styling — **KES 700**
-- Sisterlocs Retie — **KES 1,500**
+- Retouch & Styling — **KES 700+** (starting price)
+- Sisterlocs Retie — **KES 1,500+** (starting price)
 - Artificial Locs Installation — **KES 3,500**
 
-All three are fixed approved public prices, not starting-price estimates. No plus sign is used. Any additional work or scope change is agreed directly before work begins. Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy operational payment details into this Corpus.
+Retouch & Styling and Sisterlocs Retie are starting prices; Artificial Locs Installation is fixed at KES 3,500. Final scope and any additional work are agreed directly before work begins. Scope, availability and final terms are agreed directly. **An enquiry does not confirm a booking.** Do not offer braiding or shaving. Do not copy operational payment details into this Corpus.
 
 ## Repository responsibilities
 
