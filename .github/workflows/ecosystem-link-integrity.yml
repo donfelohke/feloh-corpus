@@ -6,6 +6,11 @@ on:
       - ".github/workflows/ecosystem-link-integrity.yml"
       - "README.md"
       - "docs/**"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/ecosystem-link-integrity.yml"
   workflow_dispatch:
   schedule:
     - cron: "17 4 * * 1"
