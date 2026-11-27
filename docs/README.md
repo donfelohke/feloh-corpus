@@ -6,6 +6,7 @@ This is a navigational view of the FELOH Sovereign Corpus, not a second canonica
 
 - [Current identity clarification (2026-11-26)](IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md) — current GRACE / GRIT / GLORY mapping and the separate FELOH authorship role.
 - [Ecosystem revamp execution register (2026-11-26)](ECOSYSTEM-REVAMP-EXECUTION-REGISTER-2026-11-26.md) — all ten repositories, public website and GitHub account.
+- [Ecosystem revamp status (2026-11-27)](ECOSYSTEM-REVAMP-STATUS-2026-11-27.md) — merged website work, active repository PRs, manual account settings and remaining validation.
 - [Deep-scope ecosystem audit (2026-11-26)](DEEP-SCOPE-ECOSYSTEM-AUDIT-2026-11-26.md) — current workflow evidence, technical gaps and prioritized next work.
 - [F3L0H — The Sovereign Master Corpus (2026-11-20)](FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) — current identity, four-domain architecture, authority model, runtime, evidence and repository ownership.
 - [Technology Constitution (2026-11-17)](technology-policy-2026-11-17.md) — WARENA/IKAI native-first, libre-first, local-first technology policy.
