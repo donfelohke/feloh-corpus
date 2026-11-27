@@ -164,3 +164,7 @@ See [Ecosystem canon and research update](ECOSYSTEM-UPDATE-2026-11-22.md) for th
 - [NAKEBUSEN — Eldoret Loc-Care Operations and Regulatory Verification](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/ELDORET-LOC-CARE-OPERATIONS-AND-REGULATORY-VERIFICATION-2026-11-24.md) — Uasin Gishu permit pathway, hygiene controls and legal verification register.
 
 The linked documents are proposed research/validation work. They do not claim that the tests have been executed, a permit has been issued, or a compliance assessment has been completed.
+
+## Cooperative, federated computing and embodied interaction — 2026-11-27
+
+- [Cooperative, Federated Computing and Embodied Interaction — Cross-Domain Synthesis](research/COOPERATIVE-FEDERATED-COMPUTING-AND-EMBODIED-INTERACTION-SYNTHESIS-2026-11-27.md) — integrated research map for operating-system service composition, GNU/Hurd, Guix, agentic permissions, real-time I/O, IKAI reflective interfaces, GENJE livecoding, federation and worker-owned cooperative infrastructure. Specialist repositories retain detailed technical authority.
