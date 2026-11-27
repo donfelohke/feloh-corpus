@@ -268,6 +268,14 @@ Shared routing record: [RESEARCH-UPDATE-2026-11-22-REALTIME-IO-AND-MIRROR-SYSTEM
 
 ## 2026-11-24 — Ecosystem alignment and cooperative infrastructure
 
+## Kenya, sacred geography, archaeology and consciousness — 2026-11-27
+
+Canonical initial review: [Kenya, Sacred Geography, Historical Claims and Consciousness — 50-Claim Evidence Review](KENYA-50-CLAIMS-EVIDENCE-REVIEW-2026-11-27.md).
+
+Scope: Namoratunga and East African archaeoastronomy; Kenyan geology and hydrology; precolonial East African settlements; colonial land and railway history; human physiology and health claims; consciousness and metaphysics; religious history; political influence; collective action; reincarnation and yuga cosmology.
+
+**Maturity:** RESEARCH / INITIAL EVIDENCE REVIEW. Claim statuses are provisional; the dossier identifies source gaps and does not claim fieldwork, exhaustive literature review or original measurement.
+
 This update records the current cross-project alignment without creating new practice domains. The four practice domains remain NAKEBUSEN / ROOT, WARENA / CAPABILITY, GENJE / EXPRESSION and IKAI / MIRROR; FELOH Corpus remains the shared canon and DON FELOH the human authorship identity.
 
 - **Brand and enterprise architecture:** [NAKEBUSEN × WARENA Brand Platform & Narrative Constitution](NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) — canonical master expression, hierarchy, purpose, vision, mission, values, narrative, approved copy, naming evidence, visual direction and publication controls.

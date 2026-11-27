@@ -11,6 +11,8 @@ The FELOH Corpus governs shared identity, terminology, domain relationships, evi
 
 ## Start here
 
+- [Kenya 50-claim evidence review (2026-11-27)](docs/KENYA-50-CLAIMS-EVIDENCE-REVIEW-2026-11-27.md) — Kenya-focused archaeology, geology, colonial history, physiology, consciousness and esoteric claims; provisional evidence labels and primary-source gaps.
+
 - [Sovereign Master Corpus](docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) — constitutional architecture and repository ownership.
 - [Current identity clarification · 26 November 2026](docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md) — current GRACE / GRIT / GLORY mapping and public lockup hierarchy.
 - [Documentation index](docs/README.md) · [Documentation tree](DOCUMENTATION-TREE.md) · [Domain map](docs/domain-map.md).
