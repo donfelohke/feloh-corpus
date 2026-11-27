@@ -227,3 +227,17 @@ These corrections are on the relevant profile main branch or the named PR branch
 - The latest Corpus documentation validation run for this register revision completed successfully: [run 46039104935](https://github.com/donfelohke/feloh-corpus/actions/runs/46039104935).
 - The corrected GENJE alignment branch passed its repository baseline workflow: [run 46039044528](https://github.com/donfelohke/Genje/actions/runs/46039044528). This validates the repository's configured baseline checks only; it does not independently validate every research statement or upstream source.
 - The home-service branch has no returned workflow runs for this revision. Its PR remains unmergeable after the main branch advanced; preserve the corrected branch and reconcile it against current main before considering merge.
+
+
+## 15. Cross-repository canonical copy and README cleanup — 27 November 2026
+
+The current authored interpretations were propagated into the relevant source records:
+- Corpus identity clarification now states GENJE = **GREATNESS** and WARENA = **THE POWERFUL**, with clear limits on translation and language claims.
+- The manual GitHub account settings guide now uses those exact interpretations in repository-description copy.
+- WARENA and GENJE root READMEs now state their respective authored English interpretations.
+- NAKEBUSEN's root README had a duplicated sentence about agreeing availability and final terms; the duplicate was removed without changing the policy.
+- The public website repository's brand canon, brand research validation, brand manual, public facts register, implementation brief and editorial plan were aligned with the current interpretations.
+- IKAI's dated portfolio-boundary note now identifies its older wording as historical and states the current identity relationship.
+- The public website repository README now records the current interpretations alongside the pillar mapping.
+
+Configured baseline/documentation checks passed for the affected WARENA, GENJE, NAKEBUSEN, IKAI and Corpus commits. The website static validation passed for the brand-document updates; the most recent README-only update's run must be checked separately. These checks validate configured repository checks, not visual browser QA or independent linguistic research.
