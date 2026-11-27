@@ -5,6 +5,7 @@ max_concurrency = 2
 timeout = 20
 max_retries = 2
 include_fragments = "anchor-only"
+method = "get"
 
 exclude_path = [
   "(^|/)repositories/Ikai/_layouts/",
