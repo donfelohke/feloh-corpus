@@ -27,13 +27,10 @@ jobs:
           grep -q "ODPC" docs/research-briefs/kenya-data-protection-entry-point.md
           grep -q "LIMS" docs/research-briefs/laban-bartenieff-resource-map.md
           grep -qi "ONE CORPUS" README.md
-          for amount in "**KES 700**" "**KES 1,500**" "**KES 3,500**"; do
-            grep -Fq "$amount" README.md || { echo "Corpus README missing approved fixed price: $amount"; exit 1; }
-          done
-          if grep -Eq "KES (700|1,500|3,500)\\+" README.md; then
-            echo "Corpus README must not publish plus-sign starting prices."
-            exit 1
-          fi
+          grep -Fq 'Retouch & Styling — **KES 700+** (starting price)' README.md || { echo "Corpus README missing the approved Retouch & Styling starting price."; exit 1; }
+          grep -Fq 'Sisterlocs Retie — **KES 1,500+** (starting price)' README.md || { echo "Corpus README missing the approved Sisterlocs Retie starting price."; exit 1; }
+          grep -Fq 'Artificial Locs Installation — **KES 3,500**' README.md || { echo "Corpus README missing the approved Artificial Locs Installation fixed price."; exit 1; }
+          grep -Fq "Retouch & Styling and Sisterlocs Retie are starting prices" README.md || { echo "Corpus README missing the distinction between starting and fixed prices."; exit 1; }
           grep -Fq "**GENJE / GENJENESS · EXPRESSION**" README.md || { echo "README missing the current GLORY practice mapping"; exit 1; }
           grep -qi "ONLY NAKEBUSEN TRANSACTS" README.md || { echo "README missing the canonical NAKEBUSEN transaction boundary"; exit 1; }
           echo "Canonical transaction boundary is present."
