@@ -170,3 +170,10 @@ The website Public Facts Register, acceptance checklist, current canonical align
 - Website static-site validation: **PASS** at commit e8cd336909e21daf4598311b071741d48eb302aa.
 - Website Pages deployment: a successful deployment was observed at commit 665c37e8b45b9b0f7e1a81c53ca37d46019d010f, which contains the updated HTML price labels. A later documentation-only commit triggered another Pages workflow; its status should be checked independently.
 - The public-page text fetch returned older price labels despite the successful source/deployment run. Treat that fetch as stale or not yet refreshed; do not claim a fresh independent live-render verification until the public response reflects the updated source.
+
+
+## 10. Page-level price disclosure
+
+The website's English and Kiswahili LOCS footnote now explicitly states that Retouch & Styling and Sisterlocs Retie are starting prices, while Artificial Locs Installation is fixed at KES 3,500. The wording is also recorded in docs/WEBCOPY.md and the website changelog. Regression tests assert both language disclosures.
+
+The site static test suite passed at commit fc0cb0302cff4a3e2457e34df9f3c3774ca5d943. A later docs-only update triggered another run; the latest Pages deployment remained queued at the time of this note.
