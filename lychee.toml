@@ -4,7 +4,7 @@
 max_concurrency = 2
 timeout = 20
 max_retries = 2
-include_fragments = "anchor-only"
+include_fragments = true
 method = "get"
 
 exclude_path = [
