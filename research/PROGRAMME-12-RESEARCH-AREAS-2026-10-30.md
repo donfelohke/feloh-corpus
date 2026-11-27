@@ -78,7 +78,7 @@ These are initial institutional, standards, project or primary-source entry poin
 ### R05 — Distributed systems and internet infrastructure
 - [W3C ActivityPub Recommendation](https://www.w3.org/TR/activitypub/): protocol specification; distinguish protocol conformance from the behaviour and security of a particular server.
 - [Pro Git book](https://git-scm.com/book/en/v2): Git object model and collaboration reference; supplement with current Git documentation and repository-specific tests.
-- [Pubstrate source repository](https://github.com/spritely/pubstrate): inspect source revision, dependencies, licence, maturity and protocol boundaries before proposing reuse.
+- Pubstrate (historical research lead): the previously recorded source URL (https://github.com/spritely/pubstrate) returned 404 during the 2026-11-27 link audit. Current source, maintainer and project status are unverified; do not treat it as an available dependency until a primary source or maintained successor is located.
 
 ### R06 — Telecommunications and financial infrastructure
 - [Safaricom Daraja developer portal](https://developer.safaricom.co.ke/): official M-PESA API onboarding and sandbox entry point; production onboarding and permissions are separate prerequisites.

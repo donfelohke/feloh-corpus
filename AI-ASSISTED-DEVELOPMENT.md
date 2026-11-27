@@ -136,6 +136,6 @@ These references inform process design; they do not replace the applicable licen
 - [Linux Foundation — Guidance Regarding Use of Generative AI Tools for Open Source Software Development](https://www.linuxfoundation.org/legal/generative-ai)
 - [Apache Software Foundation — Generative Tooling Guidance](https://www.apache.org/legal/generative-tooling.html)
 - [SLSA — Provenance v1.2](https://slsa.dev/spec/v1.2/provenance)
-- [SLSA — Verifying Artifacts](https://slsa.dev/spec/verifying-artifacts)
+- [SLSA — Verifying Artifacts](https://slsa.dev/spec/v1.2/verifying-artifacts)
 
 **Adoption note:** This is a proposed policy until reviewed and merged by the maintainers. A policy document alone does not configure branch protection, CI, access controls, signed attestations or legal enforcement.
