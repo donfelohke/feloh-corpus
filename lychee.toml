@@ -1,0 +1,14 @@
+# Lychee configuration for the ten-repository ecosystem audit.
+# Exclude raw Jekyll/Liquid sources and Markdown files copied into the
+# generated IKAI site; the rendered HTML pages remain in the audit.
+max_concurrency = 2
+timeout = 20
+max_retries = 2
+include_fragments = "anchor-only"
+
+exclude_path = [
+  "(^|/)repositories/Ikai/_layouts/",
+  "(^|/)repositories/Ikai/wiki/",
+  "(^|/)repositories/Ikai/index\\.html$",
+  "(^|/)repositories/Ikai/_site/.*\\.md$",
+]
