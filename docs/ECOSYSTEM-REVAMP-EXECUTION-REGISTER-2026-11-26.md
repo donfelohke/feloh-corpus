@@ -211,3 +211,51 @@ The PR remains open for review and manual visual/device verification. The live s
 This is the first visible homepage tranche, not completion of the ten-repository programme. The remaining account metadata work is manual because the connected GitHub integration does not expose profile editing, pin ordering, repository descriptions or topic writes. Specialist repository audits, documentation reconciliation, source/build validation, link integrity and manual site accessibility/device checks remain in scope.
 
 Do not interpret a successful pull-request validation as production deployment, accessibility certification, or completion of the broader revamp.
+
+
+## 11. Delivery update — 27 November 2026 · second implementation tranche
+
+### Merged repository changes
+
+- **FELOH Corpus:** PR #94 refreshed the execution register and manual account-settings guide; PR #95 added the ten-repository link-audit workflow; PR #96 corrected the lychee fragment flag; PR #97 made the initial link audit report-only and added a Jekyll build for IKAI before link inspection.
+- **dwl-guile:** PR #11 deduplicated identity guidance; PR #12 repaired README links to the actual shared and local documentation.
+- **home-service-dwl-guile:** PR #11 deduplicated identity guidance; PR #12 corrected the exported `libdrm-2.4.113` binding and removed an obsolete Electron-support TODO that contradicted WARENA's native-first / JavaScript-free policy.
+- **WARENA:** PR #59 repaired research-note paths and replaced an unpublished glass-terminal route with the existing design specification.
+- **NAKEBUSEN:** PR #38 corrected the remaining current-facing “starting-price” wording in its knowledge index.
+- **IKAI:** PR #43 replaced an unpublished glass-terminal route with the actual design source.
+- **GENJE:** PR #44 strengthened CI assertions for its GLORY / EXPRESSION role and sole transaction boundary; PR #45 repaired the glass-terminal reference.
+- **Gallery:** PR #29 strengthened CI assertions for its supporting-repository role, INITIALIZED maturity and no-CDN boundary.
+
+All listed pull requests were merged after their available checks passed. The home-service source correction was reviewed as a narrow symbol/comment change; a reproducible Guix build and service-activation test remain outstanding.
+
+### Ecosystem link-integrity baseline
+
+The new Corpus workflow checks Markdown, HTML and Org references across all ten public repositories using the existing Rust-based lychee checker. The first run exposed a mixture of:
+- genuine missing local or external targets;
+- Jekyll/Liquid source-template false positives;
+- extensionless Jekyll routes that require rendered-site inspection;
+- 403/429/503 responses from publishers, DOI resolvers, GitHub and other sites that block or rate-limit automated requests.
+
+The workflow now builds the IKAI Jekyll portal and checks its rendered output rather than treating Liquid templates as ordinary HTML. It excludes the raw Jekyll wiki source from local-file parsing and keeps the first baseline non-blocking while findings are triaged. The first post-fix main-branch run was still in progress at the time of this update; no clean-link claim is made.
+
+Confirmed reference defects have been corrected in the merged WARENA, NAKEBUSEN, IKAI, GENJE, Gallery, dwl-guile and Corpus documentation changes. Remaining 404s and network errors require source-by-source verification before being classified or suppressed.
+
+### Website PR remains open
+
+Website PR [#217](https://github.com/donfelohke/donfelohke.github.io/pull/217) now includes the unified Don Feloh / FELOH homepage entry, aligned page metadata and README, fixed-price corrections, updated product/acceptance specifications, historical supersession notes and regression assertions for the new masthead and practice summary.
+
+Latest website head `97beba5aa140fb210ad30921a7d7bd8f5fae3e6a` passed static-site validation and GitHub Pages pull-request validation. The PR remains unmerged; its Pages build/deploy jobs are not production deployment evidence. Manual visual, mobile, keyboard, screen-reader, contrast, reduced-motion/transparency and Kiswahili editorial review remain release gates.
+
+### Account metadata remains manual
+
+The 27 November GitHub API recheck remains unchanged: 7/10 repositories have no description, 10/10 have no topics, and 10/10 have no homepage URL. The connected integration exposes no profile, pin, description, topic or homepage write operation. The copy-ready guide is updated; no manual account setting is claimed as applied.
+
+### Outstanding programme gates
+
+- Complete source, licence, dependency, security, workflow and architecture audits across the ten repositories.
+- Establish pinned Guix channel provenance, package evaluation/build and Home service activation evidence for the two Guile projects.
+- Triage all confirmed 404s and relative-link defects; classify blocked/rate-limited hosts and only then promote the link checker to a required gate.
+- Complete live website visual and accessibility verification before merging/deploying PR #217.
+- Apply and signed-out verify GitHub profile, pin and repository metadata changes manually.
+
+This register records merged work and remaining gates; it does not mark the full revamp complete.
