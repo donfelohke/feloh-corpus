@@ -284,6 +284,8 @@ The profile README content is updated. The GitHub account presentation is **not 
 
 ## 9. Cross-repository documentation and public-facts follow-up — 27 November 2026
 
+**Supersession note:** the pricing values in the earlier audit snapshot are historical. This section and the [FELOH Canonical Research Synthesis](FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md) govern the current KES 700+ / KES 1,500+ starting-price presentation and fixed KES 3,500 Artificial Locs Installation price.
+
 The account-wide documentation revamp added two WARENA research briefs and a new Corpus synthesis. The website and NAKEBUSEN public-price records were reconciled to the current approved presentation:
 - Retouch & Styling — starts at KES 700+.
 - Sisterlocs Retie — starts at KES 1,500+.
