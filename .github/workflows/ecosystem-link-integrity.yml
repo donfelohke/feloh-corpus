@@ -108,7 +108,7 @@ jobs:
           format: markdown
           output: lychee/out.md
           jobSummary: true
-          token: \${{ github.token }}
+          token: ${{ github.token }}
 
       - name: Record baseline outcome
         if: always()
