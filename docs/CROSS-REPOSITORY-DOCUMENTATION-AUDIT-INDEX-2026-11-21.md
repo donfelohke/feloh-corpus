@@ -37,3 +37,7 @@
 - **LIVE-VERIFIED:** a post-deployment check confirmed the intended behaviour at a stated time.
 
 These states are not interchangeable.
+
+## Follow-up synthesis — 2026-11-27
+
+- [Cooperative, Federated Computing and Embodied Interaction](research/COOPERATIVE-FEDERATED-COMPUTING-AND-EMBODIED-INTERACTION-SYNTHESIS-2026-11-27.md) — cross-domain research map linked from the WARENA, IKAI and GENJE documentation entry points. Detailed source records remain in their owning repositories; no implementation or legal compliance is implied.
