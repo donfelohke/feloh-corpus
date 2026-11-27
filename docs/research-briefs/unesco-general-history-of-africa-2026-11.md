@@ -65,10 +65,10 @@ For those questions, add specific linguistic, archaeological, ethnographic, arch
 
 ## Related corpus records
 
-- [BEFORE AFRICA research dossier](before-africa-research-dossier-2026-11-07.md)
-- [Evidence and Editorial Standards](../EVIDENCE-AND-EDITORIAL-STANDARDS.md)
-- [Evidence and Provenance Method](../EVIDENCE-AND-PROVENANCE-METHOD.md)
-- [Source register and research intake](source-register.md)
+- [BEFORE AFRICA research dossier](../before-africa-research-dossier-2026-11-07.md)
+- [Evidence and Editorial Standards](../../EVIDENCE-AND-EDITORIAL-STANDARDS.md)
+- [Evidence and Provenance Method](../../EVIDENCE-AND-PROVENANCE-METHOD.md)
+- [Source register and research intake](../source-register.md)
 
 ## Reuse and rights
 
