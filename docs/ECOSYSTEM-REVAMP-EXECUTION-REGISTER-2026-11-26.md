@@ -295,3 +295,46 @@ Confirmed defects were corrected in the merged PRs above. The first post-correct
 - Apply and signed-out verify account-level profile, pin and repository metadata settings manually; the GitHub integration still exposes no write operations for those fields.
 
 This source-integrity tranche improves provenance and removes known dead references; it does not certify every external source or complete the overall revamp.
+
+
+## 13. Delivery update — 27 November 2026 · audit hardening and source recovery
+
+### Additional merged changes
+
+- **home-service-dwl-guile PR #13:** clarified that the preserved README.org channel and service examples are upstream-only provenance, not a verified installation path for the WARENA fork.
+- **GENJE PR #46:** replaced the malformed duplicate FACT paper URL and moved FineDance references to the authors' project page.
+- **GENJE PR #47:** replaced a dead Library of Congress direct-PDF URL with the current Finding Aids portal and explicitly marked the exact collection record as not yet re-identified.
+- **Corpus PR #106:** updated the GIDA CARE Principles reference to the current official page and qualified the unavailable Library of Congress PDF in the source register.
+- **Corpus PR #102–105:** introduced and corrected the Jekyll-aware lychee configuration, fixed its nested workspace path and v0.16.1 schema, and ensured config changes trigger the audit.
+- **Corpus PR #107:** tuned the report-only checker to concurrency 4, 10-second timeouts and one retry.
+
+### Link-audit execution evidence
+
+The ten-repository workflow now:
+- checks out all ten public repositories at their main branches;
+- builds the IKAI Jekyll site before checking rendered HTML;
+- uses the nested Corpus `lychee.toml` configuration with the pinned lychee v0.16.1 schema;
+- excludes raw Liquid templates, raw Jekyll wiki source and Markdown copied into the generated site, while retaining rendered HTML;
+- runs on documentation changes across Markdown, HTML and Org paths, on configuration changes, manually and weekly.
+
+The first correctly configured full run completed successfully after the config path and schema corrections. This confirms that the workflow and Jekyll build execute; the audit is deliberately report-only, and a successful check status is not a claim that every external URL is valid. The tuned run was still in progress at the time of this register update. Review the job summary and triage the report before changing the workflow to a blocking gate.
+
+### Remaining research-source uncertainty
+
+- **SoDeV:** previous GitHub source URL returned 404; project identity and current maintainer remain unverified.
+- **Pubstrate:** previous GitHub source URL returned 404; no maintained successor is claimed.
+- **Library of Congress:** legacy finding-aid PDF URL returned 404; current search portal is linked, but the exact collection record has not been re-identified.
+- Other external 403/429/503 responses may be bot blocks or rate limits; they require primary-source verification before being classified as broken or suppressed.
+
+### Website release status
+
+Website PR [#217](https://github.com/donfelohke/donfelohke.github.io/pull/217) remains open at head `9534f75daf6b033208d8a059b8cd4711d295f8ea`. Its static validation and GitHub Pages pull-request validation are green, including the new static-delivery regression checks for the absence of JavaScript, inline handlers, JavaScript URLs, remote iframes and external CSS imports.
+
+The PR has not been merged or deployed. Manual visual, responsive/mobile, keyboard, screen-reader, contrast, reduced-motion/transparency and Kiswahili editorial review remain release gates.
+
+### Account and engineering gates
+
+- Profile display name, bio, location, website, social field, pinned repositories and repository descriptions/topics/homepage URLs still require manual GitHub settings changes and signed-out verification.
+- The WARENA Guix and Home service repositories still need pinned channel provenance, package evaluation/build, service activation and compositor-session validation. The source-level export correction and upstream documentation clarification do not substitute for these tests.
+
+The ecosystem revamp remains in progress. This update records verified changes and outstanding work; it does not declare completion.
