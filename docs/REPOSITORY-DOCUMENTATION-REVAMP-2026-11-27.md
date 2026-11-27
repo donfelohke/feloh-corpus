@@ -145,3 +145,28 @@ Historical documents remain historical. Their dated claims should not be rewritt
 **Governance rule:** exact changed files, commit references, test outcomes and unresolved limitations must accompany each further tranche.
 
 **ONE CORPUS → MANY VIEWS → ONE PRACTICE.**
+
+
+## 8. Supplemental current-spec and supersession updates
+
+The subsequent full-text search found additional current-facing specifications and dated supersession notices that still carried the prior fixed-price interpretation. These were reconciled without rewriting the historical body of older research records.
+
+Additional website files changed:
+- docs/FELOH-HOMEPAGE-IMPLEMENTATION-SPEC-2026-11-27.md
+- docs/ECOSYSTEM.md
+- docs/WEBSITE-COPY-RESEARCH-AND-IMPLEMENTATION-2026-11-19.md
+- docs/UI-UX-RESEARCH-2026-11-19.md
+- docs/BRAND-RESEARCH-VALIDATION.md
+- docs/brand-business-blueprint.md
+- docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md
+- research/nakebusen-market-customer-research-2026-10.md
+- docs/PR-RECONCILIATION-2026-10-25.md
+
+The website Public Facts Register, acceptance checklist, current canonical alignment, public service catalogue, native experience specification, design standards and discrepancy register now consistently distinguish the two starting prices from the fixed Artificial Locs Installation price.
+
+## 9. Additional validation evidence
+
+- NAKEBUSEN documentation-baseline workflow: **PASS** at commit 0bd3f39c7bb2813091986d55b4961d4479af683c.
+- Website static-site validation: **PASS** at commit e8cd336909e21daf4598311b071741d48eb302aa.
+- Website Pages deployment: a successful deployment was observed at commit 665c37e8b45b9b0f7e1a81c53ca37d46019d010f, which contains the updated HTML price labels. A later documentation-only commit triggered another Pages workflow; its status should be checked independently.
+- The public-page text fetch returned older price labels despite the successful source/deployment run. Treat that fetch as stale or not yet refreshed; do not claim a fresh independent live-render verification until the public response reflects the updated source.
