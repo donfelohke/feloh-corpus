@@ -192,3 +192,19 @@ This register is a refreshed GitHub inventory, documentation and PR audit. It is
 
 **ONE CORPUS → MANY VIEWS → ONE PRACTICE.**  
 **GRACE · GRIT · GLORY | HERITAGE · BLACK EXCELLENCE · SOVEREIGN FUTURES**
+
+
+## 12. Post-merge verification update — 27 November 2026
+
+The public website's latest main-branch run for merge commit `98b7e593f56080e3c69b3155b707f0178a052539` completed successfully:
+- [Static site validation run](https://github.com/donfelohke/donfelohke.github.io/actions/runs/46038787934) — success.
+- [GitHub Pages workflow run](https://github.com/donfelohke/donfelohke.github.io/actions/runs/46038787991) — success.
+
+The public homepage was freshly retrieved after the merge. The extracted live content includes the approved three loc-care prices, English/Kiswahili content, the no-braiding/no-shaving boundary, enquiry-not-booking disclosure, Eldoret location/contact, technical work routed through NAKEBUSEN, IKAI research-only disclosure, GENJE creative-practice disclosure, manual M-PESA safeguards and separate voluntary Support Us footer. This verifies the returned public page content, not visual rendering on a physical device or screen-reader behaviour.
+
+The Corpus documentation validation workflows for the new audit register and both navigation updates also completed successfully:
+- [Master audit document validation](https://github.com/donfelohke/feloh-corpus/actions/runs/46038868559) — success.
+- [Documentation index validation](https://github.com/donfelohke/feloh-corpus/actions/runs/46038929217) — success.
+- [Corpus README validation](https://github.com/donfelohke/feloh-corpus/actions/runs/46038935878) — success.
+
+**Website issue #187 remains open** for real-browser, keyboard, screen-reader and device-specific verification. The fresh extraction resolves the earlier stale-copy concern at the text-extraction level, but does not close the manual QA acceptance gate.
